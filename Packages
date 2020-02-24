@@ -1,0 +1,13 @@
+Package: com.ikghd.ikset
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ikghd <ikg_hd@bk.ru>
+Filename: ikset.deb
+Size: 4640
+MD5sum: 4159808D2F20B596D00B34FEF66AD06D
+SHA1: 5E4A81D9FD1374137BC308782D414FBF16251AD7
+SHA256: 9167035BD02E574360234336AA1127EEF08BABC9609D0A40DB8CCD81A0D7B1BA
+Section: Tweaks
+Description: Cleaner Settings App Look!
+Author: ikghd <ikg_hd@bk>
+Name: iKset
