@@ -1,13 +1,13 @@
-Package: com.ikghd.ikset
+Package: com.ikghd.iksettings
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: ikghd <ikg_hd@bk.ru>
 Filename: ikset.deb
 Size: 4640
-MD5sum: 4159808d2f20b596d00b34fef66ad06d
-SHA1: 5e4a81d9fd1374137bc308782d414fbf16251ad7
-SHA256: 9167035bd02e574360234336aa1127eef08babc9609d0a40db8ccd81a0d7b1ba
+MD5sum: EECA399B895084649447226255865007
+SHA1: 5C820D9712313FBBC8E02151BE0AD4B4654693D3
+SHA256: F7B746DAF6C07D42F84F59C2D90E66C09A603E3E72323AB1799D4C2CDF7285D4
 Section: Tweaks
 Description: Cleaner Settings App Look!
 Author: @iKG_HD <ikg_hd@bk>
-Name: iKset
+Name: iKSettings
