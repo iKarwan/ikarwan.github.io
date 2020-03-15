@@ -1,9 +1,9 @@
 Package: pro.ikghd.iksettings
-Version: 1.0
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: iKG_HD <ikg_hd@bk.ru>
 Filename: iKSettings.deb
-Size: 129196
+Size: 372536
 MD5sum: eeca399b895084649447226255865007
 SHA1: 5c820d9712313fbbc8e02151be0ad4b4654693d3
 SHA256: f7b746daf6c07d42f84f59c2d90e66c09a603e3e72323ab1799d4c2cdf7285d4
@@ -14,7 +14,7 @@ Author: iKG_HD <ikg_hd@bk>
 Name: iKSettings
 
 Package: pro.ikghd.iksafari
-Version: 0.2
+Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: iKG_HD <ikg_hd@bk.ru>
 Filename: iKSafari.deb
