@@ -4,17 +4,17 @@ Architecture: iphoneos-arm
 Maintainer: iKG_HD <ikg_hd@bk.ru>
 Filename: iKSettings.deb
 Size: 372536
-MD5sum: eeca399b895084649447226255865007
-SHA1: 5c820d9712313fbbc8e02151be0ad4b4654693d3
-SHA256: f7b746daf6c07d42f84f59c2d90e66c09a603e3e72323ab1799d4c2cdf7285d4
-SHA512: de200791c5db262df4260eb281f038a7e6a06016b586f4c6d93df95ced690cc74bbfa487ce0e939f40575b2cea980b5ba7e03ca8e5b347741d52e03e0d8e729b
+MD5sum: dd5f623c0c51d06c6f796c1176821c93
+SHA1: 6c66522610f446bd6291db918454a74aeeb16e42
+SHA256: 231d012e8d3a80a8de5062abb973c24a6338fda2e529420dff85540625eb068f
+SHA512: bff873ad484778888d93c51cdc960730b4b2b310681a817b9c35b57ffcb729c11ed8cbe1b6212a004727917836a26427c85b327459932a546bd3db110efdbf42
 Section: Tweaks
 Description: Cleaner Settings App Look!
 Author: iKG_HD <ikg_hd@bk>
 Name: iKSettings
 
 Package: pro.ikghd.iksafari
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: iKG_HD <ikg_hd@bk.ru>
 Filename: iKSafari.deb
