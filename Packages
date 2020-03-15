@@ -24,6 +24,6 @@ SHA1: f798166fd9067548b0d170b425a1e3973fad27ef
 SHA256: 6686f4d3bc6bf4acfde0d530f1373a3fdc520ddc33580310adcc4558887d5d6a
 SHA512: 361125ec4e96e4005c758f285b8b7876dc0515a49395432f788b4d46883d69ea97ba2a799b8386c8fd6d7cf28f3dd081033078fd4fecee3cfb98743107cb549b
 Section: Tweaks
-Description: some features for safari iOS 21/13!
+Description: some features for safari iOS 12/13!
 Author: iKG_HD <ikg_hd@bk>
-Name: iKSettings
+Name: iKSafari
