@@ -1,4 +1,4 @@
-Package: com.ikghd.iksettings
+Package: pro.ikghd.iksettings
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: iKG_HD <ikg_hd@bk.ru>
@@ -10,5 +10,20 @@ SHA256: f7b746daf6c07d42f84f59c2d90e66c09a603e3e72323ab1799d4c2cdf7285d4
 SHA512: de200791c5db262df4260eb281f038a7e6a06016b586f4c6d93df95ced690cc74bbfa487ce0e939f40575b2cea980b5ba7e03ca8e5b347741d52e03e0d8e729b
 Section: Tweaks
 Description: Cleaner Settings App Look!
+Author: iKG_HD <ikg_hd@bk>
+Name: iKSettings
+
+Package: pro.ikghd.iksafari
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: iKG_HD <ikg_hd@bk.ru>
+Filename: iKSafari.deb
+Size: 5258
+MD5sum: 7b7219251c7f27ba8a10852abfa82d09
+SHA1: f798166fd9067548b0d170b425a1e3973fad27ef
+SHA256: 6686f4d3bc6bf4acfde0d530f1373a3fdc520ddc33580310adcc4558887d5d6a
+SHA512: 361125ec4e96e4005c758f285b8b7876dc0515a49395432f788b4d46883d69ea97ba2a799b8386c8fd6d7cf28f3dd081033078fd4fecee3cfb98743107cb549b
+Section: Tweaks
+Description: some features for safari iOS 21/13!
 Author: iKG_HD <ikg_hd@bk>
 Name: iKSettings
