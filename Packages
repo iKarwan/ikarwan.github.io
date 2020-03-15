@@ -2,7 +2,7 @@ Package: com.ikghd.iksettings
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: ikghd <ikg_hd@bk.ru>
-Filename: ikset.deb
+Filename: iKSettings.deb
 Size: 129196
 MD5sum: eeca399b895084649447226255865007
 SHA1: 5c820d9712313fbbc8e02151be0ad4b4654693d3
