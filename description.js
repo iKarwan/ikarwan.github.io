@@ -46,11 +46,7 @@ function loadPackageInfo() {
 				document.title = decodeResp.name;
 				$("#name").html(decodeResp.name);
 				$("#name").show();
-			}
-			if(decodeResp.desc_short) {
-				$("#desc_short").html(decodeResp.desc_short);
-				$("#desc_short_").hide();
-			}
+
 			if(decodeResp.warning) {
 				$("#warning").html(decodeResp.warning);
 				$("#warning_").show();
