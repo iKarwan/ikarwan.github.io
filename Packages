@@ -13,19 +13,20 @@ Description: Cleaner Settings App Look iOS12/13!
 Author: iKG_HD <ikg_hd@bk>
 Name: iKSettings
 
-
-
 Package: pro.ikghd.iksafari
-Version: 0.1
 Architecture: iphoneos-arm
-Maintainer: iKG_HD <ikg_hd@bk.ru>
-Filename: iKSafari.deb
+Version: 0.1-2+debug
+Section: Tweaks
+Maintainer: iKG_HD
+Depends: mobilesubstrate
+Filename: ./debfiles/pro.ikghd.iksafari_0.1-2+debug_iphoneos-arm.deb
 Size: 5258
 MD5sum: 7b7219251c7f27ba8a10852abfa82d09
 SHA1: f798166fd9067548b0d170b425a1e3973fad27ef
 SHA256: 6686f4d3bc6bf4acfde0d530f1373a3fdc520ddc33580310adcc4558887d5d6a
 SHA512: 361125ec4e96e4005c758f285b8b7876dc0515a49395432f788b4d46883d69ea97ba2a799b8386c8fd6d7cf28f3dd081033078fd4fecee3cfb98743107cb549b
-Section: Tweaks
-Description: some features for safari iOS 12/13!
-Author: iKG_HD <ikg_hd@bk>
+Homepage: http://twitter.com/ikg_hd
+Description: some features for Safari iOS 12/13!
 Name: iKSafari
+Author: iKG_HD
+Depiction: 
