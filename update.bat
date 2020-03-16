@@ -1,1 +1,0 @@
-bash -c "cd /mnt/d/Documents/GitHub/ikarwan.github.io; ./update.sh"
