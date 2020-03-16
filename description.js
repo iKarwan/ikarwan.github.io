@@ -49,7 +49,7 @@ function loadPackageInfo() {
 			}
 			if(decodeResp.desc_short) {
 				$("#desc_short").html(decodeResp.desc_short);
-				$("#desc_short_").show();
+				$("#desc_short_").hide();
 			}
 			if(decodeResp.warning) {
 				$("#warning").html(decodeResp.warning);
@@ -73,10 +73,10 @@ function loadPackageInfo() {
 			}
 			if(decodeResp.screenshot) {
 				$("#screenshot").html(decodeResp.screenshot);
-				$("#screenshot_").show();
+				$("#screenshot_").hide();
 			}
-			if(decodeResp.open == true) {
-				$("#is_open_source_").show();
+			if(decodeResp.open == false) {
+				$("#is_open_source_").hide();
 			}
 			
         },
