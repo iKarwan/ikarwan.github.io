@@ -73,7 +73,7 @@ function loadPackageInfo() {
 			}
 			if(decodeResp.screenshot) {
 				$("#screenshot").html(decodeResp.screenshot);
-				$("#screenshot_").hide();
+				$("#screenshot_").show();
 			}
 			if(decodeResp.open == false) {
 				$("#is_open_source_").hide();
