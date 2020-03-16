@@ -60,7 +60,7 @@ function loadPackageInfo() {
 				$("#desc_long_").show();
 			}
 			if(decodeResp.compatitle) {
-				$("#compatitle_").show();
+				$("#compatitle_").hide();
 				$("#compatitle").html(decodeResp.compatitle);
 				var ios_ver = iOSVersion();
 				if(ios_ver) {
