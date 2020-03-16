@@ -3,7 +3,7 @@
 	"desc_short": "Make Settings App Cleanner Look!",
 	"desc_long": "Compatible with iOS 12 and 13 iKSettings iNcluded features! Make The Ui Corner Rounded,Removing The Settings Text Up,Disabling The SearchBar,Removing The Tv Provider Section,Hide Third Party AppStore Apps,-any issues-Twitter @iKG_HD.<br><br>No Options To Configure.",
 	"compatitle": "iOS 12 and 13",
-	"changelog": "<strong>1.1-7+debug</strong><br>+ Support iOS 12, 13.<br>+ add comapataibility with Preferences Organizer2 + Shuffle.<br><strong>0.1-1+debug</strong><br>+ Initial Release.<br>",
-	"screenshot": "<div style='text-align:left;'><a href='https://moreinfo.thebigboss.org/moreinfo/ikset2.jpg' target='_blank'><img width=95% src='https://moreinfo.thebigboss.org/moreinfo/ikset2.jpg'/></a><br></div>", "screenshot": "<div style='text-align:right;'><a href='https://moreinfo.thebigboss.org/moreinfo/ikset3.jpg' target='_blank'><img width=95% src='https://moreinfo.thebigboss.org/moreinfo/ikset3.jpg'/></a><br></div>",
+	"changelog": "<strong>1.1-7+debug</strong><br>+ Support iOS 12, 13.<br>+ add comapataibility with Preferences Organizer2 <br>+ Shuffle.<br><strong>0.1-1+debug</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:left;'><a href='https://moreinfo.thebigboss.org/moreinfo/ikset2.jpg' target='_blank'><img width=95% src='https://moreinfo.thebigboss.org/moreinfo/ikset2.jpg'/></a><br></div>","<div style='text-align:right;'><a href='https://moreinfo.thebigboss.org/moreinfo/ikset3.jpg' target='_blank'><img width=95% src='https://moreinfo.thebigboss.org/moreinfo/ikset3.jpg'/></a><br></div>",
 		"open": true,
 }
