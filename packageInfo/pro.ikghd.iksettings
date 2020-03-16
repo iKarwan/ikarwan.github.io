@@ -1,0 +1,9 @@
+{
+	"name": "iKSettings",
+	"desc_short": "Make Settings App Cleanner Look!",
+	"desc_long": "some settings features.<br><br>No Options To Configure.",
+	"compatitle": "iOS 12 and 13",
+	"changelog": "<strong>1.1-7+debug</strong><br>+ Support iOS 12, 13.<br>+ Support arm64e.<br><strong>0.1-1+debug</strong><br>+ Initial Release.<br>",
+	"screenshot": "<div style='text-align:center;'><a href='https://i.imgur.com/wg6WEq2.png' target='_blank'><img width=95% src='https://i.imgur.com/wg6WEq2.png'/></a><br></div>",
+	"open": true,
+}
