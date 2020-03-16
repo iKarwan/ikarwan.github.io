@@ -1,25 +1,4 @@
-function iOSVersion() {
-	var match = (navigator.appVersion).split('OS ');
-	if (match.length > 1) {
-		return match[1].split(' ')[0].split('_').join('.');
-	}
-	return false;
-}
-var theme = localStorage.Theme;
-if(!theme) {
-	theme = "ios7.min";
-	localStorage.setItem('Theme', theme);
-}
-$('head').append('<link rel="stylesheet" href="'+theme+'.css?_=d" type="text/css" />');
-function toogleTheme()
-{
-	var themeNew = "ios7.min";
-	if(localStorage.Theme === themeNew) {
-		themeNew = "ios7dark";
-	}
-	localStorage.setItem('Theme', themeNew);
-	window.location.reload(false);
-}
+
 $(function() {
   $("li").on("click",function() {
 	  if(this.id=="dnt") {
