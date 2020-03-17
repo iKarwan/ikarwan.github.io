@@ -175,8 +175,8 @@ function loadPackages() {
 			}
 			loadMainSection();
 			loadRecentUpdates();
-			$("#browser_").show();
-			$("#updates_").show();
+			$("#browser_").hide();
+			$("#updates_").hide();
 			
 			loadPackageDetail();
         },
