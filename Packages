@@ -15,8 +15,8 @@ Description: Cleaner Settings App Look iOS12/13!
 Name: iKSettings
 Author: iKG_HD
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikarwan.iksettings
-SileoDepiction: https://ikarwan.github.io/depictions/com.ikarwan.iksettings/SileoDepiction.json
-Icon: https://ikarwan.github.io/depictions/com.ikarwan.iksettings/icon@3x.png
+SileoDepiction: https://ikarwan.github.io/depictions/pro.ikarwan.iksettings/SileoDepiction.json
+Icon: https://ikarwan.github.io/depictions/pro.ikarwan.iksettings/icon@3x.png
 
 Package: pro.ikghd.iksafari
 Architecture: iphoneos-arm
