@@ -1,0 +1,50 @@
+<package>
+	<id>com.brunonfl.wifireminder</id>
+	<name>WiFiReminder</name>
+	<version>1.5~beta2</version>
+	<compatibility>
+		<firmware>
+            <miniOS>8.0</miniOS>
+			<maxiOS>12.5</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+        <package>mobilesubstrate</package>
+    </dependencies>
+	<descriptionlist>
+        <description>Compatible with iOS 8 to 12</description>
+        <description><![CDATA[
+					WiFiReminder is a tweak for everyone!<br/><br/>
+					Who hasn’t been in a situation where you need to turn off your Wi-Fi connection to either save battery or to quickly switch from a slow Wi-Fi to LTE just to show someone something or to find something quickly?<br/><br/>
+					If you ever see yourself in this situation, this is certainly your tweak!<br/><br/>
+					WiFiReminder will notify you after a designated amount of time, and give you the ability to not waste mobile data when you could be using your home Wi-Fi!<br/>
+					You have to try it out!<br/><br/>
+					Options to configure in settings.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+            <description>Tweak in action</description>
+            <image>1.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>Settings for the tweak.</description>
+            <image>2.PNG</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+        <change><![CDATA[
+            <strong>v1.5~beta2</strong> <br/>
+            -Fixed some bugs. <br/>
+            <strong>v1.5~beta1</strong> <br/>
+            -Completely <strong>Rewritten for iOS 12 and earlier</strong><br/>
+            -Features are the same, but the implementation is much cleaner!]]>
+        </change>
+	</changelog>
+	<links></links>
+</package>

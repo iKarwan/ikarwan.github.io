@@ -14,7 +14,9 @@ Homepage: http://twitter.com/ikg_hd
 Description: Cleaner Settings App Look iOS12/13!
 Name: iKSettings
 Author: iKG_HD
-Depiction: http://ikarwan.github.io/description.html?id=pro.ikghd.iksettings
+Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.hotspotenhancer
+SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/SileoDepiction.json
+Icon: https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/icon@3x.png
 
 Package: pro.ikghd.iksafari
 Architecture: iphoneos-arm
@@ -32,4 +34,6 @@ Homepage: http://twitter.com/ikg_hd
 Description: Some Features For Safari iOS 12/13!
 Name: iKSafari
 Author: iKG_HD
-Depiction: http://ikarwan.github.io/description.html?id=pro.ikghd.iksafari
+Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.hotspotenhancer
+SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/SileoDepiction.json
+Icon: https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/icon@3x.png
