@@ -1,0 +1,27 @@
+<changelog>
+	<changes>
+		<version>Changelog:</version>
+                <change><![CDATA[
+                    <strong>1.5.6</strong> <br/>
+                    - Temporarily fix the Respring Loop by making the user having to respring after changing settings
+                ]]>
+                </change>
+                <change><![CDATA[
+                    <strong>1.5.5</strong> <br/>
+                    - Added option to disable the delete sound (As per requests)
+                ]]>
+                </change>
+                <change><![CDATA[
+                    <strong>1.5.4</strong> <br/>
+                    - Merged the changes from "SwipeSelectionDelSoundFix" to fix the delete sound!<br/><br/>
+                    Credits:<br/>
+                    https://github.com/GaryniL/SwipeSelectionDeleteSoundFix
+                ]]>
+                </change>
+                <change><![CDATA[
+                    <strong>1.5.3</strong> <br/>
+                    - Compiled to work with A12 (arm64e) devices!
+                ]]>
+                </change>
+    </changes>
+</changelog>

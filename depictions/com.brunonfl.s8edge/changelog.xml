@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>Changelog:</version>
+        <change><![CDATA[
+					<strong>v0.0.1-33+debug</strong> <br/>
+					- Added rounded screen corners (preference bundle with corner radius coming on next update!).
+					]]>
+        </change>
+	</changes>
+</changelog>

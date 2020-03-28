@@ -1,0 +1,38 @@
+<package>
+	<id>com.brunonfl.wifisshfordropbear</id>
+	<name>Wi-Fi SSH for Dropbear</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+      <miniOS>10.0</miniOS>
+			<maxiOS>10.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+        <package>None</package>
+    </dependencies>
+	<descriptionlist>
+        <description><strong>Intended for use with the Yalu102 and Yalu1011 jailbreaks</strong></description>
+        <description><![CDATA[
+					Simple tool to enable SSH via Wi-Fi in dropbear SSH daemon.<br/>
+					No options to configure from settings.
+					]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+            <description>No screenshots to show</description>
+        </screenshot>
+    </screenshots>
+	<changelog>
+    <change><![CDATA[
+			<strong>v1.2</strong> <br/>
+			- Fixes daemon not loading for some people even after reboot
+			]]></change>
+	</changelog>
+	<links></links>
+</package>

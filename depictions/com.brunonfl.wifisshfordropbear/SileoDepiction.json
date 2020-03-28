@@ -1,0 +1,130 @@
+{
+   "minVersion":"0.1",
+   "headerImage":"https://brunonfl.github.io/depictions/com.brunonfl.wifisshfordropbear/Images/Banner.png",
+   "tintColor":"#26b4c2",
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[
+            {
+               "markdown":"**Intended for use with the Yalu102 and Yalu1011 jailbreaks**",
+               "useSpacing":true,
+               "useBottomMargin":false,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "markdown":"Simple tool to enable SSH via Wi-Fi in dropbear SSH daemon.\nNo options to configure from settings.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Known Issues",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "markdown":"* No known issues!",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Latest Version",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"1.2",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Released",
+               "text":"2017",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Price",
+               "text":"Free",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Developer",
+               "text":"Bruno Andrade",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Contact Support",
+               "action":"mailto:brubiluco@globo.com?subject=Sileo%2FAPT(M)%3A%20WiFiSSHForDropbear",
+               "class":"DepictionTableButtonView"
+            },
+            {
+               "spacing":16,
+               "class":"DepictionSpacerView"
+            },
+            {
+               "URL":"https://raw.githubusercontent.com/BrunoNFL/brunonfl.github.io/master/CydiaIcon.png",
+               "width":44,
+               "height":44,
+               "alignment":1,
+               "cornerRadius":0,
+               "class":"DepictionImageView"
+            },
+            {
+               "spacing":20,
+               "class":"DepictionSpacerView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {
+         "tabname":"Changelog",
+         "views":[
+            {
+               "title":"Version 1.2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Fixes daemon not loading for some people even after reboot",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Version 1.1",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Fixes permission issues some users were having :)",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Version 1.0",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Initial release",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}

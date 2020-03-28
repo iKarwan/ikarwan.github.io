@@ -1,0 +1,38 @@
+<package>
+	<id>com.brunonfl.wicellswitcher</id>
+	<name>WiCellSwitcher</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+      <miniOS>7.0</miniOS>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+        <package>mobilesubstrate, Cephei</package>
+    </dependencies>
+	<descriptionlist>
+        <description>Compatible from iOS 7 to iOS 12.1.2.</description>
+        <description><![CDATA[
+                    This is a great tweak for those looking to save some battery or even Data!<br/>It is always a pain, having to switch OFF cellular data when connected to Wi-Fi when low on battery, or even to switch it back ON after you leave Wi-Fi coverage.<br/><br/>If you ever find yourself in this situation, WiCellSwitcher is the tweak for you!<br/><br/>Configure options from settings.
+					]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+        	<screenshot>
+			<description>No screenshots to show yet...</description>
+        	</screenshot>
+	</screenshots>
+	<changelog>
+        <change><![CDATA[
+                <strong>1.0</strong> <br/>
+                - First <strong>PUBLIC</strong> Release
+            ]]>
+		</change>
+	</changelog>
+	<links></links>
+</package>

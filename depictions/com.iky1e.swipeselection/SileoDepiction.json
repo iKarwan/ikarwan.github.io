@@ -1,0 +1,138 @@
+{
+   "minVersion":"0.1",
+   "headerImage":"",
+   "tintColor":"#26b4c2",
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[
+            {
+                "markdown":"**This version was compiled to work from iOS 9 - 12 (including A12 devices)**\n\nI DID NOT CREATE THIS PACKAGE, CREDITS GOES TO THE ORIGINAL DEVELOPER KYLE HOWELS. IF YOU NEED SUPPORT FOR THIS VERSION, CONTACT ME ON REDDIT /u/BrunoNFL.\n\n Select text and move the cursor using gestures on the keyboard.\n\n Swipe anywhere to move the cursor. Swipe from the shift (or delete) keys to select text.\n\nThere is a pro version available which adds settings to allow you to configure it's behaviour.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Known Issues",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "markdown":"* Copy/Paste action menu stays open after invoking it.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Latest Version",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"1.5.6",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Released",
+               "text":"2019-5-26",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Price",
+               "text":"Free",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Developer",
+               "text":"Kyle Howels",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Contact Support",
+               "action":"mailto:brubiluco@globo.com?subject=Sileo%2FAPT(M)%3A%20SwipeSelection",
+               "class":"DepictionTableButtonView"
+            },
+            {
+               "spacing":16,
+               "class":"DepictionSpacerView"
+            },
+            {
+               "URL":"https://raw.githubusercontent.com/BrunoNFL/brunonfl.github.io/master/CydiaIcon.png",
+               "width":44,
+               "height":44,
+               "alignment":1,
+               "cornerRadius":0,
+               "class":"DepictionImageView"
+            },
+            {
+               "spacing":20,
+               "class":"DepictionSpacerView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {
+         "tabname":"Changelog",
+         "views":[
+             {
+                 "title":"Version 1.5.6",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Temporarily fix the Respring Loop by making the user having to respring after changing settings",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+             {
+                 "class":"DepictionSeparatorView"
+             },
+             {
+                 "title":"Version 1.5.5",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Added option to disable the delete sound (As per requests)",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+             {
+                 "class":"DepictionSeparatorView"
+             },
+             {
+                 "title":"Version 1.5.4",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Merged the changes from **SwipeSelectionDelSoundFix** to fix the delete sound!\n\nCredits:\n\nhttps://github.com/GaryniL/SwipeSelectionDeleteSoundFix",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+             {
+                 "class":"DepictionSeparatorView"
+             },
+            {
+                "title":"Version 1.5.3",
+                "useBoldText":true,
+                "useBottomMargin":false,
+                "class":"DepictionSubheaderView"
+            },
+            {
+                "markdown":"* Compiled to work with A12 (arm64e) devices!",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}

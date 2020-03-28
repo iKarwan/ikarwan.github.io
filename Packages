@@ -4,7 +4,7 @@ Version: 1.1-7
 Section: Tweaks
 Maintainer: iKG_HD
 Depends: mobilesubstrate
-Filename: ./debfiles/pro.ikghd.iksettings_1.1-7_iphoneos-arm.deb
+Filename: ./debs/pro.ikghd.iksettings_1.1-7_iphoneos-arm.deb
 Size: 129196
 MD5sum: dd5f623c0c51d06c6f796c1176821c93
 SHA1: 6c66522610f446bd6291db918454a74aeeb16e42
@@ -22,7 +22,7 @@ Version: 0.1-2
 Section: Tweaks
 Maintainer: iKG_HD
 Depends: mobilesubstrate
-Filename: ./debfiles/pro.ikghd.iksafari_0.1-2_iphoneos-arm.deb
+Filename: ./debs/pro.ikghd.iksafari_0.1-2_iphoneos-arm.deb
 Size: 5258
 MD5sum: 7b7219251c7f27ba8a10852abfa82d09
 SHA1: f798166fd9067548b0d170b425a1e3973fad27ef

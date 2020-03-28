@@ -1,0 +1,125 @@
+.disable-hover {
+	pointer-events: none;
+}
+
+alist-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, button.list-group-item:hover{
+	background-color: #ddd;
+}
+
+.link-item {
+	list-style-type: none;
+	padding: 17px 15px;
+	display: block;
+	color: #007AFF !important;
+	text-align: left;
+}
+
+.link-item:hover {
+	border: 1px solid #ddd;
+	background-color: #ddd; /*#f5f5f5;*/
+	-webkit-clip-path: none;
+	clip-path: none;
+}
+
+html.can-touch .link-item:hover{ /* disable hover effect when input is touch */
+	background-color: #fff;
+}
+
+html.can-touch .link-item:active{ /* disable hover effect when input is touch */
+	background-color: #ddd;
+}
+
+.fa {
+	font-size: 16px;
+	margin-left: 5px;
+	margin-right: 10px;
+}
+
+.container {
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.h5, h5 {
+	font-size: 14px;
+	padding-left: 17px;
+	color: #747474;
+}
+
+.badge{
+	background-color: #747474;
+}
+
+p {
+	margin: 0 0 0px 0px;
+}
+
+.list-group-item {
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+	margin-bottom: -1px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	border-right-color: rgba(221, 221, 221, 0);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-left-color: rgba(221, 221, 221, 0);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-bottom: 1px solid #ddd0;
+	-webkit-clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 1px, 17px 1px, 17px 0);
+	clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 1px, 17px 1px, 17px 0);
+}
+
+.list-group-item:first-child {
+	border-top: 1px solid #ddd;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	-webkit-clip-path: none;
+	clip-path: none;
+}
+
+.list-group-item:last-child {
+	margin-bottom: 0;
+	border-bottom: 1px solid #ddd;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+
+ol, ul {
+	margin-top: 0;
+	margin-bottom: 10px;
+	background-color: white;
+}
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 17px;
+}
+
+.alert-danger{
+	color:#a94442;
+	background-color:#f2dede;
+	border-color:#ebccd1;
+	text-align: center;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	padding: 10px 0 10px 0;
+}
+
+.alert-success{
+	color:#3c763d;
+	background-color:#dff0d8;
+	border-color:#d6e9c6;
+	text-align: center;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+	padding: 10px 0 10px 0;
+}

@@ -1,8 +1,8 @@
-Origin: iKG_HD Repo
-Label: iKG_HD Repo
+Origin: ikghd's Repo
+Label: KarwanGhaffari's Official Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: iKG_HD Repo
+Description: ikghd official github Repo.

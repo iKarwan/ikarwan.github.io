@@ -1,0 +1,38 @@
+<package>
+	<id>com.brunonfl.mapsallcountries</id>
+	<name>MapsAllCountries(iOS 6-12)</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+            <miniOS>6.0</miniOS>
+			<maxiOS>12.5</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+        <package>None</package>
+    </dependencies>
+	<descriptionlist>
+        <description><strong>Supports iOS 6-12</strong></description>
+        <description><![CDATA[
+					Simple tweak by Rafael Costa made for iOS 6-8 updated by luisflins to iOS 9 and to iOS 10 by me (Bruno Andrade).<br/>
+                    The tweak enables turn-by-turn navigation for unsupported countries in Apple Maps.
+					]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+        <screenshot>
+            <description>No screenshots to show</description>
+        </screenshot>
+    </screenshots>
+	<changelog>
+    <change><![CDATA[
+			<strong>v1.1</strong> <br/>
+			- Updated for A12
+			]]></change>
+	</changelog>
+	<links></links>
+</package>

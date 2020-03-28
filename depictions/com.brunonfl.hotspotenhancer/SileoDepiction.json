@@ -1,0 +1,102 @@
+{
+   "minVersion":"0.1",
+   "headerImage":"https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/Images/Banner.png",
+   "tintColor":"#26b4c2",
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[
+            {
+               "markdown":"**Compatible from iOS 9 to 12.1.2.**",
+               "useSpacing":true,
+               "useBottomMargin":false,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "markdown":"Experimental release, **VERY EARLY BETA**\nThis is a tweak to enhance hotspot features, there is only one feature for now!\nThis tweak prevents you from connecting to any networks while tethering your connection, even intentionally, **I DARE YOU TO TRY AND CONNECT TO A NETWORK**. More features planned, and suggestions are welcome. :)\nAll jokes aside, I look forward to any feedback or suggestions, so please contact me through my e-mail or through reddit in /u/BrunoNFL.\n\nNo options to configure from settings.",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Known Issues",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "markdown":"* No known issues!",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Latest Version",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"1.0",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Released",
+               "text":"2017",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Price",
+               "text":"Free",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Developer",
+               "text":"Bruno Andrade",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Contact Support",
+               "action":"mailto:brubiluco@globo.com?subject=Sileo%2FAPT(M)%3A%20HotspotEnhancer",
+               "class":"DepictionTableButtonView"
+            },
+            {
+               "spacing":16,
+               "class":"DepictionSpacerView"
+            },
+            {
+               "URL":"https://raw.githubusercontent.com/BrunoNFL/brunonfl.github.io/master/CydiaIcon.png",
+               "width":44,
+               "height":44,
+               "alignment":1,
+               "cornerRadius":0,
+               "class":"DepictionImageView"
+            },
+            {
+               "spacing":20,
+               "class":"DepictionSpacerView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {
+         "tabname":"Changelog",
+         "views":[
+            {
+               "title":"Version 0.0.1-33",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+            },
+            {
+               "markdown":"* Initial **BETA** release",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+            }
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}

@@ -1,69 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<title>iKG_HD Repo</title>
-	<noscript>
-		<link rel="stylesheet" href="ios7.min.css?_=d" type="text/css" />
-	</noscript>
-	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta charset="utf-8">
-</head>
-<script src="jquery-3.2.1.min.js"></script>
-<script src="description.js?_=d"></script>
-<body onload="loadPackages();">
-	<main id="content">
-		<h2 role="header">iKG_HD Repo</h2>
-		<ul>
-			<li class="has-icon">
-				<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://ikarwan.github.io/" role="button">
-					<img style = "border-radius: 20%;" href="cydia7.png" alt="" srcset="cydia7.png 2x, cydia7.png 3x" class="icon"/>
-					<label>Add The Source To Cydia</label>
-				</a>
-			</li>
-		</ul>
-		<p style="text-align: center; font-size: 85%;" role="footer" id="neo">Repo: https://ikarwan.github.io/</p>
-		<noscript>
-			<h2></h2><ul style="background:#ff0000"><center><li><p>Error JavaScript Disabled.</p></li></center></ul>
-		</noscript>
-		<span id="updates_" hidden><h2 role="header">Last Updates</h2><ul id="updates"></ul></span>
-		<span id="browser_" hidden><h2 role="header">Browse Packages</h2><ul id="browser"></ul></span>
-		<h2 role="header">Social</h2>
-		<ul>
-			<li class="has-icon">
-				<a href="https://github.com/ikarwan" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="github.png" alt="" srcset="github.png 2x, github.png 3x" class="icon"/>
-					<label>GitHub</label>
-				</a>
-			</li>
-			<li class="has-icon">
-				<a href="https://www.reddit.com/user/K-Ghaffari" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="reddit.png" alt="" srcset="reddit.png 2x, reddit.png 3x" class="icon"/>
-					<label>Reddit</label>
-				</a>
-			</li>
-			<li class="has-icon">
-				<a href="https://twitter.com/iKG_HD" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="twitter.png" alt="" srcset="twitter.png 2x, twitter.png 3x" class="icon"/>
-					<label>Follow iKG_HD</label>
-				</a>
-			</li>
-			<li class="has-icon">
-				<a href="https://www.paypal.com/paypalme2/hiwajaf" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="paypal.png" alt="" srcset="paypal.png 2x, paypal.png 3x" class="icon"/>
-					<label>PayPal (Support)</label>
-				</a>
-			</li>
-		</ul>
-		<h2 role="header">Dark Mode</h2>
-		<ul>
-			<li>
-				<a onclick="toogleTheme();" role="button">
-					<p>Enable Dark Mode</p>
-				</a>
-			</li>
-		</ul>
-	</main>
-	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">iKarwan © 2020</p>
-</body>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>iKarwan Andrade's Repo</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="images/avatar.png" alt="" /></span>
+							<h1>KarwanGhaffari</h1>
+							<p>Official Cydia Repo</p>
+						</header>
+
+						<footer>
+							<ul class="icons">
+                                <li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://ikarwan.github.io" class="fa-plus">Add Repo</a></li>
+							</ul>
+						</footer>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; KarwanGhaffari</li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
+
+	</body>
 </html>

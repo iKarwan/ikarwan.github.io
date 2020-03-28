@@ -1,0 +1,25 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+        {
+            "url": "https://ikarwan.github.io/depictions/com.ikarwan.wicellswitcher/Images/Banner2.png",
+            "title": "WiCellSwitcher",
+            "package": "com.ikarwan.wicellswitcher",
+            "hideShadow": false
+        },
+        {
+            "url": "https://ikarwan.github.io/depictions/com.ikarwan.wifireminder/Images/Banner2.png",
+            "title": "WiFiReminder",
+            "package": "com.ikarwan.wifireminder",
+            "hideShadow": false
+        },
+        {
+            "url": "https://ikarwan.github.io/depictions/com.ikarwan.s8edge/Images/Banner.png",
+            "title": "S8Edge",
+            "package": "com.ikarwan.s8edge",
+            "hideShadow": false
+        }
+    ]
+}
