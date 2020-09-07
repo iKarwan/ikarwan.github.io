@@ -80,10 +80,10 @@
                "title":"Links",
                "class":"DepictionHeaderView"
             },
-
             {
-               "title":"Lake Tahoe Landing Page",
-               "projectUrl":"www.amandeepd.com/LakeTahoe/LakeTahoe.html",
+               "title":"Donate",
+               "text":"https://www.paypal.me/hiwajaf",
+               "class":"DepictionTableTextView"
             },
 
 
