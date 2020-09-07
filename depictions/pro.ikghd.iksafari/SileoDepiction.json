@@ -82,7 +82,13 @@
             },
             {
                "title":"Donate",
-               "text":"paypal.me",
+               "text":"paypal.me/hiwajaf",
+               "class":"DepictionTableTextView"
+            },
+
+            {
+               "title":"Follow Me",
+               "text":"@ikg_hd",
                "class":"DepictionTableTextView"
             },
 
