@@ -81,9 +81,10 @@
                "class":"DepictionHeaderView"
             },
             {
-               "title":"Version",
-               "text":"1.0-1",
-               "class":"DepictionTableTextView"
+              "title":"Donate",
+              "url":"https://paypal.me/hiwajaf",
+              "title":"Follow Me",
+              "url":"https://twitter.com/ikg_hd",
             },
 
 
