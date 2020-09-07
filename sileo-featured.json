@@ -4,9 +4,9 @@
     "itemCornerRadius": 10,
     "banners": [
         {
-            "url": "https://ikarwan.github.io/depictions/com.ikarwan.wicellswitcher/Images/Banner2.png",
-            "title": "WiCellSwitcher",
-            "package": "com.ikarwan.wicellswitcher",
+            "url": "https://ikarwan.github.io/depictions/pro.ikghd.iksafari/Images/Banner2.png",
+            "title": "iKsafari",
+            "package": "pro.ikghd.iksafari",
             "hideShadow": false
         },
         {
