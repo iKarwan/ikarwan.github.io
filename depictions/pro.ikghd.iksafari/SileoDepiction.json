@@ -76,14 +76,7 @@
                "spacing":16,
                "class":"DepictionSpacerView"
             },
-            {
-               "URL":"https://raw.githubusercontent.com/ikarwan/ikarwan.github.io/master/CydiaIcon.png",
-               "width":44,
-               "height":44,
-               "alignment":1,
-               "cornerRadius":0,
-               "class":"DepictionImageView"
-            },
+
             {
                "spacing":20,
                "class":"DepictionSpacerView"
