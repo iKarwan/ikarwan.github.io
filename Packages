@@ -20,20 +20,19 @@ Icon: https://ikarwan.github.io/depictions/pro.ikarwan.iksettings/icon@3x.png
 
 Package: pro.ikghd.iksafari
 Architecture: iphoneos-arm
-Version: 0.1-2
+Version: 1.0-1
 Section: Tweaks
-Maintainer: iKG_HD
-Depends: mobilesubstrate
-Filename: ./debs/pro.ikghd.iksafari_0.1-2_iphoneos-arm.deb
-Size: 5258
-MD5sum: 7b7219251c7f27ba8a10852abfa82d09
-SHA1: f798166fd9067548b0d170b425a1e3973fad27ef
-SHA256: 6686f4d3bc6bf4acfde0d530f1373a3fdc520ddc33580310adcc4558887d5d6a
-SHA512: 361125ec4e96e4005c758f285b8b7876dc0515a49395432f788b4d46883d69ea97ba2a799b8386c8fd6d7cf28f3dd081033078fd4fecee3cfb98743107cb549b
+Maintainer: iKarwan
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, firmware ( >= 11.0)
+Filename: ./debs/pro.ikghd.iksafari_1.0-1_iphoneos-arm.deb
+Size: 54,080
+MD5sum: 6453c499c20cbdfdedf0a481406475a0
+SHA1: b625693d82d6cbc4bca6e015c3994aac313f3d6b
+SHA256: 596171319045ff2120fe0cdcd5c39ba16901ee83af4998919ca54f9622369a08
 Homepage: http://twitter.com/ikg_hd
 Description: Some Features For Safari iOS 12/13!
 Name: iKSafari
-Author: iKG_HD
-Depiction: https://brunonfl.github.io/depictions/?p=com.brunonfl.hotspotenhancer
-SileoDepiction: https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/SileoDepiction.json
-Icon: https://brunonfl.github.io/depictions/com.brunonfl.hotspotenhancer/icon@3x.png
+Author: iKarwan
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.iksafari
+SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.iksafari/SileoDepiction.json
+Icon: https://ikarwan.github.io/depictions/pro.ikghd.iksafari/icon@3x.png
