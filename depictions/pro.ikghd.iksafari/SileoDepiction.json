@@ -55,7 +55,7 @@
             },
             {
                "title":"Version",
-               "text":"1.5~beta1",
+               "text":"1.0-1",
                "class":"DepictionTableTextView"
             },
          ],
