@@ -71,6 +71,20 @@
             },
 
 
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Information",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"1.0-1",
+               "class":"DepictionTableTextView"
+            },
 
 
             {
