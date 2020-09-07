@@ -8,7 +8,7 @@
          "views":[
             {
                 "itemCornerRadius":6,
-                "itemSize":"{54, 080}",
+                "itemSize":"{160, 275.41333333333336}",
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
@@ -23,7 +23,7 @@
                 ],
                 "ipad":{
                     "itemCornerRadius":9,
-                    "itemSize":"{54, 080}",
+                    "itemSize":"{320, 550.8266666666667}",
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
