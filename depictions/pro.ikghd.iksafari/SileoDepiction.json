@@ -80,15 +80,6 @@
               "url":"https://twitter.com/ikg_hd",
             },
 
-            {
-               "spacing":16,
-               "class":"DepictionSpacerView"
-            },
-
-            {
-               "spacing":20,
-               "class":"DepictionSpacerView"
-            }
          ],
          "class":"DepictionStackView"
       },
