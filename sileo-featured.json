@@ -5,8 +5,8 @@
     "banners": [
         {
             "url": "https://ikarwan.github.io/depictions/pro.ikghd.iksafari/Images/Banner2.png",
-            "title": "iKsafari",
-            "package": "pro.ikgh.iksafari",
+            "title": "iKSafari",
+            "package": "pro.ikghd.iksafari",
             "hideShadow": false
         },
         {
@@ -15,6 +15,11 @@
             "package": "com.ikarwan.wifireminder",
             "hideShadow": false
         },
-
+        {
+            "url": "https://ikarwan.github.io/depictions/com.ikarwan.s8edge/Images/Banner.png",
+            "title": "S8Edge",
+            "package": "com.ikarwan.s8edge",
+            "hideShadow": false
+        }
     ]
 }
