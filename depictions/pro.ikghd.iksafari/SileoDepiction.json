@@ -73,14 +73,24 @@
 
 
             {
-               "spacing":16,
-               "class":"DepictionSpacerView"
+               "class":"DepictionSeparatorView"
             },
 
             {
-               "spacing":20,
-               "class":"DepictionSpacerView"
-            }
+               "title":"Links",
+               "class":"DepictionHeaderView"
+            },
+            {
+              "title":"Donate",
+              "url":"https://paypal.me/hiwajaf",
+              "title":"Follow Me",
+              "url":"https://twitter.com/ikg_hd",
+            },
+            
+            {
+               "class":"DepictionSeparatorView"
+            },
+
          ],
          "class":"DepictionStackView"
       },
