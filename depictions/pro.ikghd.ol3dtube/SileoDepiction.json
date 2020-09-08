@@ -78,7 +78,7 @@
 
             {
                 "markdown":"* Fixed some bugs.",
-                "useSpacing":false,
+                "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
 
