@@ -58,12 +58,11 @@
 
             {
                "title":"Features!",
-               "useSpacing":false,
                "class":"DepictionHeaderView"
             },
             {
                 "markdown":"\n* Oled Mode For YouTube.\n* Main Icon Color With Keyboard.",
-
+                "useSpacing":false,
                "class":"DepictionMarkdownView"
             },
 
