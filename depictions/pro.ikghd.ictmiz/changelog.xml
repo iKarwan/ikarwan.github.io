@@ -1,0 +1,12 @@
+<changelog>
+	<changes>
+        <version>Changelog:</version>
+        <change><![CDATA[
+            <strong>v1.5~beta2</strong> <br/>
+            -Fixed some bugs. <br/>
+            <strong>v1.5~beta1</strong> <br/>
+            -Completely <strong>Rewritten for iOS 12 and earlier</strong><br/>
+            -Features are the same, but the implementation is much cleaner!]]>
+        </change>
+	</changes>
+</changelog>
