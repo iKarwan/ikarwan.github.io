@@ -25,12 +25,16 @@
 	<screenshots>
         <screenshot>
             <description>Tweak in action</description>
-            <image>1.PNG</image>
-        </screenshot>
-        <screenshot>
-            <description>Settings for the tweak.</description>
             <image>2.PNG</image>
         </screenshot>
+        <screenshot>
+            <description></description>
+            <image>3.PNG</image>
+        </screenshot>
+				<screenshot>
+						<description>Settings for the tweak.</description>
+						<image>1.PNG</image>
+				</screenshot>
     </screenshots>
 	<changelog>
         <change><![CDATA[
