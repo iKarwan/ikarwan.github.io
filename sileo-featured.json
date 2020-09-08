@@ -10,16 +10,10 @@
             "hideShadow": false
         },
         {
-            "url": "https://ikarwan.github.io/depictions/com.ikarwan.wifireminder/Images/Banner2.png",
-            "title": "WiFiReminder",
-            "package": "com.ikarwan.wifireminder",
+            "url": "https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/Images/Banner2.png",
+            "title": "YouTubeKiller",
+            "package": "pro.ikghd.youtubekiller",
             "hideShadow": false
         },
-        {
-            "url": "https://ikarwan.github.io/depictions/com.ikarwan.s8edge/Images/Banner.png",
-            "title": "S8Edge",
-            "package": "com.ikarwan.s8edge",
-            "hideShadow": false
-        }
     ]
 }
