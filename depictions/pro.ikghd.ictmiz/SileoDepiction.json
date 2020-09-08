@@ -43,10 +43,42 @@
             {
                "class":"DepictionSeparatorView"
             },
+
+
             {
-                "markdown":"**Coming Soon - قريبـاَ**\n\nictmiz is a tweak for everyone!\n\nWho hasn’t been in a situation where you need to turn off your Wi-Fi connection to either save battery or to quickly switch from a slow Wi-Fi to LTE just to show someone something or to find something quickly?\n\nIf you ever see yourself in this situation, this is certainly your tweak!\n\nictmiz will notify you after a designated amount of time, and give you the ability to not waste mobile data when you could be using your home Wi-Fi!\nYou have to try it out!\n\nOptions to configure in settings.",
-               "useSpacing":true,
+               "title":"Coming Soon - قريبـاَ",
+               "class":"DepictionHeaderView"
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Features!",
+               "class":"DepictionHeaderView"
+            },
+            {
+                "markdown":"\n* Oled Mode For YouTube.\n* Main Icon Color With Keyboard.",
+                "useSpacing":false,
                "class":"DepictionMarkdownView"
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Latest Changes",
+               "class":"DepictionHeaderView"
+            },
+
+            {
+                "markdown":"* Fixed some bugs.",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
             },
             {
                "class":"DepictionSeparatorView"
@@ -69,7 +101,7 @@
             },
             {
                "title":"Price",
-               "text":"Free",
+               "text":"Paid",
                "class":"DepictionTableTextView"
             },
 
@@ -84,7 +116,7 @@
                "class":"DepictionHeaderView"
             },
             {
-               "title":"Donate",
+               "title":"Support The dev",
                "text":"paypal.me/hiwajaf",
                "class":"DepictionTableTextView"
             },

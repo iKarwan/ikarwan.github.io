@@ -103,7 +103,7 @@
             },
             {
                "title":"Price",
-               "text":"Free",
+               "text":"Paid",
                "class":"DepictionTableTextView"
             },
 
@@ -118,7 +118,7 @@
                "class":"DepictionHeaderView"
             },
             {
-               "title":"Donate",
+               "title":"Support The Dev",
                "text":"paypal.me/hiwajaf",
                "class":"DepictionTableTextView"
             },
