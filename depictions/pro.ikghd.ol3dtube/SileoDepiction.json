@@ -61,7 +61,9 @@
                "class":"DepictionHeaderView"
             },
             {
-                "markdown":"\n* Oled Mode For YouTube.\n* Main Icon Color With Keyboard.\n",
+                "markdown":"* Oled Mode For YouTube.\n
+                * Main Icon Color With Keyboard.
+                \n Option configure in Settings.",
 
                "class":"DepictionMarkdownView"
             },
