@@ -27,8 +27,10 @@
             <description>Tweak in action</description>
             <image>2.PNG</image>
         </screenshot>
+				<screenshot>
 				<description>Tweak in action</description>
 				<image>3.PNG</image>
+				</screenshot>
 				<screenshot>
 						<description>Settings for the tweak.</description>
 						<image>1.PNG</image>
@@ -41,8 +43,6 @@
 						-Fixed tabs. <br/>
 						-Fixed bookmarks. <br/>
 						-Fixed private mode. <br/>
-
-
 							]]>
         </change>
 	</changelog>
