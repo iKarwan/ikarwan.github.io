@@ -61,6 +61,9 @@
                "class":"DepictionHeaderView"
             },
             {
+               "class":"DepictionSeparatorView"
+            },
+            {
                 "markdown":"\n* Oled Mode For YouTube.\n* Main Icon Color With Keyboard.",
                 "useSpacing":false,
                "class":"DepictionMarkdownView"
@@ -103,7 +106,7 @@
             },
             {
                "title":"Price",
-               "text":"Paid",
+               "text":"$0.99",
                "class":"DepictionTableTextView"
             },
 
@@ -118,7 +121,7 @@
                "class":"DepictionHeaderView"
             },
             {
-               "title":"Support The Dev",
+               "title":"Support The dev",
                "text":"paypal.me/hiwajaf",
                "class":"DepictionTableTextView"
             },
