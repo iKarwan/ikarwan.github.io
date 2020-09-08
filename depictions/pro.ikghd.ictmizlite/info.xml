@@ -1,11 +1,11 @@
 <package>
-	<id>com.ikarwan.iksettings</id>
-	<name>WiFiReminder</name>
-	<version>1.2</version>
+	<id>com.ikarwan.ictmizlite</id>
+	<name>iCTMiZLite</name>
+	<version>1.4-2</version>
 	<compatibility>
 		<firmware>
-            <miniOS>11.0</miniOS>
-			<maxiOS>13.3</maxiOS>
+            <miniOS>12.0</miniOS>
+			<maxiOS>13.7</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,10 +13,10 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-        <package>mobilesubstrate</package>
+			<package>mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 12.0)</package>
     </dependencies>
 	<descriptionlist>
-        <description>Compatible with iOS 11 to 13</description>
+        <description>Compatible with iOS 12 to 13</description>
         <description><![CDATA[
 					WiFiReminder is a tweak for everyone!<br/><br/>
 					Who hasn’t been in a situation where you need to turn off your Wi-Fi connection to either save battery or to quickly switch from a slow Wi-Fi to LTE just to show someone something or to find something quickly?<br/><br/>
@@ -39,7 +39,7 @@
     </screenshots>
 	<changelog>
         <change><![CDATA[
-            <strong>v1.2</strong> <br/>
+            <strong>v1.4-2</strong> <br/>
             -Fixed some bugs. <br/>
         </change>
 	</changelog>

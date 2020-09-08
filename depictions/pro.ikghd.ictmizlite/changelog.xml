@@ -4,6 +4,7 @@
         <change><![CDATA[
             <strong>v1.2</strong> <br/>
             -Fixed some bugs. <br/>
+						-Fixed Breadcrumb on 13.5 & up. <br/>
         </change>
         <change><![CDATA[
             <strong>v1.1</strong> <br/>

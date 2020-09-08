@@ -1,11 +1,11 @@
 <package>
 	<id>com.ikarwan.iksettings</id>
-	<name>WiFiReminder</name>
-	<version>1.2</version>
+	<name>iKSEtiings</name>
+	<version>3.0-5</version>
 	<compatibility>
 		<firmware>
             <miniOS>11.0</miniOS>
-			<maxiOS>13.3</maxiOS>
+			<maxiOS>13.7</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -13,7 +13,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-        <package>mobilesubstrate</package>
+        <package>mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)</package>
     </dependencies>
 	<descriptionlist>
         <description>Compatible with iOS 11 to 13</description>
@@ -39,7 +39,7 @@
     </screenshots>
 	<changelog>
         <change><![CDATA[
-            <strong>v1.2</strong> <br/>
+            <strong>v3.0-5</strong> <br/>
             -Fixed some bugs. <br/>
         </change>
 	</changelog>
