@@ -1,7 +1,7 @@
 <package>
 	<id>pro.ikghd.pmp</id>
 	<name>PMP</name>
-	<version>3.0-5</version>
+	<version>1.0-1</version>
 	<compatibility>
 		<firmware>
             <miniOS>11.0</miniOS>
@@ -18,12 +18,7 @@
 	<descriptionlist>
         <description>Compatible with iOS 11 to 13</description>
         <description><![CDATA[
-					WiFiReminder is a tweak for everyone!<br/><br/>
-					Who hasn’t been in a situation where you need to turn off your Wi-Fi connection to either save battery or to quickly switch from a slow Wi-Fi to LTE just to show someone something or to find something quickly?<br/><br/>
-					If you ever see yourself in this situation, this is certainly your tweak!<br/><br/>
-					WiFiReminder will notify you after a designated amount of time, and give you the ability to not waste mobile data when you could be using your home Wi-Fi!<br/>
-					You have to try it out!<br/><br/>
-					Options to configure in settings.
+					iksafari safari features!<br/><br/>
 		]]>
 		</description>
 	</descriptionlist>
@@ -39,8 +34,11 @@
     </screenshots>
 	<changelog>
         <change><![CDATA[
-            <strong>v3.0-5</strong> <br/>
+            <strong>v1.5~beta2</strong> <br/>
             -Fixed some bugs. <br/>
+
+
+							]]>
         </change>
 	</changelog>
 	<links></links>
