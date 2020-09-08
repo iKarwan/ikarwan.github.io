@@ -12,13 +12,13 @@
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies>
-        <package>mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)</package>
-    </dependencies>
+
+
 	<descriptionlist>
         <description>Compatible with iOS 10 to 13</description>
         <description><![CDATA[
 					Customize YouTube app like you want!<br/><br/>
+					-Features <br/><br/>
 		]]>
 		</description>
 	</descriptionlist>
@@ -34,8 +34,8 @@
     </screenshots>
 	<changelog>
         <change><![CDATA[
-            <strong>v1.5~beta2</strong> <br/>
-            -Fixed some bugs. <br/>
+            <strong>v1.0-1</strong> <br/>
+            -Fixed Hide Tabs. <br/>
 
 
 							]]>
