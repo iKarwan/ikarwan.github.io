@@ -58,6 +58,7 @@
 
             {
                "title":"Features!",
+               "useSpacing":false,
                "class":"DepictionHeaderView"
             },
             {
@@ -65,6 +66,23 @@
 
                "class":"DepictionMarkdownView"
             },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Latest Changes",
+               "class":"DepictionHeaderView"
+            },
+
+            {
+                "markdown":"* Fixed some bugs.",
+                "useSpacing":false,
+                "class":"DepictionMarkdownView"
+            },
+
             {
                "class":"DepictionSeparatorView"
             },
