@@ -18,7 +18,7 @@
 	<descriptionlist>
         <description>Compatible with iOS 11 to 13</description>
         <description><![CDATA[
-					iksafari safari features!<br/><br/>
+					Safari Features!<br/><br/>
 		]]>
 		</description>
 	</descriptionlist>
@@ -36,8 +36,11 @@
     </screenshots>
 	<changelog>
         <change><![CDATA[
-            <strong>v1.5~beta2</strong> <br/>
+            <strong>v1.0-1</strong> <br/>
             -Fixed some bugs. <br/>
+						-Fixed tabs. <br/>
+						-Fixed bookmarks. <br/>
+						-Fixed private mode. <br/>
 
 
 							]]>
