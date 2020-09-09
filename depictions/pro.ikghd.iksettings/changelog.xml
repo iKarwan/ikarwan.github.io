@@ -2,11 +2,15 @@
 	<changes>
         <version>Changelog:</version>
         <change><![CDATA[
-            <strong>v1.5~beta2</strong> <br/>
-            -Fixed some bugs. <br/>
-            <strong>v1.5~beta1</strong> <br/>
-            -Completely <strong>Rewritten for iOS 12 and earlier</strong><br/>
-            -Features are the same, but the implementation is much cleaner!]]>
+            <strong>v1.0</strong> <br/>
+            - Support Latest YouTube Version. <br/>
+            <strong>v0.9</strong> <br/>
+            - Fix all Hide Tabs. <br/>
+						<strong>v0.8</strong> <br/>
+						- add Cercube latest Version 5.3.2. <br/>
+						- add hide like disilke share download etc.. <br/>
+						- add hide filtered title bar. <br/>
+            ]]>
         </change>
 	</changes>
 </changelog>

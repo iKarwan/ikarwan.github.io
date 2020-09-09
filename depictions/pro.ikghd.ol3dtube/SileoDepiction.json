@@ -40,7 +40,6 @@
                 },
                 "class":"DepictionScreenshotsView"
             },
-
             {
                "class":"DepictionSeparatorView"
             },
@@ -60,34 +59,33 @@
                "title":"Features!",
                "class":"DepictionHeaderView"
             },
+
+
             {
-               "class":"DepictionSeparatorView"
-            },
-            {
-                "markdown":"\n* Oled Mode For YouTube.\n* Main Icon Color With Keyboard.",
-                "useSpacing":false,
+                "markdown":"\n - Block All advertisment.\n - iPad Style Ui & Keyboard.\n* Play in Background.\n* Oled Dark Mode For better Experiance Dark Mode.\n* Age Restriction Play all Videos.\n* Play High Quality Videos Over 3G/4G/5G.\n* Customize The Tab Bar.\n* Hide almost any unwanted Features.\n* Customize Icon colors & Keyboard.\n* Stream 4K Quality Videos.\n* all Cercube Availble Features USing A Premium Paid Account-Optionaly if u want use it!\n* and Much Much More!..",
+                "useSpacing":true,
                "class":"DepictionMarkdownView"
             },
 
-            {
-               "class":"DepictionSeparatorView"
-            },
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
 
 
-            {
-               "title":"Latest Changes",
-               "class":"DepictionHeaderView"
-            },
+                            {
+                               "title":"Latest Changes",
+                               "class":"DepictionHeaderView"
+                            },
 
-            {
-                "markdown":"* Fixed some bugs.",
-                "useSpacing":true,
-                "class":"DepictionMarkdownView"
-            },
+                            {
+                                "markdown":"- Fixed some bugs.",
+                                "useSpacing":true,
+                                "class":"DepictionMarkdownView"
+                            },
 
-            {
-               "class":"DepictionSeparatorView"
-            },
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
 
 
             {
@@ -149,7 +147,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-                 "markdown":"* Fixed some bugs.",
+                 "markdown":"* Support Latest Youtube version.",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },

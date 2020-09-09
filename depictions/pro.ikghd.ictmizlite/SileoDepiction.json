@@ -36,86 +36,124 @@
                             "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/screenshots/2.PNG"
                         }
                     ],
-                    "class":"DepictionScreenshotView"
-                },
-                "class":"DepictionScreenshotsView"
+                "class":"DepictionScreenshotView"
             },
-            {
-                "markdown":"**Compatible with iOS 11-13**\n\nictmizlite is a tweak for everyone!\n\nWho hasn’t been in a situation where you need to turn off your Wi-Fi connection to either save battery or to quickly switch from a slow Wi-Fi to LTE just to show someone something or to find something quickly?\n\nIf you ever see yourself in this situation, this is certainly your tweak!\n\nictmizlite will notify you after a designated amount of time, and give you the ability to not waste mobile data when you could be using your home Wi-Fi!\nYou have to try it out!\n\nOptions to configure in settings.",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-            },
-            {
-               "class":"DepictionSeparatorView"
-            },
+            "class":"DepictionScreenshotsView"
+        },
+        {
+           "class":"DepictionSeparatorView"
+        },
 
 
-            {
-               "title":"Information",
-               "class":"DepictionHeaderView"
-            },
-            {
-               "title":"Version",
-               "text":"1.0-1",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"Released",
-               "text":"2020-9-7",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"Price",
-               "text":"Free",
-               "class":"DepictionTableTextView"
-            },
+        {
+           "title":"Coming Soon - قريبـاَ",
+           "class":"DepictionHeaderView"
+        },
+
+        {
+           "class":"DepictionSeparatorView"
+        },
 
 
-            {
-               "class":"DepictionSeparatorView"
-            },
+        {
+           "title":"Features!",
+           "class":"DepictionHeaderView"
+        },
 
 
-            {
-               "title":"Links",
-               "class":"DepictionHeaderView"
-            },
-            {
-               "title":"Donate",
-               "text":"paypal.me/hiwajaf",
-               "class":"DepictionTableTextView"
-            },
+        {
+            "markdown":"\n - Block All advertisment.\n - iPad Style Ui & Keyboard.\n* Play in Background.\n* Oled Dark Mode For better Experiance Dark Mode.\n* Age Restriction Play all Videos.\n* Play High Quality Videos Over 3G/4G/5G.\n* Customize The Tab Bar.\n* Hide almost any unwanted Features.\n* Customize Icon colors & Keyboard.\n* Stream 4K Quality Videos.\n* all Cercube Availble Features USing A Premium Paid Account-Optionaly if u want use it!\n* and Much Much More!..",
+            "useSpacing":true,
+           "class":"DepictionMarkdownView"
+        },
 
-            {
-               "title":"Follow Me",
-               "text":"@ikg_hd",
-               "class":"DepictionTableTextView"
-            },
+                        {
+                           "class":"DepictionSeparatorView"
+                        },
 
-            {
-               "spacing":10,
-               "class":"DepictionSpacerView"
-            }
-         ],
-         "class":"DepictionStackView"
-      },
-      {
-         "tabname":"Changelog",
-         "views":[
-             {
-                 "title":"Version 1.0-1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Fixed some bugs.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-         ],
-         "class":"DepictionStackView"
-      }
-   ],
-   "class":"DepictionTabView"
+
+                        {
+                           "title":"Latest Changes",
+                           "class":"DepictionHeaderView"
+                        },
+
+                        {
+                            "markdown":"- Fixed some bugs.",
+                            "useSpacing":true,
+                            "class":"DepictionMarkdownView"
+                        },
+
+                        {
+                           "class":"DepictionSeparatorView"
+                        },
+
+
+        {
+           "title":"Information",
+           "class":"DepictionHeaderView"
+        },
+        {
+           "title":"Version",
+           "text":"1.0-1",
+           "class":"DepictionTableTextView"
+        },
+        {
+           "title":"Released",
+           "text":"2020-9-7",
+           "class":"DepictionTableTextView"
+        },
+        {
+           "title":"Price",
+           "text":"Free",
+           "class":"DepictionTableTextView"
+        },
+
+
+        {
+           "class":"DepictionSeparatorView"
+        },
+
+
+        {
+           "title":"Links",
+           "class":"DepictionHeaderView"
+        },
+        {
+           "title":"Support The dev",
+           "text":"paypal.me/hiwajaf",
+           "class":"DepictionTableTextView"
+        },
+
+        {
+           "title":"Follow Me",
+           "text":"@ikg_hd",
+           "class":"DepictionTableTextView"
+        },
+
+        {
+           "spacing":10,
+           "class":"DepictionSpacerView"
+        }
+     ],
+     "class":"DepictionStackView"
+  },
+  {
+     "tabname":"Changelog",
+     "views":[
+         {
+             "title":"Version 1.0-1",
+             "useBoldText":true,
+             "useBottomMargin":false,
+             "class":"DepictionSubheaderView"
+         },
+         {
+             "markdown":"* Support Latest Youtube version.",
+             "useSpacing":true,
+             "class":"DepictionMarkdownView"
+         },
+     ],
+     "class":"DepictionStackView"
+  }
+],
+"class":"DepictionTabView"
 }
