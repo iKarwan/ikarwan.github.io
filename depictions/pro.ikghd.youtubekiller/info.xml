@@ -18,7 +18,7 @@
         <description>Compatible with iOS 10 to 13</description>
         <description><![CDATA[
 					Customize YouTube app like you want
-					* Features  
+					* Features
 					- Block All advertisment. <br/><br/>
 					- iPad Style Ui & Keyboard. <br/><br/>
 					- Play in Background. <br/><br/>
@@ -54,6 +54,7 @@
     </screenshots>
 
 		<!-- Support -->
+			<descriptionlist>
 			<description><![CDATA[
 
 				<li>
@@ -67,6 +68,7 @@
 		]]>
 
 	</description>
+	</descriptionlist>
 
 		<!-- changelog -->
 	<changelog>
