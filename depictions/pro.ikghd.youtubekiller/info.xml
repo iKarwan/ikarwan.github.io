@@ -35,7 +35,15 @@
 
 
 		]]>
-		<description> <a href="https://www.paypal.me/hiwajaf">Click to Visit</a> </description>
+		
+		<mydog>
+		  <description>
+		  Anton is my favorite dog. He has won a lot of.....
+		  </description>
+		  <fact xlink:type="simple" xlink:href="https://dog.com/dogbreeds.xml#Rottweiler">
+		  Fact about Rottweiler
+		  </fact>
+		</mydog>
 
 		</description>
 	</descriptionlist>
