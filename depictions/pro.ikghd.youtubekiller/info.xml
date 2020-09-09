@@ -35,6 +35,7 @@
 
 
 		]]>
+		
 		<description> <a href="https://www.paypal.me/hiwajaf">Click to Visit</a> </description>
 
 		</description>
@@ -50,13 +51,8 @@
         </screenshot>
     </screenshots>
 	<changelog>
-        <change><![CDATA[
-            <strong>v1.0-1</strong> <br/>
-            -Fixed Hide Tabs. <br/>
 
 
-							]]>
-        </change>
 	</changelog>
 	<links></links>
 </package>
