@@ -86,6 +86,16 @@
 	</description>
 	</descriptionlist>
 
+	<!-- changelog -->
+<links>
+			<links><![CDATA[
+					<strong>v1.0-1</strong> <br/>
+					-Fixed Hide Tabs. <br/>
+
+						]]>
+			</links>
+</links>
+
 		<!-- changelog -->
 	<changelog>
         <change><![CDATA[
