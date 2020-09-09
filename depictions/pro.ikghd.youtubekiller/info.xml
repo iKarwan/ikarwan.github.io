@@ -13,7 +13,7 @@
 		</firmware>
 	</compatibility>
 
-
+	<!-- main description -->
 	<descriptionlist>
         <description>Compatible with iOS 10 to 13</description>
         <description><![CDATA[
@@ -41,24 +41,7 @@
 		</description>
 	</descriptionlist>
 
-	<descriptionlist>
-		<description><![CDATA[
-
-				<br/><br/>
-
-			<li>
-				<a href="https://paypal.me/hiwajaf">SUpport The dev using PayPal</a>
-			</li>
-
-			<li>
-				<a href="https://twitter.com/ikg_hd">Follow Me on Twitter</a>
-			</li>
-
-	]]>
-
-</description>
-	</descriptionlist>
-
+	<!-- screenshot -->
 	<screenshots>
         <screenshot>
             <description>Tweak in action</description>
@@ -69,11 +52,31 @@
             <image>2.PNG</image>
         </screenshot>
     </screenshots>
+
+		<!-- Support -->
+		<descriptionlist>
+			<description><![CDATA[
+
+					<br/><br/>
+
+				<li>
+					<a href="https://paypal.me/hiwajaf">SUpport The dev using PayPal</a>
+				</li>
+
+				<li>
+					<a href="https://twitter.com/ikg_hd">Follow Me on Twitter</a>
+				</li>
+
+		]]>
+
+	</description>
+		</descriptionlist>
+
+		<!-- changelog -->
 	<changelog>
         <change><![CDATA[
             <strong>v1.0-1</strong> <br/>
             -Fixed Hide Tabs. <br/>
-
 
 							]]>
         </change>
