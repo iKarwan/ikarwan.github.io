@@ -7,7 +7,7 @@
          "tabname":"Details",
          "views":[
             {
-                "itemCornerRadius":6,
+                "itemCornerRadius":10,
                 "itemSize":"{160, 275.41333333333336}",
                 "screenshots":[
                     {
