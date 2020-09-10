@@ -142,15 +142,15 @@
             {
                "title":"Follow @ikg_hd",
                "useBoldText": true,
-               "text":"https://twitter.com/ikg_hd",
+               "action":"https://twitter.com/ikg_hd",
                "class":"DepictionTableButtonView"
             },
 
             {
                "title":"YouTube Channel",
                "useBoldText": true,
-               "text":"https://youtube.com/c/ikghd",
-               "class":"DepictionTableTextView"
+               "action":"https://youtube.com/c/ikghd",
+               "class":"DepictionTableButtonView"
             },
 
             {
