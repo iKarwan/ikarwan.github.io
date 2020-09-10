@@ -80,6 +80,14 @@
                 "class": "DepictionMarkdownView"
             },
 
+            {
+              "itemCornerRadius":6,
+                "height": 300,
+                "width": 350,
+                "URL": "https://www.youtube.com/watch?v=vdsUXmluvOw",
+                "class": "DepictionVideoView"
+            },
+
                             {
                                "class":"DepictionSeparatorView"
                             },
