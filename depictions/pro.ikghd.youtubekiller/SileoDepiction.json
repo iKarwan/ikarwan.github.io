@@ -139,8 +139,8 @@
 
             {
                "title":"Support The dev",
-               "url":"https://paypal.me/hiwajaf",
-               "class":"DepictionTableUrlView"
+               "action":"https://paypal.me/hiwajaf",
+               "class":"DepictionTableTextView"
             },
 
             {
