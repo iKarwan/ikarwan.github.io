@@ -12,8 +12,8 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG"
                     },
 
                     {
@@ -60,14 +60,7 @@
 
             {
                "title":"Coming Soon - قريبـاَ",
-               "class":"DepictionMarkdownView"
-            },
-
-            {
-               "title":"dev",
-               "useBoldText": true,
-               "action":"https://www.paypal.com/paypalme/hiwajaf",
-               "class":"DepictionTableButtonView"
+               "class":"DepictionHeaderView"
             },
 
             {
@@ -85,15 +78,6 @@
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
-            },
-
-            {
-              "itemCornerRadius":6,
-                "height": 300,
-                "width": 260,
-                "alignment": 0,
-                "URL": "https://streamable.com/5av8t5",
-                "class": "DepictionVideoView"
             },
 
                             {
