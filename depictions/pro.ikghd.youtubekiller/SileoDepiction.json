@@ -133,6 +133,12 @@
             },
             {
                "title":"Support The dev",
+               "text":"paypal.me/hiwajaf",
+               "class":"DepictionTableTextView"
+            },
+
+            {
+               "title":"Support The dev",
                "url":"https://paypal.me/hiwajaf",
                "class":"DepictionTableUrlView"
             },
