@@ -134,18 +134,21 @@
 
             {
                "title":"Support The dev",
+               "useBoldText": true,
                "action":"https://paypal.me/hiwajaf",
                "class":"DepictionTableButtonView"
             },
 
             {
                "title":"Follow @ikg_hd",
+               "useBoldText": true,
                "text":"https://twitter.com/ikg_hd",
                "class":"DepictionTableButtonView"
             },
 
             {
                "title":"YouTube Channel",
+               "useBoldText": true,
                "text":"https://youtube.com/c/ikghd",
                "class":"DepictionTableTextView"
             },
