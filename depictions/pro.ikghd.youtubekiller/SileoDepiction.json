@@ -131,11 +131,6 @@
                "title":"Links",
                "class":"DepictionHeaderView"
             },
-            {
-               "title":"Support The dev",
-               "text":"paypal.me/hiwajaf",
-               "class":"DepictionTableTextView"
-            },
 
             {
                "title":"Support The dev",
@@ -144,8 +139,14 @@
             },
 
             {
-               "title":"Follow Me",
-               "text":"@ikg_hd",
+               "title":"Follow @ikg_hd",
+               "text":"https://twitter.com/ikg_hd",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"YouTube Channel",
+               "text":"https://youtube.com/c/ikghd",
                "class":"DepictionTableTextView"
             },
 
