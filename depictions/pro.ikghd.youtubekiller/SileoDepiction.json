@@ -144,12 +144,6 @@
             },
 
             {
-                "accessibilityText":"what hh",
-                "url":"https://ikarwan.github.io/",
-                "class":"DepictionTableTextView"
-            },
-
-            {
                "spacing":10,
                "class":"DepictionSpacerView"
             }
