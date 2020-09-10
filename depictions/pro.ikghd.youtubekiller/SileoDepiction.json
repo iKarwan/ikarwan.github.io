@@ -7,7 +7,7 @@
          "tabname":"Details",
          "views":[
             {
-                "itemCornerRadius":10,
+                "itemCornerRadius":6,
                 "itemSize":"{160, 275.41333333333336}",
                 "screenshots":[
                     {
@@ -18,14 +18,14 @@
 
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG"
                     },
 
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG"
                     },
 
                     {
