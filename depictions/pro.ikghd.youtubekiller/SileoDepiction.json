@@ -51,15 +51,6 @@
 
 
             {
-               "title":"Coming Soon - قريبـاَ",
-               "class":"DepictionHeaderView"
-            },
-
-            {
-               "class":"DepictionSeparatorView"
-            },
-
-            {
                "title":"Features!",
                "class":"DepictionHeaderView"
             },
