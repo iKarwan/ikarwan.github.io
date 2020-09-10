@@ -91,6 +91,7 @@
               "itemCornerRadius":6,
                 "height": 280,
                 "width": 250,
+                "alignment": 1,
                 "URL": "https://www.youtube.com/watch?v=vdsUXmluvOw",
                 "class": "DepictionVideoView"
             },
