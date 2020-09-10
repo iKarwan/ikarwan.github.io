@@ -1,238 +1,78 @@
 {
-   "minVersion":"0.1",
-   "headerImage":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/Images/Banner.png",
-   "tintColor":"#B80000",
-   "tabs":[
-      {
-         "tabname":"Details",
-         "views":[
-            {
-                "itemCornerRadius":10,
-                "itemSize":"{160, 275.41333333333336}",
-                "screenshots":[
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.png"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG"
-                    }
-                ],
-                "ipad":{
-                    "itemCornerRadius":9,
-                    "itemSize":"{320, 550.8266666666667}",
-                    "screenshots":[
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "useBottomMargin": false,
+                    "useBoldText": true,
+                    "title": "YouTubeKiller",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Customize YouTube Like You Want!",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
                         {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG"
+                            "url": "",
+                            "accessibilityText": "Screenshot0"
                         }
                     ],
-                    "class":"DepictionScreenshotView"
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView"
                 },
-                "class":"DepictionScreenshotsView"
-            },
-            {
-               "class":"DepictionSeparatorView"
-            },
-
-
-            {
-               "title":"Coming Soon - قريبـاَ",
-               "class":"DepictionHeaderView"
-            },
-
-            {
-               "class":"DepictionSeparatorView"
-            },
-
-            {
-               "title":"Features!",
-               "class":"DepictionHeaderView"
-            },
-            {
-                "useBottomMargin": false,
-                "markdown": "- Block All advertisment.\r\n- iPad Style Ui & Keyboard.\r\n- Play in Background.\r\n- Oled Mode better Experiance Dark Mode. \r\n- Age Restriction Play all Videos.\r\n- Play High Quality Videos Over 3G/4G.\r\n- Customize The Tab Bar.\r\n- Hide almost any unwanted Features.\r\n- Customize Icon colors & Keyboard.\r\n- Stream 4K Quality Videos.\r\n- all Cercube Features Available to use!.\r\n- and much much more... ",
-                "useBoldText": true,
-                "title": "markdown-description",
-                "class": "DepictionMarkdownView"
-            },
-
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
-
-
-                            {
-                               "title":"Latest Changes",
-                               "class":"DepictionHeaderView"
-                            },
-
-                            {
-                                "markdown":"- Fixed some bugs.",
-                                "useSpacing":true,
-                                "class":"DepictionMarkdownView"
-                            },
-
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
-
-
-            {
-               "title":"Information",
-               "class":"DepictionHeaderView"
-            },
-            {
-               "title":"Version",
-               "text":"1.0-1",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"Released",
-               "text":"2020-9-7",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"Price",
-               "text":"$1.99",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"Compatibility",
-               "text":"iOS 10.0 to 13.7",
-               "class":"DepictionTableTextView"
-            },
-
-            {
-               "class":"DepictionSeparatorView"
-            },
-
-
-            {
-               "title":"Links",
-               "class":"DepictionHeaderView"
-            },
-
-            {
-               "title":"Support The dev",
-               "useBoldText": true,
-               "action":"https://www.paypal.com/paypalme/hiwajaf",
-               "class":"DepictionTableButtonView"
-            },
-
-            {
-               "title":"Follow @iKarwan",
-               "useBoldText": true,
-               "action":"https://twitter.com/ikg_hd",
-               "class":"DepictionTableButtonView"
-            },
-
-            {
-               "title":"YouTube Channel",
-               "useBoldText": true,
-               "action":"https://youtube.com/c/ikghd",
-               "class":"DepictionTableButtonView"
-            },
-
-            {
-               "spacing":10,
-               "class":"DepictionSpacerView"
-            }
-         ],
-         "class":"DepictionStackView"
-      },
-      {
-         "tabname":"Changelog",
-         "views":[
-             {
-                 "title":"Version 1.0-1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 1.0-1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 1.0-1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 1.0-1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 1.0-1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 1.0-1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-         ],
-         "class":"DepictionStackView"
-      }
-   ],
-   "class":"DepictionTabView"
+                {
+                    "useBottomMargin": false,
+                    "markdown": "-Block All advertisment.\r\n-Play in Background.\r\n-age restriction play all videos.",
+                    "useBoldText": true,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.0",
+                    "title": "Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "09-10-2020",
+                    "title": "Released"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.99",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iKarwan",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    "minVersion": "0.1",
+    "headerImage": "",
+    "tintColor": "#0657bb",
+    "class": "DepictionTabView"
 }
