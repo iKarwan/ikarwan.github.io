@@ -170,6 +170,67 @@
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },
+
+             {
+                 "title":"Version 1.0-1",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 1.0-1",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 1.0-1",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 1.0-1",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 1.0-1",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+             
          ],
          "class":"DepictionStackView"
       }
