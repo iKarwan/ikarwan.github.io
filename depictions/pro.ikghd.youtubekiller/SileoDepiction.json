@@ -49,6 +49,11 @@
                "class":"DepictionSeparatorView"
             },
 
+            {
+               "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+\               "class":"DepictionAdmobView"
+            },
+
 
             {
                "title":"Features!",
