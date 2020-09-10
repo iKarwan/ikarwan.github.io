@@ -60,11 +60,6 @@
             },
 
             {
-              "adUnitID":"google.com, pub-9952128926407446, DIRECT, f08c47fec0942fa0"
-              "class":"DepictionAdmobView"
-            },
-
-            {
                "title":"Features!",
                "class":"DepictionHeaderView"
             },
