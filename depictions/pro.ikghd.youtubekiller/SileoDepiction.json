@@ -60,7 +60,10 @@
 
             {
                "title":"Coming Soon - قريبـاَ",
-               "class":"DepictionHeaderView"
+               "title":"Coming Soon - قريبـاَ",
+               "useBoldText": true,
+               "action":"https://youtube.com/c/ikghd",
+               "class":"DepictionTableButtonView"
             },
 
             {
