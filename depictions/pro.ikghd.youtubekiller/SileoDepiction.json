@@ -140,7 +140,7 @@
             {
                "title":"Support The dev",
                "action":"https://paypal.me/hiwajaf",
-               "class":"DepictionButtonView"
+               "class":"DepictionTextView"
             },
 
             {
