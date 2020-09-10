@@ -59,6 +59,10 @@
                "class":"DepictionSeparatorView"
             },
 
+            {
+              "adUnitID":"google.com, pub-9952128926407446, DIRECT, f08c47fec0942fa0"
+              "class":"DepictionAdmobView"
+            },
 
             {
                "title":"Features!",
@@ -230,7 +234,7 @@
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },
-             
+
          ],
          "class":"DepictionStackView"
       }
