@@ -120,14 +120,23 @@
         },
         {
            "title":"Support The dev",
-           "text":"paypal.me/hiwajaf",
-           "class":"DepictionTableTextView"
+           "useBoldText": true,
+           "action":"https://www.paypal.com/paypalme/hiwajaf",
+           "class":"DepictionTableButtonView"
         },
 
         {
-           "title":"Follow Me",
-           "text":"@ikg_hd",
-           "class":"DepictionTableTextView"
+           "title":"Follow @iKarwan",
+           "useBoldText": true,
+           "action":"https://twitter.com/ikg_hd",
+           "class":"DepictionTableButtonView"
+        },
+
+        {
+           "title":"YouTube Channel",
+           "useBoldText": true,
+           "action":"https://youtube.com/c/ikghd",
+           "class":"DepictionTableButtonView"
         },
 
         {
