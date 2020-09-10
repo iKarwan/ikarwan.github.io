@@ -12,8 +12,8 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.png"
                     },
                     {
                         "accessibilityText":"Screenshot",
@@ -65,7 +65,7 @@
             },
             {
                 "useBottomMargin": false,
-                "markdown": " Block All advertisment.\r- iPad Style Ui & Keyboard.\r\n- Play in Background.\r\n- Oled Mode better Experiance Dark Mode. \r\n- Age Restriction Play all Videos.\r\n- Play High Quality Videos Over 3G/4G.\r\n- Customize The Tab Bar.\r\n- Hide almost any unwanted Features.\r\n- Customize Icon colors & Keyboard.\r\n- Stream 4K Quality Videos.\r\n- all Cercube Features Available to use!.\r\n- and much much more... ",
+                "markdown": " -Block All advertisment.\r-iPad Style Ui & Keyboard.\r-Play in Background.\r\n- Oled Mode better Experiance Dark Mode. \r\n- Age Restriction Play all Videos.\r\n- Play High Quality Videos Over 3G/4G.\r\n- Customize The Tab Bar.\r\n- Hide almost any unwanted Features.\r\n- Customize Icon colors & Keyboard.\r\n- Stream 4K Quality Videos.\r\n- all Cercube Features Available to use!.\r\n- and much much more... ",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
