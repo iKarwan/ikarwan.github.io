@@ -50,6 +50,13 @@
                "class":"DepictionHeaderView"
             },
 
+
+                                    {
+                                       "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+                                       "adSize":"SmartBanner",
+                                       "class":"DepictionAdmobView"
+                                    },
+                                    
             {
                "class":"DepictionSeparatorView"
             },
