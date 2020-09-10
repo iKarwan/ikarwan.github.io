@@ -84,8 +84,7 @@
               "itemCornerRadius":6,
                 "height": 280,
                 "width": 250,
-                "url": "https://www.youtube.com/watch?v=vdsUXmluvOw",
-                "fullSizeURL": "https://www.youtube.com/watch?v=vdsUXmluvOw",
+                "URL": "https://www.youtube.com/watch?v=vdsUXmluvOw",
                 "class": "DepictionVideoView"
             },
 
