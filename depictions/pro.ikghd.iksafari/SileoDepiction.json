@@ -110,13 +110,13 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Compatibility",
-               "text":"iOS 11.0 to 13.7",
+               "title":"Price",
+               "text":"Free",
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Price",
-               "text":"Free",
+               "title":"Compatibility",
+               "text":"iOS 11.0 to 13.7",
                "class":"DepictionTableTextView"
             },
 

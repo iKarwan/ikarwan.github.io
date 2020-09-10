@@ -7,7 +7,7 @@
          "tabname":"Details",
          "views":[
             {
-                "itemCornerRadius":6,
+                "itemCornerRadius":10,
                 "itemSize":"{160, 275.41333333333336}",
                 "screenshots":[
                     {
@@ -15,19 +15,11 @@
                         "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG",
                         "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG"
                     },
-
                     {
                         "accessibilityText":"Screenshot",
                         "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG",
                         "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG"
                     },
-
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG"
-                    },
-
                     {
                         "accessibilityText":"Screenshot",
                         "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG",
@@ -116,16 +108,15 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Compatibility",
-               "text":"iOS 10.0 to 13.7",
-               "class":"DepictionTableTextView"
-            },
-            {
                "title":"Price",
                "text":"$1.99",
                "class":"DepictionTableTextView"
             },
-
+            {
+               "title":"Compatibility",
+               "text":"iOS 10.0 to 13.7",
+               "class":"DepictionTableTextView"
+            },
 
             {
                "class":"DepictionSeparatorView"

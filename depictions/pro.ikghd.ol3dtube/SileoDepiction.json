@@ -103,15 +103,16 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Compatibility",
-               "text":"iOS 10.0 to 13.7",
-               "class":"DepictionTableTextView"
-            },
-            {
                "title":"Price",
                "text":"$0.99",
                "class":"DepictionTableTextView"
             },
+            {
+               "title":"Compatibility",
+               "text":"iOS 10.0 to 13.7",
+               "class":"DepictionTableTextView"
+            },
+
             {
                "class":"DepictionSeparatorView"
             },
