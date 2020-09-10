@@ -74,7 +74,7 @@
             },
             {
                 "useBottomMargin": false,
-                "markdown": "Block All advertisment.\r\niPad Style Ui & Keyboard.\r\nPlay in Background.\r\nOled Mode better Experiance Dark Mode.\r\nAge Restriction Play all Videos.\r\nPlay High Quality Videos Over 3G/4G.\r\nCustomize The Tab Bar.\r\nHide almost any unwanted Features.\r\nCustomize Icon colors & Keyboard.\r\nStream 4K Quality Videos.\r\nall Cercube Features Available to use!.\r\nand much much more...",
+                "markdown": "- Block All advertisment.\r\n- iPad Style Ui & Keyboard.\r\n- Play in Background.\r\n- Oled Mode better Experiance Dark Mode. \r\n- Age Restriction Play all Videos.\r\n- Play High Quality Videos Over 3G/4G.\r\n- Customize The Tab Bar.\r\n- Hide almost any unwanted Features.\r\n- Customize Icon colors & Keyboard.\r\n- Stream 4K Quality Videos.\r\n- all Cercube Features Available to use!.\r\n- and much much more... ",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
@@ -138,15 +138,15 @@
             },
 
             {
-                "accessibilityText":"what hh",
-                "url":"https://ikarwan.github.io/",
-                "fullSizeURL":"https://ikarwan.github.io"
-            },
-
-            {
                "title":"Follow Me",
                "text":"@ikg_hd",
                "class":"DepictionTableTextView"
+            },
+
+            {
+                "accessibilityText":"what hh",
+                "url":"https://ikarwan.github.io/",
+                "class":"DepictionTableTextView"
             },
 
             {
