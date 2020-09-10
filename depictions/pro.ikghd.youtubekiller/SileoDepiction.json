@@ -138,6 +138,12 @@
             },
 
             {
+                "accessibilityText":"what hh",
+                "url":"https://ikarwan.github.io/",
+                "fullSizeURL":"https://ikarwan.github.io"
+            },
+
+            {
                "title":"Follow Me",
                "text":"@ikg_hd",
                "class":"DepictionTableTextView"
