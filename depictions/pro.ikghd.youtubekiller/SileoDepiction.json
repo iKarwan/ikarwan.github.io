@@ -63,7 +63,7 @@
             },
             {
                 "useBottomMargin": false,
-                "markdown": "- Block All advertisment.\r\n- iPad Style Ui & Keyboard.\r\n- Play in Background.\r\n- Oled Mode better Experiance Dark Mode. \r\n- Age Restriction Play all Videos.\r\n- Play High Quality Videos Over 3G/4G.\r\n- Customize The Tab Bar.\r\n- Hide almost any unwanted Features.\r\n- Customize Icon colors & Keyboard.\r\n- Stream 4K Quality Videos.\r\n- all Cercube Features Available to use!.\r\n- and much much more... ",
+                "markdown": "  YouTubeKiller 3.2\r\n\r\nCustomize Youtube like never before!\r\n\r\nincluded more then 60+ features,\r\n\r\nfully compataible with all Youtube version\r\n\r\nand fully Supported iOS 10 UP to iOS 13.6\r\n\r\nSupported Languages English >< \u0639\u0640\u0640\u0631\u0628\u064a >\u4e2d\u6587\r\n\r\n===========\r\n\r\nDownload Capability = YES\r\n\r\nPiP Capability = YES\r\n\r\nGENERAL\r\n\r\n1-ipad redesigned\r\n\r\n2-oled dark mode\r\n\r\n3-play in background\r\n\r\n4-no advertisment\r\n\r\n5-no home ad\r\n\r\n6-block youtube update\r\n\r\n7-age restriction\r\n\r\n8-play hd videos over 3G/4G\r\n\r\n9-allowed comments all\r\n\r\n10-disable drag&drop ipad style\r\n\r\nVIDEO_PLAYER\r\n\r\n11-hide suggested video\r\n\r\n12-disable video description\r\n\r\n13-disable comment section\r\n\r\nOVERLAY_OPTION\r\n\r\n14-looping the clip (Beta)\r\n\r\n15-hide volumeBar\r\n\r\n16-disable info card\r\n\r\n17-show statusBar in overlay\r\n\r\n18-hide dark background overlay\r\n\r\n19-show Midya controll\r\n\r\n20-hide Midya controll\r\n\r\n21-hide playlist toggle\r\n\r\n22-hide watermark\r\n\r\n23-hide next+previous toggle\r\n\r\n24-hide share toggle\r\n\r\n25-hide endscreen video\r\n\r\n26-hide related video\r\n\r\n27-disable double tap\r\n\r\n28-centered medy controll ipx up\r\n\r\nSTREAMING\r\n\r\n1-4k 8k Enabler\r\n\r\n2-Play HD Video on 3G/4G\r\n\r\n3-Disable AutoPlay Videos\r\n\r\nSTATUS_BAR\r\n\r\n29-hide statusbar\r\n\r\n30-red statusbar\r\n\r\nNAVIGATION_BAR\r\n\r\n31-sticky navBar\r\n\r\n32-red colored icon\r\n\r\n33-hide youtube logo\r\n\r\n34-hide camera&account button\r\n\r\nDOWNLOAD_SECTION\r\n\r\n35-hide downloaad button\r\n\r\n36-no expirity downloaded video\r\n\r\nTAB_BAR\r\n\r\n37-tabs shrinked (Buttom)\r\n\r\n37-tabs shrinked (Smart)\r\n\r\n38-hide home page Tab\r\n\r\n39-hide trend(Explore) Tab\r\n\r\n40-hide Subscription Tab\r\n\r\n41-hide inbox Tab\r\n\r\n42-hide library Tab\r\n\r\n43-hide download Tab\r\n\r\n44-hide all Tabs\r\n\r\n45-space between Tabs\r\n\r\n46-Space between Tabs in Landscape!\r\n\r\nMISCELLANEOUS\r\n\r\n47-disabl dark mode\r\n\r\n48-hide channel circle icon\r\n\r\n49-hide story\r\n\r\n50-hide captions\r\n\r\n51-hide subscription circle icon",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
@@ -114,7 +114,7 @@
                "text":"iOS 10.0 to 13.7",
                "class":"DepictionTableTextView"
             },
-            
+
             {
                "class":"DepictionSeparatorView"
             },
