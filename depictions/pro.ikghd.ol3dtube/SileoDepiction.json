@@ -44,10 +44,10 @@
                "class":"DepictionSeparatorView"
             },
 
-
             {
-               "title":"Coming Soon - قريبـاَ",
-               "class":"DepictionHeaderView"
+                "class": "DepictionMarkdownView",
+                "markdown": "Oled Mode For YouTube app.",
+                "useSpacing": true
             },
 
 
@@ -63,9 +63,8 @@
 
 
             {
-                "class": "DepictionMarkdownView",
-                "markdown": "Oled Mode For YouTube app.",
-                "useSpacing": true
+               "title":"Features!",
+               "class":"DepictionHeaderView"
             },
 
             {
