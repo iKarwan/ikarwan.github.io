@@ -10,11 +10,7 @@
                 "itemCornerRadius":6,
                 "itemSize":"{160, 275.41333333333336}",
                 "screenshots":[
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png"
-                    },
+
                     {
                         "accessibilityText":"Screenshot",
                         "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.png",
@@ -39,6 +35,11 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/8.png",
                         "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/8.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png"
                     }
 
                 ],
