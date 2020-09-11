@@ -13,19 +13,6 @@
 		</firmware>
 	</compatibility>
 
-	<body>
-<figure>
-<picture>
-	<source srcset="settings-dark.png" media="(prefers-color-scheme: dark)">
-	<source srcset="settings-light.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
-	<img src="settings-light.png" id="screenshot" loading="lazy">
-</picture>
-<figcaption>
-	Reacting to the change in appearance
-</figcaption>
-</figure>
-</body>
-
 	<!-- main description -->
 	<descriptionlist>
         <description>Compatible with iOS 10 to 13.7</description>
