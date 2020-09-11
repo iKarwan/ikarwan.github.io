@@ -53,8 +53,8 @@
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.png",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.png"
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.PNG",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.PNG"
                         }
                     ],
                     "class":"DepictionScreenshotView"
@@ -66,17 +66,11 @@
             },
 
             {
-                "class": "DepictionMarkdownView",
-                "markdown": "Oled Mode For YouTube app.",
-                "useSpacing": true
-            },
-
-            {
                "adUnitID":"ca-app-pub-9952128926407446/6168240413",
                "adSize":"SmartBanner",
                "class":"DepictionAdmobView"
             },
-            
+
             {
                "class":"DepictionSeparatorView"
             },

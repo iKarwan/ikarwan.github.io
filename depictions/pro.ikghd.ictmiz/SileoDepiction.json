@@ -13,8 +13,8 @@
 
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.png"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png"
                     },
                     {
                         "accessibilityText":"Screenshot",
@@ -35,11 +35,6 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/8.png",
                         "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/8.png"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png"
                     }
 
                 ],
@@ -71,15 +66,6 @@
                "class":"DepictionSeparatorView"
             },
 
-            {
-                "class": "DepictionMarkdownView",
-                "markdown": "Customize Your Device With 250+ Features.",
-                "useSpacing": true
-            },
-
-            {
-               "class":"DepictionSeparatorView"
-            },
 
 
                                     {
@@ -88,11 +74,17 @@
                                        "class":"DepictionAdmobView"
                                     },
 
+            {
+              "class":"DepictionSeparatorView"
+            },
+
 
             {
                "title":"Features!",
                "class":"DepictionHeaderView"
             },
+
+
 
             {
                 "useBottomMargin": false,
