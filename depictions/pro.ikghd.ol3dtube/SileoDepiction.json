@@ -38,8 +38,8 @@
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.png"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.PNG"
                     }
                 ],
                 "ipad":{
@@ -53,8 +53,8 @@
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.PNG"
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.PNG",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.PNG"
                         }
                     ],
                     "class":"DepictionScreenshotView"
