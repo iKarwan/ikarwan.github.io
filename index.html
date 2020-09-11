@@ -1,20 +1,50 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>iKarwan Repo</title>
-		<link rel="shortcut icon" type="image/ico" href="images/favicon.ico">
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Hello Darko!</title>
+    <style>
+      :root {
+        --background: white;
+        --color: #2b2b2b;
+      }
 
-		<!-- ggole ads -->
+      body {
+        background-color: var(--background);
+        color: var(--color);
+      }
 
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="assets/js/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-	</head>
-	<body class="is-loading">
+      .darko {
+        --background: #2b2b2b;
+        --color: white;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --background: #2b2b2b;
+          --color: white;
+        }
+      }
+
+      .light {
+        --background: white;
+        --color: #2b2b2b;
+      }
+    </style>
+
+    <style>
+      figure {
+        font-family: 'Fira Sans';
+        text-align: center;
+      }
+
+      #screenshot {
+        width: 600px;
+        height: 608px;
+      }
+    </style>
 
 		<!-- Wrapper -->
 			<div id="wrapper">
@@ -29,7 +59,7 @@
 
 						<footer>
 							<ul class="icons">
-                                <li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.ikghd.me" class="fa-plus">Add Repo</a></li>
+																<li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.ikghd.me" class="fa-plus">Add Repo</a></li>
 							</ul>
 						</footer>
 					</section>
@@ -43,16 +73,18 @@
 
 			</div>
 
-			<!-- new -->
 
-		<!-- Scripts -->
-			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
-			<script>
-				if ('addEventListener' in window) {
-					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
-					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
-				}
-			</script>
-
-	</body>
+  </head>
+  <body>
+    <figure>
+      <picture>
+        <source srcset="settings-dark.png" media="(prefers-color-scheme: dark)">
+        <source srcset="settings-light.png" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)">
+        <img src="settings-light.png" id="screenshot" loading="lazy">
+      </picture>
+      <figcaption>
+        . @ 2020 iKarwan Apt
+      </figcaption>
+    </figure>
+  </body>
 </html>
