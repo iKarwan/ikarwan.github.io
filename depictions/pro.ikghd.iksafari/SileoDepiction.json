@@ -160,13 +160,13 @@
          "tabname":"Changelog",
          "views":[
              {
-                 "title":"Version 1.0-1",
+                 "title":"Version 1.0-3",
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
              },
              {
-                 "markdown":"* Support Latest Youtube version.",
+                 "markdown":"- add DRM :p Special thanks to Litten & Nepeta.",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },
