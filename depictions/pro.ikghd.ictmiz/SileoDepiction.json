@@ -12,14 +12,35 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.PNG"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.PNG"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/3.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/3.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/6.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/6.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/7.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/7.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/8.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/8.png"
                     }
+
                 ],
                 "ipad":{
                     "itemCornerRadius":9,
@@ -27,13 +48,18 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.PNG"
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.PNG"
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.png",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/2.png"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/3.png",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/3.png"
                         }
                     ],
                     "class":"DepictionScreenshotView"
