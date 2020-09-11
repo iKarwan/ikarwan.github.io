@@ -10,11 +10,7 @@
                 "itemCornerRadius":6,
                 "itemSize":"{160, 275.41333333333336}",
                 "screenshots":[
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.png"
-                    },
+
                     {
                         "accessibilityText":"Screenshot",
                         "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/2.png",
@@ -39,6 +35,11 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.png",
                         "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.png"
                     }
                 ],
                 "ipad":{
@@ -70,13 +71,12 @@
                 "useSpacing": true
             },
 
-
-                                    {
-                                       "adUnitID":"ca-app-pub-9956168966407446/6168640413",
-                                       "adSize":"SmartBanner",
-                                       "class":"DepictionAdmobView"
-                                    },
-
+            {
+               "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+               "adSize":"SmartBanner",
+               "class":"DepictionAdmobView"
+            },
+            
             {
                "class":"DepictionSeparatorView"
             },
@@ -89,7 +89,7 @@
 
             {
                 "useBottomMargin": false,
-                "markdown": "This Package is Free if You Purchased YouTubeKiller>\r\n\r\nif purchased this Package you will get YouTubeKiller for 1$\r\n\r\n\u0647\u0630\u0667 \u0667\u0644\u0667\u066f\u0667\u0669 \u0645\u066c\u0667\u0646\u064a \u0667\u0630\u0667 \u0643\u0646\u066a \u0634\u0667\u0631\u064a \u0667\u066f\u0667\u0669 \u0667\u0644\u0640 YouTubeKiller\r\n\r\n\u0667\u0630\u0667 \u0643\u0646\u066a \u0634\u0667\u0631\u064a \u0647\u0630\u0647 \u0667\u0644\u0667\u066f\u0667\u0669 \u066a\u066d\u0635\u0644 \u0639\u0644\u0649 \u0667\u066f\u0667\u0669 \u0667\u0644\u0640 YouTubeKiller 1$\r\n\r\nOl3d Dark Mode For YouTube app!\r\n\r\nSee ScreenShoots ",
+                "markdown": "This Package is Free if You Purchased YouTubeKiller>\r\n\r\nif purchased this Package you will get YouTubeKiller for 1$\r\n\r\n\u0647\u0630\u0627 \u0627\u0644\u0627\u062f\u0627\u0629 \u0645\u062c\u0627\u0646\u064a \u0627\u0630\u0627 \u0643\u0646\u062a \u0634\u0627\u0631\u064a \u0627\u062f\u0627\u0629 \u0627\u0644\u0640 YouTubeKiller\r\n\r\n\u0627\u0630\u0627 \u0643\u0646\u062a \u0634\u0627\u0631\u064a \u0647\u0630\u0647 \u0627\u0644\u0627\u062f\u0627\u0629 \u062a\u062d\u0635\u0644 \u0639\u0644\u0649 \u0627\u062f\u0627\u0629 \u0627\u0644\u0640 YouTubeKiller 1$\r\n",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"

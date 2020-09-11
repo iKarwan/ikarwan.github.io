@@ -7,8 +7,8 @@
          "tabname":"Details",
          "views":[
             {
-                "itemCornerRadius":7,
-                "itemSize":"{170, 275.41333333333336}",
+                "itemCornerRadius":8,
+                "itemSize":"{180, 275.41333333333336}",
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
@@ -49,13 +49,11 @@
                "class":"DepictionSeparatorView"
             },
 
-
-                        {
-                           "adUnitID":"ca-app-pub-9952128926407446/6168240413",
-                           "adSize":"SmartBanner",
-                           "class":"DepictionAdmobView"
-                        },
-
+            {
+               "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+               "adSize":"SmartBanner",
+               "class":"DepictionAdmobView"
+            },
 
             {
                "title":"Features!",
