@@ -114,16 +114,7 @@
                "text":"iOS 10.0 to 13.7",
                "class":"DepictionTableTextView"
             },
-
-
-            {
-               "adUnitID":"ca-app-pub-9952128926407446/6964648460",
-               "adSize":"SmartBanner",
-               "class":"DepictionAdmobView"
-            },
-
-
-
+            
             {
                "class":"DepictionSeparatorView"
             },
