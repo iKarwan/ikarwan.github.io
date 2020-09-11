@@ -7,8 +7,8 @@
          "tabname":"Details",
          "views":[
             {
-                "itemCornerRadius":9,
-                "itemSize":"{190, 675.41333333333336}",
+                "itemCornerRadius":6,
+                "itemSize":"{160, 275.41333333333336}",
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
