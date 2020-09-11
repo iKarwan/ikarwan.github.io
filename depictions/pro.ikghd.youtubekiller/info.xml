@@ -1,7 +1,7 @@
 <package>
 	<id>pro.ikghd.youtubekiller</id>
 	<name>YouTubeKiller</name>
-	<version>3.2.7-5</version>
+	<version>3.2</version>
 	<compatibility>
 		<firmware>
             <miniOS>10.0</miniOS>
@@ -86,7 +86,7 @@
 		<!-- changelog -->
 	<changelog>
         <change><![CDATA[
-            <strong>v1.0-1</strong> <br/>
+            <strong>v3.2-1</strong> <br/>
             -Fixed Hide Tabs. <br/>
 
 							]]>
