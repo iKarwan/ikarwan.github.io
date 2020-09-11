@@ -57,14 +57,14 @@
 
 
             {
-               "title":"Features!",
+               "title":"Features",
                "class":"DepictionHeaderView"
             },
 
 
             {
                 "useBottomMargin": false,
-                "markdown": "\r\niKSettings included features!\r\n\r\n--General--\r\n-set custom settings text\r\n-set custom appl id name\r\n-set custom icon table name\r\n-Rounded Settings\r\n-Remove Black Line\r\n-Remove iCon Table\r\n-Remove Setting Label\r\n-Remove TOP Settings TxT\r\n-Disable SearchBar\r\n-Remove ThirdPartyApps",
+                "markdown": "\r\niKSettings included features\r\n\r\n--General--\r\n-set custom settings text\r\n-set custom appl id name\r\n-set custom icon table name\r\n-Rounded Settings\r\n-Remove Black Line\r\n-Remove iCon Table\r\n-Remove Setting Label\r\n-Remove TOP Settings TxT\r\n-Disable SearchBar\r\n-Remove ThirdPartyApps",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
