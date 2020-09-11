@@ -54,6 +54,9 @@
                "adSize":"SmartBanner",
                "class":"DepictionAdmobView"
             },
+            {
+               "class":"DepictionSeparatorView"
+            },
 
             {
                "title":"Features!",
