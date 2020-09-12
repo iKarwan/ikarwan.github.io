@@ -58,24 +58,6 @@
 		</description>
 	</descriptionlist>
 
-	<!-- INFORMATION -->
-	<infoList>
-		<information>
-
-		<description>Compatible with iOS 13 to 13.7</description>
-
-	</information>
-</infoList>
-
-
-	<!-- LINKS -->
-	<linkList>
-
-		<description>Compatible with iOS 13 to 13.7</description>
-
-</linkList>
-
-
 	<!-- screenshot -->
 	<screenshots>
         <screenshot>
@@ -126,15 +108,6 @@
 	</description>
 	</descriptionlist>
 
-	<!-- INFORMATION -->
-	<infoList>
-		<information>
-
-		<description>Compatible with iOS 13 to 13.7</description>
-
-	</information>
-</infoList>
-
 		<!-- changelog -->
 	<changelog>
         <change><![CDATA[
@@ -144,15 +117,10 @@
 							]]>
         </change>
 	</changelog>
+	
+	<links>					<li>
+										<a href="https://www.youtube.com/c/iKGHD">* YouTube Channel</a> <br/>
+									</li>
+	</links>
 
-	<!-- INFORMATION -->
-	<infoList>
-		<information>
-
-		<description>Compatible with iOS 13 to 13.7</description>
-
-	</information>
-</infoList>
-
-	<links></links>
 </package>
