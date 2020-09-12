@@ -59,7 +59,7 @@
 	</descriptionlist>
 
 	<!-- main description -->
-	<descriptionlist>
+	<info>
 				<description><![CDATA[
 					iCTMiZ Pro 2.2  <br/><br/>
 
@@ -70,7 +70,7 @@
 			]]>
 
 		</description>
-	</descriptionlist>
+	</info>
 
 	<!-- screenshot -->
 	<screenshots>
