@@ -2,6 +2,7 @@
 	<id>pro.ikghd.ictmiz</id>
 	<name>iCTMiZ Pro</name>
 	<version>2.2</version>
+	<Information>2.2</Information>
 	<compatibility>
 		<firmware>
             <miniOS>13.0</miniOS>
