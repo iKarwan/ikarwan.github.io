@@ -48,6 +48,13 @@
             {
                "class":"DepictionSeparatorView"
             },
+            {
+               "title":"Sooon قريباَ",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
 
             {
                "adUnitID":"ca-app-pub-9952128926407446/6168240413",

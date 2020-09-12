@@ -70,6 +70,13 @@
             {
                "class":"DepictionSeparatorView"
             },
+            {
+               "title":"Sooon قريباَ",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
 
 
 
