@@ -59,8 +59,8 @@
 	</descriptionlist>
 
 	<!-- main description -->
-	<Information>
-				<descriptionlist><![CDATA[
+	<descriptionlist>
+				<description><![CDATA[
 					iCTMiZ Pro 2.2  <br/><br/>
 
 					<li>
@@ -69,8 +69,8 @@
 
 			]]>
 
-		</descriptionlist>
-	</Information>
+		</description>
+	</descriptionlist>
 
 	<!-- screenshot -->
 	<screenshots>
