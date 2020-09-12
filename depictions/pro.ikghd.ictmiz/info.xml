@@ -59,16 +59,6 @@
 	</descriptionlist>
 
 	<!-- INFORMATION -->
-	<descriptionlist>
-		<description>
-
-		<description>Compatible with iOS 13 to 13.7</description>
-
-	</description>
-</descriptionlist>
-
-
-	<!-- INFORMATION -->
 	<infoList>
 		<description>
 
@@ -136,6 +126,15 @@
 	</description>
 	</descriptionlist>
 
+	<!-- INFORMATION -->
+	<infoList>
+		<description>
+
+		<description>Compatible with iOS 13 to 13.7</description>
+
+	</description>
+</infoList>
+
 		<!-- changelog -->
 	<changelog>
         <change><![CDATA[
@@ -145,5 +144,15 @@
 							]]>
         </change>
 	</changelog>
+
+	<!-- INFORMATION -->
+	<infoList>
+		<description>
+
+		<description>Compatible with iOS 13 to 13.7</description>
+
+	</description>
+</infoList>
+
 	<links></links>
 </package>
