@@ -58,14 +58,23 @@
 		</description>
 	</descriptionlist>
 
-	<!-- main description -->
+	<!-- INFORMATION -->
 	<info>
-		<INFORMATION>
+		<description>
 
 		<description>Compatible with iOS 13 to 13.7</description>
 
-	</INFORMATION>
+	</description>
 	</info>
+
+
+	<!-- LINKS -->
+	<links>
+
+		<description>Compatible with iOS 13 to 13.7</description>
+
+</links>
+
 
 	<!-- screenshot -->
 	<screenshots>
