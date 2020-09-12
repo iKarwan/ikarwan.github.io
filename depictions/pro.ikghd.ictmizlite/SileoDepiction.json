@@ -146,6 +146,12 @@
         },
 
         {
+           "adUnitID":"ca-app-pub-9952128926407446/4378616214",
+           "adSize":"LargeBanner",
+           "class":"DepictionAdmobView"
+        },
+
+        {
            "spacing":10,
            "class":"DepictionSpacerView"
         }
