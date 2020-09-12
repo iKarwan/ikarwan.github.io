@@ -150,7 +150,7 @@
             },
 
             {
-               "adUnitID":"ca-app-pub-9952128926407446/3532438400",
+               "adUnitID":"ca-app-pub-9952128926407446/6168240413",
                "adSize":"LargeBanner",
                "class":"DepictionAdmobView"
             },
@@ -165,6 +165,13 @@
       {
          "tabname":"Changelog",
          "views":[
+
+           {
+              "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+              "adSize":"SmartBanner",
+              "class":"DepictionAdmobView"
+           },
+
              {
                  "title":"Version 1.0-3",
                  "useBoldText":true,

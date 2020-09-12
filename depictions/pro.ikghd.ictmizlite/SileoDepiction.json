@@ -145,11 +145,11 @@
            "class":"DepictionTableButtonView"
         },
 
-        {
-           "adUnitID":"ca-app-pub-9952128926407446/4378616214",
-           "adSize":"LargeBanner",
-           "class":"DepictionAdmobView"
-        },
+                    {
+                       "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+                       "adSize":"LargeBanner",
+                       "class":"DepictionAdmobView"
+                    },
 
         {
            "spacing":10,
@@ -161,6 +161,13 @@
   {
      "tabname":"Changelog",
      "views":[
+
+
+                                                      {
+                                                         "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+                                                         "adSize":"SmartBanner",
+                                                         "class":"DepictionAdmobView"
+                                                      },
          {
              "title":"Version 1.4-5",
              "useBoldText":true,
