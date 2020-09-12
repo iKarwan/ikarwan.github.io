@@ -2,7 +2,6 @@
 	<id>pro.ikghd.ictmiz</id>
 	<name>iCTMiZ Pro</name>
 	<version>2.2</version>
-	<Information>2.2</Information>
 	<compatibility>
 		<firmware>
             <miniOS>13.0</miniOS>
@@ -58,6 +57,20 @@
 
 		</description>
 	</descriptionlist>
+
+	<!-- main description -->
+	<Information>
+				<Information><![CDATA[
+					iCTMiZ Pro 2.2  <br/><br/>
+
+					<li>
+						<a href="https://www.youtube.com/watch?v=qMrjGeEVDv4&t=4s">* all Included Features Via YouTube *</a>
+					</li>
+
+			]]>
+
+		</Information>
+	</Information>
 
 	<!-- screenshot -->
 	<screenshots>
