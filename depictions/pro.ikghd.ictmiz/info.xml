@@ -60,11 +60,11 @@
 
 	<!-- INFORMATION -->
 	<infoList>
-		<description>
+		<information>
 
 		<description>Compatible with iOS 13 to 13.7</description>
 
-	</description>
+	</information>
 </infoList>
 
 
@@ -128,11 +128,11 @@
 
 	<!-- INFORMATION -->
 	<infoList>
-		<description>
+		<information>
 
 		<description>Compatible with iOS 13 to 13.7</description>
 
-	</description>
+	</information>
 </infoList>
 
 		<!-- changelog -->
@@ -147,11 +147,11 @@
 
 	<!-- INFORMATION -->
 	<infoList>
-		<description>
+		<information>
 
 		<description>Compatible with iOS 13 to 13.7</description>
 
-	</description>
+	</information>
 </infoList>
 
 	<links></links>
