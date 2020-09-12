@@ -1,7 +1,7 @@
 <package>
 	<id>pro.ikghd.ictmizlite</id>
 	<name>iCTMiZLite</name>
-	<version>1.4</version>
+	<version>1.5</version>
 	<compatibility>
 		<firmware>
             <miniOS>12.0</miniOS>
@@ -72,7 +72,7 @@
 		<!-- changelog -->
 	<changelog>
         <change><![CDATA[
-            <strong>v1.4-5</strong> <br/>
+            <strong>v1.5-1</strong> <br/>
             -add DRM :p Special thanks to Litten & Nepeta. <br/>
 
 							]]>
