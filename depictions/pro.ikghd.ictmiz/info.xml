@@ -60,14 +60,9 @@
 
 	<!-- main description -->
 	<info>
-				<description><![CDATA[
-					iCTMiZ Pro 2.2  <br/><br/>
+		<description>
 
-					<li>
-						<a href="https://www.youtube.com/watch?v=qMrjGeEVDv4&t=4s">* all Included Features Via YouTube *</a>
-					</li>
-
-			]]>
+		<description>Compatible with iOS 13 to 13.7</description>
 
 		</description>
 	</info>
