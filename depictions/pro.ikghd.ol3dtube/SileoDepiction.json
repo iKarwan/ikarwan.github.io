@@ -124,7 +124,7 @@
             },
             {
                "title":"Version",
-               "text":"1.0-1",
+               "text":"1.0",
                "class":"DepictionTableTextView"
             },
             {
@@ -195,7 +195,7 @@
               "class":"DepictionAdmobView"
            },
              {
-                 "title":"Version 1.0-1",
+                 "title":"Version 1.0",
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"

@@ -1,15 +1,15 @@
 Package: pro.ikghd.iksettings
 Architecture: iphoneos-arm
-Version: 3.1-1
+Version: 3.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Author: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
-Filename: ./debs/pro.ikghd.iksettings_3.1-1_iphoneos-arm.deb
-Size: 70976
-MD5sum: 48c9b7155675a11f22da9152d90a8b00
-SHA1: 9e6765810b3934ccd862701adee60d230bdf70dd
-SHA256: 46d87405230e935bf24c635b9a1da57571b6f33e7b93c77ba756ce88abdf3e8d
+Filename: ./debs/pro.ikghd.iksettings_3.1_iphoneos-arm.deb
+Size: 69706
+MD5sum: 236e945268e92644d676b4bef4d89ab0
+SHA1: 37cdce8e35ca1dddda2aabd4184815c7f9852349
+SHA256: 3e320059b33738296deb0a1e3549542cf10a59ed1ae58f7edab188bf349002f4
 Homepage: http://twitter.com/ikg_hd
 Description: Customize Settings iOS 11/12/13!
 Name: iKSettings
@@ -19,16 +19,16 @@ Icon: https://ikarwan.github.io/depictions/pro.ikghd.iksettings/icon@3x.png
 
 Package: pro.ikghd.iksafari
 Architecture: iphoneos-arm
-Version: 1.1-1
+Version: 1.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Author: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, firmware ( >= 11.0)
-Filename: ./debs/pro.ikghd.iksafari_1.1-1_iphoneos-arm.deb
-Size: 55294
-MD5sum: cc4216eec0a886c560e1e88cd2afac6d
-SHA1: 94ed916d1fcb1b83cb51ed41e1d91e7361cee815
-SHA256: 96ac94d05a8df2be5c4b66fdce291cc8e68322ee9c126da665d38f338e16a825
+Filename: ./debs/pro.ikghd.iksafari_1.1_iphoneos-arm.deb
+Size: 54768
+MD5sum: 330eb3fe6c679c87538939a4de8130d3
+SHA1: 135a7104ca539d5209ffff73d511f0948c03d36b
+SHA256: 5fcef4550d14fe9ac6ff90cbd28379221c17a686ba1119d4216ffa590498ab7e
 Homepage: http://twitter.com/ikg_hd
 Description: Some Features For Safari iOS 12/13!
 Name: iKSafari
@@ -38,16 +38,16 @@ Icon: https://ikarwan.github.io/depictions/pro.ikghd.iksafari/icon@3x.png
 
 Package: pro.ikghd.ictmizlite
 Architecture: iphoneos-arm
-Version: 1.5-1
+Version: 1.5
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Author: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 12.0)
-Filename: ./debs/pro.ikghd.ictmizlite_1.5-1_iphoneos-arm.deb
-Size: 57894
-MD5sum: f41807f1b65d75283afbcf105933bcd4
-SHA1: b960784fbce574cb2588caa9bc4c9ddf90955b75
-SHA256: 305e343af346a98a09b4bd8f2103add3a8783306f7dc421cbe7b4b1ec04f0ef2
+Filename: ./debs/pro.ikghd.ictmizlite_1.5_iphoneos-arm.deb
+Size: 57030
+MD5sum: 86a908117e6ed3b2c1c382c8dfa777c5
+SHA1: 93bd139db83205d393ec94a2c8b6cc9dd5de9612
+SHA256: 4378f0d05e5fd6f16e59c9a0724efa0b60cd67fc228c102431b8f16f58d3340a
 Homepage: http://twitter.com/ikg_hd
 Description: Device Customization iOS 12/13!
 Name: iCTMiZLite
@@ -57,16 +57,16 @@ Icon: https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/icon@3x.png
 
 Package: pro.ikghd.pmp
 Architecture: iphoneos-arm
-Version: 1.1-1
+Version: 1.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Author: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
-Filename: ./debs/pro.ikghd.pmp_1.1-1_iphoneos-arm.deb
-Size: 87572
-MD5sum: 37257f5c6517b55cf5547d507b2fd49a
-SHA1: bc8cefe9451148aace153812acbbb20fe865db7d
-SHA256: 2fb839765e9bc604b684b83a132d80711ca94bfe27aa6329fb5e231057ddc5de
+Filename: ./debs/pro.ikghd.pmp_1.1_iphoneos-arm.deb
+Size: 87090
+MD5sum: 0afb0ee4df179b1831e4c018d9214008
+SHA1: 645e6db4dde6f5fdf1e235fccf099c47c70b6b0c
+SHA256: 23f94a81af5eeae71326bd55cbba538470162bbb72bf8446cd19e94bfcd29e64
 Homepage: http://twitter.com/ikg_hd
 Description: PMP Protect My Photos!
 Name: PMP
@@ -76,18 +76,18 @@ Icon: https://ikarwan.github.io/depictions/pro.ikghd.pmp/icon@3x.png
 
 Package: pro.ikghd.ictmiz
 Architecture: iphoneos-arm
-Version: 2.1-1
+Version: 2.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Author: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
-Filename: ./debs/pro.ikghd.ictmiz_2.1-1_iphoneos-arm.deb
+Filename: ./debs/pro.ikghd.ictmiz_2.1_iphoneos-arm.deb
 Size: 424418
 MD5sum: 5fff43b782d9efd0e42f8a99fa08fcad
 SHA1: 72aa0551994b0ff84827b19e718fa1a2b2d6f755
 SHA256: 47d2c9943f02ec2276f31344ab267687f1bf5078e86e21c6471afab694ed5672
 Homepage: http://twitter.com/ikg_hd
-Description: iCustomize Not U appl!
+Description: i Customize Not U appl!
 Name: iCTMiZ Pro
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
 SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/SileoDepiction.json
@@ -96,18 +96,18 @@ Icon: https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/icon@3x.png
 
 Package: pro.ikghd.ictmiz
 Architecture: iphoneos-arm
-Version: 2.1-2
+Version: 2.0
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Author: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
-Filename: ./debs/pro.ikghd.ictmiz_2.1-2_iphoneos-arm.deb
+Filename: ./debs/pro.ikghd.ictmiz_2.0_iphoneos-arm.deb
 Size: 424400
 MD5sum: 1456a45223c23b8ea2035d80d5b38ce8
 SHA1: e553f84477feb5e346eef10f6d1a814a552b084a
 SHA256: 8f07fbbcb259cb2a29798c2079ca71df83cc0dc9b0464edf7ce3b2949ea06534
 Homepage: http://twitter.com/ikg_hd
-Description: iCustomize Not U appl!
+Description: i Customize Not U appl!
 Name: iCTMiZ Pro
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
 SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/SileoDepiction.json
@@ -115,12 +115,12 @@ Icon: https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/icon@3x.png
 
 Package: pro.ikghd.youtubekiller
 Architecture: iphoneos-arm
-Version: 3.2.7-2
+Version: 3.2.7
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Author: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
-Filename: ./debs/pro.ikghd.youtubekiller_3.2.7-2_iphoneos-arm.deb
+Filename: ./debs/pro.ikghd.youtubekiller_3.2.7_iphoneos-arm.deb
 Size: 74100
 MD5sum: f6ce9edb3084e4656d8a79faeea331b8
 SHA1: 6c5b481a371386524a95b7641c7c840ddb43774c
@@ -134,12 +134,12 @@ Icon: https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/icon@3x.png
 
 Package: pro.ikghd.ol3dtube
 Architecture: iphoneos-arm
-Version: 1.0-1
+Version: 1.0
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Author: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
-Filename: ./debs/pro.ikghd.ol3d_1.0-1_iphoneos-arm.deb
+Filename: ./debs/pro.ikghd.ol3d_1.0_iphoneos-arm.deb
 Size: 86106
 MD5sum: d66655852972ef51d66b99c206330e6b
 SHA1: 6f568e230735c2973e8feb53fa202e9e385e3d4c
