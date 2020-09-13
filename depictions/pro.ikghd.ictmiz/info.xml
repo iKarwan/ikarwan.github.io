@@ -1,0 +1,124 @@
+<package>
+	<id>pro.ikghd.ictmiz</id>
+	<name>iCTMiZ Pro</name>
+	<version>2.2</version>
+	<compatibility>
+		<firmware>
+            <miniOS>13.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+
+	<!-- main description -->
+	<descriptionlist>
+        <description>Compatible with iOS 13 to 13.7</description>
+				<description>Sooon قريباَ</description>
+        <description><![CDATA[
+					Customize Your Device With More Than 250+ Features.! <br/><br/>
+
+					iCTMiZ Pro 2.2  <br/><br/>
+
+				 i Customize Not You Appl!<br/>
+
+				 included more then 250+ features,<br/>
+
+				 Compataible with iOS 13 UP Too iOS 13.6<br/>
+
+				 Supported Languges English>عــربي >中文！<br/>
+
+
+				 اداة الـ iCTMiZ Pro 2.2<br/>
+
+				 تخصيص النظام من الالف الى الياء تقريبا<br/>
+
+				 فيها اكتر من ٢٥٠+ ميزة<br/>
+
+				 تدعم الاصدارات ١٣.٦/١٣<br/>
+
+
+				 我自定义不是您appl！<br/>
+
+				 包含了250多种功能<br/>
+
+				 支持iOS 13 / 13.6<br/>
+
+				 支持的语言英语> عــربي>中文！<br/>
+
+					- and much much more... <br/><br/>
+
+					<li>
+						<a href="https://www.youtube.com/watch?v=qMrjGeEVDv4&t=4s">* all Included Features Via YouTube *</a>
+					</li>
+
+			]]>
+
+		</description>
+	</descriptionlist>
+
+	<!-- screenshot -->
+	<screenshots>
+        <screenshot>
+            <description>Tweak in action</description>
+            <image>6.png</image>
+        </screenshot>
+
+				<screenshot>
+						<image>7.png</image>
+				</screenshot>
+
+				<screenshot>
+						<image>8.png</image>
+				</screenshot>
+
+
+				<screenshot>
+						<description>Settings for the tweak.</description>
+						<image>1.png</image>
+				</screenshot>
+				<screenshot>
+						<image>2.PNG</image>
+				</screenshot>
+				<screenshot>
+						<image>3.png</image>
+				</screenshot>
+    </screenshots>
+
+		<!-- Support -->
+			<descriptionlist>
+			<description><![CDATA[
+
+
+								<li>
+									<a href="https://paypal.me/hiwajaf">* Support The dev</a> <br/><br/>
+								</li>
+
+								<li>
+									<a href="https://twitter.com/ikg_hd">* Follow @iKarwan</a><br/><br/>
+								</li>
+
+								<li>
+									<a href="https://www.youtube.com/c/iKGHD">* YouTube Channel</a> <br/>
+								</li>
+
+		]]>
+
+	</description>
+	</descriptionlist>
+
+		<!-- changelog -->
+	<changelog>
+        <change><![CDATA[
+            <strong>v1.0</strong> <br/>
+            -Fixed Hide Tabs. <br/>
+
+							]]>
+        </change>
+	</changelog>
+
+	<links></links>
+
+</package>

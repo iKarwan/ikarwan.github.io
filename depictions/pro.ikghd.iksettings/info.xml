@@ -1,0 +1,88 @@
+<package>
+	<id>pro.ikghd.iksettings</id>
+	<name>iKSettings</name>
+	<version>3.1</version>
+	<compatibility>
+		<firmware>
+            <miniOS>11.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+
+	<!-- main description -->
+	<descriptionlist>
+        <description>Compatible with iOS 11 to 13.7</description>
+        <description><![CDATA[
+					iKSettings included features! <br/><br/>
+
+					--General--<br/>
+					-set custom settings text<br/>
+					-set custom appl id name<br/>
+					-set custom icon table name<br/>
+					-Rounded Settings<br/>
+					-Remove Black Line<br/>
+					-Remove iCon Table<br/>
+					-Remove Setting Label<br/>
+					-Remove TOP Settings TxT<br/>
+					-Disable SearchBar<br/>
+					-Remove ThirdPartyApps<br/>
+
+			]]>
+
+		</description>
+	</descriptionlist>
+
+	<!-- screenshot -->
+	<screenshots>
+        <screenshot>
+            <description>Tweak in action</description>
+            <image>2.png</image>
+        </screenshot>
+
+
+
+
+				<screenshot>
+						<description>Settings for the tweak.</description>
+						<image>1.PNG</image>
+				</screenshot>
+    </screenshots>
+
+		<!-- Support -->
+			<descriptionlist>
+			<description><![CDATA[
+
+
+								<li>
+									<a href="https://paypal.me/hiwajaf">* Support The dev</a> <br/><br/>
+								</li>
+
+								<li>
+									<a href="https://twitter.com/ikg_hd">* Follow @iKarwan</a><br/><br/>
+								</li>
+
+								<li>
+									<a href="https://www.youtube.com/c/iKGHD">* YouTube Channel</a> <br/>
+								</li>
+
+
+		]]>
+
+	</description>
+	</descriptionlist>
+
+		<!-- changelog -->
+	<changelog>
+        <change><![CDATA[
+            <strong>v3.1</strong> <br/>
+            - add DRM :p Special thanks to Litten & Nepeta.<br/>
+
+							]]>
+        </change>
+	</changelog>
+	<links></links>
+</package>

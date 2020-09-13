@@ -1,0 +1,254 @@
+{
+   "minVersion":"0.1",
+   "headerImage":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/Images/Banner.png",
+   "tintColor":"#B80000",
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[
+            {
+                "itemCornerRadius":8,
+                "itemSize":"{180, 275.41333333333336}",
+                "screenshots":[
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/3.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG"
+                    }
+                ],
+                "ipad":{
+                    "itemCornerRadius":9,
+                    "itemSize":"{320, 550.8266666666667}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG"
+                        }
+                    ],
+                    "class":"DepictionScreenshotView"
+                },
+                "class":"DepictionScreenshotsView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Sooon قريباَ",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+            {
+               "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+               "adSize":"SmartBanner",
+               "class":"DepictionAdmobView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+            {
+               "title":"Features",
+               "class":"DepictionHeaderView"
+            },
+            {
+                "useBottomMargin": false,
+                "markdown": "- Block All advertisment.\r\n- iPad Style Ui & Keyboard.\r\n- Play in Background.\r\n- Oled Mode better Experiance Dark Mode. \r\n- Age Restriction Play all Videos.\r\n- Play High Quality Videos Over 3G/4G.\r\n- Customize The Tab Bar.\r\n- Hide almost any unwanted Features.\r\n- Customize Icon colors & Keyboard.\r\n- Stream 4K Quality Videos.\r\n- Customazation the app almost any corner!.\r\n- and much much more... ",
+                "useBoldText": true,
+                "title": "markdown-description",
+                "class": "DepictionMarkdownView"
+            },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
+
+                            {
+                               "title":"Latest Changes",
+                               "class":"DepictionHeaderView"
+                            },
+
+                            {
+                                "markdown":"- Fixed some bugs.",
+                                "useSpacing":true,
+                                "class":"DepictionMarkdownView"
+                            },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
+
+            {
+               "title":"Information",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"1.0",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Released",
+               "text":"2020-9-9",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Price",
+               "text":"$1.99",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Compatibility",
+               "text":"iOS 10.0 to 13.7",
+               "class":"DepictionTableTextView"
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Links",
+               "class":"DepictionHeaderView"
+            },
+
+            {
+               "title":"Support The dev",
+               "useBoldText": true,
+               "action":"https://www.paypal.com/paypalme/hiwajaf",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"Follow @iKarwan",
+               "useBoldText": true,
+               "action":"https://twitter.com/ikg_hd",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"YouTube Channel",
+               "useBoldText": true,
+               "action":"https://youtube.com/c/ikghd",
+               "class":"DepictionTableButtonView"
+            },
+            {
+               "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+               "adSize":"LargeBanner",
+               "class":"DepictionAdmobView"
+            },
+
+            {
+               "spacing":10,
+               "class":"DepictionSpacerView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {
+         "tabname":"Changelog",
+         "views":[
+           {
+              "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+              "adSize":"SmartBanner",
+              "class":"DepictionAdmobView"
+           },
+             {
+                 "title":"Version 3.2.0",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 3.2",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 3.1",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 3.0",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 2.9.1",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 2.9",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}

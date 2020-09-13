@@ -1,0 +1,97 @@
+<package>
+	<id>pro.ikghd.youtubekiller</id>
+	<name>YouTubeKiller</name>
+	<version>3.2</version>
+	<compatibility>
+		<firmware>
+            <miniOS>10.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+
+	<!-- main description -->
+	<descriptionlist>
+        <description>Compatible with iOS 10 to 13.7</description>
+				<description>Sooon قريباَ</description>
+        <description><![CDATA[
+					Customize YouTube app like you want.! <br/><br/>
+					* Some Of the Features iNcluded. <br/>
+					* See screenshot below for more details. <br/><br/>
+
+					- Block All advertisment.<br/>
+					- iPad Style Ui & Keyboard. <br/>
+					- Play in Background. <br/>
+					- Oled Mode better Experiance Dark Mode. <br/>
+					- Age Restriction Play all Videos. <br/>
+					- Play High Quality Videos Over 3G/4G. <br/>
+					- Customize The Tab Bar. <br/>
+					- Hide almost any unwanted Features. <br/>
+					- Customize Icon colors & Keyboard. <br/>
+					- Stream 4K Quality Videos. <br/>
+					- Customazation the app almost any corner!. <br/>
+					- and much much more... <br/><br/>
+
+					<li>
+						<a href="https://www.youtube.com/watch?v=vdsUXmluvOw&ab_channel=iKG-HD">* all Included Features Via YouTube *</a>
+					</li>
+
+			]]>
+
+		</description>
+	</descriptionlist>
+
+	<!-- screenshot -->
+	<screenshots>
+        <screenshot>
+            <description>Tweak in action</description>
+            <image>3.png</image>
+        </screenshot>
+
+
+				<screenshot>
+						<image>1.PNG</image>
+				</screenshot>
+
+
+				<screenshot>
+						<description>Settings for the tweak.</description>
+						<image>2.PNG</image>
+				</screenshot>
+    </screenshots>
+
+		<!-- Support -->
+			<descriptionlist>
+			<description><![CDATA[
+
+				<li>
+					<a href="https://paypal.me/hiwajaf">* Support The dev</a> <br/><br/>
+				</li>
+
+				<li>
+					<a href="https://twitter.com/ikg_hd">* Follow @iKarwan</a><br/><br/>
+				</li>
+
+				<li>
+					<a href="https://www.youtube.com/c/iKGHD">* YouTube Channel</a> <br/>
+				</li>
+
+		]]>
+
+	</description>
+	</descriptionlist>
+
+		<!-- changelog -->
+	<changelog>
+        <change><![CDATA[
+            <strong>v3.2</strong> <br/>
+            -Fixed Hide Tabs. <br/>
+
+							]]>
+        </change>
+	</changelog>
+	<links></links>
+</package>

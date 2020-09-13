@@ -1,0 +1,213 @@
+{
+   "minVersion":"0.1",
+   "headerImage":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/Images/Banner.png",
+   "tintColor":"#541717",
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[
+            {
+                "itemCornerRadius":6,
+                "itemSize":"{160, 275.41333333333336}",
+                "screenshots":[
+
+                  {
+                      "accessibilityText":"Screenshot",
+                      "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.PNG",
+                      "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.PNG"
+                  },
+
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/2.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/2.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/3.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/3.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/4.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/4.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/5.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/5.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.png"
+                    }
+                ],
+                "ipad":{
+                    "itemCornerRadius":9,
+                    "itemSize":"{360, 550.8666666666667}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.png",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.png"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.PNG",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.PNG"
+                        }
+                    ],
+                    "class":"DepictionScreenshotView"
+                },
+                "class":"DepictionScreenshotsView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"Sooon قريباَ",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+            {
+               "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+               "adSize":"SmartBanner",
+               "class":"DepictionAdmobView"
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Features",
+               "class":"DepictionHeaderView"
+            },
+
+            {
+                "useBottomMargin": false,
+                "markdown": "This Package will be available soon fo free!>\r\n\r\nif you purchased this Package before on YouRepo you will get YouTubeKiller for free\r\n\r\n\u0647\u0630\u0627 \u0627\u0644\u0627\u062f\u0627\u0629 \u0645\u062c\u0627\u0646\u064a \u0627\u0630\u0627 \u0643\u0646\u062a \u0634\u0627\u0631\u064a \u0627\u062f\u0627\u0629 \u0627\u0644\u0640 YouTubeKiller\r\n\r\n\u0627\u0630\u0627 \u0643\u0646\u062a \u0634\u0627\u0631\u064a \u0647\u0630\u0647 \u0627\u0644\u0627\u062f\u0627\u0629 \u062a\u062d\u0635\u0644 \u0639\u0644\u0649 \u0627\u062f\u0627\u0629 \u0627\u0644\u0640 YouTubeKiller \r\n",
+                "useBoldText": true,
+                "title": "markdown-description",
+                "class": "DepictionMarkdownView"
+            },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
+
+                            {
+                               "title":"Latest Changes",
+                               "class":"DepictionHeaderView"
+                            },
+
+                            {
+                                "markdown":"- Fixed some bugs.",
+                                "useSpacing":true,
+                                "class":"DepictionMarkdownView"
+                            },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
+
+            {
+               "title":"Information",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"1.0",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Released",
+               "text":"2020-9-9",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Price",
+               "text":"$0.99",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Compatibility",
+               "text":"iOS 10.0 to 13.7",
+               "class":"DepictionTableTextView"
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Links",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Support The dev",
+               "useBoldText": true,
+               "action":"https://www.paypal.com/paypalme/hiwajaf",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"Follow @iKarwan",
+               "useBoldText": true,
+               "action":"https://twitter.com/ikg_hd",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"YouTube Channel",
+               "useBoldText": true,
+               "action":"https://youtube.com/c/ikghd",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+               "adSize":"LargeBanner",
+               "class":"DepictionAdmobView"
+            },
+
+            {
+               "spacing":10,
+               "class":"DepictionSpacerView"
+            }
+         ],
+         "class":"DepictionStackView"
+      },
+      {
+         "tabname":"Changelog",
+         "views":[
+           {
+              "adUnitID":"ca-app-pub-9952128926407446/6168240413",
+              "adSize":"SmartBanner",
+              "class":"DepictionAdmobView"
+           },
+             {
+                 "title":"Version 1.0",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}

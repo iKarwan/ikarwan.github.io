@@ -1,0 +1,79 @@
+<package>
+	<id>pro.ikghd.iksafari</id>
+	<name>iKsafari</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+            <miniOS>11.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+
+	<!-- main description -->
+	<descriptionlist>
+        <description>Compatible with iOS 11 to 13.7</description>
+        <description><![CDATA[
+					Some Useful Features for safari >! <br/><br/>
+
+			]]>
+
+		</description>
+	</descriptionlist>
+
+	<!-- screenshot -->
+	<screenshots>
+        <screenshot>
+            <description>Tweak in action</description>
+            <image>2.PNG</image>
+        </screenshot>
+
+
+				<screenshot>
+						<image>3.png</image>
+				</screenshot>
+
+
+				<screenshot>
+						<description>Settings for the tweak.</description>
+						<image>1.PNG</image>
+				</screenshot>
+    </screenshots>
+
+		<!-- Support -->
+			<descriptionlist>
+			<description><![CDATA[
+
+
+								<li>
+									<a href="https://paypal.me/hiwajaf">* Support The dev</a> <br/><br/>
+								</li>
+
+								<li>
+									<a href="https://twitter.com/ikg_hd">* Follow @iKarwan</a><br/><br/>
+								</li>
+
+								<li>
+									<a href="https://www.youtube.com/c/iKGHD">* YouTube Channel</a> <br/>
+								</li>
+
+
+		]]>
+
+	</description>
+	</descriptionlist>
+
+		<!-- changelog -->
+	<changelog>
+        <change><![CDATA[
+            <strong>v1.1</strong> <br/>
+            - add DRM :p Special thanks to Litten & Nepeta.<br/>
+
+							]]>
+        </change>
+	</changelog>
+	<links></links>
+</package>
