@@ -1,0 +1,152 @@
+Package: pro.ikghd.iksettings
+Architecture: iphoneos-arm
+Version: 3.1-1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Author: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
+Filename: ./debs/pro.ikghd.iksettings_3.1-1_iphoneos-arm.deb
+Size: 70976
+MD5sum: 48c9b7155675a11f22da9152d90a8b00
+SHA1: 9e6765810b3934ccd862701adee60d230bdf70dd
+SHA256: 46d87405230e935bf24c635b9a1da57571b6f33e7b93c77ba756ce88abdf3e8d
+Homepage: http://twitter.com/ikg_hd
+Description: Customize Settings iOS 11/12/13!
+Name: iKSettings
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.iksettings
+SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.iksettings/SileoDepiction.json
+Icon: https://ikarwan.github.io/depictions/pro.ikghd.iksettings/icon@3x.png
+
+Package: pro.ikghd.iksafari
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Author: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, firmware ( >= 11.0)
+Filename: ./debs/pro.ikghd.iksafari_1.1-1_iphoneos-arm.deb
+Size: 55294
+MD5sum: cc4216eec0a886c560e1e88cd2afac6d
+SHA1: 94ed916d1fcb1b83cb51ed41e1d91e7361cee815
+SHA256: 96ac94d05a8df2be5c4b66fdce291cc8e68322ee9c126da665d38f338e16a825
+Homepage: http://twitter.com/ikg_hd
+Description: Some Features For Safari iOS 12/13!
+Name: iKSafari
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.iksafari
+SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.iksafari/SileoDepiction.json
+Icon: https://ikarwan.github.io/depictions/pro.ikghd.iksafari/icon@3x.png
+
+Package: pro.ikghd.ictmizlite
+Architecture: iphoneos-arm
+Version: 1.5-1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Author: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 12.0)
+Filename: ./debs/pro.ikghd.ictmizlite_1.5-1_iphoneos-arm.deb
+Size: 57894
+MD5sum: f41807f1b65d75283afbcf105933bcd4
+SHA1: b960784fbce574cb2588caa9bc4c9ddf90955b75
+SHA256: 305e343af346a98a09b4bd8f2103add3a8783306f7dc421cbe7b4b1ec04f0ef2
+Homepage: http://twitter.com/ikg_hd
+Description: Device Customization iOS 12/13!
+Name: iCTMiZLite
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizlite
+SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/SileoDepiction.json
+Icon: https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/icon@3x.png
+
+Package: pro.ikghd.pmp
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Author: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
+Filename: ./debs/pro.ikghd.pmp_1.1-1_iphoneos-arm.deb
+Size: 87572
+MD5sum: 37257f5c6517b55cf5547d507b2fd49a
+SHA1: bc8cefe9451148aace153812acbbb20fe865db7d
+SHA256: 2fb839765e9bc604b684b83a132d80711ca94bfe27aa6329fb5e231057ddc5de
+Homepage: http://twitter.com/ikg_hd
+Description: PMP Protect My Photos!
+Name: PMP
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.pmp
+SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.pmp/SileoDepiction.json
+Icon: https://ikarwan.github.io/depictions/pro.ikghd.pmp/icon@3x.png
+
+Package: pro.ikghd.ictmiz
+Architecture: iphoneos-arm
+Version: 2.1-1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Author: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
+Filename: ./debs/pro.ikghd.ictmiz_2.1-1_iphoneos-arm.deb
+Size: 424418
+MD5sum: 5fff43b782d9efd0e42f8a99fa08fcad
+SHA1: 72aa0551994b0ff84827b19e718fa1a2b2d6f755
+SHA256: 47d2c9943f02ec2276f31344ab267687f1bf5078e86e21c6471afab694ed5672
+Homepage: http://twitter.com/ikg_hd
+Description: iCustomize Not U appl!
+Name: iCTMiZ Pro
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
+SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/SileoDepiction.json
+Icon: https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/icon@3x.png
+
+
+Package: pro.ikghd.ictmiz
+Architecture: iphoneos-arm
+Version: 2.1-2
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Author: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
+Filename: ./debs/pro.ikghd.ictmiz_2.1-2_iphoneos-arm.deb
+Size: 424400
+MD5sum: 1456a45223c23b8ea2035d80d5b38ce8
+SHA1: e553f84477feb5e346eef10f6d1a814a552b084a
+SHA256: 8f07fbbcb259cb2a29798c2079ca71df83cc0dc9b0464edf7ce3b2949ea06534
+Homepage: http://twitter.com/ikg_hd
+Description: iCustomize Not U appl!
+Name: iCTMiZ Pro
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
+SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/SileoDepiction.json
+Icon: https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/icon@3x.png
+
+Package: pro.ikghd.youtubekiller
+Architecture: iphoneos-arm
+Version: 3.2.7-2
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Author: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
+Filename: ./debs/pro.ikghd.youtubekiller_3.2.7-2_iphoneos-arm.deb
+Size: 74100
+MD5sum: f6ce9edb3084e4656d8a79faeea331b8
+SHA1: 6c5b481a371386524a95b7641c7c840ddb43774c
+SHA256: d60d5113bd94a2c7ffc9f04a4dec4f10c57698a95aa8504b1a2c6b28ed70668c
+Homepage: http://twitter.com/ikg_hd
+Description: Customize YouTube app Like You Want!
+Name: YouTubeKiller
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.youtubekiller
+SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/SileoDepiction.json
+Icon: https://ikarwan.github.io/depictions/pro.ikghd.youtubekiller/icon@3x.png
+
+Package: pro.ikghd.ol3dtube
+Architecture: iphoneos-arm
+Version: 1.0-1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Author: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
+Filename: ./debs/pro.ikghd.ol3d_1.0-1_iphoneos-arm.deb
+Size: 86106
+MD5sum: d66655852972ef51d66b99c206330e6b
+SHA1: 6f568e230735c2973e8feb53fa202e9e385e3d4c
+SHA256: 1afda7b711708599d49a5b764035e144f62427160d8dab42b4dfc70954f51a11
+Homepage: http://twitter.com/ikg_hd
+Description: OL3DTube for YouTube app!
+Name: OL3DTube
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ol3dtube
+SileoDepiction: https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/SileoDepiction.json
+Icon: https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/icon@3x.png
