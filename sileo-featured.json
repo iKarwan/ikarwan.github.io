@@ -5,14 +5,14 @@
     "banners": [
 
       {
-          "url": "https://ikarwan.github.io/assets/banners/pro.ikghd.youtubekiller.png",
+          "url": "https://ikarwan.github.io/assets/banners/Banner.png",
           "title": "YouTubeKiller",
           "package": "pro.ikghd.youtubekiller",
           "hideShadow": false
       },
 
         {
-            "url": "https://ikarwan.github.io/assets/banners/pro.ikghd.ictmiz.jpg",
+            "url": "https://ikarwan.github.io/assets/banners/ban.jpg",
             "title": "iCTMiZ Pro",
             "package": "pro.ikghd.ictmiz",
             "hideShadow": false
@@ -20,7 +20,7 @@
 
 
         {
-            "url": "https://ikarwan.github.io/assets/banners/pro.ikghd.ol3dtube.png",
+            "url": "https://ikarwan.github.io/assets/banners/Banner1.png",
             "title": "OL3DTube",
             "package": "pro.ikghd.ol3dtube",
             "hideShadow": false
