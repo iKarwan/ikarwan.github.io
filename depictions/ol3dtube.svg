@@ -33,7 +33,7 @@
 <defs>
     <style>
       .cls-1 {
-        font-size: 50.991px;
+        font-size: 66.018px;
         fill: #ca1b1b;
         font-family: Arial;
       }
@@ -49,6 +49,6 @@
       }
     </style>
   </defs>
-  <text id="YouTubeKiller" class="cls-1" transform="matrix(1.065, 0, 0, 1.065, 175.014, 48.723)"><tspan x="0">YouTubeKiller</tspan></text>
-  <text id="Customize_Youtube_app" data-name="Customize Youtube app" class="cls-2" transform="translate(175.232 96.465) scale(0.725 0.724)"><tspan x="0">Customize Youtube app</tspan></text>
+  <text id="OL3DTube" class="cls-1" transform="matrix(1.065, 0, 0, 1.065, 175.014, 56.722)"><tspan x="0">OL3DTube</tspan></text>
+  <text id="Oled_Mode_For_Youtube" data-name="Oled Mode For Youtube" class="cls-2" transform="translate(175.232 96.465) scale(0.725 0.724)"><tspan x="0">Oled Mode For Youtube</tspan></text>
 </svg>

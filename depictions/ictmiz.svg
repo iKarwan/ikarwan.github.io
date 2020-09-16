@@ -34,34 +34,21 @@
     <style>
       .cls-1 {
         font-size: 35.758px;
-        fill: #a11b67;
+        fill: #14a685;
         font-family: Arial;
       }
 
-      .cls-1, .cls-2, .cls-4 {
+      .cls-1, .cls-2 {
         text-anchor: middle;
       }
 
       .cls-2 {
-        font-size: 15.297px;
-        font-family: EmojiOneColor, EmojiOne;
-      }
-
-      .cls-2, .cls-4 {
+        font-size: 22.735px;
         fill: #157cff;
-      }
-
-      .cls-3 {
-        font-family: "Myriad Pro";
-      }
-
-      .cls-4 {
-        font-size: 37.02px;
         font-family: "Acumin Variable Concept";
       }
     </style>
   </defs>
-  <text id="iCTMiZ_Pro" data-name="iCTMiZ Pro" class="cls-1" transform="matrix(1.931, 0, 0, 1.925, 174.227, 58.366)"><tspan x="0">iCTMiZ Pro</tspan></text>
-  <text id="_2.0" data-name="2.0" class="cls-2" transform="translate(264.625 26.573) scale(0.606 0.604)"><tspan x="0">2<tspan class="cls-3">.</tspan>0</tspan></text>
-  <text id="devloped_by:_ikghd" data-name="devloped by: ikghd" class="cls-4" transform="translate(175.386 102.058) scale(0.773 0.77)"><tspan x="0">devloped by: ikghd</tspan></text>
+  <text id="iCTMiZ_Pro" data-name="iCTMiZ Pro" class="cls-1" transform="matrix(1.931, 0, 0, 1.925, 175.227, 58.366)"><tspan x="0">iCTMiZ Pro</tspan></text>
+  <text id="Customize_your_device_with_250_features." data-name="Customize your device with 250+ features." class="cls-2" transform="translate(175.386 102.058) scale(0.773 0.77)"><tspan x="0">Customize your device with 250+ features.</tspan></text>
 </svg>
