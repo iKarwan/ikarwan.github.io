@@ -28,7 +28,7 @@
 		outline:0;
 		box-sizing:border-box;
 	}
-	
+
 	.alert{
 		margin-top: 15px !important;
 		margin-bottom: 15px !important;
@@ -55,9 +55,9 @@
 			}
 		,"#packageVersion" :
 			{"type":"text","source":"package>version"}
-		,"#packageShortDesc" : 
+		,"#packageShortDesc" :
 			{"type":"text","source":"package>descriptionlist>description"}
-		,"#packageLongDesc" : 
+		,"#packageLongDesc" :
 			{"type":"text","source":"package>descriptionlist>longdescription"}
         ,"#descriptionList"	:
 			{"type":"list"
@@ -65,13 +65,13 @@
 				,"paragraphElement"	: "<li class='list-group-item'>"
 				,"emptyListCallback":function(e){$("#descriptionPanel").hide()}
 			}
-		,"#tweakScreenshots" : 
-		  {"type":"custom"  
+		,"#tweakScreenshots" :
+		  {"type":"custom"
 			  ,"source" :"package>screenshots>screenshot"
 			  ,"render" : function(element,source){
 			  console.log($(source).size());
 				  if ($(source).size()==0) {
-					  $(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") ); 
+					  $(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") );
 					  return;
 				  }
 				  $.each(source, function(index,data) {
@@ -81,11 +81,11 @@
 					  )
 					  $(element).append(th);
 				  });
-				  
+
 			  }
 		  }
 		,"#miniOS" : {"type":"text","source":"package>compatibility>firmware>miniOS"}
-		,"#maxiOS" : {"type":"text","source":"package>compatibility>firmware>maxiOS"}		
+		,"#maxiOS" : {"type":"text","source":"package>compatibility>firmware>maxiOS"}
 		,"#versionBadge" : {"type":"text","source":"package>version"}
         ,"#changesList"	:
 			{"type":"list"
@@ -156,7 +156,7 @@
 		<ul id="changesList" class="list-group">
 		<li id="changelogLink" />
 	</div>
-	
+
 </div>
 
 
@@ -224,7 +224,6 @@
 	</div>
 
 
-	<div class="container" style="margin-bottom: 10px; color: gray; text-align: center;">Lightmann | 2020</div>
 
 
 </body>
