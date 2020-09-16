@@ -4,7 +4,7 @@
     <version>1.5</version>
     <compatibility>
         <firmware>
-            <miniOS>12.0</miniOS>
+            <miniOS>11.0</miniOS>
             <maxiOS>13.7</maxiOS>
         </firmware>
     </compatibility>
@@ -28,32 +28,15 @@
 	   	<br>· Hide widget app icon
 	   	<br>· Hide widget label
 	   	<br>
-		<br>*These options are configurable from within the settings app and DO require a respring in order to take effect.*<br/>
-		<br>Open source on my <a href="https://github.com/UsrLightmann/Aeaea">github</a><br/>
         ]]></longdescription>
     </descriptionlist>
 
     <screenshots>
         <screenshot>
-            <image>aeaea1.png</image>
+            <image>1.png</image>
         </screenshot>
         <screenshot>
-            <image>aeaea2.png</image>
-        </screenshot>
-        <screenshot>
-            <image>aeaea3.png</image>
-        </screenshot>
-	<screenshot>
-            <image>aeaea4.png</image>
-        </screenshot>
-	<screenshot>
-            <image>aeaea5.png</image>
-        </screenshot>
-	<screenshot>
-            <image>aeaea6.png</image>
-        </screenshot>
-	<screenshot>
-            <image>aeaea7.png</image>
+            <image>1.jpeg</image>
         </screenshot>
     </screenshots>
 

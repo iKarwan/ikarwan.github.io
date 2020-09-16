@@ -1,77 +1,60 @@
 <package>
-	<id>pro.ikghd.ol3dtube</id>
-	<name>OL3DTube</name>
-	<version>1.0</version>
-	<compatibility>
-		<firmware>
+   <id>pro.ikghd.ol3dtube</id>
+    <name>OL3DTube</name>
+    <version>1.5</version>
+    <compatibility>
+        <firmware>
             <miniOS>10.0</miniOS>
-			<maxiOS>13.7</maxiOS>
-			<otherVersions>unconfirmed</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
-		</firmware>
-	</compatibility>
+            <maxiOS>13.7</maxiOS>
+        </firmware>
+    </compatibility>
 
-	<!-- main description -->
-	<descriptionlist>
-        <description><![CDATA[
-				 Oled Mode For YouTube app.! <br/><br/>
+    <descriptionlist>
+        <description>Oled Mode For YouTube:</description>
+        <longdescription><![CDATA[
+		<br>Notifications:
+            	<br>· Choose the location of the transparency effect
+	    	<br>· Adjust notification banner opacity incrementally
+		<br>· Change the color of notification content (black/white)
+		<br>· Hide the app name
+		<br>· Hide the time of arrival
+		<br>· Hide the "No older notifications" text on the lockscreen
+		<br>· Hide the stock charging indicator on the lockscreen
+		<br>
+		<br>Widgets:
+		<br>· Adjust background platter opacity incrementally
+	   	<br>· Change the widget content color (black/white)
+	   	<br>· Hide the footer "information provided by" text(s)
+	   	<br>· Hide widget app icon
+	   	<br>· Hide widget label
+	   	<br>
+        ]]></longdescription>
+    </descriptionlist>
 
-					This Package will be available soon fo free!<br/>
-
-					if you purchased this Package before on YouRepo you will get YouTubeKiller for free<br/>
-
-					هذا الاداة ستتوفر مجاني قريباَ<br/>
-
-				اذا كنت شاري الاداة مسبقاَ على سورس YouRepo ستحصل على نسخة من اداة YouTubeKiller<br/>
-
-			]]>
-
-		</description>
-	</descriptionlist>
-
-	<!-- screenshot -->
-	<screenshots>
+    <screenshots>
         <screenshot>
-            <description>Tweak in action</description>
+            <image>1.png</image>
+        </screenshot>
+        <screenshot>
             <image>2.png</image>
         </screenshot>
-
-				<screenshot>
-						<image>3.png</image>
-				</screenshot>
-
-				<screenshot>
-						<image>4.png</image>
-				</screenshot>
-
-				<screenshot>
-						<image>5.png</image>
-				</screenshot>
-
-				<screenshot>
-						<image>6.png</image>
-				</screenshot>
-
-
-				<screenshot>
-						<description>Settings for the tweak.</description>
-						<image>1.PNG</image>
-				</screenshot>
+        <screenshot>
+            <image>3.png</image>
+        </screenshot>
+        <screenshot>
+            <image>4.png</image>
+        </screenshot>
+        <screenshot>
+            <image>5.png</image>
+        </screenshot>
+        <screenshot>
+            <image>6.png</image>
+        </screenshot>
     </screenshots>
 
-		<!-- Support -->
+    <changelog>
+	<change>fixed some bugs</change>
+    </changelog>
 
-
-		<!-- changelog -->
-	<changelog>
-        <change><![CDATA[
-            <strong>v1.0</strong> <br/>
-            -Fixed Hide Tabs. <br/>
-
-							]]>
-        </change>
-	</changelog>
-	<links></links>
+    <links></links>
 </package>

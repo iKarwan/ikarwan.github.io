@@ -1,77 +1,51 @@
 <package>
-	<id>pro.ikghd.youtubekiller</id>
-	<name>YouTubeKiller</name>
-	<version>3.2</version>
-	<compatibility>
-		<firmware>
+   <id>pro.ikghd.youtubekiller</id>
+    <name>YouTubeKiller</name>
+    <version>1.5</version>
+    <compatibility>
+        <firmware>
             <miniOS>10.0</miniOS>
-			<maxiOS>13.7</maxiOS>
-			<otherVersions>unconfirmed</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
-		</firmware>
-	</compatibility>
+            <maxiOS>13.7</maxiOS>
+        </firmware>
+    </compatibility>
 
-	<!-- main description -->
-	<descriptionlist>
-        <description><![CDATA[
-					Customize YouTube app like you want.! <br/><br/>
-					* Some Of the Features iNcluded. <br/>
-					* See screenshot below for more details. <br/><br/>
+    <descriptionlist>
+        <description>Customize youtube app like u want:</description>
+        <longdescription><![CDATA[
+		<br>Notifications:
+            	<br>· Choose the location of the transparency effect
+	    	<br>· Adjust notification banner opacity incrementally
+		<br>· Change the color of notification content (black/white)
+		<br>· Hide the app name
+		<br>· Hide the time of arrival
+		<br>· Hide the "No older notifications" text on the lockscreen
+		<br>· Hide the stock charging indicator on the lockscreen
+		<br>
+		<br>Widgets:
+		<br>· Adjust background platter opacity incrementally
+	   	<br>· Change the widget content color (black/white)
+	   	<br>· Hide the footer "information provided by" text(s)
+	   	<br>· Hide widget app icon
+	   	<br>· Hide widget label
+	   	<br>
+        ]]></longdescription>
+    </descriptionlist>
 
-					- Block All advertisment.<br/>
-					- iPad Style Ui & Keyboard. <br/>
-					- Play in Background. <br/>
-					- Oled Mode better Experiance Dark Mode. <br/>
-					- Age Restriction Play all Videos. <br/>
-					- Play High Quality Videos Over 3G/4G. <br/>
-					- Customize The Tab Bar. <br/>
-					- Hide almost any unwanted Features. <br/>
-					- Customize Icon colors & Keyboard. <br/>
-					- Stream 4K Quality Videos. <br/>
-					- Customazation the app almost any corner!. <br/>
-					- and much much more... <br/><br/>
-
-					<li>
-						<a href="https://www.youtube.com/watch?v=vdsUXmluvOw&ab_channel=iKG-HD">Demo Via YouTube</a>
-					</li>
-
-			]]>
-
-		</description>
-	</descriptionlist>
-
-	<!-- screenshot -->
-	<screenshots>
+    <screenshots>
         <screenshot>
-            <description>Tweak in action</description>
+            <image>1.png</image>
+        </screenshot>
+        <screenshot>
+            <image>2.png</image>
+        </screenshot>
+        <screenshot>
             <image>3.png</image>
         </screenshot>
-
-
-				<screenshot>
-						<image>1.PNG</image>
-				</screenshot>
-
-
-				<screenshot>
-						<description>Settings for the tweak.</description>
-						<image>2.PNG</image>
-				</screenshot>
     </screenshots>
 
-		<!-- Support -->
+    <changelog>
+	<change>fixed some bugs</change>
+    </changelog>
 
-
-		<!-- changelog -->
-	<changelog>
-        <change><![CDATA[
-            <strong>v3.2</strong> <br/>
-            -Fixed Hide Tabs. <br/>
-
-							]]>
-        </change>
-	</changelog>
-	<links></links>
+    <links></links>
 </package>

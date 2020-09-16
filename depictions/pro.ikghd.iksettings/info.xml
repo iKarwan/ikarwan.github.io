@@ -1,67 +1,48 @@
 <package>
-	<id>pro.ikghd.iksettings</id>
-	<name>iKSettings</name>
-	<version>3.1</version>
-	<compatibility>
-		<firmware>
+   <id>pro.ikghd.iksettings</id>
+    <name>iKSettings</name>
+    <version>3.1</version>
+    <compatibility>
+        <firmware>
             <miniOS>11.0</miniOS>
-			<maxiOS>13.7</maxiOS>
-			<otherVersions>unconfirmed</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
-		</firmware>
-	</compatibility>
+            <maxiOS>13.7</maxiOS>
+        </firmware>
+    </compatibility>
 
-	<!-- main description -->
-	<descriptionlist>
-        <description><![CDATA[
-					iKSettings included features! <br/><br/>
+    <descriptionlist>
+        <description>Redefind Settings app:</description>
+        <longdescription><![CDATA[
+		<br>Notifications:
+            	<br>· Choose the location of the transparency effect
+	    	<br>· Adjust notification banner opacity incrementally
+		<br>· Change the color of notification content (black/white)
+		<br>· Hide the app name
+		<br>· Hide the time of arrival
+		<br>· Hide the "No older notifications" text on the lockscreen
+		<br>· Hide the stock charging indicator on the lockscreen
+		<br>
+		<br>Widgets:
+		<br>· Adjust background platter opacity incrementally
+	   	<br>· Change the widget content color (black/white)
+	   	<br>· Hide the footer "information provided by" text(s)
+	   	<br>· Hide widget app icon
+	   	<br>· Hide widget label
+	   	<br>
+        ]]></longdescription>
+    </descriptionlist>
 
-					--General--<br/>
-					-set custom settings text<br/>
-					-set custom appl id name<br/>
-					-set custom icon table name<br/>
-					-Rounded Settings<br/>
-					-Remove Black Line<br/>
-					-Remove iCon Table<br/>
-					-Remove Setting Label<br/>
-					-Remove TOP Settings TxT<br/>
-					-Disable SearchBar<br/>
-					-Remove ThirdPartyApps<br/>
-
-			]]>
-
-		</description>
-	</descriptionlist>
-
-	<!-- screenshot -->
-	<screenshots>
+    <screenshots>
         <screenshot>
-            <description>Tweak in action</description>
-            <image>2.png</image>
+            <image>1.png</image>
         </screenshot>
-
-
-
-
-				<screenshot>
-						<description>Settings for the tweak.</description>
-						<image>1.PNG</image>
-				</screenshot>
+        <screenshot>
+            <image>2.jpeg</image>
+        </screenshot>
     </screenshots>
 
-		<!-- Support -->
+    <changelog>
+	<change>fixed some bugs</change>
+    </changelog>
 
-
-		<!-- changelog -->
-	<changelog>
-        <change><![CDATA[
-            <strong>v3.1</strong> <br/>
-            - add DRM :p Special thanks to Litten & Nepeta.<br/>
-
-							]]>
-        </change>
-	</changelog>
-	<links></links>
+    <links></links>
 </package>

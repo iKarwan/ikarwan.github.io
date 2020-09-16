@@ -1,59 +1,48 @@
 <package>
-	<id>pro.ikghd.pmp</id>
-	<name>PMP</name>
-	<version>1.1</version>
-	<compatibility>
-		<firmware>
+   <id>pro.ikghd.pmp</id>
+    <name>PMP</name>
+    <version>1.5</version>
+    <compatibility>
+        <firmware>
             <miniOS>11.0</miniOS>
-			<maxiOS>13.7</maxiOS>
-			<otherVersions>unconfirmed</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
-		</firmware>
-	</compatibility>
+            <maxiOS>13.7</maxiOS>
+        </firmware>
+    </compatibility>
 
-	<!-- main description -->
-	<descriptionlist>
-        <description><![CDATA[
-					"PMP" Protect My Photos iOS 11/12/13! <br/><br/>
+    <descriptionlist>
+        <description>PMP Protect My Photos:</description>
+        <longdescription><![CDATA[
+		<br>Notifications:
+            	<br>· Choose the location of the transparency effect
+	    	<br>· Adjust notification banner opacity incrementally
+		<br>· Change the color of notification content (black/white)
+		<br>· Hide the app name
+		<br>· Hide the time of arrival
+		<br>· Hide the "No older notifications" text on the lockscreen
+		<br>· Hide the stock charging indicator on the lockscreen
+		<br>
+		<br>Widgets:
+		<br>· Adjust background platter opacity incrementally
+	   	<br>· Change the widget content color (black/white)
+	   	<br>· Hide the footer "information provided by" text(s)
+	   	<br>· Hide widget app icon
+	   	<br>· Hide widget label
+	   	<br>
+        ]]></longdescription>
+    </descriptionlist>
 
-					sometimes when someone take your phone<br/>
-					may by curiosity goes around and check everything<br/>
-					PMP will punch him in his face :D<br/>
-					PMP will hide all your photos with One click and bring it with 1One<br/>
-					it even protected access to photos with Camera app also.<br/>
-
-			]]>
-
-		</description>
-	</descriptionlist>
-
-	<!-- screenshot -->
-	<screenshots>
+    <screenshots>
         <screenshot>
-            <description>Tweak in action</description>
-            <image>1.PNG</image>
+            <image>1.png</image>
         </screenshot>
-
-
-				<screenshot>
-						<description>Settings for the tweak.</description>
-						<image>2.PNG</image>
-				</screenshot>
+        <screenshot>
+            <image>2.png</image>
+        </screenshot>
     </screenshots>
 
-		<!-- Support -->
+    <changelog>
+	<change>fixed some bugs</change>
+    </changelog>
 
-
-		<!-- changelog -->
-	<changelog>
-        <change><![CDATA[
-            <strong>v1.1</strong> <br/>
-            - add DRM :p Special thanks to Litten & Nepeta.<br/>
-
-							]]>
-        </change>
-	</changelog>
-	<links></links>
+    <links></links>
 </package>
