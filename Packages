@@ -5,11 +5,11 @@ Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ictmiz_2.2_iphoneos-arm.deb
-Size: 56394
+Size: 56366
 Installed-Size: 576
-MD5sum: e5a1079afda8e46fa1aef95c2f50ae59
-SHA1: feadba33e4d96da060cda30fea478cc248a15d02
-SHA256: bbf56fbd7f6ecc544d32b33b50a5a1113844c1ce63db0f0ecf4f34a6e4732153
+MD5sum: 09d89680e14f984dc0d45907457786b2
+SHA1: 0cbb79c0d17c379f39e2d82a94ac055c8cec291c
+SHA256: d19ce32d26cf6eeb0f531733b02727d193d22d37f07f8d1932d40b0039b83450
 Description: i Customize Not U appl!
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
@@ -20,16 +20,16 @@ Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
 Package: pro.ikghd.ictmizlite
 Version: 1.5
 Section: Tweaks
-Maintainer: iKarwan<ikg_hd@bk.ru>
+Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 12.0)
 Conflicts: com.yourepo.ikghd.ictmiz
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ictmizlite_1.5_iphoneos-arm.deb
-Size: 56970
+Size: 56960
 Installed-Size: 480
-MD5sum: 4425141ecede83d89ecda3a17c63328d
-SHA1: b1fe343090429a31b184667dbd90e33da98d5334
-SHA256: 38d552a26b2ac606e33b34026e53213bb169390214d029090e4115d66cd326c1
+MD5sum: 3b7aee80acc807e2e7e8a7ac046eaca8
+SHA1: 2b03fa05c7431cf5adbe8f14f693e73ff8354bcc
+SHA256: df4ee1f2cb5bea24dd5bab4b90155c5d4889e5a27b1050a6eea8fa550d4c2870
 Description: Device Customization iOS 12/13!
 Name: iCTMiZLite
 Author: iKarwan <ikg_hd@bk.ru>
@@ -45,11 +45,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark
 Conflicts: com.yourepo.ikghd.iksafari
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.iksafari_1.1_iphoneos-arm.deb
-Size: 54746
+Size: 54686
 Installed-Size: 348
-MD5sum: 23c3332250ac50ad73eb3461860a4bcb
-SHA1: 495ea22daf1024094869845c52b7e6cdb0345f6c
-SHA256: 4e36fc5cc14871ddf7e6ad5567340cc92258ffaa9e48010ef8886f5d9b10434d
+MD5sum: c34848e3ba539b8b7928f47f78bd74b3
+SHA1: e00ce26bec1eb6141b0df1fee45564ceef858485
+SHA256: 00e268efaf089ba15d8b12d8caae385c44340071107a84d1a0a616a723af7c50
 Description: Safari Features iOS 11/12/13!
 Name: iKSafari
 Author: iKarwan <ikg_hd@bk.ru>
@@ -60,19 +60,19 @@ Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksafari.png
 Package: pro.ikghd.iksettings
 Version: 3.1
 Section: Tweaks
-Maintainer: iKG_HD <ikg_hd@bk.ru>
+Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
 Conflicts: com.yourepo.ikghd.ikset
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.iksettings_3.1_iphoneos-arm.deb
-Size: 69690
+Size: 69620
 Installed-Size: 480
-MD5sum: a797b14524a083b7f805446668a2e4e7
-SHA1: 13c9839e571f8412805e4ed77f1735ed85a17828
-SHA256: faf4f588539e739fa3c52f886fcd4d37f137f7692344d8bab2f6279b629c5186
+MD5sum: 28b6308022955fa5e1c15bdf5beefaf0
+SHA1: 9619a33e354dde9adad57fc9c2e5faafa0ec8fbd
+SHA256: 725ca4da2426aec654d259dd2021c23d18566a10c2420ab0f89ce18c9a851865
 Description: Customize Settings iOS 11/12/13!
 Name: iKSettings
-Author: iKG_HD <ikg_hd@bk.ru>
+Author: iKarwan <ikg_hd@bk.ru>
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.iksettings
 SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksettings.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksettings.png
@@ -85,11 +85,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark
 Conflicts: com.yourepo.ikghd.ol3dtube
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ol3dtube_1.1_iphoneos-arm.deb
-Size: 41404
+Size: 41396
 Installed-Size: 300
-MD5sum: b12c31de2ca6378278977b5da64c0d0c
-SHA1: 838d34ce0461d547dbf52092a4dae7825af1411b
-SHA256: 4e4675b965d0ba31435dd336ff19a8a9aed6996ca90a842d6be705185a322493
+MD5sum: 0b723e42b4fb8f53178de81d430a3bd5
+SHA1: f4c10cde076d238bccf037bbf4c73a8f6ff4a8a6
+SHA256: ad95423b87483fe5be27cc89f740c6775cce15d8664b8b2611cb871cbf4853f1
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKG_HD <ikg_hd@bk.ru>
@@ -100,19 +100,19 @@ Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ol3dtube.png
 Package: pro.ikghd.pmp
 Version: 1.1
 Section: Tweaks
-Maintainer: iKG_HD <ikg_hd@bk.ru>
+Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
 Conflicts: com.yourepo.ikghd.pmp
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.pmp_1.1_iphoneos-arm.deb
-Size: 87050
+Size: 87002
 Installed-Size: 384
-MD5sum: f7117a2ce12d4578772f35317d9eca5c
-SHA1: 38cb177e77cefef7e9ca62d32ef0e68752cfc0da
-SHA256: 101410a589adfb832539957c1fe1eb57c1cf41690a58e269449fa808375b7553
+MD5sum: 1175c0203cabefa717e7dd88c4870297
+SHA1: cf9a31466a97f84e37356f0be212f69bf9526de5
+SHA256: 6399a480eb355a10628d7a8497f5e62732fb53d56765805bcc937d53c7f62eb2
 Description: PMP Protect My Photos!
 Name: PMP
-Author: iKG_HD <ikg_hd@bk.ru>
+Author: iKarwan <ikg_hd@bk.ru>
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.pmp
 SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.pmp.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.pmp.png
@@ -125,11 +125,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.adb, com.yourepo.ikghd..youtubekiller, com.appweleux.repo.adblockxi, com.trappledestek.adblockplus, ru.rejail.adblockplus, com.twickd.sarahh12099.youtube-reborn
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_3.2.8_iphoneos-arm.deb
-Size: 49876
+Size: 49840
 Installed-Size: 408
-MD5sum: f2e4e4b4a31c3c171001ea38bce1e601
-SHA1: 71299e10922437f2837247d5e51d72d150801387
-SHA256: a7d4fc1baafb0865b7fc0f94fc92e60ac88484b4cc975d3d077d4c304b19c7fd
+MD5sum: 012ffb272edf482bf16f39c9947ef891
+SHA1: 77b1036876db5958a656fe263c36c637fd3246e6
+SHA256: ea37f68587d1da088724976f4a18ff2f25fe6a5560629f300a8a79d2a551c0be
 Description: Youtube app no ad’s & background playback and iPad UI style !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
