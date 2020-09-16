@@ -15,8 +15,6 @@
 
 	<!-- main description -->
 	<descriptionlist>
-        <description>Compatible with iOS 10 to 13.7</description>
-				<description>Sooon قريباَ</description>
         <description><![CDATA[
 					Customize YouTube app like you want.! <br/><br/>
 					* Some Of the Features iNcluded. <br/>
@@ -36,7 +34,7 @@
 					- and much much more... <br/><br/>
 
 					<li>
-						<a href="https://www.youtube.com/watch?v=vdsUXmluvOw&ab_channel=iKG-HD">* all Included Features Via YouTube *</a>
+						<a href="https://www.youtube.com/watch?v=vdsUXmluvOw&ab_channel=iKG-HD">Demo Via YouTube</a>
 					</li>
 
 			]]>
@@ -64,25 +62,7 @@
     </screenshots>
 
 		<!-- Support -->
-			<descriptionlist>
-			<description><![CDATA[
 
-				<li>
-					<a href="https://paypal.me/hiwajaf">* Support The dev</a> <br/><br/>
-				</li>
-
-				<li>
-					<a href="https://twitter.com/ikg_hd">* Follow @iKarwan</a><br/><br/>
-				</li>
-
-				<li>
-					<a href="https://www.youtube.com/c/iKGHD">* YouTube Channel</a> <br/>
-				</li>
-
-		]]>
-
-	</description>
-	</descriptionlist>
 
 		<!-- changelog -->
 	<changelog>

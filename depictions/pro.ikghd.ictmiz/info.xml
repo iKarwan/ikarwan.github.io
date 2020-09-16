@@ -1,6 +1,6 @@
 <package>
 	<id>pro.ikghd.ictmiz</id>
-	<name>iCTMiZ Pro -Soonقريبـاَ</name>
+	<name>iCTMiZ Pro 2.2</name>
 	<version>2.2</version>
 	<compatibility>
 		<firmware>
@@ -88,7 +88,7 @@
 		<!-- changelog -->
 	<changelog>
         <change><![CDATA[
-            <strong>v1.0</strong> <br/>
+            <strong>v2.2</strong> <br/>
             -Fixed Hide Tabs. <br/>
 
 							]]>

@@ -15,7 +15,6 @@
 
 	<!-- main description -->
 	<descriptionlist>
-        <description>Compatible with iOS 11 to 13.7</description>
         <description><![CDATA[
 					iKSettings included features! <br/><br/>
 
@@ -53,27 +52,7 @@
     </screenshots>
 
 		<!-- Support -->
-			<descriptionlist>
-			<description><![CDATA[
 
-
-								<li>
-									<a href="https://paypal.me/hiwajaf">* Support The dev</a> <br/><br/>
-								</li>
-
-								<li>
-									<a href="https://twitter.com/ikg_hd">* Follow @iKarwan</a><br/><br/>
-								</li>
-
-								<li>
-									<a href="https://www.youtube.com/c/iKGHD">* YouTube Channel</a> <br/>
-								</li>
-
-
-		]]>
-
-	</description>
-	</descriptionlist>
 
 		<!-- changelog -->
 	<changelog>
