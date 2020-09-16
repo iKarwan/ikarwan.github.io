@@ -124,11 +124,11 @@
 
 
             {
-               "title":"Links",
+               "title":"Support",
                "class":"DepictionHeaderView"
             },
             {
-               "title":"Support The dev",
+               "title":"Via PayPal",
                "useBoldText": true,
                "action":"https://www.paypal.com/paypalme/hiwajaf",
                "class":"DepictionTableButtonView"
