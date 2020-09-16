@@ -1,62 +1,65 @@
 <package>
-	<id>pro.ikghd.ictmizlite</id>
-	<name>iCTMiZLite</name>
-	<version>1.5</version>
-	<compatibility>
-		<firmware>
+   <id>pro.ikghd.ictmizlite</id>
+    <name>iCTMiZLite</name>
+    <version>1.5</version>
+    <compatibility>
+        <firmware>
             <miniOS>12.0</miniOS>
-			<maxiOS>13.7</maxiOS>
-			<otherVersions>unconfirmed</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
-		</firmware>
-	</compatibility>
+            <maxiOS>13.7</maxiOS>
+        </firmware>
+    </compatibility>
 
-	<!-- main description -->
-	<descriptionlist>
-        <description><![CDATA[
-					Some useful features for Your Device! <br/><br/>
+    <descriptionlist>
+        <description>Some useful features for system:</description>
+        <longdescription><![CDATA[
+		<br>Notifications:
+            	<br>· Choose the location of the transparency effect
+	    	<br>· Adjust notification banner opacity incrementally
+		<br>· Change the color of notification content (black/white)
+		<br>· Hide the app name
+		<br>· Hide the time of arrival
+		<br>· Hide the "No older notifications" text on the lockscreen
+		<br>· Hide the stock charging indicator on the lockscreen
+		<br>
+		<br>Widgets:
+		<br>· Adjust background platter opacity incrementally
+	   	<br>· Change the widget content color (black/white)
+	   	<br>· Hide the footer "information provided by" text(s)
+	   	<br>· Hide widget app icon
+	   	<br>· Hide widget label
+	   	<br>
+		<br>*These options are configurable from within the settings app and DO require a respring in order to take effect.*<br/>
+		<br>Open source on my <a href="https://github.com/UsrLightmann/Aeaea">github</a><br/>
+        ]]></longdescription>
+    </descriptionlist>
 
-
-					--General--<br/>
-					-hide app name app badge<br/>
-					-disable spotlight today page on both lock screen & home screen<br/>
-					-hide camera and flash light on <br/>
-					-lock screen show password input<br/>
-					-Disable icon remove<br/>
-					-disable icon movement<br/>
-
-			]]>
-
-		</description>
-	</descriptionlist>
-
-	<!-- screenshot -->
-	<screenshots>
+    <screenshots>
         <screenshot>
-            <description>Tweak in action</description>
-            <image>1.PNG</image>
+            <image>aeaea1.png</image>
         </screenshot>
-
-
-				<screenshot>
-						<description>Settings for the tweak.</description>
-						<image>2.jpeg</image>
-				</screenshot>
+        <screenshot>
+            <image>aeaea2.png</image>
+        </screenshot>
+        <screenshot>
+            <image>aeaea3.png</image>
+        </screenshot>
+	<screenshot>
+            <image>aeaea4.png</image>
+        </screenshot>
+	<screenshot>
+            <image>aeaea5.png</image>
+        </screenshot>
+	<screenshot>
+            <image>aeaea6.png</image>
+        </screenshot>
+	<screenshot>
+            <image>aeaea7.png</image>
+        </screenshot>
     </screenshots>
 
-		<!-- Support -->
+    <changelog>
+	<change>fixed some bugs</change>
+    </changelog>
 
-
-		<!-- changelog -->
-	<changelog>
-        <change><![CDATA[
-            <strong>v1.5</strong> <br/>
-            -add DRM :p Special thanks to Litten & Nepeta. <br/>
-
-							]]>
-        </change>
-	</changelog>
-	<links></links>
+    <links></links>
 </package>
