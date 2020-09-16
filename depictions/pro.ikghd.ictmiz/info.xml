@@ -1,6 +1,6 @@
 <package>
 	<id>pro.ikghd.ictmiz</id>
-	<name>iCTMiZ Pro</name>
+	<name>iCTMiZ Pro -Soonقريبـاَ</name>
 	<version>2.2</version>
 	<compatibility>
 		<firmware>
@@ -15,10 +15,7 @@
 
 	<!-- main description -->
 	<descriptionlist>
-				<description>Sooon قريباَ</description>
         <description><![CDATA[
-
-					iCTMiZ Pro 2.2  <br/><br/>
 
 				 i Customize Not You Appl!<br/>
 
@@ -49,7 +46,7 @@
 					- and much much more... <br/><br/>
 
 					<li>
-						<a href="https://www.youtube.com/watch?v=qMrjGeEVDv4&t=4s">* all Included Features Via YouTube *</a>
+						<a href="https://www.youtube.com/watch?v=qMrjGeEVDv4&t=4s"> Included Features Via YouTube</a>
 					</li>
 
 			]]>
@@ -86,26 +83,7 @@
     </screenshots>
 
 		<!-- Support -->
-			<descriptionlist>
-			<description><![CDATA[
 
-
-								<li>
-									<a href="https://paypal.me/hiwajaf">* Support The dev</a> <br/><br/>
-								</li>
-
-								<li>
-									<a href="https://twitter.com/ikg_hd">* Follow @iKarwan</a><br/><br/>
-								</li>
-
-								<li>
-									<a href="https://www.youtube.com/c/iKGHD">* YouTube Channel</a> <br/>
-								</li>
-
-		]]>
-
-	</description>
-	</descriptionlist>
 
 		<!-- changelog -->
 	<changelog>
