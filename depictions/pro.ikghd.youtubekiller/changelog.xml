@@ -1,14 +1,11 @@
 <changelog>
 	<changes>
-		<version>3.2</version>
+		<version>1.0.0</version>
 		<change>Support latest youtube version</change>
 		<change>fixed tabs hide</change>
 		<change>fix caption appering some times</change>
 		<change>fix 4K streaming with latest youtube version</change>
 		<change>other improvements</change>
-	</changes>
-	<changes>
-		<version>1.0</version>
-		<change>Initial Release</change>
+		<change>Reversioning for the new repo release</change>
 	</changes>
 </changelog>

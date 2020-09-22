@@ -195,13 +195,13 @@
               "class":"DepictionAdmobView"
            },
              {
-                 "title":"Version 1.0",
+                 "title":"Version 1.0.0",
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
              },
              {
-                 "markdown":"* Support Latest Youtube version.",
+               "markdown":"Reversioning for the new repo release",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },

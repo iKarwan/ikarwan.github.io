@@ -166,13 +166,13 @@
           "class":"DepictionAdmobView"
        },
          {
-             "title":"Version 1.5",
+             "title":"Version 1.0.0",
              "useBoldText":true,
              "useBottomMargin":false,
              "class":"DepictionSubheaderView"
          },
          {
-             "markdown":"- add DRM :p Special thanks to Litten & Nepeta.",
+            "markdown":"Reversioning for the new repo release",
              "useSpacing":true,
              "class":"DepictionMarkdownView"
          },
