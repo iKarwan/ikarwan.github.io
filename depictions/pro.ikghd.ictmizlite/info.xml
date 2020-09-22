@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ictmizlite</id>
     <name>iCTMiZLite</name>
-    <version>1.5</version>
+    <version>1.0.0</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
