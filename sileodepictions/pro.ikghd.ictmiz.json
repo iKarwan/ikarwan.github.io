@@ -214,7 +214,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-                 "markdown":"Reversioning for the new repo release",
+                 "markdown":"- Reversioning for the new repo release",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },
