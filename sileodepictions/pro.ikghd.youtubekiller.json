@@ -92,11 +92,6 @@
             },
 
             {
-               "adUnitID":"ca-app-pub-9952128926407446/6168240413",
-               "adSize":"SmartBanner",
-               "class":"DepictionAdmobView"
-            },
-            {
                "class":"DepictionSeparatorView"
             },
 
@@ -188,11 +183,6 @@
                "action":"https://youtube.com/c/ikghd",
                "class":"DepictionTableButtonView"
             },
-            {
-               "adUnitID":"ca-app-pub-9952128926407446/6168240413",
-               "adSize":"LargeBanner",
-               "class":"DepictionAdmobView"
-            },
 
             {
                "spacing":10,
@@ -204,11 +194,6 @@
       {
          "tabname":"Changelog",
          "views":[
-           {
-              "adUnitID":"ca-app-pub-9952128926407446/6168240413",
-              "adSize":"SmartBanner",
-              "class":"DepictionAdmobView"
-           },
              {
                  "title":"Version 3.2.0",
                  "useBoldText":true,
