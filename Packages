@@ -3,13 +3,14 @@ Version: 1.0.0
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.ikghd.ictmiz1
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ictmiz_1.0.0_iphoneos-arm.deb
-Size: 56548
+Size: 56764
 Installed-Size: 576
-MD5sum: 75be33cbc00e494e34b3afb63e85f6c1
-SHA1: b179279625e784713a61050eb879d288e03dcfa9
-SHA256: c5663e13eecec1ebb92c852fdca4f3bca0c0a4280064a1bb76ffb5282ab64552
+MD5sum: 794f2bb46f52499d5ab5e427fab426fd
+SHA1: e644719cb0aaa14b8aae775a90f8204ae5cada48
+SHA256: bbacad086e3023a2321bbe529c5a499c629116659877714d34524fd36561f804
 Description: i Customize Not U appl!
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
@@ -85,11 +86,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark
 Conflicts: com.yourepo.ikghd.ol3dtube
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ol3dtube_1.0.0_iphoneos-arm.deb
-Size: 41652
+Size: 41816
 Installed-Size: 300
-MD5sum: ba667ac5c0ce22b3227fd74363b1b775
-SHA1: 20cd7f300e08578920fcf77d889398b360e955e8
-SHA256: 01bcd3dc572c76765188df4a799bdb3e3fb7c6b312d801a77451b5cbca721382
+MD5sum: a3fe9a60316c6be12cb6b010edf34aa9
+SHA1: cad35fb6b25bf6112ce96badb2a65deca1a87874
+SHA256: 0ecf6cc9a62c93bc2d60091e99a581c017f830eccb41ec9b231b04cbc98364d9
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikg_hd@bk.ru>
@@ -125,11 +126,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.adb, com.yourepo.ikghd..youtubekiller, com.appweleux.repo.adblockxi, com.trappledestek.adblockplus, ru.rejail.adblockplus, com.twickd.sarahh12099.youtube-reborn
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.0.0_iphoneos-arm.deb
-Size: 50122
+Size: 50172
 Installed-Size: 408
-MD5sum: bb866ef802ea73f29c604f66ab9f3352
-SHA1: 520ce26f78b96943da95c74b449a6adb4ff6844b
-SHA256: 9935184efd452aa15a8e348146237eb340aefeef636b8fd0b906bfd660495613
+MD5sum: 19d9ad0a28558410592a1ccdd0ea5033
+SHA1: e3d23aa77b740b77aabec3a3f2133fad9c6aca6f
+SHA256: d6857a29210affb25609ea715fd4465777881f3e764aa8c878f9ce9a38cebf20
 Description: Youtube app no ad’s & background playback and iPad UI style !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
