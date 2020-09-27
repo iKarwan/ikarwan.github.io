@@ -106,10 +106,7 @@
             },
             {
                 "useBottomMargin": false,
-                "markdown": "- Block All advertisment.\r\n           <br>· Download Videos
-                          <br>· Download Videos as Music
-                          <br>· Import Videos To Photos
-                          <br>· Import Music Sounds to Music apps- iPad Style Ui & Keyboard.\r\n- Play in Background.\r\n- Oled Mode better Experiance Dark Mode. \r\n- Age Restriction Play all Videos.\r\n- Play High Quality Videos Over 3G/4G.\r\n- Customize The Tab Bar.\r\n- Hide almost any unwanted Features.\r\n- Customize Icon colors & Keyboard.\r\n- Stream 4K Quality Videos.\r\n- Customazation the app almost any corner!.\r\n- and much much more... ",
+                "markdown": "- Block All advertisment.\r\n-Download Videos \r-Download Videos as Music \r-Import Videos To Photos \r· Import Music Sounds to Music apps- iPad Style Ui & Keyboard.\r\n- Play in Background.\r\n- Oled Mode better Experiance Dark Mode. \r\n- Age Restriction Play all Videos.\r\n- Play High Quality Videos Over 3G/4G.\r\n- Customize The Tab Bar.\r\n- Hide almost any unwanted Features.\r\n- Customize Icon colors & Keyboard.\r\n- Stream 4K Quality Videos.\r\n- Customazation the app almost any corner!.\r\n- and much much more... ",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
