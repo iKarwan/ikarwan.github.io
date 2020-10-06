@@ -13,6 +13,10 @@
 			<iconclass>fa fa-youtube</iconclass>
 		</link>
 		<link>
+			<url>https://repo.ikghd.me</url>
+			<iconclass>fa fa-website</iconclass>
+		</link>
+		<link>
 			<url>mailto:ikg_hd@bk.ru</url>
 			<iconclass>fa fa-envelope</iconclass>
 		</link>
