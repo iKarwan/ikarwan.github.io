@@ -13,8 +13,8 @@
 
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.png"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmiz/screenshots/1.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
@@ -146,7 +146,7 @@
             },
             {
                "title":"Languages",
-               "text":"en-ar-zh_CN",
+               "text":"en ar zh_CN",
                "class":"DepictionTableTextView"
             },
 

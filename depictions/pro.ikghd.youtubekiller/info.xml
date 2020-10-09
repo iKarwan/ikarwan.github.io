@@ -5,7 +5,7 @@
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
-            <maxiOS>13.7</maxiOS>
+            <maxiOS>14.0</maxiOS>
         </firmware>
     </compatibility>
 
@@ -49,7 +49,7 @@
 
     <screenshots>
         <screenshot>
-            <image>3.png</image>
+            <image>3.PNG</image>
         </screenshot>
         <screenshot>
             <image>1.PNG</image>
