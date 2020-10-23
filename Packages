@@ -2,13 +2,14 @@ Package: pro.ikghd.iastrid
 Version: 1.0.0
 Section: Themes
 Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: com.spark.snowboard |com.anemonetheming.anemone
+Depends: com.spark.snowboard | com.anemonetheming.anemone
+Conflicts: com.yourepo.ikghd.iastrid
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.iastrid_1.0.0_iphoneos-arm.deb
-Size: 1197308
-MD5sum: cdb4c229159e81ddf8bd19632162cf0e
-SHA1: f7d0bba411a9455d65d17f6856fef5250b8db970
-SHA256: 4eb3d0cb12bafb07a3293bd73d08b7bce924343eaef3f174f2120c9d56224a2f
+Size: 1197320
+MD5sum: 6f5567bfffca57171ce5d6203694f1be
+SHA1: 2f3c5b032146b2f3e8306cbbd65ef4938d14b097
+SHA256: b9b1278e06566ca48036b15dfa9898db9f6133b298a69a72dacc4463389c224f
 Description: iNspired By a flower Name !..
 Name: iAstrid
 Author: iKarwan <ikg_hd@bk.ru>
