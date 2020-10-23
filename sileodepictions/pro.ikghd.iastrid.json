@@ -1,6 +1,6 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg",
+   "headerImage":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/NO.jpeg",
    "tintColor":"#5300EB",
    "tabs":[
       {
@@ -39,15 +39,10 @@
                "class":"DepictionSeparatorView"
             },
 
-                                    {
-                                       "class":"DepictionSeparatorView"
-                                    },
-
-                                    {
-                                       "title":"Features",
-                                       "class":"DepictionHeaderView"
-                                    },
-
+            {
+              "title":"Features",
+              "class":"DepictionHeaderView"
+            },
 
             {
                 "class": "DepictionMarkdownView",

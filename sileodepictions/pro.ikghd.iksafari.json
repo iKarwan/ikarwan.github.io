@@ -49,12 +49,7 @@
             {
                "class":"DepictionSeparatorView"
             },
-
-            {
-               "class":"DepictionSeparatorView"
-            },
-
-
+            
             {
                "title":"Features",
                "class":"DepictionHeaderView"

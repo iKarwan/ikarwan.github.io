@@ -44,21 +44,10 @@
                "class":"DepictionSeparatorView"
             },
 
-                                    {
-                                       "adUnitID":"ca-app-pub-9952128926407446/6168240413",
-                                       "adSize":"SmartBanner",
-                                       "class":"DepictionAdmobView"
-                                    },
-                                    {
-                                       "class":"DepictionSeparatorView"
-                                    },
-
-                                    {
-                                       "title":"Features",
-                                       "class":"DepictionHeaderView"
-                                    },
-
-
+            {
+                "title":"Features",
+                "class":"DepictionHeaderView"
+            },
             {
                 "class": "DepictionMarkdownView",
                 "markdown": "\"PMP\" Protect My Photos iOS 11/12/13",
