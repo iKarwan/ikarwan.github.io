@@ -1,7 +1,7 @@
 {
    "minVersion":"0.1",
    "headerImage":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg",
-   "tintColor":"#5300EB",
+   "tintColor":"#EB9694",
    "tabs":[
       {
          "tabname":"Details",
@@ -12,8 +12,8 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/1.jpeg",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/1.jpeg"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg"
                     }
                 ],
                 "ipad":{
@@ -22,13 +22,13 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/1.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/1.PNG"
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.PNG",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.PNG"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/2.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/2.PNG"
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/2.PNG",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/2.PNG"
                         }
                     ],
                     "class":"DepictionScreenshotView"
