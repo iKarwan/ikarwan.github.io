@@ -1,6 +1,6 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/Images/Banner.jpg",
+   "headerImage":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg",
    "tintColor":"#5300EB",
    "tabs":[
       {
@@ -12,13 +12,8 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/1.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/1.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/2.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/2.PNG"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/1.jpeg",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.pmp/screenshots/1.jpeg"
                     }
                 ],
                 "ipad":{
@@ -61,13 +56,13 @@
 
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "\"PMP\" Protect My Photos iOS 11/12/13",
+                "markdown": "inspired by a flower name:",
                 "useSpacing": true
             },
 
             {
                 "useBottomMargin": false,
-                "markdown": "sometimes when someone take your phone\r\nmay by curiosity goes around and check everything\r\nPMP will punch him in his face :D\r\nPMP will hide all your photos with One click and bring it with 1One\r\nit even protected access to photos with Camera app also.",
+                "markdown": "contain over 50 icon \n 1 badges.",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
@@ -116,7 +111,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 11.0 to 13.7",
+               "text":"iOS 10.0 to 14.0",
                "class":"DepictionTableTextView"
             },
 
