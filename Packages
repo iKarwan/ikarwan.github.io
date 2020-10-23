@@ -1,3 +1,21 @@
+Package: com.yourepo.ikghd.iastrid
+Version: 1.1-3
+Section: Themes
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: com.spark.snowboard |com.anemonetheming.anemone | com.yourepo.iconomatic.iconomatic
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.iastrid_1.0.0_iphoneos-arm.deb
+Size: 1197292
+MD5sum: 563bd20ddb4504beba44d1a55bcfa8a2
+SHA1: 48f6f697aa35623be6aad0a5c7b4f3e0b3157afc
+SHA256: 78b914a4ce680dd50ca4c8207974b0eb1bb303b36d251b04d59d3191a9211a47
+Description: iNspired By a flower Name !..
+Name: iAstrid
+Author: iKarwan <hiwa.jaf1992@gmail.com>
+Depiction: https://ikarwan.github.io/depictions/?p=com.yourepo.ikghd.iastrid
+SileoDepiction: https://ikarwan.github.io/sileodepictions/com.yourepo.ikghd.iastrid.json
+Icon: https://ikarwan.github.io/assets/icons/com.yourepo.ikghd.iastrid.png
+
 Package: pro.ikghd.ictmiz
 Version: 1.0.0
 Section: Tweaks
