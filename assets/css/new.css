@@ -1,0 +1,692 @@
+body {
+    background-color: #fff !important;
+    text-align: center;
+    width: inital !important;
+    min-height:100%
+}
+
+body main {
+    background-color: #fff;
+    overflow: inherit;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-items: flex-start;
+    align-items: flex-start;
+    align-content: baseline;
+    width:100%
+}
+
+body main, body panel panel-header {
+    display: flex;
+    justify-content:space-between
+}
+
+body panel panel-header {
+    font-size: 22px;
+    padding-left: 0;
+    padding-right: 0;
+    align-items: flex-end;
+    margin:0
+}
+
+body panel panel-header label {
+    display: inline-flex;
+    width:auto
+}
+
+body panel panel-body {
+    color: #666;
+    background: #fff;
+    box-shadow: none;
+    border-radius: 0;
+    width: auto;
+    margin: 0;
+    display: inline-block;
+    padding:5px 0
+}
+
+body panel panel-body > table > tbody tr {
+    border:none
+}
+
+body panel panel-body > ul.review-list {
+    color: #333;
+    margin-top: 3px;
+    padding-right: 0;
+    margin-right:0 !important
+}
+
+body panel.modern {
+    background: 0 0;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 12px;
+    width:100%
+}
+
+.information > tbody {
+    display: flex;
+    justify-content: end;
+    flex-direction: unset;
+    flex-wrap: wrap;
+    align-items:baseline
+}
+
+.information > tbody > tr {
+    width: 45%;
+    max-width: 50%;
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    border: none;
+    padding: 5px;
+    text-align: center;
+    height: 100%;
+    align-items: flex-start;
+    flex-shrink: 2;
+    flex-basis:fill
+}
+
+.information > tbody > tr:nth-child(2n) {
+    padding-right:0
+}
+
+.information > tbody > tr:nth-child(odd) {
+    padding-left:0
+}
+
+.information > tbody > tr > td:first-child {
+    font-size: 11px;
+    color: #777;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin:0
+}
+
+.information > tbody > tr > td:nth-child(2) {
+    text-align: left;
+    font-size: 16px;
+    color: #111;
+    font-weight: 600;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin:.425rem 0 .625rem
+}
+
+header {
+    width: auto;
+    right: 0;
+    left: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(90deg, #222, #424242);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .3);
+    border:none !important
+}
+
+header #btn-login {
+    padding: .325rem .75rem;
+    border: 1px solid #000;
+    border-radius: 1rem;
+    filter: brightness(5000%);
+    border-color: #fff !important;
+    font-weight: 700;
+    color: #fff;
+    transform:scale(.95)
+}
+
+header > div {
+    color: green;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-content: space-between;
+    align-items:center
+}
+
+header .nav-label {
+    color:#fff
+}
+
+.navbar-brand img {
+    width: 35px;
+    height: 35px;
+    margin-right: .3rem;
+    filter: brightness(400%);
+    font-weight:700
+}
+
+.navbar-brand div {
+    font-weight:500
+}
+
+a.sub-header {
+    color:#F49B23
+}
+
+.sub-header {
+    line-height: normal;
+    width: auto;
+    text-align: right;
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 1px;
+    font-weight:600
+}
+
+.change-content {
+    display: block;
+    margin-left: -4px;
+    line-height: 1;
+    font-size: 14px;
+    font-weight:400
+}
+
+.package-description {
+    margin-top: 0;
+    font-weight:400
+}
+
+.package-description p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height:1.4
+}
+
+.package-description ol li, .package-description ul li {
+    padding-bottom: .375rem;
+    line-height:1.25
+}
+
+.package-description ol li:last-child, .package-description ul li:last-child {
+    padding-bottom:0
+}
+
+.package-description p + ol, .package-description p + ul {
+    padding-top:.25rem
+}
+
+.package-description p > br {
+    line-height:2
+}
+
+.package-description a {
+    color: #1992d4;
+    font-weight: 500;
+    display:inline-block
+}
+
+.changes-header {
+    font-size: 11px;
+    font-style: italic;
+    color: #000;
+    font-weight: 600;
+    margin: 0;
+    opacity:.9
+}
+
+.rating-stats-container {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+    align-items:flex-start
+}
+
+.rating-stats-container .rating-overall {
+    width: -webkit-min-content;
+    width: -moz-min-content;
+    width: min-content;
+    align-self:flex-start
+}
+
+.rating-stats-container .rating-stats-bars {
+    width: inherit;
+    align-self: flex-end;
+    float: none;
+    max-width:400px
+}
+
+@media (min-width: 961px) {
+    main {
+        width: 75% !important;
+        max-width:961px !important
+    }
+
+    .info-panel {
+        width:50% !important
+    }
+
+    .changes-panel {
+        width: 45% !important;
+        display: flex !important;
+        order:1
+    }
+
+    .reviews-panel {
+        width: 100% !important;
+        order:2
+    }
+
+    .review-list li {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0;
+        flex: auto 1;
+        align-self: auto;
+        margin-right: 1em;
+        width:30%
+    }
+
+    ul.review-list {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        align-items: stretch;
+        align-content:center
+    }
+
+    .review-list li:first-child {
+        margin-left:0
+    }
+
+    .review-list li:last-child {
+        margin-right:0
+    }
+
+    .package-description ol, .package-description ul {
+        -moz-columns: 2;
+        column-count: 2;
+        -webkit-columns: 2;
+        -mox-columns:2
+    }
+
+    .package-description ol ol, .package-description ol ul, .package-description ul ol, .package-description ul ul {
+        -webkit-columns: 1;
+        display: inline-block;
+        -moz-column-count: 1;
+        column-count: 1;
+        -mox-columns:1
+    }
+
+    .package-description ol li, .package-description ul li {
+        padding-right:20px
+    }
+}
+
+.reviews-panel panel-body {
+    margin-top: 25px;
+    display: flex !important;
+    flex-direction:column
+}
+
+.package-description .h1, .package-description .h2, .package-description .h3, .package-description .h4, .package-description .h5, .package-description .h6, .package-description h1, .package-description h2, .package-description h3, .package-description h4, .package-description h5, .package-description h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height:1.1
+}
+
+.package-description .h1 .small, .package-description .h1 small, .package-description .h2 .small, .package-description .h2 small, .package-description .h3 .small, .package-description .h3 small, .package-description .h4 .small, .package-description .h4 small, .package-description .h5 .small, .package-description .h5 small, .package-description .h6 .small, .package-description .h6 small, .package-description h1 .small, .package-description h1 small, .package-description h2 .small, .package-description h2 small, .package-description h3 .small, .package-description h3 small, .package-description h4 .small, .package-description h4 small, .package-description h5 .small, .package-description h5 small, .package-description h6 .small, .package-description h6 small {
+    font-weight: 400;
+    line-height:1
+}
+
+.package-description .h1, .package-description .h2, .package-description .h3, .package-description h1, .package-description h2, .package-description h3 {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight:700
+}
+
+.package-description .h1 .small, .package-description .h1 small, .package-description .h2 .small, .package-description .h2 small, .package-description .h3 .small, .package-description .h3 small, .package-description h1 .small, .package-description h1 small, .package-description h2 .small, .package-description h2 small, .package-description h3 .small, .package-description h3 small {
+    font-size:65%
+}
+
+.package-description .h4, .package-description .h5, .package-description .h6, .package-description h4, .package-description h5, .package-description h6 {
+    margin-top: 10px;
+    margin-bottom:10px
+}
+
+.package-description .h4 .small, .package-description .h4 small, .package-description .h5 .small, .package-description .h5 small, .package-description .h6 .small, .package-description .h6 small, .package-description h4 .small, .package-description h4 small, .package-description h5 .small, .package-description h5 small, .package-description h6 .small, .package-description h6 small {
+    font-size:75%
+}
+
+.package-description .h1, .package-description h1 {
+    font-size: 36px;
+    font-weight:800
+}
+
+.package-description .h2, .package-description h2 {
+    font-size: 30px;
+    margin-top:10px
+}
+
+.package-description .h3, .package-description h3 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-top: .625rem;
+    margin-bottom:.75rem
+}
+
+.package-description .h4, .package-description h4 {
+    font-size: .95rem;
+    font-weight:600
+}
+
+.package-description .h5, .package-description h5 {
+    font-size: .875rem;
+    font-weight:600
+}
+
+.package-description .h6, .package-description h6 {
+    font-size: .725rem;
+    font-weight: 700;
+    margin-bottom: .35rem;
+    margin-top:.75rem
+}
+
+.package-description p {
+    margin:0 0 10px
+}
+
+.package-description .small, .package-description small {
+    font-size:85%
+}
+
+.package-description ol, .package-description ul {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    padding-top: .5rem;
+    padding-right:0
+}
+
+.package-description ol ol, .package-description ol ul, .package-description ul ol, .package-description ul ul {
+    margin-bottom: 0;
+    padding-bottom:0
+}
+
+.package-description h3 + p {
+    margin-top:10px !important
+}
+
+.package-description p + h3 {
+    margin-top:15px
+}
+
+.package-description a > .strong, .package-description a > strong {
+    color:inherit
+}
+
+.package-description h4 + ol, .package-description h4 + ul {
+    padding-top:.25rem
+}
+
+.package-description ol + h4, .package-description p + h4, .package-description ul + h4 {
+    margin-top:1rem
+}
+
+.package-description ol + h3, .package-description p + h3, .package-description ul + h3 {
+    margin-top: 1.15rem;
+    margin-bottom:.5rem
+}
+
+.package-description ol + p, .package-description ul + p {
+    margin-top:0
+}
+
+.package-description > p:last-child {
+    margin-bottom:0
+}
+
+.package-description h3 + h4, .package-description p + h5 {
+    margin-top:.85rem
+}
+
+.package-description h5 + p {
+    margin-top:-.2rem
+}
+
+
+.package-header .name {
+    font-size: 20px;
+    font-weight: 700;
+    color:#000
+}
+
+.package-header .identifier {
+    margin-top: 4px;
+    color: #F49B23;
+    font-size:12px
+}
+
+.package-header .labels {
+    display: inline-flex;
+    flex-grow: 2;
+    padding-top: 5px;
+    align-items:center
+}
+
+.package-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: -5px;
+    margin-bottom: 1rem;
+    justify-items:stretch
+}
+
+.preview-viewer a {
+    display: block;
+    width: auto;
+    height:275px
+}
+
+.preview-viewer img {
+    height: 100%;
+    width: auto;
+    border-radius: 5px;
+    overflow: hidden;
+    display:inline-block
+}
+
+.preview-viewer {
+    overflow-y: hidden;
+    display: block;
+    margin: 0;
+    padding:0
+}
+
+header a {
+    display: flex;
+    align-items:center
+}
+
+header .nav-label {
+    line-height: normal;
+    font-size: .9rem;
+    font-weight: 600;
+    opacity:.9
+}
+
+.navbar-brand div {
+    color: #fff !important;
+    font-size:1rem
+}
+
+.cydia-body main {
+    padding-top:.75rem !important
+}
+
+.cydia-body .cydia-hide, .cydia-body header {
+    display:none !important
+}
+
+.package-description .sileo-show, .sileo-show {
+    display:none
+}
+
+.sileo-body main {
+    padding-top:.75rem !important
+}
+
+.sileo-body .sileo-hide, .sileo-body header {
+    display:none !important
+}
+
+.sileo-body .sileo-show {
+    display:inherit
+}
+
+.changes-panel ul li {
+    margin-bottom: .35rem;
+    line-height: 1.15;
+    font-weight: 500;
+    padding-left:.25rem
+}
+
+.changes-panel ul li:last-child {
+    margin-bottom:0
+}
+
+.changes-panel ul li .change-content {
+    font-weight: 500;
+    line-height: 1.35;
+    padding-left: .125rem
+}
+
+
+
+
+
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #000000 !important;
+    }
+    
+    body main {
+        background-color: #000000;
+    }
+    body panel panel-body {
+        color: #ECEFF4;
+        background: #000000;
+    }
+
+    header .nav-label {
+        color:#fff
+    }
+
+    .product-header .identifier {
+        color: #F49B23;
+    }
+
+    .package-header .identifier {
+        color: #F49B23;
+    }
+
+    strong {
+        color:#F8F9FA
+    }
+
+    h3 {
+        color: #D8DEE9;
+    }
+
+    .product-header .name {
+        font-size: 20px;
+        font-weight: 700;
+        color:#D8DEE9
+    }
+
+    .form-group > label {
+        color: #D8DEE9;
+    }
+
+    .information > tbody > tr > td:nth-child(2) {
+        color: #D8DEE9;
+    }
+
+    h6 {
+        color: #D8DEE9;
+    }
+
+    .review-title {
+        color: #D8DEE9;
+    }
+
+    .changes-header {
+        color: #111;
+    }
+
+    .information > tbody > tr > td:first-child {
+        color: #ECEFF4;
+    }
+
+    a.sub-header {
+        color:#ECEFF4
+    }
+
+    body panel panel-header {
+        color:#D8DEE9
+    }
+
+    html body panel panel-body {
+        color: #D8DEE9;
+        background: #000000;
+
+    }
+
+    body {
+        background-color: #000000;
+    }
+    
+    main {
+        background-color: #000000;
+    }
+
+    header {
+        background-image: linear-gradient(90deg, #000000, #000000);
+        box-shadow: 0 1px 1px 0 rgba(36, 41, 51, .3);
+    }
+    
+    .changes-header {
+        color: #D8DEE9;
+    }
+
+    .sub-header {
+        color: #D8DEE9;
+    }
+
+    .bg-white {
+        background-color:#000000
+    }
+    
+    .text-3xl {
+        color:#ECEFF4
+    }
+
+    .icon-atebitsy-flame {
+    color:#ECEFF4
+    }
+
+    .package-header .name {
+        color:#ECEFF4
+    }
+
+    h4 {
+        color:#ECEFF4
+    }
+
+    .font-semibold {
+    color:#ECEFF4
+    }
+
+    .text-grey-dark {
+        color:#D8DEE9
+    }
