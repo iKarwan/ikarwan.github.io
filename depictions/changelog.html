@@ -13,8 +13,8 @@
   <style>
 	@media (max-width: 767px) {
 		body{margin:0;padding:0;border:0;outline:0;box-sizing:border-box}
-    }  
-    
+    }
+
     .alert{
 		margin-top: 15px !important;
 		margin-bottom: 15px !important;
@@ -24,12 +24,12 @@
 	}
   </style>
   <script type="text/javascript">
-  
-	bundleid = $.QueryString['p'];	
+
+	bundleid = $.QueryString['p'];
 
     var contentBlocks = 	{
-        "#changeLogList" : 
-			{"type":"articles"  
+        "#changeLogList" :
+			{"type":"articles"
 				,"source"			:"changelog"
 				,"titleSource" 		:"version"
 				,"paragraphSource"	:"change"
@@ -42,19 +42,19 @@
     $( document ).ready(function() {
         $.ajax({
             type    : "GET",
-            dataType: "xml",
-            url     : (bundleid+"/changelog.xml"),
-            success : function(xml){
-            	data_loader_engine(contentBlocks,xml)
+            dataType: "html",
+            url     : (bundleid+"/changelog.html"),
+            success : function(html){
+            	data_loader_engine(contentBlocks,html)
             },
 			cache   : false,
             error: function() {
                 $("#packageError").show();
 				$("#packageInformation").hide();
             }
-        }); 
-		
-    }); 
+        });
+
+    });
   </script>
 </head>
 <body>
@@ -67,14 +67,14 @@
 <div id="packageError" style="display:none">
 	<div class="container">
 	  <div class="alert alert-danger">
-		<strong>Houston, we have a problem!</strong> The package you are tying to view is not hosted on this repository. 
+		<strong>Houston, we have a problem!</strong> The package you are tying to view is not hosted on this repository.
 	  </div>
 	</div>
 </div>
 
 <script type="text/javascript">
     var repoContents =  {
-        "#repoFooterLinks" : 
+        "#repoFooterLinks" :
             {"type":"custom"
                 ,"source":"repo>footerlinks>link"
                 ,"render":function(element,source) {
@@ -86,11 +86,11 @@
                             i.attr("class",$(data).find('iconclass').text());
                             console.log(i);
                             $(a).append(i);
-                        } 
+                        }
                         $(a).append($(data).find('name').text());
                         $(element).append(a);
-                    }); 
-                } 
+                    });
+                }
             }
     }
     $( document ).ready(function() {
@@ -106,10 +106,10 @@
 			},
 
             error: function() {$("#contactInfo").hide()}
-        }); 
-		
-		
-    }); 
+        });
+
+
+    });
 
 </script>
 

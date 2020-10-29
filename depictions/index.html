@@ -114,11 +114,11 @@
     $( document ).ready(function() {
         $.ajax({
             type    : "GET",
-            dataType: "xml",
-            url     : (bundleid+"/info.xml"),
-            success : function(xml){
-				document.title = $(xml).find("package>name").text();
-            	data_loader_engine(contentBlocks,xml)
+            dataType: "html",
+            url     : (bundleid+"/index.html"),
+            success : function(html){
+				document.title = $(html).find("package>name").text();
+            	data_loader_engine(contentBlocks,html)
 
             },
 			cache   : false,
