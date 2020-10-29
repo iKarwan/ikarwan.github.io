@@ -1,0 +1,193 @@
+body{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.disable-hover {
+    pointer-events: none;
+}
+
+.link-item {
+    list-style-type: none;
+    padding: 17px 15px;
+    display: inline-block;
+    color: #111 !important;
+    text-align: left;
+}
+
+.list-group-item {
+    border: 0px;
+    background-color: transparent;
+}
+
+.fa {
+    font-size: 30px;
+    padding-right: 7px;
+}
+
+.accent {
+	color: #6d7c9b !important;
+}
+
+.info {
+	font-size: 18px;
+}
+
+.btn-default:hover{ 
+	background-color: rgba(0, 0, 255, 0);
+	border-color: rgba(0, 0, 255, 0);
+}
+
+a.list-group-item:hover{ 
+    background-color: rgba(0, 0, 255, 0);
+}
+
+.reposhortcut{
+	width: 422px;
+	display: flex;
+}
+
+@media screen and (min-width:900px) {
+ .packages {
+  grid-template-columns:33.3% 33.3% 33.3%
+ }
+ .package {
+  width: 373px;
+ }
+ #repoFooterLinks{
+	text-align: left;
+ }
+ .scrollview{
+	width: 100%;
+ }
+}
+
+@media screen and (max-width:650px) {
+ .packages {
+  grid-template-columns:100%
+ }
+ .package {
+  width: 382px;
+ }
+ #repoFooterLinks{
+	text-align: center;
+ }
+ .scrollview{
+	width: 90vw;
+ }
+}
+
+a:hover {
+	opacity: .9;
+}
+
+.package {
+	box-shadow: 0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -2px rgba(0,0,0,.05);
+	height: 78px;
+	margin: 5px;
+	padding: .75rem;
+	border-radius: 13px;
+	text-decoration: none;
+	position: relative;
+	word-break: break-word;
+	border-color: transparent;
+	background-color: white;
+}
+
+.panel-default > .panel-heading{
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.packageHeader {
+	margin-bottom: 0px !important;
+	margin-left: 0px !important;
+}
+
+#packageHeader {
+	background-color: #212529;
+}
+
+.page-header {
+	margin-bottom: 20px !important;
+	margin-top: 20px;
+}
+
+
+.panel-heading {
+	font-size: 1.2em;
+	font-weight: 700;
+	margin-top: 0px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	color: black;
+	padding-top: 4px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.panel-body{
+	display: ruby-base-container;
+}
+
+.subtitle {
+	font-size: 16px !important;
+	width:102px;
+	height:30px;
+}
+
+.scrollview{
+	overflow-x: scroll;
+	overflow-y: hidden;
+	white-space: nowrap;
+	height: 555px;
+	display: inline-flex;
+}
+
+.scrollview::-webkit-scrollbar{
+	display: none;
+}
+
+.screenshotCardFrame{
+	margin: 5px;
+}
+
+.screenshotCard{
+	display: inline-block;
+	height: 100%;
+	width: 251px;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        color: white;
+    }
+
+	#packageHeader {
+		background-color: #151515;
+	}
+
+	.package {
+		background-color: #151515;
+		border-color: #151515;
+	}
+
+	.panel-heading {
+		color: #e6e6e6;
+	}
+
+	.btn-default {
+		background-color: #151515;
+		border-color: #151515;
+	}
+
+	.link-item {
+		color: nil;
+	}
+
+	.fa{
+		color: #d6d6d6;
+	}
+}

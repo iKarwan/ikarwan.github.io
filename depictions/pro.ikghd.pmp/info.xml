@@ -1,0 +1,36 @@
+<package>
+   <id>pro.ikghd.pmp</id>
+    <name>PMP</name>
+    <version>1.0.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <maxiOS>13.7</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <descriptionlist>
+        <description>"PMP" Protect My Photos:</description>
+        <longdescription><![CDATA[
+          <br>Main Options:
+          <br>· hide all Photos
+      	  <br>· hide all tabs
+      		<br>
+        ]]></longdescription>
+    </descriptionlist>
+
+    <screenshots>
+        <screenshot>
+            <image>1.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>2.PNG</image>
+        </screenshot>
+    </screenshots>
+
+    <changelog>
+  		<change>Reversioning for the new repo release</change>
+    </changelog>
+
+    <links></links>
+</package>

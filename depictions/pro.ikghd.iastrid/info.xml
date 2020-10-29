@@ -1,0 +1,33 @@
+<package>
+   <id>pro.ikghd.iastrid</id>
+    <name>iAstrid</name>
+    <version>1.0.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>10.0</miniOS>
+            <maxiOS>14.0</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <descriptionlist>
+        <description>inspired by a flower name:</description>
+        <longdescription><![CDATA[
+          <br>contains icon:
+          <br>· over 50 Icon
+      	  <br>· 1 badges
+      		<br>
+        ]]></longdescription>
+    </descriptionlist>
+
+    <screenshots>
+        <screenshot>
+            <image>1.jpeg</image>
+        </screenshot>
+    </screenshots>
+
+    <changelog>
+  		<change>Reversioning for the new repo release</change>
+    </changelog>
+
+    <links></links>
+</package>

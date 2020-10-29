@@ -1,0 +1,49 @@
+<package>
+   <id>pro.ikghd.ol3dtube</id>
+    <name>OL3DTube</name>
+    <version>1.0.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>10.0</miniOS>
+            <maxiOS>14.1</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <descriptionlist>
+        <description>Oled Mode For YouTube:</description>
+        <longdescription><![CDATA[
+          <br>Main Options:
+          <br>· Oled dark mode
+      	  <br>· main icon color
+      		<br>· premium tab style
+      		<br>
+        ]]></longdescription>
+    </descriptionlist>
+
+    <screenshots>
+        <screenshot>
+            <image>1.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>2.png</image>
+        </screenshot>
+        <screenshot>
+            <image>3.png</image>
+        </screenshot>
+        <screenshot>
+            <image>4.png</image>
+        </screenshot>
+        <screenshot>
+            <image>5.png</image>
+        </screenshot>
+        <screenshot>
+            <image>6.png</image>
+        </screenshot>
+    </screenshots>
+
+    <changelog>
+  		<change>Reversioning for the new repo release</change>
+    </changelog>
+
+    <links></links>
+</package>

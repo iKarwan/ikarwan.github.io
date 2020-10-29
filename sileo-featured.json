@@ -1,0 +1,29 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [
+
+      {
+          "url": "https://ikarwan.github.io/assets/banners/Banner2.png",
+          "title": "YouTubeKiller",
+          "package": "pro.ikghd.youtubekiller",
+          "hideShadow": false
+      },
+
+        {
+            "url": "https://ikarwan.github.io/assets/banners/ban.png",
+            "title": "iCTMiZ Pro",
+            "package": "pro.ikghd.ictmiz",
+            "hideShadow": false
+        },
+
+
+        {
+            "url": "https://ikarwan.github.io/assets/banners/bano.png",
+            "title": "OL3DTube",
+            "package": "pro.ikghd.ol3dtube",
+            "hideShadow": false
+        },
+    ]
+}
