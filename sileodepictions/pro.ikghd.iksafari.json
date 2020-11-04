@@ -23,8 +23,8 @@
 
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.PNG"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.png",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.png"
                     }
                 ],
                 "ipad":{
@@ -44,8 +44,8 @@
 
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.PNG"
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.png",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.png"
                         }
                     ],
                     "class":"DepictionScreenshotView"
@@ -79,7 +79,7 @@
                             },
 
                             {
-                                "markdown":"- Fixed some bugs.",
+                                "markdown":"- new release",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -163,7 +163,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-                "markdown":"- Reversioning for the new repo release",
+                "markdown":"- new release",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },

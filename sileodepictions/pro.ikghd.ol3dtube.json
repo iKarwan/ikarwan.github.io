@@ -1,6 +1,6 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://ikarwan.github.io/assets/banners/bano.png",
+   "headerImage":"https://ikarwan.github.io/assets/banners/bano.PNG",
    "tintColor":"#541717",
    "tabs":[
       {
@@ -19,28 +19,28 @@
 
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/2.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/2.png"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/2.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/2.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/3.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/3.png"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/3.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/3.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/4.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/4.png"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/4.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/4.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/5.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/5.png"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/5.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/5.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.png"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/6.PNG"
                     }
                 ],
                 "ipad":{
@@ -49,8 +49,8 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.png",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.png"
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.PNG",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ol3dtube/screenshots/1.PNG"
                         },
                         {
                             "accessibilityText":"Screenshot",
@@ -72,11 +72,6 @@
             {
                "class":"DepictionSeparatorView"
             },
-
-            {
-               "class":"DepictionSeparatorView"
-            },
-
 
             {
                "title":"Features",
@@ -102,7 +97,7 @@
                             },
 
                             {
-                                "markdown":"- Fixed some bugs.",
+                                "markdown":"- new release",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -191,7 +186,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-               "markdown":"- Reversioning for the new repo release",
+               "markdown":"- new release",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },

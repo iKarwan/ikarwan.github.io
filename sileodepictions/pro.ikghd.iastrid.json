@@ -22,13 +22,8 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.PNG"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/2.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/2.PNG"
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg"
                         }
                     ],
                     "class":"DepictionScreenshotView"
@@ -69,7 +64,7 @@
                             },
 
                             {
-                                "markdown":"- Fixed some bugs.",
+                                "markdown":"- new release",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -153,7 +148,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-               "markdown":"- Reversioning for the new repo release",
+               "markdown":"- new release",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },

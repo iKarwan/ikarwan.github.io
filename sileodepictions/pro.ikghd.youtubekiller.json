@@ -226,7 +226,7 @@
                             },
 
                             {
-                                "markdown":"- Fixed some bugs.",
+                                "markdown":"- new release",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -374,7 +374,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-               "markdown":"* Reversioning for the new repo release",
+               "markdown":"* new release",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },
