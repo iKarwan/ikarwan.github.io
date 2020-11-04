@@ -17,8 +17,8 @@
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/screenshots/2.jpeg",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/screenshots/2.jpeg"
+                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/screenshots/2.PNG",
+                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/screenshots/2.PNG"
                     }
                 ],
                 "ipad":{
@@ -32,8 +32,8 @@
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/screenshots/2.jpeg",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/screenshots/2.jpeg"
+                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/screenshots/2.PNG",
+                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.ictmizlite/screenshots/2.PNG"
                         }
                     ],
                 "class":"DepictionScreenshotView"
