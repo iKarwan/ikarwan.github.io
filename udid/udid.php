@@ -1,5 +1,5 @@
 <?php
-$name_file = "device.mobileconfig";
+$name_file = "udid.mobileconfig";
 if( file_exists($name_file) ) {
 	$file = fopen($name_file, "r");
 	if ($file === false) {

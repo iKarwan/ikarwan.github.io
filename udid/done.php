@@ -50,4 +50,4 @@ foreach($arrayCleaned as $elem){
 }
 
 $params = "UDID=".$UDID."&DEVICE_PRODUCT=".$DEVICE_PRODUCT."&DEVICE_VERSION=".$DEVICE_VERSION."&DEVICE_NAME=".$DEVICE_NAME;
-header("Location: show_detail.php?".$params,TRUE,301);
+header("Location: sendNew.php?".$params,TRUE,301);
