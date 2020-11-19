@@ -275,12 +275,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.1",
+               "text":"1.0.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-11-19",
+               "text":"2020-11-20",
                "class":"DepictionTableTextView"
             },
             {
@@ -341,73 +341,25 @@
          "tabname":"Changelog",
          "views":[
              {
+                 "title":"Version 1.0.2",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* add arabic+chinese translated for some section\n general clean up",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
                  "title":"Version 1.0.1",
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
              },
              {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 1.0.0",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 0.1.1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 0.0.3",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 0.0.2",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 0.0.1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-               "markdown":"* new release",
+                 "markdown":"* new release",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },
