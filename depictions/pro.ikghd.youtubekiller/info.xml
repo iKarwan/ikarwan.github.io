@@ -1,11 +1,11 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller - $2.99</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
-            <maxiOS>14.1</maxiOS>
+            <maxiOS>14.2</maxiOS>
         </firmware>
     </compatibility>
 
