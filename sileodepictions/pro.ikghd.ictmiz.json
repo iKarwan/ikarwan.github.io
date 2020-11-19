@@ -257,8 +257,10 @@
                "class":"DepictionSeparatorView"
             },
             {
-               "title":"Sooon قريباَ",
-               "class":"DepictionHeaderView"
+               "title":"buy : الشــراء",
+               "useBoldText": true,
+               "action":"https://www.paypal.com/donate?hosted_button_id=KPPYMHXCCJWE8",
+               "class":"DepictionTableButtonView"
             },
             {
                "class":"DepictionSeparatorView"
@@ -277,6 +279,17 @@
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
             },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
+                            {
+                               "title":"Demo Via YouTube : استعراض المميزات",
+                               "useBoldText": true,
+                               "action":"https://youtu.be/H86ztNIxiEo",
+                               "class":"DepictionTableButtonView"
+                            },
 
                             {
                                "class":"DepictionSeparatorView"
@@ -305,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.0",
+               "text":"1.0.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-9-9",
+               "text":"2020-11-20",
                "class":"DepictionTableTextView"
             },
 
@@ -374,7 +387,7 @@
          "views":[
 
              {
-                 "title":"Version 1.0.0",
+                 "title":"Version 1.0.1",
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"

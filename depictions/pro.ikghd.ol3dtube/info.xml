@@ -1,17 +1,30 @@
 <package>
    <id>pro.ikghd.ol3dtube</id>
     <name>OL3DTube - $0.99</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
-            <maxiOS>14.1</maxiOS>
+            <maxiOS>14.2</maxiOS>
         </firmware>
     </compatibility>
 
     <descriptionlist>
         <description>Oled Mode For YouTube:</description>
         <longdescription><![CDATA[
+          <br>
+
+            <li>
+                <a href="https://www.paypal.com/donate/?hosted_button_id=FAA54Y3VBNMKE">buy : الشــراء</a>
+            </li>
+
+            <br>
+
+            <li>
+                <a href="https://paypal.me/hiwajaf">if buy not supported use this:اذا كانت لا تدعم الشراء</a>
+            </li>
+
+
           <br>
             · if u purchased this tweak on yourepo before you can get YoutubeKiller for $1.00
             <br>
