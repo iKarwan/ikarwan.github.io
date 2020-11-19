@@ -216,8 +216,10 @@
                "class":"DepictionSeparatorView"
             },
             {
-               "title":"Sooon قريباَ",
-               "class":"DepictionHeaderView"
+               "title":"buy : الشــراء",
+               "useBoldText": true,
+               "action":"https://www.paypal.com/donate?hosted_button_id=8BZ9QDP2E6L78",
+               "class":"DepictionTableButtonView"
             },
             {
                "class":"DepictionSeparatorView"
@@ -233,6 +235,13 @@
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
                 "useBottomMargin": false
+            },
+
+            {
+               "title":"YouTube Channel",
+               "useBoldText": true,
+               "action":"https://www.youtube.com/watch?v=haAaqU1zFFo&feature=youtu.be&ab_channel=iKarwan-ikghd",
+               "class":"DepictionTableButtonView"
             },
 
                             {
