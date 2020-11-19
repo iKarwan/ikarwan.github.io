@@ -238,7 +238,11 @@
             },
 
             {
-               "title":"YouTube Channel",
+               "class":"DepictionSeparatorView"
+            },
+
+            {
+               "title":"Demo Via YouTube : استعراض المميزات",
                "useBoldText": true,
                "action":"https://www.youtube.com/watch?v=haAaqU1zFFo&feature=youtu.be&ab_channel=iKarwan-ikghd",
                "class":"DepictionTableButtonView"
@@ -271,22 +275,22 @@
             },
             {
                "title":"Version",
-               "text":"1.0.0",
+               "text":"1.0.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-9-9",
+               "text":"2020-11-19",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Price",
-               "text":"$1.99",
+               "text":"$2.99",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Compatibility",
-               "text":"iOS 10.0 - 14.1",
+               "text":"iOS 10.0 - 14.2",
                "class":"DepictionTableTextView"
             },
             {
@@ -337,55 +341,7 @@
          "tabname":"Changelog",
          "views":[
              {
-                 "title":"Version 3.2.0",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 3.2",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 3.1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 3.0",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                 "markdown":"* Support Latest Youtube version.",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-
-             {
-                 "title":"Version 2.9.1",
+                 "title":"Version 1.0.1",
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
@@ -398,6 +354,54 @@
 
              {
                  "title":"Version 1.0.0",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 0.1.1",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 0.0.3",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 0.0.2",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+                 "markdown":"* Support Latest Youtube version.",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
+
+             {
+                 "title":"Version 0.0.1",
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
