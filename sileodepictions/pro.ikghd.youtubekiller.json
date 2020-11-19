@@ -259,7 +259,7 @@
                             },
 
                             {
-                                "markdown":"- new release",
+                                "markdown":"- add arabic+chinese translated for some section wasn't translated\n\n* general clean up",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -347,7 +347,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-                 "markdown":"* add arabic+chinese translated for some section\n general clean up",
+                 "markdown":"* add arabic+chinese translated for some section \n\n* general clean up",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },
