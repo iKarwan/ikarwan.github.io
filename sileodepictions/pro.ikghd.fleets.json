@@ -56,7 +56,7 @@
 
             {
                 "useBottomMargin": false,
-                "markdown": "*Hide new twitter features !fleets:\n* اخفاءميزة الستوري الـflettsبالتويتر \n* configured option from settings",
+                "markdown": "*Hide new twitter features !fleets:\n* اخفاءميزة الستوري بالتويتر \n* configured option from settings",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
