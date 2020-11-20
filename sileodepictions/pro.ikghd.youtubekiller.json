@@ -238,6 +238,19 @@
             },
 
             {
+                "markdown": "            Refund Policy:
+                            · refund accepted if u have !issue such a safe mode or th tweak not working!
+                            · must provide full details about the !issue photo & crash log>
+                            · change in mind not accepted !u can see details with photos & video before buying,
+                            · if refund was accepted will proccess with in 3 to 7 days:
+                            · thank you 🤗 & Enjoy",
+                "title": "markdown-description",
+                "useBoldText": true,
+                "class": "DepictionMarkdownView",
+                "useBottomMargin": false
+            },
+
+            {
                "class":"DepictionSeparatorView"
             },
 
