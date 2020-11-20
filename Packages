@@ -1,3 +1,22 @@
+Package: pro.ikghd.fleets
+Version: 0.0.1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.fleets_0.0.1_iphoneos-arm.deb
+Size: 63442
+Installed-Size: 356
+MD5sum: d379b288590b5d67d69cc3d8b7948fad
+SHA1: 02e8214f9ed2647aeade17aceda15f0fcb5838ff
+SHA256: 95c0151ea8595b0d174fb4bb167134f49f15970780d83849b39c34cdecdcd047
+Description: Hide New Twitter features fleets!
+Name: HideFleets
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.fleets
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.fleets.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.fleets.png
+
 Package: pro.ikghd.iastrid
 Version: 1.0.0
 Section: Themes

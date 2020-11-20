@@ -1,0 +1,35 @@
+<package>
+   <id>pro.ikghd.fleets</id>
+    <name>HideFleets</name>
+    <version>0.0.1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>11.0</miniOS>
+            <maxiOS>14.0</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <descriptionlist>
+        <description>Hide twitter new features fleets:</description>
+        <longdescription><![CDATA[
+          <br>Main Options:
+          <br>· hide fleets
+      		<br>
+        ]]></longdescription>
+    </descriptionlist>
+
+    <screenshots>
+        <screenshot>
+            <image>1.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>2.PNG</image>
+        </screenshot>
+    </screenshots>
+
+    <changelog>
+      <change>・initial release</change>
+    </changelog>
+
+    <links></links>
+</package>
