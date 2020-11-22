@@ -1,7 +1,13 @@
 <changelog>
 	<changes>
+		<version>1.0.3</version>
+		<change>・fix an issue with selected video audio with YouTubeMusic</change>
+		<change>・improvemnts</change>
 		<version>1.0.2</version>
 		<change>・add arabic+chinese translate for some section</change>
 		<change>・general clean up</change>
+		<version>1.0.1</version>
+		<change>・reversioned for new repo</change>
+		<change>・Initial Release</change>
 	</changes>
 </changelog>

@@ -259,7 +259,7 @@
                             },
 
                             {
-                                "markdown":"- add arabic+chinese translated for some section wasn't translated\n\n* general clean up",
+                                "markdown":"- fix an issue with selected video audio with YouTubeMusic\n* improvemnts",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -275,7 +275,7 @@
             },
             {
                "title":"Version",
-               "text":"1.0.2",
+               "text":"1.0.3",
                "class":"DepictionTableTextView"
             },
             {
@@ -340,6 +340,17 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.0.3",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+               "markdown":"- fix an issue with selected video audio with YouTubeMusic\n- improvemnts",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
              {
                  "title":"Version 1.0.2",
                  "useBoldText":true,
@@ -359,7 +370,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-                 "markdown":"* new release",
+                 "markdown":"* new release\n* reversioned for new repo release",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },
