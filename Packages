@@ -56,6 +56,26 @@ Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
 SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
 
+Package: pro.ikghd.ictmiz
+Version: 0.0.1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Conflicts: com.yourepo.ikghd.ictmiz1, com.springtomize.st5, org.mr.lynx
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmiz_0.0.1_iphoneos-arm.deb
+Size: 682748
+Installed-Size: 1632
+MD5sum: c0d81c15f6d09204e5b28d56d69b2f85
+SHA1: f9e836d14c6ab03334420e0d7432ba6f2b9546b4
+SHA256: 5b63ffa9cb3aa05d701110861454037e78dab182818eab62ee46a55f364aed38
+Description: i Customize Not U appl !...
+Name: iCTMiZ Pro
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
+
 Package: pro.ikghd.ictmizlite
 Version: 1.0.0
 Section: Tweaks
