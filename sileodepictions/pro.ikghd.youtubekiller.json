@@ -270,7 +270,7 @@
                             },
 
                             {
-                                "markdown":"- fix an issue with selected video audio with YouTubeMusic\n* improvemnts",
+                                "markdown":"- fix an issue with selected video or audio with YouTubeMusic\n* improvemnts",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -358,7 +358,7 @@
                "class":"DepictionSubheaderView"
            },
            {
-               "markdown":"- fix an issue with selected video audio with YouTubeMusic\n- improvemnts",
+               "markdown":"- fix an issue with selected video or audio with YouTubeMusic\n- improvemnts",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
