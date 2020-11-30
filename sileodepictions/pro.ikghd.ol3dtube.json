@@ -156,7 +156,7 @@
             },
             {
                "title":"Languages",
-               "text":"en",
+               "text":"en ar",
                "class":"DepictionTableTextView"
             },
 
@@ -209,6 +209,9 @@
                "class":"DepictionSubheaderView"
            },
            {
+              "class":"DepictionSeparatorView"
+           },
+           {
              "markdown":"- add arabic translate\n- clean up the preference\n- add dark mode for some deep sections",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
@@ -223,6 +226,9 @@
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
+             },
+             {
+                "class":"DepictionSeparatorView"
              },
              {
                "markdown":"- reversioned for new repo\n- Initial Release",

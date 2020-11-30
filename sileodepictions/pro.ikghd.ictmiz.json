@@ -393,13 +393,12 @@
                "class":"DepictionSubheaderView"
            },
            {
+              "class":"DepictionSeparatorView"
+           },
+           {
                "markdown":"- add arabic translate for some section\n- clean up the preference\n- add tweet button (Middle)\n- add hide twitter (Fleets)\n- fix oled dark mode with latest youtube version\n- and much more !Read the changelog in settings!",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
-           },
-
-           {
-              "class":"DepictionSeparatorView"
            },
 
              {
@@ -407,6 +406,9 @@
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
+             },
+             {
+                "class":"DepictionSeparatorView"
              },
              {
                  "markdown":"- reversioned for new repo\n- Initial Release",
