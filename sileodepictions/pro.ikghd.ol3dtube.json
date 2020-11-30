@@ -217,10 +217,6 @@
                "class":"DepictionMarkdownView"
            },
 
-           {
-              "class":"DepictionSeparatorView"
-           },
-
              {
                  "title":"Version 1.0.1",
                  "useBoldText":true,
