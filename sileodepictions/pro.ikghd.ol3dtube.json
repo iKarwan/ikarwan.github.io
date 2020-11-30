@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- new release",
+                                "markdown":"- add arabic translate\n- add dark mode for some deep sections",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.1",
+               "text":"1.0.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-11-20",
+               "text":"2020-11-30",
                "class":"DepictionTableTextView"
             },
             {
@@ -202,6 +202,22 @@
          "tabname":"Changelog",
          "views":[
 
+           {
+               "title":"Version 1.0.2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+             "markdown":"- add arabic translate\n- clean up the preference\n- add dark mode for some deep sections",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
+           {
+              "class":"DepictionSeparatorView"
+           },
+
              {
                  "title":"Version 1.0.1",
                  "useBoldText":true,
@@ -209,7 +225,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-               "markdown":"- new release",
+               "markdown":"- reversioned for new repo\n- Initial Release",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },

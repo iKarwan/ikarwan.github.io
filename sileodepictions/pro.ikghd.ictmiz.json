@@ -302,7 +302,7 @@
                             },
 
                             {
-                                "markdown":"- new release",
+                                "markdown":"- add tweet button (Middle)\n- add hide twitter (Fleets)\n- add arabic for some section wasn't translated\n- fix oled dark mode with latest youtube version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -318,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.1",
+               "text":"1.0.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-11-20",
+               "text":"2020-11-30",
                "class":"DepictionTableTextView"
             },
 
@@ -386,6 +386,22 @@
          "tabname":"Changelog",
          "views":[
 
+           {
+               "title":"Version 1.0.2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+               "markdown":"- add arabic translate for some section\n- clean up the preference\n- add tweet button (Middle)\n- add hide twitter (Fleets)\n- fix oled dark mode with latest youtube version\n- and much more !Read the changelog in settings!",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
+           {
+              "class":"DepictionSeparatorView"
+           },
+
              {
                  "title":"Version 1.0.1",
                  "useBoldText":true,
@@ -393,7 +409,7 @@
                  "class":"DepictionSubheaderView"
              },
              {
-                 "markdown":"- new release",
+                 "markdown":"- reversioned for new repo\n- Initial Release",
                  "useSpacing":true,
                  "class":"DepictionMarkdownView"
              },

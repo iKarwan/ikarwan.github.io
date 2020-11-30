@@ -1,6 +1,13 @@
 <changelog>
 	<changes>
-		<version>1.0.1</version>
-		<change>・new release</change>
+		<version>1.0.2</version>
+		<change>・add arabic translate</change>
+		<change>・clean up the preference</change>
+		<change>・add dark mode for some deep sections</change>	
 	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>・reversioned for new repo</change>
+		<change>・Initial Release</change>
+</changes>
 </changelog>

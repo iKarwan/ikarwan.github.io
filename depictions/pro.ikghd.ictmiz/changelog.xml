@@ -1,7 +1,16 @@
 <changelog>
 	<changes>
-		<version>1.0.1</version>
-		<change>・pls read the new changes inside !settings</change>
-		<change>・new release</change>
+		<version>1.0.2</version>
+		<change>・add arabic translate for some section</change>
+		<change>・clean up the preference</change>
+		<change>・add tweet button (Middle)</change>
+		<change>・add hide twitter (Fleets)</change>
+		<change>・fix oled dark mode with latest youtube version</change>
+		<change>・and much more !Read the changelog in settings!</change>		
 	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>・reversioned for new repo</change>
+		<change>・Initial Release</change>
+</changes>
 </changelog>
