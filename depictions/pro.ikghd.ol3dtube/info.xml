@@ -42,6 +42,13 @@
             <br>· if refund was accepted will proccess with in 3 to 7 days:
             <br>· thank you 🤗 & Enjoy:
             <br>
+            <br>
+
+                <br>Multiple Device : عدد الاجهزة
+                <br>· you can add up to 3 devices with one purchase
+                <br>· يمكنك اضافة  حتى ٣ ثلاثة اجهزة مع الشراء واحد
+                <br>
+
         ]]></longdescription>
     </descriptionlist>
 
@@ -68,7 +75,7 @@
 
     <changelog>
   		<change>・add arabic translate</change>
-  		<change>・add dark mode for some deep sections</change>	
+  		<change>・add dark mode for some deep sections</change>
     </changelog>
 
     <links></links>
