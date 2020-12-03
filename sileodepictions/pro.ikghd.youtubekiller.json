@@ -358,6 +358,9 @@
                "class":"DepictionSubheaderView"
            },
            {
+              "class":"DepictionSeparatorView"
+           },
+           {
                "markdown":"- fix an issue with selected video or audio with YouTubeMusic\n- improvemnts",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
@@ -367,6 +370,9 @@
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
+             },
+             {
+                "class":"DepictionSeparatorView"
              },
              {
                  "markdown":"* add arabic+chinese translated for some section \n\n* general clean up",
@@ -379,6 +385,9 @@
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
+             },
+             {
+                "class":"DepictionSeparatorView"
              },
              {
                  "markdown":"* new release\n* reversioned for new repo release",
