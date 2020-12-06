@@ -302,7 +302,7 @@
                             },
 
                             {
-                                "markdown":"- add tweet button (Middle)\n- add hide twitter (Fleets)\n- add arabic for some section wasn't translated\n- fix oled dark mode with latest youtube version",
+                                "markdown":"- add auto unlock the device in (LockScreen)\n- clean up the preference",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -318,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.2",
+               "text":"1.0.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-11-30",
+               "text":"2020-12-7",
                "class":"DepictionTableTextView"
             },
 
@@ -385,6 +385,21 @@
       {
          "tabname":"Changelog",
          "views":[
+
+           {
+               "title":"Version 1.0.3",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- add auto unlock the device in (LockScreen)\n- fix hide camera and flash in (LockScreen)\n- add arabic to some section wasn't tranlated\n- clean up the preference",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
            {
                "title":"Version 1.0.2",

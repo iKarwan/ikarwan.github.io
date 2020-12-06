@@ -5,11 +5,11 @@ Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.fleets_0.0.1_iphoneos-arm.deb
-Size: 63442
+Size: 62220
 Installed-Size: 356
-MD5sum: d379b288590b5d67d69cc3d8b7948fad
-SHA1: 02e8214f9ed2647aeade17aceda15f0fcb5838ff
-SHA256: 95c0151ea8595b0d174fb4bb167134f49f15970780d83849b39c34cdecdcd047
+MD5sum: 8c414fa381bb37bd82f7d1a0d7be96a7
+SHA1: e4fb0e43ea31c42430000737dbcb87aa41020488
+SHA256: 9f821d7e79ac3ac25d9c556a33543ba9b87fbc5e3c1e66942a0b5ab90dc58bb1
 Description: Hide New Twitter features fleets!
 Name: HideFleets
 Author: iKarwan <ikg_hd@bk.ru>
@@ -25,16 +25,36 @@ Depends: com.spark.snowboard | com.anemonetheming.anemone
 Conflicts: com.yourepo.ikghd.iastrid
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.iastrid_1.0.0_iphoneos-arm.deb
-Size: 1197320
-MD5sum: 6f5567bfffca57171ce5d6203694f1be
-SHA1: 2f3c5b032146b2f3e8306cbbd65ef4938d14b097
-SHA256: b9b1278e06566ca48036b15dfa9898db9f6133b298a69a72dacc4463389c224f
+Size: 1197416
+MD5sum: b0adb34b125c5100cb4b07b62fd51c41
+SHA1: f16ed6424e68ce781c87b3b1f30abf45212d0380
+SHA256: 87f7e838e9ee97ad64e30bd3b6dc575e6226f71a3c4c4b9590a889d03bebfc70
 Description: iNspired By a flower Name !..
 Name: iAstrid
 Author: iKarwan <ikg_hd@bk.ru>
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.iastrid
 SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iastrid.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iastrid.png
+
+Package: pro.ikghd.ictmiz
+Version: 1.0.3
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Conflicts: com.yourepo.ikghd.ictmiz1
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmiz_1.0.3_iphoneos-arm.deb
+Size: 696860
+Installed-Size: 1652
+MD5sum: 5bd59c02aa138520ba39869a72d0d5eb
+SHA1: 19afbc75eb5f350b6bd7fc9ff799fadcdabe97b5
+SHA256: 9e760ffd2fa298501b5bea0062fc120f109c4dc2b4bfcd5f9105fa47a0e46d69
+Description: i Customize Not U appl !...
+Name: iCTMiZ Pro
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
 
 Package: pro.ikghd.ictmiz
 Version: 1.0.2
@@ -44,31 +64,11 @@ Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common
 Conflicts: com.yourepo.ikghd.ictmiz1
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ictmiz_1.0.2_iphoneos-arm.deb
-Size: 696864
-Installed-Size: 1652
-MD5sum: 860a48827f5ad0fa38a0da169f0aaa2a
-SHA1: af0c67881c12f9dd2b0204e32f3cb68b1a88cd97
-SHA256: 25f94dbe2c14686725ac11adab852f69162d35b48bd177e72bb9d8443abfa593
-Description: i Customize Not U appl !...
-Name: iCTMiZ Pro
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
-
-Package: pro.ikghd.ictmiz
-Version: 1.0.1
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
-Conflicts: com.yourepo.ikghd.ictmiz1
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.0.1_iphoneos-arm.deb
-Size: 693816
-Installed-Size: 1636
-MD5sum: cd8d02a6d3df4056898ede88b3896a17
-SHA1: e8f290d5fe1e5dd1ba93b1ef829b6dd954a6dd9b
-SHA256: b1b1489108a00d0d39a8d2635328fb2be14878d274d7edfc259888e8ae77561d
+Size: 693736
+Installed-Size: 1620
+MD5sum: 66ad6ec021cca6ad569f5c15d5a34cde
+SHA1: 3e6fa3d565cdf123bee96e86f52516881fb731be
+SHA256: 8d6d3a5ed5e961f2cb83ab0d19c91257cdeabc35dfd5be80b0b5866c8c56974d
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
@@ -84,12 +84,12 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Conflicts: com.yourepo.ikghd.ictmiz
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ictmizlite_1.0.0_iphoneos-arm.deb
-Size: 56946
+Size: 56980
 Installed-Size: 480
-MD5sum: b8a0b47466169677671cde1ee96d6987
-SHA1: a208537e8f48da11a5d16560b49e3d6438b8b0d7
-SHA256: 487d9ef1904ffc38b13af95c44a264b16a3c8b71d8844801f3035fe7a1f11650
-Description: Device Customization iOS 12/13!
+MD5sum: f6215d12fc65a4414daca163d3a5d85c
+SHA1: d3ffcb0559f69a768d90a2880776916c7e40e31f
+SHA256: d6f9141e5b3621e2595b8d55067a3217c452d1f8c1306e455fe039333df03b79
+Description: SystemWide Customization !
 Name: iCTMiZLite
 Author: iKarwan <ikg_hd@bk.ru>
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizlite
@@ -104,12 +104,12 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark
 Conflicts: com.yourepo.ikghd.iksafari
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.iksafari_1.0.0_iphoneos-arm.deb
-Size: 54704
+Size: 54764
 Installed-Size: 348
-MD5sum: ced1c8d68c89f65a9a3da649128ae72e
-SHA1: 4538cf75e18e20174d2fb6458fa95c2878a219db
-SHA256: 9cfade1a69801ea69fc486731e9b50a1dd3e8b95078507134f1ca21801819892
-Description: Safari Features iOS 11/12/13!
+MD5sum: fd761fc8b26fa3e449c4bc8c897588ff
+SHA1: 4c69742d4cd959fd10586af634861620dc5edbee
+SHA256: 76b680479c0fed15733e2338ff593892e3a7481e1a834444de1cb3292a33e8e9
+Description: Safari Features !
 Name: iKSafari
 Author: iKarwan <ikg_hd@bk.ru>
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.iksafari
@@ -124,12 +124,12 @@ Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common
 Conflicts: com.yourepo.ikghd.ikset
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.iksettings_1.0.0_iphoneos-arm.deb
-Size: 69674
+Size: 69712
 Installed-Size: 480
-MD5sum: 2ae37054b77841586010c238721daa82
-SHA1: e4a541283816b1ff988eae5cc25f74c696e7ecc7
-SHA256: 4739398a49b87bcbdbde883094baa5e531ff12654759513480e1a952ce2db920
-Description: Customize Settings iOS 11/12/13!
+MD5sum: e41c48cec7636fcda1730f4b56428877
+SHA1: cd0414b160418624b652b577d6b8d87f28df7395
+SHA256: ee37fa28bc4b51995281cb514cb1ac8cd6cdcd39bf2629c2ca5ae8e9ae0f96a0
+Description: redefind Settings app !
 Name: iKSettings
 Author: iKarwan <ikg_hd@bk.ru>
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.iksettings
@@ -137,38 +137,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksettings.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksettings.png
 
 Package: pro.ikghd.ol3dtube
-Version: 1.0.2
+Version: 1.0.3
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker
 Conflicts: com.yourepo.ikghd.ol3dtube
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ol3dtube_1.0.2_iphoneos-arm.deb
-Size: 70756
+Filename: .//debs/pro.ikghd.ol3dtube_1.0.3_iphoneos-arm.deb
+Size: 71038
 Installed-Size: 460
-MD5sum: 19070f8e9da9f1e1c2cc73fd4148cf78
-SHA1: d1449d23940662525152a661c55636986604a1eb
-SHA256: d473ed2dced6d096c5a73f869e2efa6bb71cd6affe5fc5f52e9c018349688ed7
-Description: Ol3d Dark Mode For YouTube!
-Name: OL3DTube
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ol3dtube
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ol3dtube.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ol3dtube.png
-
-Package: pro.ikghd.ol3dtube
-Version: 1.0.1
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker
-Conflicts: com.yourepo.ikghd.ol3dtube
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ol3dtube_1.0.1_iphoneos-arm.deb
-Size: 70454
-Installed-Size: 448
-MD5sum: 48d99ea9145f7c882f29364c497d1613
-SHA1: 12e167ead5a48b10be81eda5acb4d89def457955
-SHA256: 7268df945e8e62b5d2276cd190c734bc5b935cfe9c797e6f411f8b37d55fc73b
+MD5sum: 99c96933085d7e5a3888fa55b7410bbd
+SHA1: d78ad727e36cf401a4257ff18a9eea2f247fe26c
+SHA256: a60d213faae6e705d0a8bb2e04fff06e66ba2105b2c46b4bc62e82b924271a45
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikg_hd@bk.ru>
@@ -184,11 +164,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Conflicts: com.yourepo.ikghd.pmp
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.pmp_1.0.0_iphoneos-arm.deb
-Size: 86968
+Size: 87042
 Installed-Size: 384
-MD5sum: 2979a5cc3a2f4652e28df83b3955a7c9
-SHA1: 691a2420e842a380ca8a726b3b9164a006df59c7
-SHA256: 2bc61780bf23b4c4c2e68cb340fbd711bc287322d2bbe21a5b6a278178bf3655
+MD5sum: 2e7e2f0744c7e9dfd474c52c19b52ecf
+SHA1: 4d2426caf076f2cb09d125948d37506b330f59fe
+SHA256: 0434e4594a31352ecc409e91dc82ec2212f19d979e4467eac7b3dbb3735c4e97
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikg_hd@bk.ru>

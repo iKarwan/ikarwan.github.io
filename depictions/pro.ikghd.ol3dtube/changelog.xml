@@ -1,9 +1,15 @@
 <changelog>
 	<changes>
-		<version>1.0.2</version>
-		<change>・add arabic translate</change>
+		<version>1.0.3</version>
+		<change>・add some deep sections with new youtube version</change>
+		<change>・replace premium style with Tabs: disable creation button</change>
 		<change>・clean up the preference</change>
-		<change>・add dark mode for some deep sections</change>	
+	</changes>
+	<changes>
+		<version>1.0.2</version>
+		<change>・add arabic languages</change>
+		<change>・clean up the preference</change>
+		<change>・add dark mode for some deep sections</change>
 	</changes>
 	<changes>
 		<version>1.0.1</version>

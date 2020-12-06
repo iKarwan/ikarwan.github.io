@@ -1,12 +1,19 @@
 <changelog>
 	<changes>
+		<version>1.0.3</version>
+		<change>・add auto unlock the device in (LockScreen)</change>
+		<change>・fix hide camera and flash in (LockScreen)</change>
+		<change>・clean up the preference</change>
+		<change>・add arabic to some section wasn't tranlated</change>
+</changes>
+	<changes>
 		<version>1.0.2</version>
 		<change>・add arabic translate for some section</change>
 		<change>・clean up the preference</change>
 		<change>・add tweet button (Middle)</change>
 		<change>・add hide twitter (Fleets)</change>
 		<change>・fix oled dark mode with latest youtube version</change>
-		<change>・and much more !Read the changelog in settings!</change>		
+		<change>・and much more !Read the changelog in settings!</change>
 	</changes>
 	<changes>
 		<version>1.0.1</version>
