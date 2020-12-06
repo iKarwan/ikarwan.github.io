@@ -1,0 +1,45 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+    max-width: 400px;
+}
+
+span {
+    margin: 0 auto;
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-top: 4%;
+    padding: 0 20px;
+}
+
+#display-name {
+    font-size: 40px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(59, 59, 59, 0.5), rgba(0, 0, 0, 0));
+    width: 100%;
+}
+
+#description {
+    margin-top: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+
+#checkout-image {
+    object-fit: contain;
+    max-width: 88%;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+#paypal-button-container {
+    margin-top: auto;
+    margin: auto 20px;
+}
