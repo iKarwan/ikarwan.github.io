@@ -89,7 +89,7 @@
             {
                "title":"buy : الشــراء",
                "useBoldText": true,
-               "action":"https://www.paypal.com/donate/?hosted_button_id=FAA54Y3VBNMKE",
+               "action":"https://repo.ikghd.me/checkout",
                "class":"DepictionTableButtonView"
             },
             {
