@@ -362,7 +362,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- add oled mode section\n-add hide home Page in (Tabbar)\n- add hide download Page in (Tabbar) \n- improvemnts",
+               "markdown":"- add oled mode section\n- add hide home Page in (Tabbar)\n- add hide download Page in (Tabbar) \n- improvemnts",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
