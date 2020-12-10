@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller - $2.99</name>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
@@ -146,8 +146,9 @@
     </screenshots>
 
     <changelog>
-      <change>・fix an issue with selected video or audio with YouTubeMusic</change>
-      <change>・improvemnts</change>
+      <change>・add oled mode section</change>
+      <change>・add hide home Page in (Tabbar)</change>
+      <change>・add hide download Page in (Tabbar)</change>
     </changelog>
 
     <links></links>

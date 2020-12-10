@@ -286,12 +286,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.3",
+               "text":"1.0.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-11-20",
+               "text":"2020-12-10",
                "class":"DepictionTableTextView"
             },
             {
@@ -351,6 +351,21 @@
       {
          "tabname":"Changelog",
          "views":[
+
+           {
+               "title":"Version 1.0.4",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- add oled mode section\n-add hide home Page in (Tabbar)\n- add hide download Page in (Tabbar) \n- improvemnts",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.0.3",
                "useBoldText":true,

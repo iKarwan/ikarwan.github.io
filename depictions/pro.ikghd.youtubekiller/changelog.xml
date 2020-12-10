@@ -1,5 +1,12 @@
 <changelog>
 	<changes>
+		<version>1.0.4</version>
+		<change>・add oled mode section</change>
+		<change>・add hide home Page in (Tabbar)</change>
+		<change>・add hide download Page in (Tabbar)</change>
+		<change>・improvemnts</change>
+	</changes>
+	<changes>
 		<version>1.0.3</version>
 		<change>・fix an issue with selected video or audio with YouTubeMusic</change>
 		<change>・improvemnts</change>
