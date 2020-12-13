@@ -270,7 +270,7 @@
                             },
 
                             {
-                                "markdown":"- fix an issue with selected video or audio with YouTubeMusic\n* improvemnts",
+                                "markdown":"- add oled mode section\n* other improvemnts",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
