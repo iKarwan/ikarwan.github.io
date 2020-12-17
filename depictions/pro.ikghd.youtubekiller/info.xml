@@ -146,8 +146,8 @@
     </screenshots>
 
     <changelog>
-      <change>・add hide previous  &amp; next toggle</change>
-  		<change>・add hide caption toggle</change>
+      <change>・fix hide previous  &amp; next toggle</change>
+  		<change>・add some oled mode deep section</change>
     </changelog>
 
     <links></links>

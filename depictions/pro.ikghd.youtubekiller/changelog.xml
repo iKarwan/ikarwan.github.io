@@ -1,9 +1,8 @@
 <changelog>
 	<changes>
 		<version>1.0.5</version>
-		<change>・add hide previous  &amp; next toggle</change>
-		<change>・add hide caption toggle</change>
-		<change>・add hide autoplay toggle</change>
+		<change>・fix hide previous  &amp; next toggle</change>
+		<change>・add some oled mode deep section</change>
 		<change>・clean up   &amp; other improvemnts</change>
 	</changes>
 	<changes>

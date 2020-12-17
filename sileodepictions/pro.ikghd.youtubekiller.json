@@ -270,7 +270,7 @@
                             },
 
                             {
-                                "markdown":"- add hide previous & next toggle\n* add hide caption toggle",
+                                "markdown":"- fix hide previous & next toggle\n* add some oled mode deep section",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -362,7 +362,7 @@
                          "class":"DepictionSeparatorView"
                       },
                       {
-                          "markdown":"- add hide previous & next toggle\n- add hide caption toggle\n- add hide autoplay toggle\n- clean up & other improvemnts",
+                          "markdown":"- fix hide previous & next toggle\n- add some oled mode deep section\n- clean up & other improvemnts",
                           "useSpacing":true,
                           "class":"DepictionMarkdownView"
                       },
