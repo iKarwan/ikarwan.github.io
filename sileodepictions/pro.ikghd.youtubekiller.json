@@ -270,7 +270,7 @@
                             },
 
                             {
-                                "markdown":"- add oled mode section\n* other improvemnts",
+                                "markdown":"- add hide previous & next toggle\n* add hide caption toggle",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -286,12 +286,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.4",
+               "text":"1.0.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-10",
+               "text":"2020-12-17",
                "class":"DepictionTableTextView"
             },
             {
@@ -351,6 +351,21 @@
       {
          "tabname":"Changelog",
          "views":[
+
+                      {
+                          "title":"Version 1.0.5",
+                          "useBoldText":true,
+                          "useBottomMargin":false,
+                          "class":"DepictionSubheaderView"
+                      },
+                      {
+                         "class":"DepictionSeparatorView"
+                      },
+                      {
+                          "markdown":"- add hide previous & next toggle\n- add hide caption toggle\n- add hide autoplay toggle\n- clean up & other improvemnts",
+                          "useSpacing":true,
+                          "class":"DepictionMarkdownView"
+                      },
 
            {
                "title":"Version 1.0.4",

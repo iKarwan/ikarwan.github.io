@@ -302,7 +302,7 @@
                             },
 
                             {
-                                "markdown":"- add auto unlock the device in (LockScreen)\n- clean up the preference",
+                                "markdown":"- add not wake when flash is on (LockScreen)\n- add auto retry face iD (LockScreen)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -318,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.4",
+               "text":"1.0.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-10",
+               "text":"2020-12-17",
                "class":"DepictionTableTextView"
             },
 
@@ -385,6 +385,21 @@
       {
          "tabname":"Changelog",
          "views":[
+
+           {
+               "title":"Version 1.0.5",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- add not wake when flash is on (LockScreen)\n- add auto retry face iD (LockScreen)\n- add hide date label (LockScreen)\n- clean up & improvemnts",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
            {
                "title":"Version 1.0.4",

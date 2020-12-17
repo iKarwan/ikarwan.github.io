@@ -1,5 +1,12 @@
 <changelog>
 	<changes>
+		<version>1.0.5</version>
+		<change>・add not wake when flash is on (LockScreen)</change>
+		<change>・add auto retry face iD (LockScreen)</change>
+		<change>・add hide date label (LockScreen)</change>
+		<change>・clean up &amp; improvemnts</change>
+	</changes>
+	<changes>
 		<version>1.0.4</version>
 		<change>・clean up the preference</change>
 </changes>
