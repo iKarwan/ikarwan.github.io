@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.4",
+               "text":"1.0.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-10",
+               "text":"2020-12-17",
                "class":"DepictionTableTextView"
             },
             {
@@ -201,6 +201,21 @@
       {
          "tabname":"Changelog",
          "views":[
+
+           {
+               "title":"Version 1.0.5",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+             "markdown":"- add some deep sections with new youtube version",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
            {
                "title":"Version 1.0.4",
