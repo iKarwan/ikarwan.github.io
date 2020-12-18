@@ -302,7 +302,7 @@
                             },
 
                             {
-                                "markdown":"- add not wake when flash is on (LockScreen)\n- add auto retry face iD (LockScreen)",
+                                "markdown":"- add looping the clip (Photos)\n- add autoplay sound when video plays (Photos)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -318,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.5",
+               "text":"1.0.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-17",
+               "text":"2020-12-18",
                "class":"DepictionTableTextView"
             },
 
@@ -385,6 +385,21 @@
       {
          "tabname":"Changelog",
          "views":[
+
+           {
+               "title":"Version 1.0.6",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- add not wake when flash is on (LockScreen)\n- add looping the clip (Photos)\n- add autoplay sound when video plays (Photos)\n- add a filter between section for reliability & faster performance\n* clean up codes and & preference. improvemnts",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
            {
                "title":"Version 1.0.5",

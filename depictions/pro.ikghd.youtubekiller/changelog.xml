@@ -1,5 +1,13 @@
 <changelog>
 	<changes>
+		<version>1.0.6</version>
+		<change>・fix hide playpause toggle</change>
+		<change>・add hide chat toggle in live stream</change>
+		<change>・add hide autoplay toggle</change>
+		<change>・fix all arabic languages</change>
+		<change>・cleaning up the code &amp; the preferences</change>
+	</changes>
+	<changes>
 		<version>1.0.5</version>
 		<change>・fix hide previous  &amp; next toggle</change>
 		<change>・add some oled mode deep section</change>

@@ -270,7 +270,7 @@
                             },
 
                             {
-                                "markdown":"- fix hide previous & next toggle\n* add some oled mode deep section",
+                                "markdown":"- add hide autoplay toggle (overlay)\n* add hide play pause toggle (overlay)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -286,12 +286,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.5",
+               "text":"1.0.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-17",
+               "text":"2020-12-18",
                "class":"DepictionTableTextView"
             },
             {
@@ -351,6 +351,21 @@
       {
          "tabname":"Changelog",
          "views":[
+
+                                 {
+                                     "title":"Version 1.0.6",
+                                     "useBoldText":true,
+                                     "useBottomMargin":false,
+                                     "class":"DepictionSubheaderView"
+                                 },
+                                 {
+                                    "class":"DepictionSeparatorView"
+                                 },
+                                 {
+                                     "markdown":"- fix hide playpause toggle\n- add hide chat toggle in live stream\n- add hide autoplay toggle\n. fix all arabic languages\n. cleaning up the code & the preferences",
+                                     "useSpacing":true,
+                                     "class":"DepictionMarkdownView"
+                                 },
 
                       {
                           "title":"Version 1.0.5",
