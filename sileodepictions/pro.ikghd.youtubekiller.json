@@ -362,7 +362,7 @@
                                     "class":"DepictionSeparatorView"
                                  },
                                  {
-                                     "markdown":"- fix hide playpause toggle\n- add hide chat toggle in live stream\n- add hide autoplay toggle\n. fix all arabic languages\n. cleaning up the code & the preferences",
+                                     "markdown":"- add hide play & pause toggle\n- add hide chat toggle in live stream\n- add hide autoplay toggle\n- fix all arabic languages\n- cleaning up the code & the preferences",
                                      "useSpacing":true,
                                      "class":"DepictionMarkdownView"
                                  },
