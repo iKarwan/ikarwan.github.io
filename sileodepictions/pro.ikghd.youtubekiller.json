@@ -286,12 +286,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.6",
+               "text":"1.0.6.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-18",
+               "text":"2020-12-20",
                "class":"DepictionTableTextView"
             },
             {
@@ -352,35 +352,50 @@
          "tabname":"Changelog",
          "views":[
 
-                                 {
-                                     "title":"Version 1.0.6",
-                                     "useBoldText":true,
-                                     "useBottomMargin":false,
-                                     "class":"DepictionSubheaderView"
-                                 },
-                                 {
-                                    "class":"DepictionSeparatorView"
-                                 },
-                                 {
-                                     "markdown":"- add hide play & pause toggle\n- add hide chat toggle in live stream\n- add hide autoplay toggle\n- fix all arabic languages\n- cleaning up the code & the preferences",
-                                     "useSpacing":true,
-                                     "class":"DepictionMarkdownView"
-                                 },
+           {
+               "title":"Version 1.0.6.1",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- fix an issue related to overlay options",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
-                      {
-                          "title":"Version 1.0.5",
-                          "useBoldText":true,
-                          "useBottomMargin":false,
-                          "class":"DepictionSubheaderView"
-                      },
-                      {
-                         "class":"DepictionSeparatorView"
-                      },
-                      {
-                          "markdown":"- fix hide previous & next toggle\n- add some oled mode deep section\n- clean up & other improvemnts",
-                          "useSpacing":true,
-                          "class":"DepictionMarkdownView"
-                      },
+           {
+               "title":"Version 1.0.6",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- add hide play & pause toggle\n- add hide chat toggle in live stream\n- add hide autoplay toggle\n- fix all arabic languages\n- cleaning up the code & the preferences",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
+           {
+               "title":"Version 1.0.5",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- fix hide previous & next toggle\n- add some oled mode deep section\n- clean up & other improvemnts",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
            {
                "title":"Version 1.0.4",

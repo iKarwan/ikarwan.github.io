@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.6.1</version>
+		<change>・fix an issue related to overlay options</change>
+	</changes>
+	<changes>
 		<version>1.0.6</version>
 		<change>・fix hide playpause toggle</change>
 		<change>・add hide chat toggle in live stream</change>
