@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- replace premium style with Tabs: disable creation button",
+                                "markdown":"- add hide play list section",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.5",
+               "text":"1.0.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-17",
+               "text":"2020-12-21",
                "class":"DepictionTableTextView"
             },
             {
@@ -201,6 +201,21 @@
       {
          "tabname":"Changelog",
          "views":[
+
+           {
+               "title":"Version 1.0.6",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+             "markdown":"- add hide playlist section\n- other improvemnts & clean up",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
            {
                "title":"Version 1.0.5",
