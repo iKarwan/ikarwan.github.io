@@ -37,38 +37,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iastrid.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iastrid.png
 
 Package: pro.ikghd.ictmiz
-Version: 1.0.6
+Version: 1.1.0
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.yourepo.ikghd.ictmiz1
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.0.6_iphoneos-arm.deb
-Size: 708172
-Installed-Size: 2644
-MD5sum: b7368ec2c93f1c3607553834cbd64f65
-SHA1: ce9ebba3650582a7f2619f8b3b9296d9e72695ec
-SHA256: 3928e3896c3c798f8e31ce377ed7960e1249eb12255e39c641109f806ece2010
-Description: i Customize Not U appl !...
-Name: iCTMiZ Pro
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
-
-Package: pro.ikghd.ictmiz
-Version: 1.0.5
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
-Conflicts: com.yourepo.ikghd.ictmiz1
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.0.5_iphoneos-arm.deb
-Size: 707080
+Filename: .//debs/pro.ikghd.ictmiz_1.1.0_iphoneos-arm.deb
+Size: 708200
 Installed-Size: 2628
-MD5sum: 23d133bd06786866e979f433b79100cc
-SHA1: 0478137771d23469da68c53a2782edbf59cb7b81
-SHA256: a3dc2b787ae1d50c8d8a47cd58134dab617f958f1f5b13f81a835be9a70aaf95
+MD5sum: 6e3ae86dcc915346c8ec3de8282705ca
+SHA1: 3b73acbed1b24f3fedefe1ae45b62e782d2ca0ed
+SHA256: 6411de2f48654cbd03c684d647af6ef619d96543035372071e57ea9a4e81cb4b
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
@@ -77,18 +57,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
 
 Package: pro.ikghd.ictmiz
-Version: 1.0.4
+Version: 1.1.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.yourepo.ikghd.ictmiz1
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.0.4_iphoneos-arm.deb
-Size: 694240
-Installed-Size: 1636
-MD5sum: 948d7cdb8e2393c2d365d92bacd8183e
-SHA1: 55fc7d4f79b22d54985c1cb81d525379e2866e68
-SHA256: 881015202512275cfae2dc2a69f9f886c43b8498deee96f7d6dcd70d7016582f
+Filename: .//debs/pro.ikghd.ictmiz_1.1.1_iphoneos-arm.deb
+Size: 708932
+Installed-Size: 2644
+MD5sum: 873f73930ba79cd4db0ba17fe171bd32
+SHA1: 9b6d19c235ae8a2a71959d6037d12cc2ec978e31
+SHA256: 9aa7c00e0512bcdff47d348037d8f264c9da57be54de0c60e11f86bf1f6ba2d3
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
@@ -157,38 +137,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksettings.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksettings.png
 
 Package: pro.ikghd.ol3dtube
-Version: 1.0.6
+Version: 1.1.0
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker
 Conflicts: com.yourepo.ikghd.ol3dtube
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ol3dtube_1.0.6_iphoneos-arm.deb
-Size: 87272
+Filename: .//debs/pro.ikghd.ol3dtube_1.1.0_iphoneos-arm.deb
+Size: 87688
 Installed-Size: 460
-MD5sum: eb3dd388f65bbc3892bbc691e769c149
-SHA1: a5a7dc8286df5b0ffcfcd56f6362f21d9c256955
-SHA256: d5433dc846ccf5f4177e25d3e5d672754025acd962a045d9f6e83f4a01cb11f6
-Description: Ol3d Dark Mode For YouTube!
-Name: OL3DTube
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ol3dtube
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ol3dtube.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ol3dtube.png
-
-Package: pro.ikghd.ol3dtube
-Version: 1.0.5
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker
-Conflicts: com.yourepo.ikghd.ol3dtube
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ol3dtube_1.0.5_iphoneos-arm.deb
-Size: 86260
-Installed-Size: 460
-MD5sum: 33cef5adf6f3de056b4b055b4e51faf3
-SHA1: b1e15203387d22f5b9ea77ec243aea4c8d35cef1
-SHA256: 9285f3e1d611f50335e3dfb0867503517c3e3c79370ee33256ac305ce2a5114a
+MD5sum: 2947ce47815b57803e600d06f3a3eba6
+SHA1: e3a028706820da5f2c28b228441939aec3ff99cb
+SHA256: 4fc6e5cf9daab5a5884af3a7af887aa311f991633c5ed188c302f923331f802b
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikg_hd@bk.ru>

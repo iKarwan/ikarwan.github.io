@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.6",
+               "text":"1.1.0",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-21",
+               "text":"2020-12-23",
                "class":"DepictionTableTextView"
             },
             {
@@ -201,6 +201,21 @@
       {
          "tabname":"Changelog",
          "views":[
+
+           {
+               "title":"Version 1.1.0",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+             "markdown":"- add ipad style as (requested)\n- add hide playlist section as (requested)\n- other improvemnts & clean up",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
            {
                "title":"Version 1.0.6",
