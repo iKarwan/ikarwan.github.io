@@ -318,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.1",
+               "text":"1.1.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-23",
+               "text":"2020-12-25",
                "class":"DepictionTableTextView"
             },
 
@@ -386,6 +386,21 @@
          "tabname":"Changelog",
          "views":[
            {
+               "title":"Version 1.1.2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- clean up codes & preference. improvemnts",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
+           {
                "title":"Version 1.1.1",
                "useBoldText":true,
                "useBottomMargin":false,
@@ -395,7 +410,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- fix phone recent tab colors\n- add looping the clip (Photos)\n- add autoplay sound when video plays (Photos)\n- add a filter between section for reliability & faster performance\n* clean up codes and & preference. improvemnts",
+               "markdown":"- fix phone recent tab colors\n- add looping the clip (Photos)\n- add autoplay sound when video plays (Photos)\n- add a filter between section for reliability & faster performance\n* clean up codes & preference. improvemnts",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
