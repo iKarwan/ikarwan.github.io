@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- add hide play list section",
+                                "markdown":"- improvemnts & enhancements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0",
+               "text":"1.1.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-23",
+               "text":"2021-1-3",
                "class":"DepictionTableTextView"
             },
             {
@@ -201,6 +201,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.1.1",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+             "markdown":"- improve the code\n- clean up",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
            {
                "title":"Version 1.1.0",
