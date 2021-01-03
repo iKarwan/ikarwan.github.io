@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.pmp</id>
     <name>PMP</name>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -29,7 +29,7 @@
     </screenshots>
 
     <changelog>
-      <change>・new release</change>
+      <change>・improvements &amp; enhancements</change>
     </changelog>
 
     <links></links>

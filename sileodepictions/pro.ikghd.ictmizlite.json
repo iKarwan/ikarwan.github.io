@@ -58,25 +58,25 @@
           "class": "DepictionMarkdownView"
         },
 
-                        {
-                           "class":"DepictionSeparatorView"
-                        },
+        {
+           "class":"DepictionSeparatorView"
+        },
 
 
-                        {
-                           "title":"Latest Changes",
-                           "class":"DepictionHeaderView"
-                        },
+        {
+           "title":"Latest Changes",
+           "class":"DepictionHeaderView"
+        },
 
-                        {
-                            "markdown":"- improvements & enhancements",
-                            "useSpacing":true,
-                            "class":"DepictionMarkdownView"
-                        },
+        {
+            "markdown":"- improvements & enhancements",
+            "useSpacing":true,
+            "class":"DepictionMarkdownView"
+        },
 
-                        {
-                           "class":"DepictionSeparatorView"
-                        },
+        {
+           "class":"DepictionSeparatorView"
+        },
 
 
         {
@@ -90,7 +90,7 @@
         },
         {
            "title":"Released",
-           "text":"2020-1-3",
+           "text":"2021-1-3",
            "class":"DepictionTableTextView"
         },
         {

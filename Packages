@@ -1,15 +1,15 @@
 Package: pro.ikghd.fleets
-Version: 0.0.1
+Version: 0.0.2
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.fleets_0.0.1_iphoneos-arm.deb
-Size: 62220
-Installed-Size: 356
-MD5sum: 8c414fa381bb37bd82f7d1a0d7be96a7
-SHA1: e4fb0e43ea31c42430000737dbcb87aa41020488
-SHA256: 9f821d7e79ac3ac25d9c556a33543ba9b87fbc5e3c1e66942a0b5ab90dc58bb1
+Filename: .//debs/pro.ikghd.fleets_0.0.2_iphoneos-arm.deb
+Size: 56150
+Installed-Size: 348
+MD5sum: 150f9b4e78887c91d36ffeb18fcd879b
+SHA1: 3b05294a237bacf70da0b790b48fdbc7db355a2f
+SHA256: c0281fc5ae934247b2be88f33cb6092b13cf2bd8788f58a90819de3c29cd843c
 Description: Hide New Twitter features fleets!
 Name: HideFleets
 Author: iKarwan <ikg_hd@bk.ru>
@@ -77,26 +77,6 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
 
 Package: pro.ikghd.ictmizlite
-Version: 1.0.0
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 12.0)
-Conflicts: com.yourepo.ikghd.ictmiz
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmizlite_1.0.0_iphoneos-arm.deb
-Size: 56980
-Installed-Size: 480
-MD5sum: f6215d12fc65a4414daca163d3a5d85c
-SHA1: d3ffcb0559f69a768d90a2880776916c7e40e31f
-SHA256: d6f9141e5b3621e2595b8d55067a3217c452d1f8c1306e455fe039333df03b79
-Description: SystemWide Customization !
-Name: iCTMiZLite
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizlite
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizlite.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizlite.png
-
-Package: pro.ikghd.ictmizlite
 Version: 1.0.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
@@ -117,18 +97,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizlite.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizlite.png
 
 Package: pro.ikghd.iksafari
-Version: 1.0.0
+Version: 1.0.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, firmware ( >= 11.0)
 Conflicts: com.yourepo.ikghd.iksafari
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.iksafari_1.0.0_iphoneos-arm.deb
-Size: 54764
+Filename: .//debs/pro.ikghd.iksafari_1.0.1_iphoneos-arm.deb
+Size: 54766
 Installed-Size: 348
-MD5sum: fd761fc8b26fa3e449c4bc8c897588ff
-SHA1: 4c69742d4cd959fd10586af634861620dc5edbee
-SHA256: 76b680479c0fed15733e2338ff593892e3a7481e1a834444de1cb3292a33e8e9
+MD5sum: 761cf18776066fd5fd30a172c6ca46b5
+SHA1: 760ad32ff397a86f1746ed288a2ed98039293a41
+SHA256: b8329a6c469b379f3671986de19d3a35b8aa8d23fd615b1203c96f2812b47c49
 Description: Safari Features !
 Name: iKSafari
 Author: iKarwan <ikg_hd@bk.ru>
@@ -137,18 +117,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksafari.jso
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksafari.png
 
 Package: pro.ikghd.iksettings
-Version: 1.0.0
+Version: 1.0.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
 Conflicts: com.yourepo.ikghd.ikset
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.iksettings_1.0.0_iphoneos-arm.deb
-Size: 69712
-Installed-Size: 480
-MD5sum: e41c48cec7636fcda1730f4b56428877
-SHA1: cd0414b160418624b652b577d6b8d87f28df7395
-SHA256: ee37fa28bc4b51995281cb514cb1ac8cd6cdcd39bf2629c2ca5ae8e9ae0f96a0
+Filename: .//debs/pro.ikghd.iksettings_1.0.1_iphoneos-arm.deb
+Size: 63510
+Installed-Size: 352
+MD5sum: d07d06a55ef6184c9a32f54a25f13c04
+SHA1: 719d0f5f52c037d54f3e9a5034d9d133e3b52e7b
+SHA256: 0943e37aaa416fcc051916a1a00c2d81338795d3dd87ff379ebc97987e0369d1
 Description: redefind Settings app !
 Name: iKSettings
 Author: iKarwan <ikg_hd@bk.ru>
@@ -177,18 +157,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ol3dtube.jso
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ol3dtube.png
 
 Package: pro.ikghd.pmp
-Version: 1.0.0
+Version: 1.0.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
 Conflicts: com.yourepo.ikghd.pmp
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.pmp_1.0.0_iphoneos-arm.deb
-Size: 87042
-Installed-Size: 384
-MD5sum: 2e7e2f0744c7e9dfd474c52c19b52ecf
-SHA1: 4d2426caf076f2cb09d125948d37506b330f59fe
-SHA256: 0434e4594a31352ecc409e91dc82ec2212f19d979e4467eac7b3dbb3735c4e97
+Filename: .//debs/pro.ikghd.pmp_1.0.1_iphoneos-arm.deb
+Size: 80764
+Installed-Size: 376
+MD5sum: d20bbac37999c112cff35910c0e4ce43
+SHA1: 19c081a84a7f25abe47363b0058b63524d7b6fbd
+SHA256: 36aa09623c34621097b87a4c0c1129ea75a0f9261fffcb17f59e077b517c396c
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikg_hd@bk.ru>

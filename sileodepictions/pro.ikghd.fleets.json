@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- initial release",
+                                "markdown":"- improvements & enhancements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -94,7 +94,7 @@
             },
             {
                "title":"Released",
-               "text":"2020-11-20",
+               "text":"2021-1-3",
                "class":"DepictionTableTextView"
             },
 
@@ -151,6 +151,17 @@
          "tabname":"Changelog",
          "views":[
 
+         {
+             "title":"Version 1.0.1",
+             "useBoldText":true,
+             "useBottomMargin":false,
+             "class":"DepictionSubheaderView"
+         },
+         {
+            "markdown":"- improve the code\n- clean up",
+             "useSpacing":true,
+             "class":"DepictionMarkdownView"
+         },
              {
                  "title":"Version 0.0.1",
                  "useBoldText":true,
