@@ -302,7 +302,7 @@
                             },
 
                             {
-                                "markdown":"- add looping the clip (Photos)\n- add autoplay sound when video plays (Photos)",
+                                "markdown":"- fix hide applications wasn't function(Icons)\n- add hide tab bar labels (SystemWide)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -318,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.3",
+               "text":"1.1.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2020-12-26",
+               "text":"2021-1-3",
                "class":"DepictionTableTextView"
             },
 
@@ -385,6 +385,21 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.1.4",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- fix hide applications wasn't function(Icons)\n- add hide tab bar labels (SystemWide)\n- add resize option for ipad multitasking switcher\n- add dock background alpha\n- fix hide dock compeletly\n- other clean up &amp; enhancements",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
            {
                "title":"Version 1.1.3",
                "useBoldText":true,
