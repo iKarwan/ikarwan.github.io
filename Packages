@@ -96,6 +96,26 @@ Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizlite
 SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizlite.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizlite.png
 
+Package: pro.ikghd.ictmizlite
+Version: 1.0.1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
+Conflicts: com.yourepo.ikghd.ictmiz
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmizlite_1.0.1_iphoneos-arm.deb
+Size: 52760
+Installed-Size: 352
+MD5sum: 628033afc11a9f78d7710aab8fc5df18
+SHA1: 6a5658a2f6e25ca4d05387dd0d876cd4cec584e3
+SHA256: 914db7918b83f20926eb2be95fc2630e9abb9537352ec159f66acabdbf664cfc
+Description: SystemWide Customization !
+Name: iCTMiZLite
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizlite
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizlite.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizlite.png
+
 Package: pro.ikghd.iksafari
 Version: 1.0.0
 Section: Tweaks

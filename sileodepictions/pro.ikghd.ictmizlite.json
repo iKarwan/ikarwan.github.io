@@ -69,7 +69,7 @@
                         },
 
                         {
-                            "markdown":"- new release",
+                            "markdown":"- improvements & enhancements",
                             "useSpacing":true,
                             "class":"DepictionMarkdownView"
                         },
@@ -85,12 +85,12 @@
         },
         {
            "title":"Version",
-           "text":"1.0.0",
+           "text":"1.0.1",
            "class":"DepictionTableTextView"
         },
         {
            "title":"Released",
-           "text":"2020-9-9",
+           "text":"2020-1-3",
            "class":"DepictionTableTextView"
         },
         {
@@ -143,6 +143,18 @@
   {
      "tabname":"Changelog",
      "views":[
+
+         {
+             "title":"Version 1.0.1",
+             "useBoldText":true,
+             "useBottomMargin":false,
+             "class":"DepictionSubheaderView"
+         },
+         {
+            "markdown":"- improve the code\n- clean up",
+             "useSpacing":true,
+             "class":"DepictionMarkdownView"
+         },
 
          {
              "title":"Version 1.0.0",
