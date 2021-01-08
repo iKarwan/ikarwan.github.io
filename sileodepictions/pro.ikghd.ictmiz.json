@@ -318,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.4-1",
+               "text":"1.1.4-2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-1-5",
+               "text":"2021-1-8",
                "class":"DepictionTableTextView"
             },
 
@@ -385,6 +385,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.1.4-2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- removed respring required for most of the features\n- minor bug fixes & improvemnts",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.1.4-1",
                "useBoldText":true,
