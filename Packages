@@ -37,18 +37,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iastrid.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iastrid.png
 
 Package: pro.ikghd.ictmiz
-Version: 1.1.4-1
+Version: 1.1.4-2
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.yourepo.ikghd.ictmiz1
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.1.4-1_iphoneos-arm.deb
-Size: 705040
+Filename: .//debs/pro.ikghd.ictmiz_1.1.4-2_iphoneos-arm.deb
+Size: 704988
 Installed-Size: 2700
-MD5sum: 0ca61cd1cbaee6d1251cc5ed3256d04a
-SHA1: 5ad61c599ef688a6824ada73c625d7cf572c432d
-SHA256: 13fcb94f3aabeb02fa694033685e20dbbb192ae3ce25d532b35bc96d24ab53c1
+MD5sum: 27755c5f5ad60bd7a5463a5caf3f829d
+SHA1: 191578029796c190460dc3ed791bc71ce18b0b5f
+SHA256: 4326bb636c64fb40df7fa6d06f53eb0b357af58aeab15e9e3f3a521443d491b6
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
@@ -57,18 +57,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
 
 Package: pro.ikghd.ictmiz
-Version: 1.1.4-2
+Version: 1.1.4-3
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.yourepo.ikghd.ictmiz1
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.1.4-2_iphoneos-arm.deb
-Size: 707660
+Filename: .//debs/pro.ikghd.ictmiz_1.1.4-3_iphoneos-arm.deb
+Size: 707960
 Installed-Size: 2704
-MD5sum: 469fd8401f11e96ff0a2a733bde186e8
-SHA1: 8f02dfd0b46e6cd0069e86e9b824da15b0bdfa7e
-SHA256: b3815bb7c45948dbee949688b2d53fa3334b7861afdde91684372cb33228aebd
+MD5sum: 54998235beaa13dd356a35da650cdc50
+SHA1: 676d74189423d50f9472eca5efd94fb77fcfd3ae
+SHA256: c34236828e77f4627fc5d0dc9415959606bbcf85cb0ce5cf91820f66cd794237
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>

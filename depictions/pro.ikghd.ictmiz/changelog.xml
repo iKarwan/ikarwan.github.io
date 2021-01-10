@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.1.4-3</version>
+		<change>・quick fix for an issue with previous version</change>
+	</changes>
+	<changes>
 		<version>1.1.4-2</version>
 		<change>・removed respring required for most of the features</change>
 		<change>・minor bug fixes &amp; improvemnts</change>
