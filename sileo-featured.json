@@ -18,6 +18,13 @@
             "hideShadow": false
         },
 
+        {
+            "url": "https://ikarwan.github.io/assets/banners/xiv.png",
+            "title": "iCTMiZ XiV",
+            "package": "pro.ikghd.ictmizxiv",
+            "hideShadow": false
+        },
+
 
         {
             "url": "https://ikarwan.github.io/assets/banners/ol3d.png",

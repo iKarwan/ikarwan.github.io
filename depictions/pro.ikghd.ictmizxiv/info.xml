@@ -1,0 +1,135 @@
+<package>
+   <id>pro.ikghd.ictmizxiv</id>
+    <name>iCTMiZ XiV - $2.99</name>
+    <version>1.0.0beta</version>
+    <compatibility>
+        <firmware>
+            <miniOS>14.0</miniOS>
+            <maxiOS>14.3</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <descriptionlist>
+        <description>Contain Over 250+ features!</description>
+        <longdescription><![CDATA[
+          <br>
+
+            <li>
+                <a href="https://repo.ikghd.me/checkout2">buy : الشــراء</a>
+            </li>
+
+            <br>
+
+		<br>English:
+    <br>· i Customize Not You Appl
+	  <br>· included more then 250+ features
+		<br>· Compataible with iOS 14 UP to iOS 14.3
+		<br>· Supported Languges English>عــربي >中文！
+		<br>
+		<br>عربي:
+		<br>· تخصيص النظام من الالف الى الياء تقريبا
+	  <br>· فيها اكتر من ٢٥٠+ ميزة
+	 	<br>· تدعم الاصدارات ١٤.٣/١٤
+    <br>
+    <br>Chinese:
+    <br>· 我自定义不是您appl
+    <br>· 包含了250多种功能
+    <br>· 支持iOS 14 / 14.3
+    <br> <br>
+    <li>
+        <a href="https://youtu.be/H86ztNIxiEo">Demo Via YouTube : استعراض المميزات</a>
+    </li>
+    <br>
+
+
+                <br>Refund Policy:
+                <br>· refund accepted if u have !issue such a safe mode or th tweak not working!
+                <br>· must provide full details about the !issue photo & crash log>
+                <br>· change in mind not accepted !u can see details with photos & video before buying,
+                <br>· if refund was accepted will proccess with in 3 to 7 days:
+                <br>· thank you 🤗 & Enjoy:
+                <br>
+                <br>
+
+                  <br>Multiple Device : عدد الاجهزة
+                  <br>· you can add up to 3 devices with one purchase
+                  <br>· يمكنك اضافة  حتى ٣ ثلاثة اجهزة مع الشراء واحد
+                  <br>
+
+        ]]></longdescription>
+    </descriptionlist>
+
+    <screenshots>
+      <screenshot>
+          <image>22.PNG</image>
+      </screenshot>
+        <screenshot>
+            <image>1.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>2.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>3.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>4.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>5.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>6.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>7.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>8.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>9.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>10.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>11.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>12.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>13.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>14.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>15.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>16.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>17.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>18.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>19.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>20.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>21.PNG</image>
+        </screenshot>
+
+    <changelog>
+      <change>・firs build for iOS 14 support</change>
+    </changelog>
+
+    <links></links>
+</package>

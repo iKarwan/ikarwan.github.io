@@ -37,6 +37,26 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iastrid.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iastrid.png
 
 Package: pro.ikghd.ictmiz
+Version: 1.1.4-4
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Conflicts: com.yourepo.ikghd.ictmiz1
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmiz_1.1.4-4_iphoneos-arm.deb
+Size: 707016
+Installed-Size: 2704
+MD5sum: 2342a9580348e31ad325d3cef178d981
+SHA1: 565a6bc98cea899a62ff052350c19a8701b99727
+SHA256: cba7cbc1ab2e0b6ee84a8cb8e820eb3bedfdd9f15b1152d944b609492f72ac5b
+Description: i Customize Not U appl !...
+Name: iCTMiZ Pro
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
+
+Package: pro.ikghd.ictmiz
 Version: 1.1.4-2
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
@@ -49,26 +69,6 @@ Installed-Size: 2700
 MD5sum: 63c52511571f1e447bd9a36c05b658e5
 SHA1: 9f6be14ccb8878b31f56db26ee8c97651cc66d3f
 SHA256: bb35bb9b0580b014fffbc0cc5b2949a28dcbd319474172466b626ccebb875d16
-Description: i Customize Not U appl !...
-Name: iCTMiZ Pro
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
-
-Package: pro.ikghd.ictmiz
-Version: 1.1.4-3
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
-Conflicts: com.yourepo.ikghd.ictmiz1
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.1.4-3_iphoneos-arm.deb
-Size: 707960
-Installed-Size: 2704
-MD5sum: 54998235beaa13dd356a35da650cdc50
-SHA1: 676d74189423d50f9472eca5efd94fb77fcfd3ae
-SHA256: c34236828e77f4627fc5d0dc9415959606bbcf85cb0ce5cf91820f66cd794237
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
@@ -95,6 +95,26 @@ Author: iKarwan <ikg_hd@bk.ru>
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizlite
 SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizlite.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizlite.png
+
+Package: pro.ikghd.ictmizxiv
+Version: 1.0.0beta
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmiz
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmizxiv_1.0.0beta_iphoneos-arm.deb
+Size: 620296
+Installed-Size: 2836
+MD5sum: 7ec5e85d1f859f8256144ac5d01dd236
+SHA1: e63ea78a4b08a6a5e501f6b32404fbf36ec6cfad
+SHA256: db9e203306665a68c817fd626d4320947268a9e44bd89d0d8072197190bba995
+Description: i Customize Not U appl !...
+Name: iCTMiZ XiV
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizxiv
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizxiv.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizxiv.png
 
 Package: pro.ikghd.iksafari
 Version: 1.0.1
@@ -137,18 +157,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksettings.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksettings.png
 
 Package: pro.ikghd.ol3dtube
-Version: 1.1.1
+Version: 1.1.2
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 10.0), com.spark.libsparkcolourpicker
 Conflicts: com.yourepo.ikghd.ol3dtube
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ol3dtube_1.1.1_iphoneos-arm.deb
-Size: 85840
+Filename: .//debs/pro.ikghd.ol3dtube_1.1.2_iphoneos-arm.deb
+Size: 85876
 Installed-Size: 460
-MD5sum: 8b40fe6dda7485e2c4481e436d38d443
-SHA1: 602d813ee8c6af195778146ef3ccf7674e5c42ef
-SHA256: 7cf7fb05804f99d27b85af0d9f338d1c0f3271eebc6cb737da5908d87967bac8
+MD5sum: 196ef0d61b679c8dd4b547960e533241
+SHA1: 6339c502029b1735818c27e08f1adc8f85a79951
+SHA256: d25892dac8fec8c1a6a093afbd07bcbad6f9546006c29e2af7449cd17611c84a
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikg_hd@bk.ru>
@@ -177,18 +197,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.pmp.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.pmp.png
 
 Package: pro.ikghd.youtubekiller
-Version: 1.0.6.2
+Version: 1.0.6.3
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, com.appweleux.repo.adblockxi, com.trappledestek.adblockplus, ru.rejail.adblockplus, com.twickd.sarahh12099.youtube-reborn, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.youtubekiller_1.0.6.2_iphoneos-arm.deb
-Size: 573848
+Filename: .//debs/pro.ikghd.youtubekiller_1.0.6.3_iphoneos-arm.deb
+Size: 573416
 Installed-Size: 1064
-MD5sum: 9e983215bdec9d9196187d792a04f929
-SHA1: 1e7b5a511f8d36c38e5b1a606e8d6aecc78e05fc
-SHA256: 610b0345201cd02b2c729c13b921b74ef21542b83a5adb17b03541d2f867f099
+MD5sum: cd8b9babc69b408a894d2d59d928f388
+SHA1: 947f4af626e47f0af9a6015a7f7fc4e0a5ac3154
+SHA256: e817849b1b7976ff47831eea1495a807ffc80d454d991f06e97ce175c823da1b
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
