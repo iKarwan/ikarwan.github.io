@@ -56,10 +56,12 @@
                   <br>· يمكنك اضافة  حتى ٣ ثلاثة اجهزة مع الشراء واحد
                   <br>
 
-        ]]>
-      </longdescription>
-    </descriptionlist>
 
+                ]]></longdescription>
+              </descriptionlist>
+
+    <screenshots>
+      
       <screenshot>
           <image>22.PNG</image>
       </screenshot>
@@ -126,6 +128,7 @@
         <screenshot>
             <image>21.PNG</image>
         </screenshot>
+      </screenshots>
 
     <changelog>
       <change>・firs build for iOS 14 support</change>
