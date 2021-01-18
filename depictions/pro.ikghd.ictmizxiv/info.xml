@@ -1,6 +1,6 @@
 <package>
    <id>pro.ikghd.ictmizxiv</id>
-    <name>iCTMiZ XiV - $2.99</name>
+    <name>iCTMiZ XiV - $1.49</name>
     <version>1.0.0beta</version>
     <compatibility>
         <firmware>
@@ -61,7 +61,7 @@
               </descriptionlist>
 
     <screenshots>
-      
+
       <screenshot>
           <image>22.PNG</image>
       </screenshot>
