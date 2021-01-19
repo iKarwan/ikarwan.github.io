@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ictmizxiv</id>
     <name>iCTMiZ XiV - $1.49</name>
-    <version>1.0.0beta</version>
+    <version>1.0.0beta2</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -131,7 +131,7 @@
       </screenshots>
 
     <changelog>
-      <change>・firs build for iOS 14 support</change>
+      <change>・first build for iOS 14 support</change>
     </changelog>
 
     <links></links>

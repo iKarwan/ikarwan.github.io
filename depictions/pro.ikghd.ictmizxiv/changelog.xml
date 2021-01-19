@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.0beta2</version>
+		<change>・fix an issue with previous version</change>
+</changes>
+	<changes>
 		<version>1.0.0beta</version>
 		<change>・first build iOS 14 support</change>
 		<change>・Initial Release</change>
