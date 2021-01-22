@@ -37,18 +37,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iastrid.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iastrid.png
 
 Package: pro.ikghd.ictmiz
-Version: 1.1.4-4
+Version: 1.1.4-5
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.yourepo.ikghd.ictmiz1
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.1.4-4_iphoneos-arm.deb
-Size: 707016
-Installed-Size: 2704
-MD5sum: 2342a9580348e31ad325d3cef178d981
-SHA1: 565a6bc98cea899a62ff052350c19a8701b99727
-SHA256: cba7cbc1ab2e0b6ee84a8cb8e820eb3bedfdd9f15b1152d944b609492f72ac5b
+Filename: .//debs/pro.ikghd.ictmiz_1.1.4-5_iphoneos-arm.deb
+Size: 709836
+Installed-Size: 3112
+MD5sum: 6cc84d6644c21cfd7bef683639ec22b9
+SHA1: 34f1f3ca4ecd278fb740be1192a2115cab1e0a75
+SHA256: e4b0beee6cf2d59122b43bc822d80d88615d20625849e87983f9c7aebac9e684
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
@@ -109,26 +109,6 @@ Installed-Size: 2836
 MD5sum: 3d0792135084035daa5754af86cc34eb
 SHA1: 66273266c09d523d810fda55be2cb830bae1f9de
 SHA256: ea88f05ff90aaf8946dce53fb3d3049938dfc9c65941de2155b9576d74a294eb
-Description: i Customize Not U appl !...
-Name: iCTMiZ XiV
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizxiv
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizxiv.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizxiv.png
-
-Package: pro.ikghd.ictmizxiv
-Version: 1.0.0beta
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
-Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmiz
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmizxiv_1.0.0beta_iphoneos-arm.deb
-Size: 620296
-Installed-Size: 2836
-MD5sum: 7ec5e85d1f859f8256144ac5d01dd236
-SHA1: e63ea78a4b08a6a5e501f6b32404fbf36ec6cfad
-SHA256: db9e203306665a68c817fd626d4320947268a9e44bd89d0d8072197190bba995
 Description: i Customize Not U appl !...
 Name: iCTMiZ XiV
 Author: iKarwan <ikg_hd@bk.ru>
