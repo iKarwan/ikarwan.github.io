@@ -1,11 +1,11 @@
 <package>
    <id>pro.ikghd.ictmizxiv</id>
     <name>iCTMiZ XiV - $1.49</name>
-    <version>1.0.0beta2</version>
+    <version>1.0.1</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
-            <maxiOS>14.3</maxiOS>
+            <maxiOS>14.4</maxiOS>
         </firmware>
     </compatibility>
 
@@ -23,18 +23,18 @@
 		<br>English:
     <br>· i Customize Not You Appl
 	  <br>· included more then 250+ features
-		<br>· Compataible with iOS 14 UP to iOS 14.3
+		<br>· Compataible with iOS 14 & later
 		<br>· Supported Languges English>عــربي >中文！
 		<br>
 		<br>عربي:
 		<br>· تخصيص النظام من الالف الى الياء تقريبا
 	  <br>· فيها اكتر من ٢٥٠+ ميزة
-	 	<br>· تدعم الاصدارات ١٤.٣/١٤
+	 	<br>· تدعم الاصدارات ١٤.٤/١٤
     <br>
     <br>Chinese:
     <br>· 我自定义不是您appl
     <br>· 包含了250多种功能
-    <br>· 支持iOS 14 / 14.3
+    <br>· 支持iOS 14 / 14.4
     <br> <br>
     <li>
         <a href="https://youtu.be/H86ztNIxiEo">Demo Via YouTube : استعراض المميزات</a>
@@ -131,7 +131,7 @@
       </screenshots>
 
     <changelog>
-      <change>・first build for iOS 14 support</change>
+      <change>・this update Contain bug fixes &amp; improvements</change>
     </changelog>
 
     <links></links>

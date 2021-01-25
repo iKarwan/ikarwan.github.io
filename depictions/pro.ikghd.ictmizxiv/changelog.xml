@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>・bug fixes &amp; improvements</change>
+		<change>・other changes in changelog/change>
+</changes>
+	<changes>
 		<version>1.0.0beta2</version>
 		<change>・fix an issue with previous version</change>
 </changes>
