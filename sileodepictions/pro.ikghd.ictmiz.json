@@ -395,7 +395,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- some bug fixes with previos build",
+               "markdown":"- some bug fixes with previous build",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
