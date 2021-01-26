@@ -286,7 +286,7 @@
             },
             {
                "title":"Version",
-               "text":"1.0.6.4",
+               "text":"1.0.6.5",
                "class":"DepictionTableTextView"
             },
             {
@@ -352,7 +352,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.0.6.4",
+               "title":"Version 1.0.6.5",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -362,6 +362,20 @@
            },
            {
                "markdown":"- add miniplayer ipad style \n-fixing some issue with YouTubeMusic \n- other bug fixes",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+           {
+               "title":"Version 1.0.6.4",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- bug fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
