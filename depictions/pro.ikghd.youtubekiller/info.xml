@@ -146,8 +146,7 @@
     </screenshots>
 
     <changelog>
-      <change>・add hide autoplay toggle (overlay)</change>
-  		<change>・add hide play pause toggle (overlay)</change>
+  		<change>・add miniplayer ipad style</change>
     </changelog>
 
     <links></links>

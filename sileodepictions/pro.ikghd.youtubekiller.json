@@ -270,7 +270,7 @@
                             },
 
                             {
-                                "markdown":"- add hide autoplay toggle (overlay)\n* add hide play pause toggle (overlay)",
+                                "markdown":"- add miniplayer ipad style",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -361,7 +361,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- minor bug fixes",
+               "markdown":"- add miniplayer ipad style \n-fixing some issue with YouTubeMusic \n- other bug fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
