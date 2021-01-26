@@ -318,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.4-3",
+               "text":"1.1.4-6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-1-10",
+               "text":"2021-1-26",
                "class":"DepictionTableTextView"
             },
 
@@ -385,6 +385,48 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.1.4-6",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- some bug fixes with previos build",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+           {
+               "title":"Version 1.1.4-5",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- minor bug fixes",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+           {
+               "title":"Version 1.1.4-4",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- improvemnts & enhancements",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.1.4-3",
                "useBoldText":true,
