@@ -287,7 +287,7 @@
                             },
 
                             {
-                                "markdown":"- this update Contain bug fixes & improvements",
+                                "markdown":"- add hide AirDrop & Contacts (SystemWide)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -303,12 +303,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.1",
+               "text":"1.0.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-1-25",
+               "text":"2021-1-28",
                "class":"DepictionTableTextView"
             },
 
@@ -370,6 +370,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.0.2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- add hide AirDrop & Contacts (SystemWide)\n- other minor bug fixes",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.0.1",
                "useBoldText":true,

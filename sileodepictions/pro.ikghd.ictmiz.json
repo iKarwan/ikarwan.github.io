@@ -302,7 +302,7 @@
                             },
 
                             {
-                                "markdown":"- fix hide applications wasn't function(Icons)\n- add hide tab bar labels (SystemWide)",
+                                "markdown":"- add hide AirDrop & Contacts (SystemWide)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -318,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.4-6",
+               "text":"1.1.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-1-26",
+               "text":"2021-1-28",
                "class":"DepictionTableTextView"
             },
 
@@ -385,6 +385,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.1.5",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- add hide tab bar labels (SystemWide)\n- add hide AirDrop & Contacts (SystemWide)\n- fix Customize UIColor\n- fix Customize UILabel Color\n- fix Custom Large-Title wasn't function\n- othe minor bug fixes & enhancements",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.1.4-6",
                "useBoldText":true,
