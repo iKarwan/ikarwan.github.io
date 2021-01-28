@@ -361,7 +361,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- add miniplayer ipad style \n-fixing some issue with YouTubeMusic \n- other bug fixes",
+               "markdown":"- add miniplayer ipad style\n- fixing some issue with YouTubeMusic\n- other bug fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
