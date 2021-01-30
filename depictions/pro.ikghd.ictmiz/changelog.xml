@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.1.5-1</version>
+		<change>・add resize maduls &amp; spacing (Control Center)</change>
+		<change>・othe minor bug fixes &amp; enhancements</change>
+	</changes>
+	<changes>
 		<version>1.1.5</version>
 		<change>・add hide tab bar labels (SystemWide)</change>
 		<change>・add hide AirDrop &amp; Contacts (SystemWide)</change>
@@ -7,31 +12,6 @@
 		<change>・fix Customize UILabel Color</change>
 		<change>・fix Custom Large-Title wasn't function</change>
 		<change>・othe minor bug fixes &amp; enhancements</change>
-	</changes>
-	<changes>
-		<version>1.1.4-6</version>
-		<change>・some bug fixes with previous build</change>
-	</changes>
-	<changes>
-		<version>1.1.4-5</version>
-		<change>・minor bug fixes</change>
-	</changes>
-	<changes>
-		<version>1.1.4-4</version>
-		<change>・improvemnts &amp; enhancements</change>
-	</changes>
-	<changes>
-		<version>1.1.4-3</version>
-		<change>・quick fix for an issue with previous version</change>
-	</changes>
-	<changes>
-		<version>1.1.4-2</version>
-		<change>・removed respring required for most of the features</change>
-		<change>・minor bug fixes &amp; improvemnts</change>
-	</changes>
-	<changes>
-		<version>1.1.4-1</version>
-		<change>・minor bug fixes &amp; improvemnts</change>
 	</changes>
 	<changes>
 		<version>1.1.4</version>

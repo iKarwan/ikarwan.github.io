@@ -302,7 +302,7 @@
                             },
 
                             {
-                                "markdown":"- add hide AirDrop & Contacts (SystemWide)",
+                                "markdown":"- add resize maduls & spacing (Control Center)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -318,12 +318,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5",
+               "text":"1.1.5-1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-1-28",
+               "text":"2021-1-30",
                "class":"DepictionTableTextView"
             },
 
@@ -386,6 +386,20 @@
          "tabname":"Changelog",
          "views":[
            {
+               "title":"Version 1.1.5-1",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- add resize maduls & spacing (Control Center)\n- othe minor bug fixes & enhancements",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+           {
                "title":"Version 1.1.5",
                "useBoldText":true,
                "useBottomMargin":false,
@@ -399,91 +413,6 @@
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
-           {
-               "title":"Version 1.1.4-6",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- some bug fixes with previous build",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.1.4-5",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- minor bug fixes",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.1.4-4",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- improvemnts & enhancements",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.1.4-3",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- quick fix for an issue with previous version",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.1.4-2",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- removed respring required for most of the features\n- minor bug fixes & improvemnts",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.1.4-1",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- minor bug fixes & improvemnts",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-
            {
                "title":"Version 1.1.4",
                "useBoldText":true,
