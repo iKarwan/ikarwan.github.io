@@ -37,18 +37,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iastrid.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iastrid.png
 
 Package: pro.ikghd.ictmiz
-Version: 1.1.5-2
+Version: 1.1.5-3
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmizxiv
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.1.5-2_iphoneos-arm.deb
-Size: 711944
-Installed-Size: 3124
-MD5sum: 56c702153f953d9bf41d7c21a529f89d
-SHA1: 7453492a7bf002d8227b31891c4cb5fdb815f178
-SHA256: a8d371f2d62c0cbd06211764023696d2ea854c54d3e3852f087e247d3199bfc6
+Filename: .//debs/pro.ikghd.ictmiz_1.1.5-3_iphoneos-arm.deb
+Size: 707272
+Installed-Size: 3092
+MD5sum: cb09a2b122d41e46e7fc925d1f5a26fd
+SHA1: 4c0f05d805355e043927dcd97e36e0b633c9b981
+SHA256: 2ae11331cca17c33f80b3af563f9778043afe6110ac31106cdd8e838dff8b566
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
@@ -97,18 +97,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizlite.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizlite.png
 
 Package: pro.ikghd.ictmizxiv
-Version: 1.0.4
+Version: 1.0.5
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmiz
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmizxiv_1.0.4_iphoneos-arm.deb
-Size: 359216
-Installed-Size: 2848
-MD5sum: e4a30213f05947cd05f6b0d7c6d02efc
-SHA1: ff67a85a1170bbc9a6113f88bd2e0a63dc683489
-SHA256: dd4bd895cbb2cb80c70e243f0fa947e29e6db37218a33cc814af015fd9004432
+Filename: .//debs/pro.ikghd.ictmizxiv_1.0.5_iphoneos-arm.deb
+Size: 450612
+Installed-Size: 2816
+MD5sum: c1128ca2be654b12c6b2e9564d672f27
+SHA1: bdc9240ff57fdbfdd9efd9a6dcced936692517dc
+SHA256: 98167bb33aa0f06c3017cca510ab26568fa873c64d87d47eb3a91d3ed56f9cbb
 Description: i Customize Not U appl !...
 Name: iCTMiZ XiV
 Author: iKarwan <ikg_hd@bk.ru>
@@ -217,6 +217,26 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.youtubekille
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.youtubekiller.png
 
 Package: pro.ikghd.youtubekiller
+Version: 1.0.6.6
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 10.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.twickd.sarahh12099.youtube-reborn, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, com.appweleux.repo.adblockxi, com.trappledestek.adblockplus, ru.rejail.adblockplus, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.youtubekiller_1.0.6.6_iphoneos-arm.deb
+Size: 576668
+Installed-Size: 1236
+MD5sum: a2eae358981a974a8913f7009ac19114
+SHA1: aeb008f6fdcab651784450573cc549c6d47600d6
+SHA256: b69fceaa40eb3d90ba07457884ca00a45409d273e8f93342cf71c256e4d849b3
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.youtubekiller
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.youtubekiller.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.youtubekiller.png
+
+Package: pro.ikghd.youtubekiller
 Version: 1.0.6.3
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
@@ -249,26 +269,6 @@ Installed-Size: 1236
 MD5sum: 768cf572c69c8d461336f61558492a1e
 SHA1: 0a484d2efbcbd5260c3459eccdf91570ea6e4a46
 SHA256: 5a9d6b042a7264c016591ddad9b18ccd7cc401723ace77b84834e5c809b325b2
-Description: Youtube app no ad’s background playback iPad UI style and much more !
-Name: YouTubeKiller
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.youtubekiller
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.youtubekiller.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.youtubekiller.png
-
-Package: pro.ikghd.youtubekiller
-Version: 1.0.6.5
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), com.spark.libsparkcolourpicker
-Conflicts: com.twickd.sarahh12099.youtube-reborn, com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, com.appweleux.repo.adblockxi, com.trappledestek.adblockplus, ru.rejail.adblockplus, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.youtubekiller_1.0.6.5_iphoneos-arm.deb
-Size: 576776
-Installed-Size: 1236
-MD5sum: a3247581a8864fea83af7eb257f9be2b
-SHA1: 9c82a9eefda1a206722ed8748e1507273ca08e17
-SHA256: 516d1145ee999d07164ee22b978789e5fa238eeb2851f5e500a969a934abcfb4
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>

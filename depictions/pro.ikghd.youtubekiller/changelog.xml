@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.6.6</version>
+		<change>・bug fixes &amp; enhancements</change>
+	</changes>
+	<changes>
 		<version>1.0.6.5</version>
 		<change>・add miniplayer ipad style</change>
 		<change>・fixing some issue with YouTubeMusic</change>

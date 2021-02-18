@@ -286,17 +286,17 @@
             },
             {
                "title":"Version",
-               "text":"1.0.6.5",
+               "text":"1.0.6.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-1-26",
+               "text":"2021-2-18",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Price",
-               "text":"$1.49",
+               "text":"$1.00",
                "class":"DepictionTableTextView"
             },
             {
@@ -351,6 +351,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.0.6.6",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- bug fixes & enhancements",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.0.6.5",
                "useBoldText":true,
