@@ -1,9 +1,7 @@
 <package>
    <id>pro.ikghd.ictmiz</id>
-   <li>
-       <a href="https://repo.ikghd.me/checkout1">buy : الشــراء</a>
-   </li>
-   <version>1.1.5-3</version>
+    <name>iCTMiZ Pro - $1.00</name>
+    <version>1.1.5-3</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -15,6 +13,12 @@
         <description>Contain Over 250+ features!</description>
         <longdescription><![CDATA[
           <br>
+
+            <li>
+                <a href="https://repo.ikghd.me/checkout1">buy :: $1.00</a>
+            </li>
+
+            <br>
 
 		<br>English:
     <br>· i Customize Not You Appl
