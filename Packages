@@ -124,11 +124,11 @@ Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common
 Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmiz
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ictmizxiv_1.0.4_iphoneos-arm.deb
-Size: 352402
+Size: 351482
 Installed-Size: 2812
-MD5sum: e58cc465fca35ca6221a19f21577483d
-SHA1: aaf99a58e6a67a907eae04191dbba03e949e1a90
-SHA256: 7a1a4fb6e8cb6fd1c6ad52c560d6656d8b1737c0eeacf72ec51f61b1bfc5cffc
+MD5sum: d678544aaf89e6302c40423dbdfbc29c
+SHA1: 4a52d98bb2650cbf2834767a82c8f26f187ffd99
+SHA256: 509b92cf8e635585086621dfb9200de2212f03e0b3799759799b9785195754dc
 Description: i Customize Not U appl !...
 Name: iCTMiZ XiV
 Author: iKarwan <ikg_hd@bk.ru>
