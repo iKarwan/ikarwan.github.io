@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ictmiz</id>
     <name>iCTMiZ Pro</name>
-    <version>1.1.5-3</version>
+    <version>1.1.5-4</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -13,6 +13,10 @@
         <description>Contain Over 250+ features!</description>
         <longdescription><![CDATA[
           <br>
+
+            <br>· on sale for limited time only for $1.00
+            <br>
+
 
             <li>
                 <a href="https://repo.ikghd.me/checkout1">buy :: $1.00</a>

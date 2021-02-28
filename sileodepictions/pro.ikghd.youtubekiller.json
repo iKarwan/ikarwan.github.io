@@ -215,6 +215,18 @@
             {
                "class":"DepictionSeparatorView"
             },
+
+            {
+                "markdown":"- on sale for limited time only for $1.00",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
             {
                "title":"buy : الشــراء",
                "useBoldText": true,
@@ -286,12 +298,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.6.6",
+               "text":"1.0.6.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-2-18",
+               "text":"2021-2-28",
                "class":"DepictionTableTextView"
             },
             {
@@ -351,6 +363,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.0.6.7",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- clean up & improvemnts",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.0.6.6",
                "useBoldText":true,

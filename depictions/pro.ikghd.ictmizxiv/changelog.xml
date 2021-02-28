@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.0.5-1</version>
+		<change>・add set custom dock icons</change>
+		<change>・clean up &amp; improvemnts</change>
+</changes>
+	<changes>
 		<version>1.0.5</version>
 		<change>・minor bug fixes &amp; enhancements</change>
 </changes>

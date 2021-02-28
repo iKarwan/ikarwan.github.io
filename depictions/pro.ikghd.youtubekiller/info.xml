@@ -1,18 +1,23 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.0.6.6</version>
+    <version>1.0.6.7</version>
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
             <maxiOS>14.4</maxiOS>
         </firmware>
     </compatibility>
-    
+
     <descriptionlist>
         <description>New YouTube Experience!</description>
         <longdescription><![CDATA[
           <br>
+
+
+                        <br>· on sale for limited time only for $1.00
+                        <br>
+
 
             <li>
                 <a href="https://repo.ikghd.me/YouTubeKiller">buy :: $1.00</a>
