@@ -314,7 +314,7 @@
                             },
 
                             {
-                                "markdown":"- add resize maduls & spacing (Control Center)",
+                                "markdown":"- fix hide youtube advertisments in (YTKiller)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -330,12 +330,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5-4",
+               "text":"1.1.5-5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-2-28",
+               "text":"2021-3-1",
                "class":"DepictionTableTextView"
             },
 
@@ -397,6 +397,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.1.5-5",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- fix hide youtube advertisments in (YTKiller)\n- clean up",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.1.5-4",
                "useBoldText":true,
