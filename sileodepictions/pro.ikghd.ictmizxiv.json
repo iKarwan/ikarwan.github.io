@@ -383,6 +383,20 @@
          "tabname":"Changelog",
          "views":[
            {
+               "title":"Version 1.0.5-3",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- clean up & enhancements",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+           {
                "title":"Version 1.0.5-2",
                "useBoldText":true,
                "useBottomMargin":false,
