@@ -314,7 +314,7 @@
                             },
 
                             {
-                                "markdown":"- fix hide youtube advertisments in (YTKiller)",
+                                "markdown":"- add app appearance view dark & light (SystemWide)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -330,12 +330,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5-5",
+               "text":"1.2.0",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-3-1",
+               "text":"2021-3-11",
                "class":"DepictionTableTextView"
             },
 
@@ -397,6 +397,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.2.0",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- add app appearance view dark & light (SystemWide)\n- اضافة خيار واجهة التطبيقات داكن او فاتح (اعدادات النظام)\n- fix an issue related to folder icons\n- fix an issue related multitasking apps\n- clean up the preference",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.1.5-5",
                "useBoldText":true,
