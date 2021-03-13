@@ -299,7 +299,7 @@
                             },
 
                             {
-                                "markdown":"- fix hide youtube advertisments in (YTKiller)",
+                                "markdown":"- bug fixes & improvemnts",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -315,12 +315,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.5-3",
+               "text":"2.0.0",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-3-1",
+               "text":"2021-3-13",
                "class":"DepictionTableTextView"
             },
 
@@ -383,7 +383,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.0.5-3",
+               "title":"Version 2.0.0",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -392,35 +392,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- clean up & enhancements",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.5-2",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- fix hide youtube advertisments in (YTKiller)\n- clean up",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.5-1",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- add set custom dock icons\n- clean up & improvemnts",
+               "markdown":"- add app apearance dark & light\n- fix iconfly in effect\n- add hide notification exposure covid-19\n- fix hide app store third apps\n- other minor bug fixes\n-  \n- clean up & enhancements",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
