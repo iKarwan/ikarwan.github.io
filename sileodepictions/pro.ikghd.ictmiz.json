@@ -412,68 +412,6 @@
                "class":"DepictionMarkdownView"
            },
            {
-               "title":"Version 1.1.5-5",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- fix hide youtube advertisments in (YTKiller)\n- clean up",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.1.5-4",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- clean up & improvemnts",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.1.5-3",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- minor bug fixes & enhancements",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.1.5-2",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- fix alignment date &amp; time\n- other minor bug fixes",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.1.5-1",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
               "class":"DepictionSeparatorView"
            },
            {

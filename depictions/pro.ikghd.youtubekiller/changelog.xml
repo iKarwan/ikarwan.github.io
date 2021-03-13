@@ -4,40 +4,6 @@
 		<change>・improvemnts</change>
 	</changes>
 	<changes>
-		<version>1.0.6.8</version>
-		<change>・clean up &amp; enhancements</change>
-	</changes>
-	<changes>
-		<version>1.0.6.7</version>
-		<change>・clean up &amp; improvemnts</change>
-	</changes>
-	<changes>
-		<version>1.0.6.6</version>
-		<change>・bug fixes &amp; enhancements</change>
-	</changes>
-	<changes>
-		<version>1.0.6.5</version>
-		<change>・add miniplayer ipad style</change>
-		<change>・fixing some issue with YouTubeMusic</change>
-		<change>・other bug fixes</change>
-	</changes>
-	<changes>
-		<version>1.0.6.4</version>
-		<change>・bug fixes</change>
-	</changes>
-	<changes>
-		<version>1.0.6.3</version>
-		<change>・improvemnts &amp; enhancements</change>
-	</changes>
-	<changes>
-		<version>1.0.6.2</version>
-		<change>・improvemnts &amp; clean up</change>
-	</changes>
-	<changes>
-		<version>1.0.6.1</version>
-		<change>・fix an issue related to overlay options</change>
-	</changes>
-	<changes>
 		<version>1.0.6</version>
 		<change>・fix hide playpause toggle</change>
 		<change>・add hide chat toggle in live stream</change>
