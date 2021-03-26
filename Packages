@@ -141,14 +141,15 @@ Version: 1.0.2
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
-Replaces: com.yourepo.ikghd.ikset, pro.ikghd.ikset
+Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset
+Replaces: pro.ikghd.ikset
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.iksettings_1.0.2_iphoneos-arm.deb
-Size: 63840
+Size: 63880
 Installed-Size: 352
-MD5sum: 7e7b44496068eec3faaaebb30abf3ed0
-SHA1: 224eee85315f30449e7d42ef3b3690ce82906741
-SHA256: 7ef264c1c4e03cd2ca8feba0311341841d6fa15a1bc5aeb5856df15c259496c6
+MD5sum: c0f1ffba7ea11bacaec0328fdb9e2d97
+SHA1: c37930db747679468a8ee1a4fc236028e53ae764
+SHA256: 3d6bfb4fd1461a16ec04a567b03171530abb11857398e75148f4d6e6932b90e7
 Description: redefind Settings app !
 Name: iKSettings
 Author: iKarwan <ikg_hd@bk.ru>
