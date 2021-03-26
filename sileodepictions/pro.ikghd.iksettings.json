@@ -70,7 +70,7 @@
                             },
 
                             {
-                                "markdown":"- improvements & enhancements",
+                                "markdown":"- fixed Appstore thirs party apps ios 14 & higher\n- add hide Exposure Notification ios 13.7 & higher",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.1",
+               "text":"1.0.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-1-3",
+               "text":"2021-3-25",
                "class":"DepictionTableTextView"
             },
 
@@ -146,6 +146,17 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.0.2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- fixed Appstore thirs party apps ios 14 & higher\n- add hide Exposure Notification ios 13.7 & higher",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
          {
              "title":"Version 1.0.1",

@@ -137,6 +137,26 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksafari.jso
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksafari.png
 
 Package: pro.ikghd.iksettings
+Version: 1.0.2
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
+Replaces: com.yourepo.ikghd.ikset, pro.ikghd.ikset
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.iksettings_1.0.2_iphoneos-arm.deb
+Size: 63840
+Installed-Size: 352
+MD5sum: 7e7b44496068eec3faaaebb30abf3ed0
+SHA1: 224eee85315f30449e7d42ef3b3690ce82906741
+SHA256: 7ef264c1c4e03cd2ca8feba0311341841d6fa15a1bc5aeb5856df15c259496c6
+Description: redefind Settings app !
+Name: iKSettings
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.iksettings
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksettings.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksettings.png
+
+Package: pro.ikghd.iksettings
 Version: 1.0.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>

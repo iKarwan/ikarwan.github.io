@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>1.0.2</version>
+		<change>・fixed Appstore thirs party apps ios 14 &amp; higher</change>
+		<change>・add hide Exposure Notification ios 13.7 &amp; higher</change>
+	</changes>
+	<changes>
 		<version>1.0.1</version>
 		<change>・improve the code</change>
 		<change>・clean up</change>
