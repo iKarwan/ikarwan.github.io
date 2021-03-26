@@ -17,12 +17,13 @@
         	<br>· set custom appl id name
       		<br>· set custom icon table name
       		<br>· Rounded Settings
-      		<br>· Remove Black Line
-      		<br>· Remove iCon Table
-      		<br>· Remove Setting Label
+      		<br>· Hide Black Line
+      		<br>· hide Icon Table
+      		<br>· Hide Setting Label
       		<br>· Remove TOP Settings TxT
       	  <br>· Disable SearchBar
-      	 	<br>· Remove ThirdPartyApps
+          <br>· Hide Notification Exposure
+          <br>· Hide ThirdPartyApps
          	<br>
         ]]></longdescription>
     </descriptionlist>
@@ -37,7 +38,7 @@
     </screenshots>
 
     <changelog>
-      <change>・fixed Appstore thirs party apps ios 14 &amp; higher</change>
+      <change>・fixed Appstore third party apps ios 14 &amp; higher</change>
       <change>・add hide Exposure Notification ios 13.7 &amp; higher</change>
     </changelog>
 
