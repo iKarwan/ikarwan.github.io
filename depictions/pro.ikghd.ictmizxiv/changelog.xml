@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>2.0.0-2</version>
+		<change>・bug fixes</change>
+		<change>・HS Layout culomns &amp; rows not enabled yet on this update expect it in the next one when fixing some other issues sorry for the delay</change>
+</changes>
+	<changes>
 		<version>2.0.0-1</version>
 		<change>・bug fixes &amp; enhancements</change>
 </changes>

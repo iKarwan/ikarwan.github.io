@@ -37,26 +37,6 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iastrid.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iastrid.png
 
 Package: pro.ikghd.ictmiz
-Version: 1.2.0-1
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
-Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmizxiv
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.2.0-1_iphoneos-arm.deb
-Size: 897712
-Installed-Size: 3076
-MD5sum: 7f4ff1414fbd4dcdd2ee91c3f58d7a33
-SHA1: 39aaf31d3a1e04a76783594e7f58ae87dd0a61f6
-SHA256: 909e67ea42c69105a81068cf9d383a4f82a9f811f8a734a478c7e77a1b00e739
-Description: i Customize Not U appl !...
-Name: iCTMiZ Pro
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
-
-Package: pro.ikghd.ictmiz
 Version: 1.1.6
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
@@ -69,6 +49,26 @@ Installed-Size: 3088
 MD5sum: f91804bfe7e2427f7a3325ed047e49d0
 SHA1: be684e62a09f646b6efa9413d128c42a9aa8ef88
 SHA256: 1dfb162b86d0fff033236a7f8539404e8ea969087deeb0617c1a87b0874b300e
+Description: i Customize Not U appl !...
+Name: iCTMiZ Pro
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
+
+Package: pro.ikghd.ictmiz
+Version: 1.2.0-2
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmizxiv
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmiz_1.2.0-2_iphoneos-arm.deb
+Size: 899428
+Installed-Size: 3088
+MD5sum: 0c5393ddbf882f47d044258b8b2d7909
+SHA1: 03b8f9bb1d4478706f300ff9ac2e0e4d1691a564
+SHA256: f50de338efd48211e34da412c48e14344442357db6c61448db8ca2decc15c898
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
@@ -97,18 +97,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizlite.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizlite.png
 
 Package: pro.ikghd.ictmizxiv
-Version: 2.0.0-1
+Version: 2.0.0-2
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmiz
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmizxiv_2.0.0-1_iphoneos-arm.deb
-Size: 627462
+Filename: .//debs/pro.ikghd.ictmizxiv_2.0.0-2_iphoneos-arm.deb
+Size: 348600
 Installed-Size: 2804
-MD5sum: 4df133c9b7c3aa4521e4b15898858698
-SHA1: 21d4e864299c3c3fec324daa8a300f878b2fd339
-SHA256: 1a4c5dec03ec9737d8d37e38ab7308015033812a1ab3f017e49a1cb23e21ec3f
+MD5sum: 9826f3af8e3542ff43273eaf4e3b632c
+SHA1: a17f6a5fbb74d34b25dd5464bd0eb2ed9f567f97
+SHA256: bb0c873ca94ebc08e0286d6df5d6d6ae39d99c8cd092642cb91a8dfb4abf7327
 Description: i Customize Not U appl !...
 Name: iCTMiZ XiV
 Author: iKarwan <ikg_hd@bk.ru>
@@ -150,26 +150,6 @@ Installed-Size: 352
 MD5sum: c0f1ffba7ea11bacaec0328fdb9e2d97
 SHA1: c37930db747679468a8ee1a4fc236028e53ae764
 SHA256: 3d6bfb4fd1461a16ec04a567b03171530abb11857398e75148f4d6e6932b90e7
-Description: redefind Settings app !
-Name: iKSettings
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.iksettings
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksettings.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksettings.png
-
-Package: pro.ikghd.iksettings
-Version: 1.0.1
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
-Conflicts: com.yourepo.ikghd.ikset
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.iksettings_1.0.1_iphoneos-arm.deb
-Size: 63510
-Installed-Size: 352
-MD5sum: d07d06a55ef6184c9a32f54a25f13c04
-SHA1: 719d0f5f52c037d54f3e9a5034d9d133e3b52e7b
-SHA256: 0943e37aaa416fcc051916a1a00c2d81338795d3dd87ff379ebc97987e0369d1
 Description: redefind Settings app !
 Name: iKSettings
 Author: iKarwan <ikg_hd@bk.ru>

@@ -217,18 +217,7 @@
             },
 
             {
-                "markdown":"- on sale for limited time only for $1.00",
-                "useSpacing":true,
-                "class":"DepictionMarkdownView"
-            },
-
-            {
-               "class":"DepictionSeparatorView"
-            },
-
-
-            {
-               "title":"buy : الشــراء",
+               "title":"buy $1.99: الشــراء",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/YouTubeKiller",
                "class":"DepictionTableButtonView"

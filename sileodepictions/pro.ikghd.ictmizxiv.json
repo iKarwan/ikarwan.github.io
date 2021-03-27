@@ -243,18 +243,7 @@
             },
 
             {
-                "markdown":"- on sale for limited time only for $1.00",
-                "useSpacing":true,
-                "class":"DepictionMarkdownView"
-            },
-
-            {
-               "class":"DepictionSeparatorView"
-            },
-
-
-            {
-               "title":"buy : الشــراء",
+               "title":"buy $1.99: الشــراء",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/checkout2",
                "class":"DepictionTableButtonView"
@@ -299,7 +288,7 @@
                             },
 
                             {
-                                "markdown":"- bug fixes & improvemnts",
+                                "markdown":"- bug fixes",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -315,18 +304,18 @@
             },
             {
                "title":"Version",
-               "text":"2.0.0-1",
+               "text":"2.0.0-2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-3-15",
+               "text":"2021-3-27",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Price",
-               "text":"$1.00",
+               "text":"$1.99",
                "class":"DepictionTableTextView"
             },
             {
@@ -382,6 +371,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 2.0.0-2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- bug fixes\n- HS Layout culomns & rows not enabled yet on this update expect it in the next one when fixing some other issues sorry for the delay",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 2.0.0-1",
                "useBoldText":true,

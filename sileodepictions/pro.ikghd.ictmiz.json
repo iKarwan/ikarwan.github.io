@@ -257,19 +257,9 @@
                "class":"DepictionSeparatorView"
             },
 
-            {
-                "markdown":"- on sale for limited time only for $1.00",
-                "useSpacing":true,
-                "class":"DepictionMarkdownView"
-            },
 
             {
-               "class":"DepictionSeparatorView"
-            },
-
-
-            {
-               "title":"buy : الشــراء",
+               "title":"buy $1.99: الشــراء",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/checkout1",
                "class":"DepictionTableButtonView"
@@ -330,18 +320,18 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0-1",
+               "text":"1.2.0-2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-3-15",
+               "text":"2021-3-27",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Price",
-               "text":"$1.00",
+               "text":"$1.99",
                "class":"DepictionTableTextView"
             },
             {
@@ -397,6 +387,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.2.0-2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+               "markdown":"- bug fixes",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.2.0-1",
                "useBoldText":true,

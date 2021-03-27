@@ -21,9 +21,10 @@
 
   <div id="wrapper">
     <span id="display-name">YouTubeKiller</span>
-    <span id="display-name">50% off now - تخفيض ٥٠٪ الان</span>
     <hr>
-    <!--<span id="description">New YouTube Experience!</span>
+    <!--<span id="display-name">50% off now - تخفيض ٥٠٪ الان</span>
+    <hr>
+    <span id="description">New YouTube Experience!</span>
     <hr>-->
     <span id="description">بعد الشراء انسخ الــ UDID وابعتها للـــ <a href = "mailto: yt-killer@bk.ru?cc=&subject=YouTubeKiller&body=الصـق ال UDID هينا::">ارسل الـ UDID</a></span>
     <hr>
@@ -52,7 +53,7 @@
 
         createOrder: function(data, actions) {
           return actions.order.create({
-            purchase_units: [{"description":"Experience YOuTube Like You Want!","amount":{"currency_code":"USD","value":1}}]
+            purchase_units: [{"description":"Experience YOuTube Like You Want!","amount":{"currency_code":"USD","value":1.99}}]
           });
         },
 
