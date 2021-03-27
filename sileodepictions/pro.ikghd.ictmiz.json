@@ -304,7 +304,7 @@
                             },
 
                             {
-                                "markdown":"- add app appearance view dark & light (SystemWide)",
+                                "markdown":"- add Multitasking app switcher custom resizer",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -397,7 +397,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- bug fixes",
+               "markdown":"- add Multitasking app switcher custom resizer\n- bug fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
