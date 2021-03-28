@@ -37,6 +37,26 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iastrid.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iastrid.png
 
 Package: pro.ikghd.ictmiz
+Version: 1.2.0-3
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmizxiv
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmiz_1.2.0-3_iphoneos-arm.deb
+Size: 899434
+Installed-Size: 3088
+MD5sum: f7ca23487637a15e8b2829da8f3eada5
+SHA1: cfc95ced7284ea5f53580ac39fd767d1e97b2888
+SHA256: 65a6b30a506eac5dbf886f6b42dc4c73b84cca0f31fee01e599b24c280e34b2a
+Description: i Customize Not U appl !...
+Name: iCTMiZ Pro
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
+
+Package: pro.ikghd.ictmiz
 Version: 1.1.6
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
@@ -49,26 +69,6 @@ Installed-Size: 3088
 MD5sum: f91804bfe7e2427f7a3325ed047e49d0
 SHA1: be684e62a09f646b6efa9413d128c42a9aa8ef88
 SHA256: 1dfb162b86d0fff033236a7f8539404e8ea969087deeb0617c1a87b0874b300e
-Description: i Customize Not U appl !...
-Name: iCTMiZ Pro
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmiz
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmiz.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmiz.png
-
-Package: pro.ikghd.ictmiz
-Version: 1.2.0-2
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
-Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmizxiv
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmiz_1.2.0-2_iphoneos-arm.deb
-Size: 899428
-Installed-Size: 3088
-MD5sum: 0c5393ddbf882f47d044258b8b2d7909
-SHA1: 03b8f9bb1d4478706f300ff9ac2e0e4d1691a564
-SHA256: f50de338efd48211e34da412c48e14344442357db6c61448db8ca2decc15c898
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
