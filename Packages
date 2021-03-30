@@ -120,15 +120,15 @@ Package: pro.ikghd.iksafari
 Version: 1.0.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, firmware ( >= 11.0)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, firmware ( >= 11.0), firmware(<<14.0)
 Conflicts: com.yourepo.ikghd.iksafari
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.iksafari_1.0.1_iphoneos-arm.deb
-Size: 54766
+Size: 62142
 Installed-Size: 348
-MD5sum: 761cf18776066fd5fd30a172c6ca46b5
-SHA1: 760ad32ff397a86f1746ed288a2ed98039293a41
-SHA256: b8329a6c469b379f3671986de19d3a35b8aa8d23fd615b1203c96f2812b47c49
+MD5sum: b274db37a086424c8b426d842ee0bd53
+SHA1: 0707acffda0f040978f45baa6785b3968068e43e
+SHA256: cae16b0e4208bfaa9746148269ff616616c04b5d876c2b988d565b844a47b583
 Description: Safari Features !
 Name: iKSafari
 Author: iKarwan <ikg_hd@bk.ru>
