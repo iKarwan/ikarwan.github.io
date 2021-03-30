@@ -40,15 +40,15 @@ Package: pro.ikghd.ictmiz
 Version: 1.2.0-3
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), firmware(<<14.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmizxiv
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ictmiz_1.2.0-3_iphoneos-arm.deb
-Size: 899434
+Size: 899446
 Installed-Size: 3088
-MD5sum: f7ca23487637a15e8b2829da8f3eada5
-SHA1: cfc95ced7284ea5f53580ac39fd767d1e97b2888
-SHA256: 65a6b30a506eac5dbf886f6b42dc4c73b84cca0f31fee01e599b24c280e34b2a
+MD5sum: d2774e47329109c2a288f42a3c86cd34
+SHA1: 3d435c5ddd140bd84efcc57e5b2f3743e74c4207
+SHA256: 86de062449a6946bb7c7804992fb8fec5f8d8d0d38ad8e10b20243841f0a9e6b
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
