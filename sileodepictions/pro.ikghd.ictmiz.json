@@ -320,12 +320,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0-3",
+               "text":"1.2.0-4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-3-28",
+               "text":"2021-3-30",
                "class":"DepictionTableTextView"
             },
 
@@ -388,7 +388,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.2.0-3",
+               "title":"Version 1.2.0-4",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -398,34 +398,6 @@
            },
            {
                "markdown":"- bug fixes & improvemnt",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.2.0-2",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- add Multitasking app switcher custom resizer\n- bug fixes",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.2.0-1",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- bug fixes & improvemnts",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

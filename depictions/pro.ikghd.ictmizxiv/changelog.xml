@@ -1,12 +1,6 @@
 <changelog>
 	<changes>
-		<version>2.0.0-2</version>
-		<change>・add Multitasking app switcher custom resizer</change>
-		<change>・HS Layout culomns &amp; rows not enabled yet on this update expect it in the next one when fixing some other issues sorry for the delay</change>
-		<change>・bug fixes</change>
-</changes>
-	<changes>
-		<version>2.0.0-1</version>
+		<version>2.0.0-3</version>
 		<change>・bug fixes &amp; enhancements</change>
 </changes>
 	<changes>
