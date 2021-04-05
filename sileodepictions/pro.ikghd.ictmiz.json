@@ -304,7 +304,7 @@
                             },
 
                             {
-                                "markdown":"- add Multitasking app switcher custom resizer",
+                                "markdown":"- change safari grid tabs to new mode",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -320,12 +320,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0-4",
+               "text":"1.2.0-5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-3-30",
+               "text":"2021-4-5",
                "class":"DepictionTableTextView"
             },
 
@@ -388,7 +388,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.2.0-4",
+               "title":"Version 1.2.0-5",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -397,7 +397,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- bug fixes & improvemnt",
+               "markdown":"- change safari grid tabs to new mode\n- bug fixes & improvemnt",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

@@ -1,6 +1,7 @@
 <changelog>
 	<changes>
-		<version>1.2.0-4</version>
+		<version>1.2.0-5</version>
+		<change>・change safari grid tabs to new mode</change>
 		<change>・bug fixes &amp; improvemnts</change>
 </changes>
 	<changes>

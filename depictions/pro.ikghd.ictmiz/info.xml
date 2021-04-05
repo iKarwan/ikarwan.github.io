@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ictmiz</id>
     <name>iCTMiZ Pro</name>
-    <version>1.2.0-4</version>
+    <version>1.2.0-5</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -133,7 +133,7 @@
     </screenshots>
 
     <changelog>
-      <change>・add Multitasking app switcher custom resizer</change>
+      <change>・change safari grid tabs to new mode</change>
     </changelog>
 
     <links></links>
