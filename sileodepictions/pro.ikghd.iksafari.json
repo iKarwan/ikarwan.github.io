@@ -79,7 +79,7 @@
                             },
 
                             {
-                                "markdown":"- improvements & enhancements",
+                                "markdown":"- add new Grid Tabs Style",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -100,7 +100,7 @@
             },
             {
                "title":"Updated",
-               "text":"January 1, 2021",
+               "text":"April 18, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -155,6 +155,17 @@
       {
          "tabname":"Changelog",
          "views":[
+         {
+             "title":"Version 1.0.2",
+             "useBoldText":true,
+             "useBottomMargin":false,
+             "class":"DepictionSubheaderView"
+         },
+         {
+            "markdown":"- add new Grid Tabs Style",
+             "useSpacing":true,
+             "class":"DepictionMarkdownView"
+         },
 
          {
              "title":"Version 1.0.1",
