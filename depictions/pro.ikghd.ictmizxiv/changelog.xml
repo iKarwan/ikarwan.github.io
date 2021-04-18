@@ -1,8 +1,9 @@
 <changelog>
 	<changes>
-		<version>2.0.0-3</version>
-		<change>・bug fixes &amp; enhancements</change>
-</changes>
+		<version>2.0.0-4</version>
+		<change>・add use circle icon</change>
+		<change>・add hide arrow sign</change>
+		<change>・bug fixes &amp; improvemnts</change></changes>
 	<changes>
 		<version>2.0.0</version>
 		<change>・add app apearance dark &amp; light</change>

@@ -288,7 +288,7 @@
                             },
 
                             {
-                                "markdown":"- add Multitasking app switcher custom resizer",
+                                "markdown":"- change apply settings in (Settings) to new modern apply\n add filter between apps and system hooks",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -304,12 +304,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.0-3",
+               "text":"2.0.0-4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-3-30",
+               "text":"2021-4-18",
                "class":"DepictionTableTextView"
             },
 
@@ -372,7 +372,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 2.0.0-3",
+               "title":"Version 2.0.0-4",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -381,7 +381,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- bug fixes & enhancements",
+               "markdown":"- add use circle Icon\n- add hide arrow sign\n- bug fixes & enhancements",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

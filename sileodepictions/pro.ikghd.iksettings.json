@@ -70,7 +70,7 @@
                             },
 
                             {
-                                "markdown":"- fixed Appstore third party apps ios 14 & higher\n- add hide Exposure Notification ios 13.7 & higher",
+                                "markdown":"- add new modern apply button\n- fix Appstore third party apps space\n- add hide Arrow Sign",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.2",
+               "text":"1.0.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-3-25",
+               "text":"2021-4-18",
                "class":"DepictionTableTextView"
             },
 
@@ -147,13 +147,25 @@
          "tabname":"Changelog",
          "views":[
            {
+               "title":"Version 1.0.3",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- add new modern apply button\n- fixed Appstore third party apps space\n- add hide Arrow Sign",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
+           {
                "title":"Version 1.0.2",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
            },
            {
-              "markdown":"- fixed Appstore third party apps ios 14 & higher\n- add hide Exposure Notification ios 13.7 & higher",
+              "markdown":"- fixed Appstore third party apps ios 14 & higher\n- add hide Exposure Notification ios 13.6 & higher",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

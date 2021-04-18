@@ -304,7 +304,7 @@
                             },
 
                             {
-                                "markdown":"- change safari grid tabs to new mode",
+                                "markdown":"- change apply settings in (Settings) to new modern apply\n- add filter between apps and system hooks",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -320,12 +320,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0-5",
+               "text":"1.2.0-6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Released",
-               "text":"2021-4-5",
+               "text":"2021-4-18",
                "class":"DepictionTableTextView"
             },
 
@@ -388,7 +388,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.2.0-5",
+               "title":"Version 1.2.0-6",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -397,10 +397,11 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- change safari grid tabs to new mode\n- bug fixes & improvemnt",
+               "markdown":"- add use circle icon\n- add hide arrow sign \n- bug fixes & improvemnt",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
+
            {
                "title":"Version 1.2.0",
                "useBoldText":true,
