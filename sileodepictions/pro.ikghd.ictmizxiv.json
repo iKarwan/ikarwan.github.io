@@ -395,7 +395,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- add app apearance dark & light\n- fix iconfly in effect\n- add hide notification exposure covid-19\n- fix hide app store third apps\n- other minor bug fixes\n-  \n- clean up & enhancements",
+               "markdown":"- add app apearance dark & light\n- fix iconfly in effect\n- add hide notification exposure covid-19\n- fix hide app store third apps\n- other minor bug fixes\n- clean up & enhancements",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
