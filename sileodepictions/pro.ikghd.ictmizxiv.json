@@ -288,7 +288,7 @@
                             },
 
                             {
-                                "markdown":"- change apply settings in (Settings) to new modern apply\n add filter between apps and system hooks",
+                                "markdown":"- change apply settings in (Settings) to new modern apply\n- add filter between apps and system hooks",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
