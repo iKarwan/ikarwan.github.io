@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.3",
+               "text":"1.0.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"April 18, 2021",
+               "text":"April 21, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -146,6 +146,17 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.0.4",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- fixes hiding apply button on light mode",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.0.3",
                "useBoldText":true,

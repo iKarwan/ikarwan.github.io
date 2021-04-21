@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.iksettings</id>
     <name>iKSettings</name>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -15,14 +15,14 @@
           <br>General:
           <br>· set custom settings text
         	<br>· set custom appl id name
-      		<br>· set custom icon table name
       		<br>· Rounded Settings
       		<br>· Hide Black Line
       		<br>· hide Icon Table
       		<br>· Hide Setting Label
       		<br>· Remove TOP Settings TxT
       	  <br>· Disable SearchBar
-          <br>· Hide Notification Exposure
+            <br>· Hide Notification Exposure
+              <br>· Arrow Sign
           <br>· Hide ThirdPartyApps
          	<br>
         ]]></longdescription>

@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.4</version>
+		<change>・fixes hiding apply button on light mode</change>
+	</changes>
+	<changes>
 		<version>1.0.3</version>
 		<change>・fixed Appstore third party apps sapce</change>
 		<change>・add new modern apply button</change>
