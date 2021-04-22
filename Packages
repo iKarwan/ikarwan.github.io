@@ -97,18 +97,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizlite.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizlite.png
 
 Package: pro.ikghd.ictmizxiv
-Version: 2.0.0-4
+Version: 2.0.0-5
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Conflicts: com.yourepo.ikghd.ictmiz1, pro.ikghd.ictmiz
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmizxiv_2.0.0-4_iphoneos-arm.deb
-Size: 360886
-Installed-Size: 2816
-MD5sum: bac7c699fddda7e46e646fdf0af6e065
-SHA1: 63278eedbb0ff0b3d457f984a65aaab158959719
-SHA256: c21740286c68ee863f05762c452764f110e432369ce5163342f2d4e98f6a32b6
+Filename: .//debs/pro.ikghd.ictmizxiv_2.0.0-5_iphoneos-arm.deb
+Size: 362156
+Installed-Size: 2812
+MD5sum: 9fc765c6937d6b4f916e9f0b12e26193
+SHA1: d9ef5e4e7df651ba929b0d4f91b9de6a2cbcce0c
+SHA256: b90e25641064cc4b41cb46513e5c411f174914f5cafaaf0ff3a9a829f1071e95
 Description: i Customize Not U appl !...
 Name: iCTMiZ XiV
 Author: iKarwan <ikg_hd@bk.ru>
