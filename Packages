@@ -117,18 +117,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizxiv.js
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizxiv.png
 
 Package: pro.ikghd.iksafari
-Version: 1.0.2
+Version: 1.0.3
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, firmware ( >= 11.0), firmware (<<14.0)
 Conflicts: com.yourepo.ikghd.iksafari
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.iksafari_1.0.2_iphoneos-arm.deb
-Size: 55048
+Filename: .//debs/pro.ikghd.iksafari_1.0.3_iphoneos-arm.deb
+Size: 55058
 Installed-Size: 348
-MD5sum: 24c763e83ab986a14f28cd750a2e0aea
-SHA1: 623d5fac452c68fa6dc0afad45906ef90603a4a7
-SHA256: 1b98bdab3db952cece0516c74d8ac243bcace01012e03cb05b5055be4f56f64e
+MD5sum: cd069599acdfe3e2b28bd217af510cc6
+SHA1: 12676b2a4ce6d7833bdadbe198fe957c8857b438
+SHA256: 9657e4700a33350ae35db8fc418fa126799cf7e5436ca5640b75d5ddad79c4dc
 Description: Safari Features !
 Name: iKSafari
 Author: iKarwan <ikg_hd@bk.ru>
