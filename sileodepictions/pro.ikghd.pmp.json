@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- improvements & enhancements",
+                                "markdown":"- fixes access to photos on inside camera for ios14",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -89,12 +89,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.1",
+               "text":"1.0.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Mar 1, 2021",
+               "text":"Apr 23, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -151,6 +151,18 @@
          "tabname":"Changelog",
          "views":[
 
+           {
+               "title":"Version 1.0.2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- fixes access to photos on inside camera for ios14",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
          {
              "title":"Version 1.0.1",
              "useBoldText":true,
@@ -158,7 +170,7 @@
              "class":"DepictionSubheaderView"
          },
          {
-            "markdown":"- improve the code\n- clean up",
+            "markdown":"- improve the code \n- clean up",
              "useSpacing":true,
              "class":"DepictionMarkdownView"
          },
