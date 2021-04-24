@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- fixes access to photos on inside camera for ios14",
+                                "markdown":"- fixes access to photos inside camera for ios14",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -158,7 +158,7 @@
                "class":"DepictionSubheaderView"
            },
            {
-              "markdown":"- fixes access to photos on inside camera for ios14",
+              "markdown":"- fixes access to photos inside camera for ios14",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
