@@ -3,6 +3,7 @@
 		<version>2.0.0-6</version>
 		<change>・improve filter between apps &amp; system hooks</change>
 		<change>・add hide Upload (+) Tab (YouTube)</change>
+	</changes>
 	<changes>
 		<version>2.0.0</version>
 		<change>・add app apearance dark &amp; light</change>
