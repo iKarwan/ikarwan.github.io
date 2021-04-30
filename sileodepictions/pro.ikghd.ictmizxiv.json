@@ -288,7 +288,7 @@
                             },
 
                             {
-                                "markdown":"- change apply settings in (Settings) to new modern apply\n- add filter between apps and system hooks",
+                                "markdown":"- add hide Upload (+) Tab (YouTube)\n- improve filter between apps & system hooks",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -304,12 +304,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.0-5",
+               "text":"2.0.0-6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 22, 2021",
+               "text":"Apr 30, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -372,7 +372,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 2.0.0-5",
+               "title":"Version 2.0.0-6",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -381,7 +381,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- changelog in settings\n- bug fixes & enhancements",
+               "markdown":"- add hide Upload (+) Tab (YouTube)\n- improve filter between apps & system hooks",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
