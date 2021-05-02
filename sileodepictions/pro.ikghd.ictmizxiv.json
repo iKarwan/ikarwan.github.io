@@ -288,7 +288,7 @@
                             },
 
                             {
-                                "markdown":"- add hide Upload (+) Tab (YouTube)\n- improve filter between apps & system hooks",
+                                "markdown":"- add coloring for settings almost every corner\n- fix Date & Time alignment in landscape mode",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -304,12 +304,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.0-6",
+               "text":"2.0.0-7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 30, 2021",
+               "text":"May 2, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -372,7 +372,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 2.0.0-6",
+               "title":"Version 2.0.0-7",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -381,21 +381,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- add hide Upload (+) Tab (YouTube)\n- improve filter between apps & system hooks",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 2.0.0-4",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- add use circle Icon\n- add hide arrow sign\n- bug fixes & enhancements",
+               "markdown":"- add coloring for settings almost every corner\n- fix Date & Time alignment in landscape mode\n- fix enabled UiButton grayed out when enabling or disabling it\n- other bug fixes & improvements",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

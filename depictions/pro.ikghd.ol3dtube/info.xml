@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ol3dtube</id>
     <name>OL3DTube</name>
-    <version>1.1.3</version>
+    <version>1.1.4</version>
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
@@ -70,7 +70,7 @@
     </screenshots>
 
     <changelog>
-  		<change>・improvemnts &amp; enhancements</change>
+      <change>・generral clean up &amp; bug fixes</change>
     </changelog>
 
     <links></links>

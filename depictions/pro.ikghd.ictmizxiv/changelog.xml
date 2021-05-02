@@ -1,8 +1,10 @@
 <changelog>
 	<changes>
-		<version>2.0.0-6</version>
-		<change>・improve filter between apps &amp; system hooks</change>
-		<change>・add hide Upload (+) Tab (YouTube)</change>
+		<version>2.0.0-7</version>
+		<change>・add coloring for settings almost every corner</change>
+		<change>・fix Date &amp; Time alignment in landscape mode</change>
+		<change>・fix enabled UiButton grayed out when enabling or disabling it</change>
+		<change>・other bug fixes &amp; improvements</change>
 	</changes>
 	<changes>
 		<version>2.0.0</version>
