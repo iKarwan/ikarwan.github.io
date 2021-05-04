@@ -287,12 +287,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0-1",
+               "text":"1.1.0-2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 2, 2021",
+               "text":"May 4, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -353,13 +353,13 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.0-1",
+               "title":"Version 1.1.0-2",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
            },
            {
-               "markdown":"- general cleanup & fixes",
+               "markdown":"- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

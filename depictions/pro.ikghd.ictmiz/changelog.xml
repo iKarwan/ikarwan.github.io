@@ -1,6 +1,7 @@
 <changelog>
 	<changes>
-		<version>1.2.0-8</version>
+		<version>1.2.0-9</version>
+		<change>・add latest procursus bootstrap compatibility</change>
 		<change>・fix an issue related to color recent tab (Phone) !reported</change>
 </changes>
 	<changes>

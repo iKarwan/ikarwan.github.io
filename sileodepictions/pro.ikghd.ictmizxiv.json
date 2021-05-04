@@ -304,7 +304,7 @@
             },
             {
                "title":"Version",
-               "text":"2.0.0-8",
+               "text":"2.0.0-9",
                "class":"DepictionTableTextView"
             },
             {
@@ -372,7 +372,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 2.0.0-8",
+               "title":"Version 2.0.0-9",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -381,7 +381,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- add show exact time (Phone)\n- fix an issue related to color recent tab (Phone) !reported",
+               "markdown":"- add latest procursus bootstrap compatibility\n- add show exact time (Phone)\n- fix an issue related to color recent tab (Phone) !reported",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
