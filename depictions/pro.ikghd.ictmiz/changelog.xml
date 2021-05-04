@@ -1,10 +1,7 @@
 <changelog>
 	<changes>
-		<version>1.2.0-7</version>
-		<change>・improve filter between apps and system hooks</change>
-		<change>・add hide upload (+) tab (YouTube)</change>
-		<change>・fix enabled UiButton grayed out when enabling or disabling it</change>
-		<change>・other bug fixes</change>
+		<version>1.2.0-8</version>
+		<change>・fix an issue related to color recent tab (Phone) !reported</change>
 </changes>
 	<changes>
 		<version>1.2.0</version>

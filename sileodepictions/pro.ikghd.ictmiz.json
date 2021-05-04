@@ -320,12 +320,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0-7",
+               "text":"1.2.0-8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 2, 2021",
+               "text":"May 4, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -388,7 +388,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.2.0-7",
+               "title":"Version 1.2.0-8",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -397,7 +397,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- improve filter between apps and system hooks\n- add hide upload (+) tab (YouTube)\n- fix enabled UiButton grayed out when enabling or disabling it\n- other bug fixes",
+               "markdown":"- fix an issue related to color recent tab (Phone) !reported",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
