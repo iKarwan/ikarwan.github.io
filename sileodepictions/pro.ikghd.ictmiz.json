@@ -397,7 +397,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- change the apply button ! in apps only ! to be applied with in Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- fix an issue related to color recent tab (Phone) !reported",
+               "markdown":"- change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- fix an issue related to color recent tab (Phone) !reported",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

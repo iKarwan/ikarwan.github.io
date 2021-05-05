@@ -359,7 +359,7 @@
                "class":"DepictionSubheaderView"
            },
            {
-               "markdown":"- change the apply button to be applied with in Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
+               "markdown":"- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

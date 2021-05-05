@@ -211,7 +211,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-             "markdown":"- change the apply button to be applied with in Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- generral clean up & bug fixes",
+             "markdown":"- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- generral clean up & bug fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
