@@ -196,6 +196,26 @@ Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ol3dtube
 SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ol3dtube.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ol3dtube.png
 
+Package: pro.ikghd.ol3dtube
+Version: 1.1.5
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 10.0), com.spark.libsparkcolourpicker
+Conflicts: com.yourepo.ikghd.ol3dtube
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ol3dtube_1.1.5_iphoneos-arm.deb
+Size: 85320
+Installed-Size: 460
+MD5sum: c3ec27f1c5a8e62ab5006a3564536303
+SHA1: ea4a84d970c28fe9eab404a864aaba6d86a205de
+SHA256: 793c6ac0bdb6f5de1c1e7c5be84de1e392346f5abb2c72ccbcbc0d02ced59ede
+Description: Ol3d Dark Mode For YouTube!
+Name: OL3DTube
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ol3dtube
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ol3dtube.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ol3dtube.png
+
 Package: pro.ikghd.pmp
 Version: 1.0.2
 Section: Tweaks
