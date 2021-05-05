@@ -320,12 +320,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0-9",
+               "text":"1.2.0-10",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 4, 2021",
+               "text":"May 5, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -388,7 +388,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.2.0-9",
+               "title":"Version 1.2.0-10",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -397,7 +397,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- add latest procursus bootstrap compatibility\n- fix an issue related to color recent tab (Phone) !reported",
+               "markdown":"- change the apply button ! in apps only ! to be applied with in Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- fix an issue related to color recent tab (Phone) !reported",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

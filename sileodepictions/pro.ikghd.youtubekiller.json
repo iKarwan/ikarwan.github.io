@@ -287,12 +287,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0-2",
+               "text":"1.1.0-3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 4, 2021",
+               "text":"May 5, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -353,13 +353,13 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.0-2",
+               "title":"Version 1.1.0-3",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
            },
            {
-               "markdown":"- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
+               "markdown":"- change the apply button to be applied with in Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
