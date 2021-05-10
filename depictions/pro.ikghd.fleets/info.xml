@@ -1,11 +1,11 @@
 <package>
    <id>pro.ikghd.fleets</id>
     <name>HideFleets</name>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
-            <maxiOS>14.0</maxiOS>
+            <maxiOS>higher</maxiOS>
         </firmware>
     </compatibility>
 
@@ -29,7 +29,7 @@
     </screenshots>
 
     <changelog>
-      <change>・improvements &amp; enhancements</change>
+      <change>improve &amp; enhancement</change>
     </changelog>
 
     <links></links>
