@@ -40,14 +40,14 @@ Package: pro.ikghd.ictmiz
 Version: 1.2.0-10
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), firmware (<<=14.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), firmware (<<14.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ictmiz_1.2.0-10_iphoneos-arm.deb
-Size: 609036
+Size: 609192
 Installed-Size: 3112
-MD5sum: e0e02dcfd7f44550e74055f48de6a5c2
-SHA1: ac5b57a2cda3d3f9ea162166bfbbd299756c7e5f
-SHA256: 99e53e44250f1fc96c3059cd7226fd5665bf6eb8aad20d9fc2eea39f941d5370
+MD5sum: 8668b754267d9524248f1cbe2d528e4e
+SHA1: 5fdf697a86e76da78f8db89e8e3f033692d3a1d9
+SHA256: 7fbb944833ef5ab29753e31bc4c55e5274aaabcd8c85317d1b833bc3bda900f6
 Description: i Customize Not U appl !...
 Name: iCTMiZ Pro
 Author: iKarwan <ikg_hd@bk.ru>
