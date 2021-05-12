@@ -1,11 +1,11 @@
 <package>
    <id>pro.ikghd.ictmizxiv</id>
     <name>iCTMiZ XiV</name>
-    <version>2.0.0-10</version>
+    <version>2.0.1</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
-            <maxiOS>14.5</maxiOS>
+            <maxiOS>higher</maxiOS>
         </firmware>
     </compatibility>
 

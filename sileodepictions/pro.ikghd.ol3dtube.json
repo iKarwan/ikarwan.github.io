@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5-1",
+               "text":"1.1.5-2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 5, 2021",
+               "text":"May 12, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -151,7 +151,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 10.0 - 14.5",
+               "text":"iOS 10.0 - higher",
                "class":"DepictionTableTextView"
             },
             {
@@ -201,6 +201,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.1.5-2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+             "markdown":"- improve & enhancement",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.1.5-1",
                "useBoldText":true,

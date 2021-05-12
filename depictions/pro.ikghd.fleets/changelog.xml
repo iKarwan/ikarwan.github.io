@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.3</version>
+		<change>・improve &amp; enhancement</change>
+	</changes>
+	<changes>
 		<version>0.0.2</version>
 		<change>・improve the code</change>
 		<change>・clean up</change>

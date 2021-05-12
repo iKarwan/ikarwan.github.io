@@ -1,11 +1,11 @@
 <package>
    <id>pro.ikghd.ictmizlite</id>
     <name>iCTMiZLite</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
-            <maxiOS>14.0</maxiOS>
+            <maxiOS>higher</maxiOS>
         </firmware>
     </compatibility>
 
@@ -35,7 +35,7 @@
     </screenshots>
 
     <changelog>
-      <change>・improvements &amp; enhancements</change>
+      <change>・improve &amp; enhancement</change>
     </changelog>
 
     <links></links>

@@ -1,8 +1,9 @@
 <changelog>
 	<changes>
-		<version>2.0.0-10</version>
+		<version>2.0.1</version>
 		<change>・change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons</change>
 		<change>・add latest procursus bootstrap compatibility</change>
+		<change>・add new (+) Tab (Safai)</change>
 		<change>・add show exact time (Phone)</change>
 		<change>・fix an issue related to color recent tab (Phone) !reported</change>
 	</changes>

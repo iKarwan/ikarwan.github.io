@@ -95,12 +95,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.3",
+               "text":"1.0.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 22, 2021",
+               "text":"May 12, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -155,6 +155,17 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.0.4",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- improve & enhancement",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.0.3",
                "useBoldText":true,

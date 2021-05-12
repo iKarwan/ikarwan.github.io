@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.5</version>
+		<change>・improve &amp; enhancement</change>
+	</changes>
+	<changes>
 		<version>1.0.4</version>
 		<change>・fixes hiding apply button on light mode</change>
 	</changes>
