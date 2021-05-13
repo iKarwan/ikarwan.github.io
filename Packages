@@ -204,11 +204,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Conflicts: com.yourepo.ikghd.ol3dtube
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ol3dtube_1.1.5-3_iphoneos-arm.deb
-Size: 85076
+Size: 85080
 Installed-Size: 456
-MD5sum: 1569a61dee7c41f59453367a454107c1
-SHA1: 689f006e573761615939c7ea119d0a06e112a5bb
-SHA256: 33db76cf339c945ca6e86c2a07a0c1c0d420a816f0f1236c54e5c72bda6848cb
+MD5sum: 943ec8fed9f343d24839af140327f327
+SHA1: 9341520885d3ce403bd26afa22083328fb864e80
+SHA256: f2106637ac35d97c58b0ea224b8263e31ff89539f178ec9084c840de74bd85c1
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikg_hd@bk.ru>
