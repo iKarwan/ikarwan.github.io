@@ -362,7 +362,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- add revert old quality selection (Strem)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
+               "markdown":"- add revert old quality selection (Streaming)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

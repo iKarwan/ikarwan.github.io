@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
 		<version>1.1.0-7</version>
-		<change>・add revert old quality selection (Strem)</change>
+		<change>・add revert old quality selection (Streaming)</change>
 		<change>・fix a bug may cause the tweak not work for some users</change>
 		<change>・forgotton: change sparkcolorpicker to HB alderis color picker</change>
 		<change>・change the apply button to be applied with in features Enabled/Disabled buttons</change>
