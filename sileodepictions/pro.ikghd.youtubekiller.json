@@ -287,12 +287,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0-6",
+               "text":"1.1.0-7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 14, 2021",
+               "text":"May 19, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -353,7 +353,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.0-6",
+               "title":"Version 1.1.0-7",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -362,7 +362,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
+               "markdown":"- add revert old quality selection (Strem)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
