@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ictmizxiv</id>
     <name>iCTMiZ XiV</name>
-    <version>2.0.1</version>
+    <version>2.0.1-1</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -133,8 +133,7 @@
       </screenshots>
 
     <changelog>
-      <change>・add coloring for settings almost every corner</change>
-      <change>・fix Date &amp; Time alignment in landscape mode</change>
+      <change>transition from libsparkcolorpicker to HB alderis</change>
     </changelog>
 
     <links></links>

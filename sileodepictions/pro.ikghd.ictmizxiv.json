@@ -288,7 +288,7 @@
                             },
 
                             {
-                                "markdown":"- add coloring for settings almost every corner\n- fix Date & Time alignment in landscape mode",
+                                "markdown":"- transition from libsparkcolorpicker to HB alderis",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -304,12 +304,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.1",
+               "text":"2.0.1-1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 12, 2021",
+               "text":"May 27, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -372,7 +372,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 2.0.1",
+               "title":"Version 2.0.1-1",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -381,7 +381,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- add latest procursus bootstrap compatibility\n- add new (+) Tab (Safai)\n- add show exact time (Phone)\n- fix an issue related to color recent tab (Phone) !reported\n- other fixes & improvemnts",
+               "markdown":"- transition from libsparkcolorpicker to HB alderis\n- other optimization\n- change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- add latest procursus bootstrap compatibility\n- add new (+) Tab (Safai)\n- add show exact time (Phone)\n- fix an issue related to color recent tab (Phone) !reported\n- other fixes & improvemnts",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
