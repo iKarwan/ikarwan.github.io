@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.1.0-10</version>
+		<version>1.1.0-11</version>
 		<change>・bug fixes &amp; optimization</change>
 		<change>・add PiP feature (Streaming)</change>
 		<change>・fix revert old quality selection causing the app to crash</change>
