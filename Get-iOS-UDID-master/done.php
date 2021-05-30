@@ -72,6 +72,6 @@ $iterator++;
 
 $params = "UDID=".$UDID."&CHALLENGE=".$CHALLENGE."&DEVICE_NAME=".$DEVICE_NAME."&DEVICE_PRODUCT=".$DEVICE_PRODUCT."&DEVICE_VERSION=".$DEVICE_VERSION;
 
-header('Location: https://YOUR-DOMAIN.com/YOUR-PATH/complete?'.$params);
+header('Location: https://repo.ikghd.me/complete?'.$params);
 
 ?>
