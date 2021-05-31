@@ -304,12 +304,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.1-1",
+               "text":"2.0.1-2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 27, 2021",
+               "text":"June 1, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -372,7 +372,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 2.0.1-1",
+               "title":"Version 2.0.1-2",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -381,7 +381,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- transition from libsparkcolorpicker to HB alderis\n- other optimization\n- change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- add latest procursus bootstrap compatibility\n- add new (+) Tab (Safai)\n- add show exact time (Phone)\n- fix an issue related to color recent tab (Phone) !reported\n- other fixes & improvemnts",
+               "markdown":"- add disable pasted from..(SystemWide)\n- transition from libsparkcolorpicker to HB alderis\n- other optimization\n- change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- add latest procursus bootstrap compatibility\n- add new (+) Tab (Safai)\n- add show exact time (Phone)\n- fix an issue related to color recent tab (Phone) !reported\n- other fixes & improvemnts",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
