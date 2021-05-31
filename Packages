@@ -260,14 +260,14 @@ Version: 1.1.0-8
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis
-Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.twickd.sarahh12099.youtube-reborn, prasa.youtubeplus, com.yourepo.ikghd.adb, com.appweleux.repo.adblockxi, com.trappledestek.adblockplus, ru.rejail.adblockplus, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
+Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.twickd.sarahh12099.youtube-reborn, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.0-8_iphoneos-arm.deb
-Size: 570684
-Installed-Size: 1244
-MD5sum: 6088a4efd4c8ca642e8b438922376f7e
-SHA1: 36940b22e98f5505fac55bd9c865065b3e4b8791
-SHA256: 886cf9e89a40b69ed3a9b1099316ddfae8d2d8fd57b0f37922070c577dc3932d
+Size: 580936
+Installed-Size: 1292
+MD5sum: 15301e75146497a620f003345ca8e92d
+SHA1: e6f9fdec10d061938d0f85825419262a6c19c529
+SHA256: 12d252c4b959305d6177586904a1daf9ae6679e0b1753a1462c6b727c7ee0b84
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
