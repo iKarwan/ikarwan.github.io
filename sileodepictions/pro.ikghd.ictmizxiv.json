@@ -243,7 +243,7 @@
             },
 
             {
-              "title":"buy $1.00: الشــراء",
+              "title":"buy $1.99: الشــراء",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/checkout2",
                "class":"DepictionTableButtonView"
