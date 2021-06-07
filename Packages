@@ -84,11 +84,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Conflicts: com.yourepo.ikghd.ictmiz
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ictmizlite_1.0.2_iphoneos-arm.deb
-Size: 59072
+Size: 59088
 Installed-Size: 536
-MD5sum: 3c4cdb5eaa5cc6d5f30d9b8b24413522
-SHA1: 737e1de6936218ab480b854e1fdbe21ea55ed4c7
-SHA256: e0aae84c961a90a59e40b7551df9b450ec59b552b6b7a3000f583b6b266ac5f3
+MD5sum: 7e88983b7dbea7cc8f091df76aef383c
+SHA1: 3794807ddf1a6140f4f5307432522eef2f6ece59
+SHA256: a56bf8b61de38e353784e230b02561e066a39a94f60137f063112eb6360da1ea
 Description: SystemWide Customization !
 Name: iCTMiZLite
 Author: iKarwan <ikg_hd@bk.ru>
