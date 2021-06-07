@@ -10,7 +10,7 @@
     </compatibility>
 
     <descriptionlist>
-        <description>"libkdev" iNstaKiller lib,</description>
+        <description>"libkdev" library to communication with tweaks,</description>
         <!--
         <longdescription><![CDATA[
           <br>Main Options:
@@ -20,7 +20,7 @@
         ]]></longdescription> -->
     </descriptionlist>
 
-<!--
+
     <screenshots>
         <screenshot>
             <image>1.PNG</image>
@@ -29,7 +29,7 @@
             <image>2.PNG</image>
         </screenshot>
     </screenshots>
--->
+
     <changelog>
       <change>・Initial</change>
     </changelog>

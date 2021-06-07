@@ -15,7 +15,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "iNstaKiller lib,",
+                    "markdown": "library to communication with tweaks",
                     "useSpacing": true
                 },
                 {
@@ -33,7 +33,40 @@
                     "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView"
                 },
-
+                {
+                    "title": "markdown-description",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "markdown": "\"libkdev\" library to communication with tweaks,",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.0.0",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Updated",
+                    "text": "Jun 7, 2021",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "iKarwan",
+                    "class": "DepictionTableTextView"
+                },
                 {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
