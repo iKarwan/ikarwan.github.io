@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+  <title>iNstaKiller</title>
+  <!--<link rel="shortcut icon" type="image/ico" href="assets/ytk.png">-->
+  <link rel="shortcut icon" type="image/ico" href="assets/instak.png">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet">
+  <link href="./iNstaKiller_files /css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="./iNstaKiller_files /style.css">
+  <!-- <script src="./checkout_files/toast.min.js"></script>
+<script src="./checkout_files/pptm.js" id="xo-pptm" async=""></script><script type="text/javascript" async="" src="./checkout_files/muse.js"></script></head>
+-->
+<body>
+  <!--  <script src="./checkout_files/js" data-uid-auto="f0ad849c86_mdm6mdk6mjk">
+</script> -->
+
+  <div id="wrapper">
+    <span id="display-name">iNstaKiller</span>
+    <hr>
+  <!--  <span id="display-name">50% off now - تخفيض ٥٠٪ الان</span>
+    <hr>
+    <span id="description">New YouTube Experience!</span>
+    <hr> -->
+    <span id="description">after purchase Copy  your UDID:  <a href = "mailto: insta-killer@bk.ru?cc=&subject=iNstaKiller&body=Paste Your UDID down below::">Send UDID</a></span>
+    <hr>
+    <span id="description">بعد الشراء انسخ الــ UDID وابعتها للـــ <a href = "mailto: insta-killer@bk.ru?cc=&subject=iNstaKiller&body=الصـق ال UDID بالاسفل::">ارسل الـ UDID</a></span>
+    <hr>
+
+    <img id="checkout-image" src="./iNstaKiller_files /icon.png" "="">
+
+    <div id="smart-button-container">
+          <div style="text-align: center;">
+            <div id="paypal-button-container"></div>
+          </div>
+        </div>
+      <script src="https://www.paypal.com/sdk/js?client-id=ARZIohbkN56emoALxd0EMSwA-A84n1GcI7Vj9nI9grO50nZIyT1yaMUxUm1r9-IV8knEZbcPolvXPhA0&currency=USD" data-sdk-integration-source="button-factory"></script>
+      <script>
+        function initPayPalButton() {
+          paypal.Buttons({
+            style: {
+              shape: 'rect',
+              color: 'gold',
+              layout: 'vertical',
+              label: 'paypal',
+
+            },
+
+            createOrder: function(data, actions) {
+              return actions.order.create({
+                purchase_units: [{"description":"New Instagram Experiance !","amount":{"currency_code":"USD","value":1}}]
+              });
+            },
+
+            onApprove: function(data, actions) {
+              return actions.order.capture().then(function(details) {
+                alert('Transaction completed by ' + details.payer.name.given_name + '!');
+              });
+            },
+
+            onError: function(err) {
+              console.log(err);
+            }
+          }).render('#paypal-button-container');
+        }
+        initPayPalButton();
+      </script>
+</body></html>

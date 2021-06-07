@@ -1,0 +1,19 @@
+<changelog>
+	<changes>
+		<version>1.0.3</version>
+		<change>・improve &amp; enhancement</change>
+	</changes>
+	<changes>
+		<version>1.0.2</version>
+		<change>・fixes access to photos inside camera for ios14</change>
+	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>・improve the code</change>
+		<change>・clean up</change>
+	</changes>
+	<changes>
+		<version>1.0.0</version>
+		<change>・new release</change>
+	</changes>
+</changelog>

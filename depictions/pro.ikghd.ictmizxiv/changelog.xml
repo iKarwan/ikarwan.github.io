@@ -1,7 +1,11 @@
 <changelog>
 	<changes>
-		<version>2.0.1-2</version>
+		<version>2.0.1-3</version>
 		<change>・add disable pasted from..(SystemWide)</change>
+		<change>・add Done button to text editor..</change>
+		<change>・add disable shutter sound..(Camera)</change>
+		<change>・add like &amp; tweet confirmation ?..(apps)</change>
+		<change>・add ipad Ui style..(YTKiller)</change>
 		<change>・transition from libsparkcolorpicker to HB alderis</change>
 		<change>・other optimization</change>
 		<change>・change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons</change>

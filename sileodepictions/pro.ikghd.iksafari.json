@@ -1,6 +1,6 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/Images/Banner2.jpg",
+   "headerImage":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/Images/Banner2.jpg",
    "tintColor":"#1273DE",
    "tabs":[
       {
@@ -12,19 +12,19 @@
                 "screenshots":[
                   {
                       "accessibilityText":"Screenshot",
-                      "url":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/1.PNG",
-                      "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/1.PNG"
+                      "url":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/1.PNG",
+                      "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/1.PNG"
                   },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/2.PNG",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/2.PNG"
+                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/2.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/2.PNG"
                     },
 
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.png",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.png"
+                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/3.png",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/3.png"
                     }
                 ],
                 "ipad":{
@@ -33,19 +33,19 @@
                     "screenshots":[
                       {
                           "accessibilityText":"Screenshot",
-                          "url":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/1.PNG",
-                          "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/1.PNG"
+                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/1.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/1.PNG"
                       },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/2.PNG",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/2.PNG"
+                            "url":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/2.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/2.PNG"
                         },
 
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.png",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iksafari/screenshots/3.png"
+                            "url":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/3.png",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iksafari/screenshots/3.png"
                         }
                     ],
                     "class":"DepictionScreenshotView"

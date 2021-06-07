@@ -1,6 +1,6 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/NO.jpeg",
+   "headerImage":"https://repo.ikghd.me/depictions/pro.ikghd.iastrid/screenshots/NO.jpeg",
    "tintColor":"#5300EB",
    "tabs":[
       {
@@ -12,8 +12,8 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg",
-                        "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg"
+                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.iastrid/screenshots/1.jpeg",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iastrid/screenshots/1.jpeg"
                     }
                 ],
                 "ipad":{
@@ -22,8 +22,8 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg",
-                            "fullSizeURL":"https://ikarwan.github.io/depictions/pro.ikghd.iastrid/screenshots/1.jpeg"
+                            "url":"https://repo.ikghd.me/depictions/pro.ikghd.iastrid/screenshots/1.jpeg",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iastrid/screenshots/1.jpeg"
                         }
                     ],
                     "class":"DepictionScreenshotView"
