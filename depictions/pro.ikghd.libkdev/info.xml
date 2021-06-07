@@ -25,14 +25,11 @@
         <screenshot>
             <image>1.PNG</image>
         </screenshot>
-        <screenshot>
-            <image>2.PNG</image>
-        </screenshot>
     </screenshots>
 
     <changelog>
       <change>・Initial</change>
     </changelog>
 
-    <links></links>
+  <!--  <links></links> -->
 </package>
