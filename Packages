@@ -198,18 +198,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksettings.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksettings.png
 
 Package: pro.ikghd.instakiller
-Version: 0.0.1
+Version: 0.0.2
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
-Conflicts: com.haoict.instanoads, prasa.instagramplus, insta.rhino
+Conflicts: com.lema.michael.rhino, com.haoict.instanoads, prasa.instagramplus
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.instakiller_0.0.1_iphoneos-arm.deb
-Size: 422556
+Filename: .//debs/pro.ikghd.instakiller_0.0.2_iphoneos-arm.deb
+Size: 423192
 Installed-Size: 1136
-MD5sum: eedd8d886191f0d650f0858ed6721841
-SHA1: 368cbe87bdd02c67be8eb2378160f9844f08665e
-SHA256: fc67c0f1b2d44d2e3d6909f6835922b1122fff96e8480c2e78defbe043d1291d
+MD5sum: beb50d168d308fce6c9ee812c2c88432
+SHA1: cba5da5dbdfc30c6498b785a757d187682a7aa69
+SHA256: 20a392cac24e8974f1b1a3fda6f9b9ebc02d63ac3baedbc3a7e8c8ce7abff84c
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikg_hd@bk.ru>
