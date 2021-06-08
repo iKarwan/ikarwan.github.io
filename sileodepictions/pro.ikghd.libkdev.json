@@ -37,7 +37,7 @@
                     "title": "markdown-description",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "markdown": "\"libkdev\" library to communication with tweaks,",
+                    "markdown": "\"libkdev\" library to communicate with tweaks,",
                     "class": "DepictionMarkdownView"
                 },
                 {
