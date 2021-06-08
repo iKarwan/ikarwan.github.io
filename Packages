@@ -221,13 +221,16 @@ Version: 1.0.0
 Section: System
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
+Conflicts: com.haoict.libhdev
+Provides: com.haoict.libhdev
+Replaces: com.haoict.libhdev
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.libkdev_1.0.0_iphoneos-arm.deb
 Size: 46936
-MD5sum: a65559b37aed3cb4d31f1a7f8d379987
-SHA1: e66a1d46d4137be19ce0f8e1a3ba9156505d3c6e
-SHA256: 3ff28e93f8dc4c6dc183befd7aebff63e7a90e3d581551b60788a37a0e2e3276
-Description: library to communication with tweaks .
+MD5sum: 7b28adbade3716d5f16391c606f958eb
+SHA1: 48af222b09ec6e31aded503a387c2c012772a7a7
+SHA256: cc2befb51f03f08516f7ff4a155006c950a42c6f06b14f649ba948e18ab4e803
+Description: library to communicate with tweaks .
 Name: libkdev
 Author: iKarwan <ikg_hd@bk.ru>
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.libkdev
