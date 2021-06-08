@@ -337,15 +337,15 @@ Package: pro.ikghd.youtubekiller
 Version: 1.1.0-15
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.twickd.sarahh12099.youtube-reborn, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.0-15_iphoneos-arm.deb
-Size: 1092466
+Size: 1092478
 Installed-Size: 2736
-MD5sum: e14edc38927bc6b021e8f45e284e97ab
-SHA1: 8e2ba71ea7b6dfc12553a12e40cdb39428aae3bd
-SHA256: 17fd72de1ca66009ec1891ea5180755def8bdfc42388271d3d0a2cad1cf4acf6
+MD5sum: c99cbec26b49053a2a62719d67f51770
+SHA1: 7926ad1c735224ff664d2d2116e345e86d794372
+SHA256: d2d4e6e2c6d197a70fb43d816c44049f6f6c0ad3808319e06ed9f92a90c97cb9
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
