@@ -271,7 +271,7 @@
                             },
 
                             {
-                                "markdown":"- change sparkcolorpicker to HB alderis color picker",
+                                "markdown":"- add downloading videos (BETA)! (Download section)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -362,7 +362,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- bug fixes & optimization\n- add PiP feature (Streaming)\n- fix revert old quality selection causing the app to crash\n- other improve & optimization\n\n- add revert old quality selection (Streaming)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
+               "markdown":"- add downloading videos (BETA)! (Download section)\n- bug fixes & optimization\n- add PiP feature (Streaming)\n- fix revert old quality selection causing the app to crash\n- other improve & optimization\n\n- add revert old quality selection (Streaming)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
