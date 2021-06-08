@@ -159,7 +159,7 @@
             },
             {
                "title":"Version",
-               "text":"0.0.1",
+               "text":"0.0.2",
                "class":"DepictionTableTextView"
             },
             {
@@ -225,6 +225,17 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 0.0.2",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+             "markdown":"- hopfully fix preferncebundle error on iOS 13",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
              {
                  "title":"Version 0.0.1",
