@@ -202,14 +202,14 @@ Version: 0.0.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
-Conflicts: prasa.instagramplus, me.alfhaily.rocket
+Conflicts: com.haoict.instanoads, prasa.instagramplus, insta.rhino
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.instakiller_0.0.1_iphoneos-arm.deb
-Size: 422548
+Size: 422556
 Installed-Size: 1136
-MD5sum: 66d3637afbd9ac1dd6c1aac39c6ce774
-SHA1: 9ec780046a9ee227f71cded0c934ebca140921b8
-SHA256: bba9c7e8a7ea6acdf9ec52a3d6e7bed488b9aea5252c94b223732cd3f01dc367
+MD5sum: eedd8d886191f0d650f0858ed6721841
+SHA1: 368cbe87bdd02c67be8eb2378160f9844f08665e
+SHA256: fc67c0f1b2d44d2e3d6909f6835922b1122fff96e8480c2e78defbe043d1291d
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikg_hd@bk.ru>
@@ -222,15 +222,14 @@ Version: 1.0.0
 Section: System
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
-Conflicts: com.haoict.libhdev
 Provides: com.haoict.libhdev
 Replaces: com.haoict.libhdev
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.libkdev_1.0.0_iphoneos-arm.deb
-Size: 46936
-MD5sum: 7b28adbade3716d5f16391c606f958eb
-SHA1: 48af222b09ec6e31aded503a387c2c012772a7a7
-SHA256: cc2befb51f03f08516f7ff4a155006c950a42c6f06b14f649ba948e18ab4e803
+Size: 46928
+MD5sum: 7bd6a943a9e169b52c6576496cc5cf73
+SHA1: 8e770d2d4bd035ea08219946acba6ffb97235526
+SHA256: 5b4e1b7771937a1e2550ff234b603ce0883ab1741e016821fb66eed80bcb57cc
 Description: library to communicate with tweaks .
 Name: libkdev
 Author: iKarwan <ikg_hd@bk.ru>
