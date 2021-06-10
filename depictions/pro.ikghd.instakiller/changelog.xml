@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>0.0.3</version>
+		<change>・add show unsend message (miscellaneous)</change>
+		<change>・add disable auto scroll (story)</change>
+		<change>・hopfully fix preferncebundle error on iOS 13</change>
+	</changes>
+	<changes>
 		<version>0.0.2</version>
 		<change>・hopfully fix preferncebundle error on iOS 13</change>
 	</changes>
