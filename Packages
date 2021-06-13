@@ -97,26 +97,6 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizlite.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizlite.png
 
 Package: pro.ikghd.ictmizxiv
-Version: 2.0.1-3
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), ws.hbang.alderis, com.spark.libsparkapplist
-Replaces: pro.ikghd.ictmiz
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmizxiv_2.0.1-3_iphoneos-arm.deb
-Size: 439124
-Installed-Size: 3536
-MD5sum: 3171cdf5dcdd73ab8559be32b919a5b0
-SHA1: 6c60115dd810eb1e454b71534ed33864eed8ea35
-SHA256: 844250d409ba60af2ff2a953bdec63362854ec0c3479ef585fd39a9113a0a13e
-Description: i Customize Not U appl !...
-Name: iCTMiZ XiV
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizxiv
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizxiv.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizxiv.png
-
-Package: pro.ikghd.ictmizxiv
 Version: 2.0.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
@@ -128,6 +108,26 @@ Installed-Size: 2824
 MD5sum: 320ea121b7e6fa186912397a3f905a7e
 SHA1: d6f416ca32e1d20979b9002162ef397f1752c221
 SHA256: f2f32ca790de152b0b5b639252705ddf7cd60bd3b174a3ae143fb4b43579c3de
+Description: i Customize Not U appl !...
+Name: iCTMiZ XiV
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizxiv
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizxiv.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizxiv.png
+
+Package: pro.ikghd.ictmizxiv
+Version: 2.0.1-4
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), ws.hbang.alderis, com.spark.libsparkapplist
+Replaces: pro.ikghd.ictmiz
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmizxiv_2.0.1-4_iphoneos-arm.deb
+Size: 447652
+Installed-Size: 3572
+MD5sum: 486f681a30ef06ed782888f97d9a3dc0
+SHA1: bea895ac7a5f5cd808f1397fd6aaf0f5490d2df4
+SHA256: 57600199a4231ea517b2f58dcc9a29659ee5974c803654d47917b36427d922cd
 Description: i Customize Not U appl !...
 Name: iCTMiZ XiV
 Author: iKarwan <ikg_hd@bk.ru>
@@ -198,37 +198,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksettings.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksettings.png
 
 Package: pro.ikghd.instakiller
-Version: 0.0.2
+Version: 0.0.4
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
-Conflicts: com.lema.michael.rhino, com.haoict.instanoads, prasa.instagramplus
+Conflicts: com.lema.michael.rhino, com.haoict.instanoads, com.unliapps.gramplus, prasa.instagramplus, net.limneos.instaonlinemonitor
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.instakiller_0.0.2_iphoneos-arm.deb
-Size: 423192
-Installed-Size: 1136
-MD5sum: beb50d168d308fce6c9ee812c2c88432
-SHA1: cba5da5dbdfc30c6498b785a757d187682a7aa69
-SHA256: 20a392cac24e8974f1b1a3fda6f9b9ebc02d63ac3baedbc3a7e8c8ce7abff84c
-Description: iNstagram app no ad’s Media Downloads and much more...
-Name: iNstaKiller
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.instakiller
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.instakiller.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.instakiller.png
-
-Package: pro.ikghd.instakiller
-Version: 0.0.3
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.instakiller_0.0.3_iphoneos-arm.deb
-Size: 428824
+Filename: .//debs/pro.ikghd.instakiller_0.0.4_iphoneos-arm.deb
+Size: 428532
 Installed-Size: 1168
-MD5sum: c927d3d7fb4a0a69137c3c5e764fe70d
-SHA1: 92dc1405d8bfa45a36ccb3f2e2ed39e8b1705819
-SHA256: b0b7ead1ca9038a289cf6792c407033b3310bdacd06103dc03631131588143fd
+MD5sum: b5257e51d7be8c41d672b54d9aa1f3a3
+SHA1: 2c3cf36fff10d40258c6d0060b7dc25799744f7b
+SHA256: ff1835dc8d2f297f9d8b68c4051e5cc735723200b96bed2dddffd7fb9bba39ce
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikg_hd@bk.ru>

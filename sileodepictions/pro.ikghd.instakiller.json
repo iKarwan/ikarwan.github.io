@@ -159,12 +159,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.3",
+               "text":"0.0.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 10, 2021",
+               "text":"Jun 13, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -226,10 +226,24 @@
          "tabname":"Changelog",
          "views":[
            {
+               "title":"Version 0.0.4",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+             "markdown":"- optimization",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+           {
                "title":"Version 0.0.3",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
            },
            {
              "markdown":"- add show unsend message (miscellaneous)\n- add disable auto scroll (story)\n- hopfully fix preferncebundle error on iOS 13",
@@ -243,6 +257,9 @@
                "class":"DepictionSubheaderView"
            },
            {
+              "class":"DepictionSeparatorView"
+           },
+           {
              "markdown":"- hopfully fix preferncebundle error on iOS 13",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
@@ -253,6 +270,9 @@
                  "useBoldText":true,
                  "useBottomMargin":false,
                  "class":"DepictionSubheaderView"
+             },
+             {
+                "class":"DepictionSeparatorView"
              },
              {
                "markdown":"- Initial Release",
