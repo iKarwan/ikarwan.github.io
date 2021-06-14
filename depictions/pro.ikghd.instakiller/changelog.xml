@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.5</version>
+		<change>・fix story URL issue</change>
+	</changes>
+	<changes>
 		<version>0.0.4</version>
 		<change>・optimization</change>
 	</changes>

@@ -159,12 +159,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.4",
+               "text":"0.0.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 13, 2021",
+               "text":"Jun 14, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -226,10 +226,27 @@
          "tabname":"Changelog",
          "views":[
            {
+               "title":"Version 0.0.5",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+             "markdown":"- fix story URL issue",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+           {
                "title":"Version 0.0.4",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
            },
            {
              "markdown":"- optimization",
