@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5-4",
+               "text":"1.1.5-5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 14, 2021",
+               "text":"Jun 20, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -202,7 +202,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.5-4",
+               "title":"Version 1.1.5-5",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -211,7 +211,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-             "markdown":"- forgotton: change sparkcolorpicker to HB alderis color picker\n- improve & enhancement\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- generral clean up & bug fixes",
+             "markdown":"- fix an issue with alderis colorpicker\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- improve & enhancement\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- generral clean up & bug fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
