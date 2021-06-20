@@ -246,9 +246,9 @@ Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ol3dtube_1.1.5-4_iphoneos-arm.deb
 Size: 80848
 Installed-Size: 540
-MD5sum: 8540e23c16945faf67e2e3ed56864cd3
-SHA1: c19885de80cdf2bbaa7072b85a62c598439d66a1
-SHA256: 205ae65c5a73a5dc1015f4660227e306969dbdc843fba8987e245364f95d22b7
+MD5sum: 0d35371e1572a7c14d33e98bf02e0633
+SHA1: d2543f2e54763f226f9d4bc43a7399d234b52150
+SHA256: d8f1a54ff30dcda39e15711935a2312e260ceb3ad4199f87540538c1895e6c11
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikg_hd@bk.ru>
@@ -284,11 +284,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.twickd.sarahh12099.youtube-reborn, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.0-18_iphoneos-arm.deb
-Size: 726024
+Size: 724716
 Installed-Size: 2888
-MD5sum: e8d8b0ac832ea7f815099eaf42c71934
-SHA1: 84ebcf15640314d3b158160b91e47fd69492a332
-SHA256: 5b7f66eba76a6a671dcc7a4f72624a12cc86925c49f21b573181a691643874be
+MD5sum: 389bf1d6dec1dcf5d75d7fa01c248ac0
+SHA1: 54382fff3f01c1a652e8062252706f3e699d3df3
+SHA256: 73e1567fc69806fe3f57bbfc710e73baa671258362fde48410bb88e2b983c37b
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
