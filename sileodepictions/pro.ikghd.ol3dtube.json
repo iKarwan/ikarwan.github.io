@@ -102,10 +102,10 @@
             },
 
             {
-                "markdown": "if u purchased this tweak you will Get YoutubeKiller for $1.00\r\n\u0627\u0630\u0627 \u0643\u0646\u062a \u0634\u0627\u0631\u064a \u0647\u0630\u0627\u0644\u0627\u062f\u0627\u0629 \u062a\u062d\u0635\u0644 \u0639\u0644\u0649 \u0627\u0644\u060c youtubeKiller \u0628\u0640 $1.00",
-                "useBottomMargin": false,
                 "title": "markdown-description",
                 "useBoldText": true,
+                "useBottomMargin": false,
+                "markdown": "          \r\n\u00b7 if u purchased this tweak on yourepo before you can get YoutubeKiller for $1.00\r\n            \r\nMain Options:\r\n\u00b7 Oled dark mode\r\n\u00b7 hide advertisment\r\n\u00b7 hide upload(+) tab\r\n\u00b7 play in background\r\n\u00b7 custom color\r\n      \t\t",
                 "class": "DepictionMarkdownView"
             },
 
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5-5",
+               "text":"1.1.5-6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 20, 2021",
+               "text":"Jun 23, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -202,7 +202,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.5-5",
+               "title":"Version 1.1.5-6",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
