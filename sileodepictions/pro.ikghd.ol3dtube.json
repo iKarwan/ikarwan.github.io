@@ -41,6 +41,11 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/pro.ikghd.ol3dtube/screenshots/6.png",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.ol3dtube/screenshots/6.png"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.ol3dtube/screenshots/7.png",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.ol3dtube/screenshots/7.png"
                     }
                 ],
                 "ipad":{
@@ -77,7 +82,12 @@
                             "accessibilityText":"Screenshot",
                             "url":"https://repo.ikghd.me/depictions/pro.ikghd.ol3dtube/screenshots/6.png",
                             "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.ol3dtube/screenshots/6.png"
-                        }
+                       },
+                       {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.ol3dtube/screenshots/7.png",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.ol3dtube/screenshots/7.png"
+                       }
                     ],
                     "class":"DepictionScreenshotView"
                 },
