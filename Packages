@@ -238,17 +238,17 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.libkdev.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.libkdev.png
 
 Package: pro.ikghd.ol3dtube
-Version: 1.1.5-6
+Version: 1.1.5-7
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ol3dtube_1.1.5-6_iphoneos-arm.deb
-Size: 87834
+Filename: .//debs/pro.ikghd.ol3dtube_1.1.5-7_iphoneos-arm.deb
+Size: 88256
 Installed-Size: 604
-MD5sum: 2580ac86887c2e4b9447b1f4b22b4b92
-SHA1: fa8ad9d85c9ae220148c964e1ea28b2e1fcc3de1
-SHA256: defcbc8df82d96cc0b9a57bc8dfc335bbc03fd02997788b0309ca51cbe022de3
+MD5sum: 5e602c305b6041ce5fc15efa1e7bf0c3
+SHA1: d509f3de216c161ffe2502a6f47f0eee9c23f876
+SHA256: 3f6ed66019109812281fb66370834a6e6c7cbb1d1d7328816497b573363047bc
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikg_hd@bk.ru>
@@ -277,18 +277,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.pmp.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.pmp.png
 
 Package: pro.ikghd.youtubekiller
-Version: 1.1.0-22
+Version: 1.1.0-23
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.youtubekiller_1.1.0-22_iphoneos-arm.deb
-Size: 660380
-Installed-Size: 2348
-MD5sum: 451358f4df8ae1a468d4cf82fb7fc6aa
-SHA1: 42cd1ded4988d337d173df6eac817735534cea8c
-SHA256: d113c44a79de0903e1c91a485628dc8bcaa2f2a1c29dabfdc58795f4bba0337e
+Filename: .//debs/pro.ikghd.youtubekiller_1.1.0-23_iphoneos-arm.deb
+Size: 662280
+Installed-Size: 2372
+MD5sum: c383475a05d7ac05a5d62b1f5bbcb9d6
+SHA1: 87b7962b0654374bafc7d3c102e31aa67a333a1f
+SHA256: 991ed0968d9a28b8eb3a4c71edcc87a6e6975a51ee0970633879a82984f13574
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>

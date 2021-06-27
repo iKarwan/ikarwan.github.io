@@ -287,12 +287,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0-22",
+               "text":"1.1.0-23",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 23, 2021",
+               "text":"Jun 27, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -353,7 +353,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.0-22",
+               "title":"Version 1.1.0-23",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -362,7 +362,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- fix an issue related to pip in Streaming may cause video to stop on first load\n- add hide short videos thanks to - MiRo92 - for providing it\n- optimization\n- bug fixes & optimization\n- add PiP feature (Streaming)\n- fix revert old quality selection causing the app to crash\n- other improve & optimization\n\n- add revert old quality selection (Streaming)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
+               "markdown":"- fix speed playback issue related to pip in Streaming\n- add hide short videos thanks to - MiRo92 - for providing it\n- optimization\n- bug fixes & optimization\n- add PiP feature (Streaming)\n- fix revert old quality selection causing the app to crash\n- other improve & optimization\n\n- add revert old quality selection (Streaming)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
