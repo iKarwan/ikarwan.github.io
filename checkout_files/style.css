@@ -43,3 +43,35 @@ hr {
     margin-top: auto;
     margin: auto 20px;
 }
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: black;
+        color: white;
+    }
+
+	#packageHeader {
+		background-color: #151515;
+	}
+
+	.package {
+		background-color: #151515;
+		border-color: #151515;
+	}
+
+	.panel-heading {
+		color: #e6e6e6;
+	}
+
+	.btn-default {
+		background-color: #151515;
+		border-color: #151515;
+	}
+
+	.link-item {
+		color: nil;
+	}
+
+	.fa{
+		color: #d6d6d6;
+	}
+}
