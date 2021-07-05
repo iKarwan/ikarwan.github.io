@@ -2,7 +2,6 @@
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "minVersion": "0.1",
-    "headerImage": "",
     "tabs": [
         {
             "tabname": "Details",
@@ -55,7 +54,7 @@
                 },
                 {
                     "title": "Price",
-                    "text": "free",
+                    "text": "Free",
                     "class": "DepictionTableTextView"
                 },
                 {
