@@ -6,12 +6,7 @@
         {
             "tabname": "Details",
             "views": [
-                {
-                    "title": "libkdev",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "class": "DepictionSubheaderView"
-                },
+
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "library to communicate with tweaks",
