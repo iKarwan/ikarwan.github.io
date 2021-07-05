@@ -21,24 +21,7 @@
                     "spacing": 8,
                     "class": "DepictionSpacerView"
                 },
-                {
-                    "itemSize": "{160, 275.41333333333336}",
-                    "screenshots": [
-                        {
-                            "url": "",
-                            "accessibilityText": "Screenshot0"
-                        }
-                    ],
-                    "itemCornerRadius": 6,
-                    "class": "DepictionScreenshotsView"
-                },
-                {
-                    "title": "markdown-description",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "markdown": "\"libkdev\" library to communicate with tweaks,",
-                    "class": "DepictionMarkdownView"
-                },
+
                 {
                     "class": "DepictionSeparatorView"
                 },
