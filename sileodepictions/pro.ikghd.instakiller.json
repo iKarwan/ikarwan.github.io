@@ -159,12 +159,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.5",
+               "text":"0.0.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 14, 2021",
+               "text":"Jul 8, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -225,6 +225,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 0.0.6",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+             "markdown":"- bug fixes & clean up",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 0.0.5",
                "useBoldText":true,
