@@ -105,7 +105,7 @@
             },
 
             {
-               "title":"buy $1.00: الشــراء",
+               "title":"buy $1.29: الشــراء",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/iNstaKiller",
                "class":"DepictionTableButtonView"
@@ -170,7 +170,7 @@
 
             {
                "title":"Price",
-               "text":"$1.00",
+               "text":"$1.29",
                "class":"DepictionTableTextView"
             },
             {
