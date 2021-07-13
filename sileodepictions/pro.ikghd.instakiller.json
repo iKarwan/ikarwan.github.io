@@ -44,11 +44,6 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/pro.ikghd.instakiller/screenshots/7.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.instakiller/screenshots/7.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.instakiller/screenshots/8.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.instakiller/screenshots/8.PNG"
                     }
                 ],
                 "ipad":{
@@ -89,11 +84,6 @@
                             "accessibilityText":"Screenshot",
                             "url":"https://repo.ikghd.me/depictions/pro.ikghd.instakiller/screenshots/7.PNG",
                             "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.instakiller/screenshots/7.PNG"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://repo.ikghd.me/depictions/pro.ikghd.instakiller/screenshots/8.PNG",
-                            "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.instakiller/screenshots/8.PNG"
                         }
                     ],
                     "class":"DepictionScreenshotView"
