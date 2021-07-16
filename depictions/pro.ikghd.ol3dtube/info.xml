@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ol3dtube</id>
     <name>OL3DTube</name>
-    <version>1.1.5-9</version>
+    <version>1.1.6</version>
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
@@ -10,12 +10,14 @@
     </compatibility>
 
     <descriptionlist>
-        <description>Oled Mode For YouTube:</description>
+      <!--  <description>Oled Mode For YouTube:</description> -->
+        <description>25% off now = ٢٥٪ تخفيض الان</description>
+
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/checkout">buy :: $1.29 الشـراء</a>
+                <a href="https://repo.ikghd.me/checkout">buy :: $1.00 الشـراء</a>
             </li>
 
             <br>

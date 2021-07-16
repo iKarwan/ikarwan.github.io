@@ -95,7 +95,7 @@
             },
 
             {
-               "title":"buy $1.29: الشــراء",
+              "title":"25% off now = تخفيض ٢٥٪ الان",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/iNstaKiller",
                "class":"DepictionTableButtonView"
@@ -149,18 +149,18 @@
             },
             {
                "title":"Version",
-               "text":"0.0.6",
+               "text":"0.0.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 8, 2021",
+               "text":"Jul 16, 2021",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Price",
-               "text":"$1.29",
+               "text":"$1.00",
                "class":"DepictionTableTextView"
             },
             {
@@ -215,6 +215,20 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 0.0.7",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "class":"DepictionSeparatorView"
+           },
+           {
+             "markdown":"- add rounded corner \n- add use classic layouts \n- bug fixes & clean up",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 0.0.6",
                "useBoldText":true,

@@ -87,7 +87,7 @@
                "class":"DepictionSeparatorView"
             },
             {
-              "title":"buy $1.29: الشــراء",
+              "title":"25% off now = تخفيض ٢٥٪ الان",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/checkout",
                "class":"DepictionTableButtonView"
@@ -136,17 +136,17 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5-9",
+               "text":"1.1.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 8, 2021",
+               "text":"Jul 16, 2021",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Price",
-               "text":"$1.29",
+               "text":"$1.00",
                "class":"DepictionTableTextView"
             },
             {
@@ -202,7 +202,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.5-9",
+               "title":"Version 1.1.6",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"

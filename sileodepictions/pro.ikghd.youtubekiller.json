@@ -12,31 +12,6 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/21.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/21.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/22.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/22.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/23.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/23.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/24.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/24.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/25.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/25.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG"
                     },
@@ -44,11 +19,6 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/14.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/14.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
@@ -113,31 +83,6 @@
                     "screenshots":[
                       {
                           "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/21.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/21.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/22.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/22.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/23.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/23.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/24.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/24.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/25.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/25.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/1.PNG"
                       },
@@ -145,11 +90,6 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/14.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/14.PNG"
                       },
                       {
                           "accessibilityText":"Screenshot",
@@ -217,7 +157,7 @@
             },
 
             {
-               "title":"buy $1.99: الشــراء",
+              "title":"50% off now = تخفيض ٥٠٪ الان",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/YouTubeKiller",
                "class":"DepictionTableButtonView"
@@ -287,17 +227,17 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0-27",
+               "text":"1.1.0-28",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 8, 2021",
+               "text":"Jul 16, 2021",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Price",
-               "text":"$1.99",
+               "text":"$1.00",
                "class":"DepictionTableTextView"
             },
             {
@@ -353,7 +293,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.0-27",
+               "title":"Version 1.1.0-28",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"

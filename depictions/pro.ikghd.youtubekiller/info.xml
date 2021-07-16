@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.0-27</version>
+    <version>1.1.0-28</version>
     <compatibility>
         <firmware>
             <miniOS>10.0</miniOS>
@@ -10,14 +10,14 @@
     </compatibility>
 
     <descriptionlist>
-          <description>New YouTube Experience!</description>
-        <!--  <description>50% off now = ٥٠٪ تخفيض الان</description> -->
+      <!--    <description>New YouTube Experience!</description> -->
+          <description>50% off now = ٥٠٪ تخفيض الان</description>
 
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/YouTubeKiller">buy :: $1.99 الشـراء</a>
+                <a href="https://repo.ikghd.me/YouTubeKiller">buy :: $1.00 الشـراء</a>
             </li>
 
             <br>
@@ -85,41 +85,23 @@
 
     <screenshots>
       <screenshot>
-          <image>21.PNG</image>
-      </screenshot>
-      <screenshot>
-          <image>22.PNG</image>
-      </screenshot>
-      <screenshot>
-          <image>23.PNG</image>
-      </screenshot>
-      <screenshot>
-          <image>24.PNG</image>
-      </screenshot>
-      <screenshot>
-          <image>25.PNG</image>
-      </screenshot>
-      <screenshot>
           <image>1.PNG</image>
       </screenshot>
-        <screenshot>
-            <image>2.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>14.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>3.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>4.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>5.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>6.PNG</image>
-        </screenshot>
+      <screenshot>
+          <image>2.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>3.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>4.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>5.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>6.PNG</image>
+      </screenshot>
         <screenshot>
             <image>7.PNG</image>
         </screenshot>

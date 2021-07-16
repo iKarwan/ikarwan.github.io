@@ -10,12 +10,6 @@
                 "itemCornerRadius":6,
                 "itemSize":"{160, 275.41333333333336}",
                 "screenshots":[
-                  {
-                      "accessibilityText":"Screenshot",
-                      "url":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/22.PNG",
-                      "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/22.PNG"
-                  },
-
                     {
                         "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/1.PNG",
@@ -115,13 +109,7 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/20.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/20.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/21.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/221.PNG"
                     }
-
                 ],
                 "ipad":{
                     "itemCornerRadius":9,
@@ -226,13 +214,7 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/20.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/20.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/21.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.ictmizxiv/screenshots/221.PNG"
                       }
-
                     ],
                     "class":"DepictionScreenshotView"
                 },
@@ -243,7 +225,7 @@
             },
 
             {
-              "title":"buy $1.99: الشــراء",
+              "title":"50% off now = تخفيض ٥٠٪ الان",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/checkout2",
                "class":"DepictionTableButtonView"
@@ -304,18 +286,18 @@
             },
             {
                "title":"Version",
-               "text":"2.0.1-8",
+               "text":"2.0.1-9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 8, 2021",
+               "text":"Jul 16, 2021",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Price",
-               "text":"$1.99",
+               "text":"$1.00",
                "class":"DepictionTableTextView"
             },
             {
@@ -372,7 +354,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 2.0.1-8",
+               "title":"Version 2.0.1-9",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
