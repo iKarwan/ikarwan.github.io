@@ -183,17 +183,6 @@
             },
 
             {
-               "title":"if u purchased on Yourepo Pls Read!",
-               "useBoldText": true,
-               "action":"https://twitter.com/ikg_hd/status/1329404610923143173?s=21",
-               "class":"DepictionTableButtonView"
-            },
-
-            {
-               "class":"DepictionSeparatorView"
-            },
-
-            {
                "title":"Demo Via YouTube : استعراض المميزات",
                "useBoldText": true,
                "action":"https://www.youtube.com/watch?v=haAaqU1zFFo&feature=youtu.be&ab_channel=iKarwan-ikghd",
