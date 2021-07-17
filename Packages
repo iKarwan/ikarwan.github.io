@@ -238,17 +238,17 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.libkdev.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.libkdev.png
 
 Package: pro.ikghd.ol3dtube
-Version: 1.1.6
+Version: 1.1.6-1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ol3dtube_1.1.6_iphoneos-arm.deb
-Size: 107388
-Installed-Size: 708
-MD5sum: c682ddea9478dbfef53fcec1a2138fc1
-SHA1: ed5693017a85a62aee8019edb2a6d0b8be293fc4
-SHA256: fd52e4af14a94eb29a5da66dde18217c71bcad4de4e9692181233df535ae5b1e
+Filename: .//debs/pro.ikghd.ol3dtube_1.1.6-1_iphoneos-arm.deb
+Size: 108500
+Installed-Size: 712
+MD5sum: e4791d1539e18f5b0bd8ef324c4fedde
+SHA1: 7d868cba691662f393c2e95e0b06189ecdd30860
+SHA256: 9c9f4f85c35da08794b66679b14f83d5d2f055603df7d207f103bf1e25b8e3b7
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikg_hd@bk.ru>
@@ -277,18 +277,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.pmp.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.pmp.png
 
 Package: pro.ikghd.youtubekiller
-Version: 1.1.0-28
+Version: 1.1.0-28-1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.youtubekiller_1.1.0-28_iphoneos-arm.deb
-Size: 706112
+Filename: .//debs/pro.ikghd.youtubekiller_1.1.0-28-1_iphoneos-arm.deb
+Size: 709604
 Installed-Size: 2556
-MD5sum: 45fbcb6f25629f8c94cebe25524c3757
-SHA1: 342349516fc3d52ecfb6a87ad7c931ba7614d00f
-SHA256: 924989b32074adcc56fa88fea66e298bba71d0cbc2bc7a09879a29bf7dc38232
+MD5sum: 3cd16812c8ee922c41e58225338723d9
+SHA1: 3627e303530c4f79aba37e85b7b060a8f1067004
+SHA256: 14139839654f80e4ec37f1922b0b1dd8de2eacb725b5c3465bf91e074a5ffb03
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
