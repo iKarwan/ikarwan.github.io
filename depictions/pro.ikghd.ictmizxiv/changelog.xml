@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>2.0.1-9</version>
+		<version>2.0.1-9-1</version>
 		<change>・optimization</change>
 		<change>・add disable pasted from..(SystemWide)</change>
 		<change>・add Done button to text editor..</change>
