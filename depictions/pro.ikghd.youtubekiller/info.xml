@@ -135,5 +135,9 @@
       <change>・optimization</change>
     </changelog>
 
+    <Price>
+      <price>1.00</price>
+    </Price>
+
     <links></links>
 </package>
