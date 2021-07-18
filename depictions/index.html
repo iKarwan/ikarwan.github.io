@@ -57,8 +57,6 @@
 			}
 		,"#packageVersion" :
 			{"type":"text","source":"package>version"}
-      ,"#packagePrice" :
-        {"type":"text","source":"package>price"}
 		,"#packageShortDesc" :
 			{"type":"text","source":"package>descriptionlist>description"}
 		,"#packageLongDesc" :
@@ -91,6 +89,7 @@
 		,"#miniOS" : {"type":"text","source":"package>compatibility>firmware>miniOS"}
 		,"#maxiOS" : {"type":"text","source":"package>compatibility>firmware>maxiOS"}
 		,"#versionBadge" : {"type":"text","source":"package>version"}
+    ,"#priceBadge" : {"type":"text","source":"package>price"}
         ,"#changesList"	:
 			{"type":"list"
 				,"source" :"package>changelog>change"
@@ -155,20 +154,20 @@
     <h4><span id="versionBadge" class="badge" /></h4>
   </div>
 
+  <div class="container" style="margin-bottom: 15px;">
+    <h4>Price </h4>
+    <h4><span id="priceBadge" class="badge" /></h4>
 
+  </div>
   <div class="container" style="margin-bottom: 15px;">
     <h4>Updated</h4>
     Date !!!<span id="relesed" class="info" style="font-size: 16px; color:coral;"></span>
   </div>
 
-	<div class="container" style="margin-bottom: 15px;">
-		<h4>Price</h4>
-		USD $ <span id="price" class="info" style="font-size: 16px; color:coral;"></span>
-	</div>
 
   <div class="container" style="margin-bottom: 15px;">
 		<h4>Compatibility</h4>
-		iOS / iPadOS <span id="miniOS" class="info" style="font-size: 16px; color:coral;"></span> - <span id="maxiOS" class="info" style="font-size: 16px; color:coral;"></span>
+		iOS/iPadOS <span id="miniOS" class="info" style="font-size: 16px; color:coral;"></span> - <span id="maxiOS" class="info" style="font-size: 16px; color:coral;"></span>
 	</div>
 
 	<div class="container" style="margin-bottom: 15px;">
