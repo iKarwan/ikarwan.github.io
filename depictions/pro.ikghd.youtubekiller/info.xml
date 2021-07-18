@@ -4,7 +4,7 @@
     <version>1.1.0-28-4</version>
     <compatibility>
         <firmware>
-            <miniOS>10.0</miniOS>
+            <miniOS>13.0</miniOS>
             <maxiOS>higher</maxiOS>
         </firmware>
     </compatibility>
@@ -12,7 +12,7 @@
     <date>
       <date>Jul 18, 2021</date>
     </date>
-    
+
     <price>
       <price>$1.00 USD</price>
     </price>
