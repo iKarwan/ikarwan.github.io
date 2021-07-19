@@ -5,9 +5,18 @@
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
-            <maxiOS>higher</maxiOS>
+            <maxiOS>15.0</maxiOS>
         </firmware>
     </compatibility>
+
+        <date>
+          <date>May 12, 2021</date>
+        </date>
+
+        <price>
+          <price>Free</price>
+        </price>
+
 
     <descriptionlist>
         <description>Hide twitter !fleets:</description>
