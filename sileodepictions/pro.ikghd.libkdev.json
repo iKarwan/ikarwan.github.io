@@ -32,15 +32,7 @@
                    "text":"iOS/iPadOS 13.0 - 15.0",
                    "class":"DepictionTableTextView"
                 },
-                {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
-                },
-                {
-                    "title": "Developer",
-                    "text": "iKarwan",
-                    "class": "DepictionTableTextView"
-                },
+
                 {
                     "spacing": 8,
                     "class": "DepictionSpacerView"
