@@ -231,7 +231,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 10.0 - higher",
+               "text":"iOS/iPadOS 13.0 - higher",
                "class":"DepictionTableTextView"
             },
             {
