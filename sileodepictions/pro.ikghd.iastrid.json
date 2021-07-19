@@ -96,7 +96,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 10.0 - 14.0",
+               "text":"iOS/iPadOS 10.0 - 15.0",
                "class":"DepictionTableTextView"
             },
 
