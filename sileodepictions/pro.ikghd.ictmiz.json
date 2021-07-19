@@ -331,7 +331,7 @@
 
             {
                "title":"Price",
-               "text":"$1.00",
+               "text":"$1.00 USD",
                "class":"DepictionTableTextView"
             },
             {

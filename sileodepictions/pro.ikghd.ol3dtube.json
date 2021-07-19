@@ -146,12 +146,12 @@
             },
             {
                "title":"Price",
-               "text":"$1.00",
+               "text":"$1.00 USD",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Compatibility",
-               "text":"iOS/iPadOS 13.0 - higher",
+               "text":"iOS/iPadOS 13.0 - 15.0",
                "class":"DepictionTableTextView"
             },
             {
