@@ -28,9 +28,9 @@
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "title": "Price",
-                    "text": "Free",
-                    "class": "DepictionTableTextView"
+                   "title":"Compatibility",
+                   "text":"iOS/iPadOS 13.0 - 15.0",
+                   "class":"DepictionTableTextView"
                 },
                 {
                     "spacing": 8,

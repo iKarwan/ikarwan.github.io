@@ -5,9 +5,13 @@
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
-            <maxiOS>higher</maxiOS>
+            <maxiOS>15.0</maxiOS>
         </firmware>
     </compatibility>
+
+            <date>
+              <date>Jun 7, 2021</date>
+            </date>
 
     <descriptionlist>
         <description>"libkdev" library to communicate with tweaks,</description>

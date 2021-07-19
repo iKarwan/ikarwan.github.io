@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- hopfully fix preferncebundle error on iOS 13",
+                                "markdown":"- redefind the preferences",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -281,7 +281,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-             "markdown":"- add show unsend message (miscellaneous)\n- add disable auto scroll (story)\n- hopfully fix preferncebundle error on iOS 13",
+             "markdown":"- add show unsend message (miscellaneous)\n- add disable auto scroll (story)",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
@@ -295,7 +295,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-             "markdown":"- hopfully fix preferncebundle error on iOS 13",
+             "markdown":"- redefind the preferences",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
