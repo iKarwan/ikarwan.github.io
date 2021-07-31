@@ -87,7 +87,7 @@
                "class":"DepictionSeparatorView"
             },
             {
-              "title":"25% off now = تخفيض ٢٥٪ الان",
+              "title":"buy :: $1.00 الشـراء",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/checkout",
                "class":"DepictionTableButtonView"
