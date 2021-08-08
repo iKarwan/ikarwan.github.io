@@ -202,14 +202,14 @@ Version: 0.0.8
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
-Conflicts: com.lema.michael.rhino, com.haoict.instanoads, com.unliapps.gramplus, prasa.instagramplus, net.limneos.instaonlinemonitor
+Conflicts: com.lema.michael.rhino, com.haoict.instanoads, com.unliapps.gramplus, prasa.instagramplus
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.instakiller_0.0.8_iphoneos-arm.deb
-Size: 465784
+Size: 465420
 Installed-Size: 1256
-MD5sum: f77ec659b2eba3924f77512df4f594e6
-SHA1: c1c7b59a4b5ebb5e7835af5a1688ee73ce0fc331
-SHA256: 19c70feb77b1aa6db75cfe837540b65f70a5017013784e1d6a8ae9ba01306863
+MD5sum: 2b9e1a916ede3be092f1d32edcaaffc5
+SHA1: 008be028485a445d60284e1767d7e7ca7ef6ee95
+SHA256: 8161af44ad4d8bd2095eebdb2a764ee2d8b586c0074554a5121509216b27dffc
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikg_hd@bk.ru>
