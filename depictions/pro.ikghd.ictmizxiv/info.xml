@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ictmizxiv</id>
     <name>iCTMiZ XiV</name>
-    <version>2.0.1-9-2</version>
+    <version>2.0.1-9-3</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
 
         <date>
-          <date>Aug 8, 2021</date>
+          <date>Aug 11, 2021</date>
         </date>
 
         <price>

@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.8",
+               "text":"0.0.8-1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 16, 2021",
+               "text":"Aug 11, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -216,7 +216,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 0.0.8",
+               "title":"Version 0.0.8-1",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -225,7 +225,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-             "markdown":"- add rounded corner \n- add use classic layouts \n- bug fixes & clean up",
+             "markdown":"- bug fixes & clean up\n- add rounded corner \n- add use classic layouts \n- bug fixes & clean up",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

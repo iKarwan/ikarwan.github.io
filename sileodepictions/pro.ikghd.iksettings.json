@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.6-1",
+               "text":"1.0.6-2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 16, 2021",
+               "text":"Aug 11, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -147,13 +147,13 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.0.6-1",
+               "title":"Version 1.0.6-2",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
            },
            {
-              "markdown":"- add center label",
+              "markdown":"- bug fixes & clean up\n- add center label",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

@@ -1,9 +1,13 @@
 <changelog>
 	<changes>
-		<version>0.0.8</version>
+		<version>0.0.8-1</version>
+		<change>・bug fixes &amp; clean up</change>
 		<change>・add rounded corners</change>
 		<change>・add use classic layouts</change>
-		<change>・bug fixes &amp; clean up</change>
+	</changes>
+	<changes>
+		<version>0.0.7</version>
+		<change>・improve &amp; enhancement</change>
 	</changes>
 	<changes>
 		<version>0.0.6</version>
