@@ -185,11 +185,11 @@ Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset
 Replaces: pro.ikghd.ikset
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.iksettings_1.0.6-2_iphoneos-arm.deb
-Size: 78862
+Size: 78870
 Installed-Size: 432
-MD5sum: fdd6a328c2a406020ce038b6ec791074
-SHA1: 5d473a1ba424783850e771d8677b49a13505286b
-SHA256: 80deaba20765b45b4f125d459befff8c73edbb4698c4649f1ef85993c0fe5aeb
+MD5sum: 91f18b3587147bd61b37aad69819efac
+SHA1: dce9228d8e2b70f3fb00f2732b3ea87e2b01b84d
+SHA256: b2e99c1e7752e00401ed86247d3316f3fc7be5ebd2d0ac5f1c574b97ec9be27e
 Description: redefind Settings app !
 Name: iKSettings
 Author: iKarwan <ikg_hd@bk.ru>
