@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>0.0.8-1</version>
+    <version>0.0.8-2</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -109,7 +109,7 @@
     </screenshots>
 
     <changelog>
-      <change>・redefind the preferences</change>
+      <change>・add app appearance || Dark or Light</change>
     </changelog>
 
     <links></links>
