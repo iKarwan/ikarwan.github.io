@@ -1,8 +1,8 @@
 <changelog>
 	<changes>
-		<version>0.0.8-2</version>
-		<change>・add app appearance || Dark or Light</change>
+		<version>0.0.8-3</version>
 		<change>・bug fixes &amp; clean up</change>
+		<change>・add app appearance || Dark or Light</change>
 		<change>・add rounded corners</change>
 		<change>・add use classic layouts</change>
 	</changes>
