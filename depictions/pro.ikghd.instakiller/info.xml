@@ -17,13 +17,6 @@
           <price>$1.49 USD</price>
         </price>
 
-      <buy>
-        <![CDATA[
-          <span>
-              <a href="https://repo.ikghd.me/iNstaKiller">Buy: $1.49 :الشـراء</a>
-          </span>
-        ]]>
-      </buy>
 
     <descriptionlist>
       <description>"iNstaKiller" New Instagram Experiance:</description>
@@ -141,6 +134,14 @@
               </div>
               </div>
               </div>
+            </buy>
+
+            <buy>
+              <![CDATA[
+                <id>
+                    <a href="https://repo.ikghd.me/iNstaKiller">Buy: $1.49 :الشـراء</a>
+                </id>
+              ]]>
             </buy>
 -->
 </package>
