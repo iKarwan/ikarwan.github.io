@@ -17,25 +17,27 @@
           <price>$1.49 USD</price>
         </price>
 
-        <div class="buy-header has-banner">
-        <div class="buy-header-content">
-        <div> <div class="buy-header-product-box">
-        <div class="buy-header-product-icon">
-        <div class="product-icon">
-        <span class="fade-on-load loaded"><img alt="" loading="lazy" role="presentation" src="https://repo.ikghd.me/assets/instak.png" srcset="https://cdn.chariz.cloud/icon/prokeys/icon@2x.png 2x,https://cdn.chariz.cloud/icon/prokeys/icon@3x.png 3x"></span>
-        </div>
-        </div>
-        <div class="buy-header-title">
-        <h1>ProKeys</h1>
+        <buy>
+          <div class="buy-header has-banner">
+          <div class="buy-header-content">
+          <div> <div class="buy-header-product-box">
+          <div class="buy-header-product-icon">
+          <div class="product-icon">
+          <span class="fade-on-load loaded"><img alt="" loading="lazy" role="presentation" src="https://repo.ikghd.me/assets/icon.png" srcset="https://cdn.chariz.cloud/icon/prokeys/icon@2x.png 2x,https://cdn.chariz.cloud/icon/prokeys/icon@3x.png 3x"></span>
+          </div>
+          </div>
+          <div class="buy-header-title">
+          <h1>ProKeys</h1>
 
-        </div>
-        </div>
-        <form class="buy-header-buy-button" action="https://chariz.com/buy/prokeys/checkout" method="get">
-        <button class="btn btn-primary buy-button text-price" type="submit" data-confirm-compatibility="" aria-label="$1.99. Go to Checkout.">$1.99</button>
-        </form>
-        </div>
-        </div>
-        </div>
+          </div>
+          </div>
+          <form class="buy-header-buy-button" action="https://chariz.com/buy/prokeys/checkout" method="get">
+          <button class="btn btn-primary buy-button text-price" type="submit" data-confirm-compatibility="" aria-label="$1.99. Go to Checkout.">$1.99</button>
+          </form>
+          </div>
+          </div>
+          </div>
+        </buy>
 
 
     <descriptionlist>
