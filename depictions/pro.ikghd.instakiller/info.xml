@@ -19,10 +19,9 @@
 
       <buy>
         <![CDATA[
-          <li>
-              <a href="https://repo.ikghd.me/iNstaKiller">buy :: $1.49 الشـراء</a>
-          </li>
-          <br>
+          <span>
+              <a href="https://repo.ikghd.me/iNstaKiller">Buy: $1.49 :الشـراء</a>
+          </span>
         ]]>
       </buy>
 
