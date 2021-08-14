@@ -18,7 +18,9 @@
         </price>
 
         <buy>
-          <a href="https://repo.ikghd.me/iNstaKiller">buy :: $1.49 الشـراء</a>
+          <span>
+              <a href="https://repo.ikghd.me/iNstaKiller">buy :: $1.49 الشـراء</a>
+          </span>
         </buy>
 
 
