@@ -200,7 +200,7 @@
                             },
 
                             {
-                                "markdown":"- optimization",
+                                "markdown":"- add applock settings",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -216,12 +216,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0.3",
+               "text":"1.1.0.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 18, 2021",
+               "text":"Aug 19, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -282,7 +282,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.0.3",
+               "title":"Version 1.1.0.4",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -291,7 +291,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- clean up & enhancements\n- fix pip not working on YouTube version 16.25.4 (Streaming)\n- fix speed playback issue related to pip in Streaming\n- add hide short videos thanks to - MiRo92 - for providing it\n- optimization\n- bug fixes & optimization\n- add PiP feature (Streaming)\n- fix revert old quality selection causing the app to crash\n- other improve & optimization\n\n- add revert old quality selection (Streaming)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
+               "markdown":"- add applock settings\n- fix pip not working on YouTube version 16.25.4 (Streaming)\n- fix speed playback issue related to pip in Streaming\n- add hide short videos thanks to - MiRo92 - for providing it\n- optimization\n- add PiP feature (Streaming)\n- fix revert old quality selection causing the app to crash\n- other improve & optimization\n\n- add revert old quality selection (Streaming)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
