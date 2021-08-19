@@ -5,7 +5,6 @@
 		<change>・fix pip not working on YouTube version 16.25.4 (Streaming)</change>
 		<change>・fix speed playback issue related to pip in Streaming</change>
 		<change>・add hide short videos thanks to - MiRo92 - for providing it</change>
-		<change>・optimization</change>
 		<change>・add PiP feature (Streaming)</change>
 		<change>・fix revert old quality selection causing the app to crash</change>
 		<change>・add revert old quality selection (Streaming)</change>
