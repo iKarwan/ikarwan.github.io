@@ -5,39 +5,39 @@
     "banners": [
 
       {
-          "url": "https://repo.ikghd.me/assets/banners/youtubed.png",
-          "title": "YouTubeKiller",
-          "package": "pro.ikghd.youtubekiller",
+          "url": "https://repo.ikghd.me/assets/banners/youtubed.png"
+          "title": "YouTubeKiller"
+          "package": "pro.ikghd.youtubekiller"
           "hideShadow": false
       },
 
         {
-            "url": "https://repo.ikghd.me/assets/banners/xiv.png",
-            "title": "iCTMiZ XiV",
-            "package": "pro.ikghd.ictmizxiv",
+            "url": "https://repo.ikghd.me/assets/banners/xiv.png"
+            "title": "iCTMiZ XiV"
+            "package": "pro.ikghd.ictmizxiv"
             "hideShadow": false
         },
 
         {
-            "url": "https://repo.ikghd.me/assets/banners/instak.png",
-            "title": "iNstaKiller",
-            "package": "pro.ikghd.instakiller",
+            "url": "https://repo.ikghd.me/assets/banners/instak.png"
+            "title": "iNstaKiller"
+            "package": "pro.ikghd.instakiller"
             "hideShadow": false
         },
 
         {
-            "url": "https://repo.ikghd.me/assets/banners/ban.png",
-            "title": "iCTMiZ Pro",
-            "package": "pro.ikghd.ictmiz",
+            "url": "https://repo.ikghd.me/assets/banners/ban.png"
+            "title": "iCTMiZ Pro"
+            "package": "pro.ikghd.ictmiz"
             "hideShadow": false
         },
 
 
         {
-            "url": "https://repo.ikghd.me/assets/banners/ol3d.png",
-            "title": "OL3DTube",
-            "package": "pro.ikghd.ol3dtube",
+            "url": "https://repo.ikghd.me/assets/banners/ol3d.png"
+            "title": "OL3DTube"
+            "package": "pro.ikghd.ol3dtube"
             "hideShadow": false
-        },
+        }
     ]
 }
