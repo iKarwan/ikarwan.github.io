@@ -1,6 +1,6 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://repo.ikghd.me/depictions/pro.ikghd.fleets/Images/Banner.jpg",
+   "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.space/Images/Banner.jpg",
    "tintColor":"#BED3F3",
    "tabs":[
       {
@@ -12,13 +12,13 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.fleets/screenshots/1.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.fleets/screenshots/1.PNG"
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.fleets/screenshots/2.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.fleets/screenshots/2.PNG"
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
                     }
                 ],
                 "ipad":{
@@ -27,13 +27,13 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://repo.ikghd.me/depictions/pro.ikghd.fleets/screenshots/1.PNG",
-                            "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.fleets/screenshots/1.PNG"
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://repo.ikghd.me/depictions/pro.ikghd.fleets/screenshots/2.PNG",
-                            "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.fleets/screenshots/2.PNG"
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
                         }
                     ],
                     "class":"DepictionScreenshotView"
@@ -50,13 +50,13 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "Hide twitter fleets:",
+                "markdown": "Hide twitter space:",
                 "useSpacing": true
             },
 
             {
                 "useBottomMargin": false,
-                "markdown": "- Hide new twitter features !fleets:\n- اخفاء ميزة الستوري بالتويتر",
+                "markdown": "- Hide new twitter features !space:\n- اخفاء ميزة المساحة بالتويتر",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- improve & enhancements",
+                                "markdown":"- chnged from hidefleets to hidespace features",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -89,12 +89,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.3",
+               "text":"0.0.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 12, 2021",
+               "text":"Aug 27, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -150,6 +150,18 @@
       {
          "tabname":"Changelog",
          "views":[
+
+           {
+               "title":"Version 0.0.4",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- chnged from hidefleets to hidespace features",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
 
            {
                "title":"Version 0.0.3",

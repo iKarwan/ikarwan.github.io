@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.0.8-3</version>
+		<version>0.0.8-4</version>
 		<change>・bug fixes &amp; clean up</change>
 		<change>・add app appearance || Dark or Light</change>
 		<change>・add rounded corners</change>

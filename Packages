@@ -1,21 +1,22 @@
-Package: pro.ikghd.fleets
-Version: 0.0.3
+Package: me.ikghd.space
+Version: 0.0.4
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0)
+Replaces: pro.ikghd.fleets
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.fleets_0.0.3_iphoneos-arm.deb
-Size: 57750
+Filename: .//debs/me.ikghd.space_0.0.4_iphoneos-arm.deb
+Size: 57902
 Installed-Size: 348
-MD5sum: 5cb512d4c8588b362587524505ccc9dc
-SHA1: 4723a58dd82bcce5c4de12ea7c312e4242bea473
-SHA256: de04b9c3563f82bb22cfe07f844251994a5e60f4a3380d34f9496d1ce9a8a3c8
+MD5sum: 1f6ec83e88c735bd30d9ff7ce84c10b8
+SHA1: 2dc1f5ba5de3d75b6bda096f9f55663215ffb98a
+SHA256: 4ac1c5f9f78166d97aad7ba5d5ce8e87da68060872d098a7c0b59553d0330f6d
 Description: Hide New Twitter features fleets!
-Name: HideFleets
+Name: HideSpace
 Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.fleets
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.fleets.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.fleets.png
+Depiction: https://ikarwan.github.io/depictions/?p=me.ikghd.space
+SileoDepiction: https://ikarwan.github.io/sileodepictions/me.ikghd.space.json
+Icon: https://ikarwan.github.io/assets/icons/me.ikghd.space.png
 
 Package: pro.ikghd.iastrid
 Version: 1.0.0
@@ -116,18 +117,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizxiv.js
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizxiv.png
 
 Package: pro.ikghd.ictmizxiv
-Version: 2.0.1-9-5
+Version: 2.0.1.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), ws.hbang.alderis, com.spark.libsparkapplist
 Replaces: pro.ikghd.ictmiz
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmizxiv_2.0.1-9-5_iphoneos-arm.deb
-Size: 627494
-Installed-Size: 4416
-MD5sum: 3f17a63aaf36f0a2a5fcc6ea96402604
-SHA1: e185ac993bb344ea7703f944462da2a2f30a9bcc
-SHA256: 01b86416dbac691e30315f5045506a28612316049da125ceeca06e20bffae80c
+Filename: .//debs/pro.ikghd.ictmizxiv_2.0.1.1_iphoneos-arm.deb
+Size: 640950
+Installed-Size: 4664
+MD5sum: ed6d3b2f27602ad10ead31dd1ad82b3e
+SHA1: abd3f5654531906b8c7f653b16927c5f691e811d
+SHA256: c18a27caa4cb9778a9adb7afd3edfbdbed48f860c96f597a893dc075906734d1
 Description: i Customize Not U appl !...
 Name: iCTMiZ XiV
 Author: iKarwan <ikg_hd@bk.ru>
@@ -198,17 +199,17 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksettings.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksettings.png
 
 Package: pro.ikghd.instakiller
-Version: 0.0.8-3
+Version: 0.0.8-4
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.instakiller_0.0.8-3_iphoneos-arm.deb
-Size: 467104
-Installed-Size: 1260
-MD5sum: fcaadc9ff8aecfda5d7c8acf668bb795
-SHA1: f884c99f5919d02278daa8268f555e43de4f3516
-SHA256: bcccc08169d2542cc7e581b832eeffa24357f77722fbd17e66d2ad33dddeef5b
+Filename: .//debs/pro.ikghd.instakiller_0.0.8-4_iphoneos-arm.deb
+Size: 499544
+Installed-Size: 1456
+MD5sum: 9713ce63e4a1e977ec94e4c6544f58c8
+SHA1: d4e81526d3047752c1133f83af5e09f3d9a6e805
+SHA256: b7e996a0a9a192ff56157eb5dc91a0f61143270b36634221710a85ac46a1aaf8
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikg_hd@bk.ru>
@@ -276,17 +277,17 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.pmp.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.pmp.png
 
 Package: pro.ikghd.youtubekiller
-Version: 1.1.0.4
+Version: 1.1.0.5
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.4_iphoneos-arm.deb
-Size: 687232
-Installed-Size: 3044
-MD5sum: ca2e74cadf4030b58b52a5fda2a736ad
-SHA1: 7bfa89ab96d671eed68aaddb68dff55b7af8a29c
-SHA256: ac769e0882062034d28e85a04bf5ccefbea9ce5d2b469b86855ad665c3bcee99
+Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.5_iphoneos-arm.deb
+Size: 692844
+Installed-Size: 2976
+MD5sum: 208c7ac06b3562de68c1d89889676f83
+SHA1: 5251f89f7ecdcc812de9b5bf76d625672ff56b2d
+SHA256: 9dc80891e743adb04643c6b882ddad02acb3f5a3d983dd0b9e3fafc9342cbae3
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>

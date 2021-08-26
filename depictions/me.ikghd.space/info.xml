@@ -1,7 +1,7 @@
 <package>
-   <id>pro.ikghd.fleets</id>
-    <name>HideFleets</name>
-    <version>0.0.3</version>
+   <id>me.ikghd.space</id>
+    <name>HideSpace</name>
+    <version>0.0.4</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
 
         <date>
-          <date>May 12, 2021</date>
+          <date>Aug 27, 2021</date>
         </date>
 
         <price>
@@ -19,11 +19,11 @@
 
 
     <descriptionlist>
-        <description>Hide twitter !fleets:</description>
+        <description>Hide twitter !space:</description>
         <longdescription><![CDATA[
           <br>Main Options:
-            <br>· hide fleets
-              <br>· اخفاء ميزة الستوري بالتويتر
+            <br>· hide space
+              <br>· اخفاء ميزة المساحة بالتويتر
       		<br>
         ]]></longdescription>
     </descriptionlist>
@@ -38,7 +38,7 @@
     </screenshots>
 
     <changelog>
-      <change>improve &amp; enhancement</change>
+      <change>・chnged from hidefleets to hidespace features</change>
     </changelog>
 
     <links></links>
