@@ -6,12 +6,12 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Replaces: pro.ikghd.fleets
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.space_0.0.4_iphoneos-arm.deb
-Size: 57902
+Size: 57910
 Installed-Size: 348
-MD5sum: 1f6ec83e88c735bd30d9ff7ce84c10b8
-SHA1: 2dc1f5ba5de3d75b6bda096f9f55663215ffb98a
-SHA256: 4ac1c5f9f78166d97aad7ba5d5ce8e87da68060872d098a7c0b59553d0330f6d
-Description: Hide New Twitter features fleets!
+MD5sum: 6abb0d10ab5b5868ac8858889aa0b474
+SHA1: b1c8142f682fc8c24ad5c6e0ca0110d3ac97b08d
+SHA256: 06a57c4cca6cb89d7a1a3c5554f162f7b465243b1f20236214f79dfe8fe90a94
+Description: Hide New Twitter features space!
 Name: HideSpace
 Author: iKarwan <ikg_hd@bk.ru>
 Depiction: https://ikarwan.github.io/depictions/?p=me.ikghd.space
