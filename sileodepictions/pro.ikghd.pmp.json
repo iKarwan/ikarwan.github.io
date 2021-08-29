@@ -89,7 +89,7 @@
             },
             {
                "title":"Version",
-               "text":"1.0.4",
+               "text":"1.0.5",
                "class":"DepictionTableTextView"
             },
             {
@@ -150,6 +150,17 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.0.5",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- removed cephei depends\n- add hide hidden & trash photo separately\n- add hide camera image well separately\n- apply changes immediately",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
            {
                "title":"Version 1.0.4",
                "useBoldText":true,

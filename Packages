@@ -257,18 +257,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ol3dtube.jso
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ol3dtube.png
 
 Package: pro.ikghd.pmp
-Version: 1.0.4
+Version: 1.0.5
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware(>= 11.0), com.opa334.ccsupport
+Depends: mobilesubstrate, preferenceloader, firmware(>= 11.0), com.opa334.ccsupport
 Conflicts: com.yourepo.ikghd.pmp
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.pmp_1.0.4_iphoneos-arm.deb
-Size: 36614
-Installed-Size: 340
-MD5sum: dbee6d3215afc1040ddb553ea794b9fa
-SHA1: 688764432972ed6d43f6e19f11b8ba5ba5637dd6
-SHA256: 5b829b482f27403757eb855d44f0358863c40285fcffacf1567d05f43d1550f8
+Filename: .//debs/pro.ikghd.pmp_1.0.5_iphoneos-arm.deb
+Size: 47158
+Installed-Size: 740
+MD5sum: e455c005adab3cb70f2e48f45a6cafc1
+SHA1: e5251f93ce6af09c546765b377438b272ff3b616
+SHA256: 529631f1bfd3efffa8ec9f47e5d34a111b91685fa1b6ad38710ce3670a4c7bbb
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikg_hd@bk.ru>
