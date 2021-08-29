@@ -23,8 +23,9 @@
         <description>"PMP" Protect My Photos:</description>
         <longdescription><![CDATA[
           <br>Main Options:
-          <br>· hide all Photos
-      	  <br>· hide all tabs
+          <br>· controll center module to hide all photos once
+            <br>· controll center module to hide hidden & trash photos
+              <br>· controll center module to hide camera image well access
       		<br>
         ]]></longdescription>
     </descriptionlist>
