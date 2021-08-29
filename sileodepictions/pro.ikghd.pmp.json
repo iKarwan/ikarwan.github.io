@@ -157,7 +157,7 @@
                "class":"DepictionSubheaderView"
            },
            {
-              "markdown":"- add control center module\n- add haptic feedback when pressing the module\n- fix access from camera image well\n- removed preference bundle",
+              "markdown":"- add control center module\n- requires ccsupport by opa334\n- add haptic feedback when pressing the module\n- fix access from camera image well\n- removed preference bundle",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
