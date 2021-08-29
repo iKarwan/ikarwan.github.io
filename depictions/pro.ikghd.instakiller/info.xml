@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>0.0.8-4</version>
+    <version>0.0.8-5</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
 
         <date>
-          <date>Aug 27, 2021</date>
+          <date>Aug 29, 2021</date>
         </date>
 
         <price>

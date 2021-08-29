@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- fixes access to photos inside camera for ios14",
+                                "markdown":"- add control center module",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -89,12 +89,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.3",
+               "text":"1.0.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 12, 2021",
+               "text":"Aug 29, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -150,6 +150,18 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.0.4",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- add control center module\n- add haptic feedback when pressing the module\n- fix access from camera image well\n- removed preference bundle",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
            {
                "title":"Version 1.0.3",
                "useBoldText":true,
