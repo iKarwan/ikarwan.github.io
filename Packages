@@ -257,18 +257,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ol3dtube.jso
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ol3dtube.png
 
 Package: pro.ikghd.pmp
-Version: 1.0.5
+Version: 1.1.5
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware(>= 11.0), com.opa334.ccsupport
 Conflicts: com.yourepo.ikghd.pmp
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.pmp_1.0.5_iphoneos-arm.deb
-Size: 47158
+Filename: .//debs/pro.ikghd.pmp_1.1.5_iphoneos-arm.deb
+Size: 47678
 Installed-Size: 740
-MD5sum: e455c005adab3cb70f2e48f45a6cafc1
-SHA1: e5251f93ce6af09c546765b377438b272ff3b616
-SHA256: 529631f1bfd3efffa8ec9f47e5d34a111b91685fa1b6ad38710ce3670a4c7bbb
+MD5sum: 8d6b71b01a592c44f5875e0f80464e57
+SHA1: 2cdad443ad102d1a3e4897306cabbf81cfa172d8
+SHA256: 690b070c267e57f8769f3527ad1de6ba8d3b6f8c581b8d8f0df9dec29b77699e
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikg_hd@bk.ru>
@@ -289,26 +289,6 @@ Installed-Size: 380
 MD5sum: 13029ebcb5b6fa1449b1fc0db309e171
 SHA1: eea9c2dc7b7cdbd300d792cce149842cb054b2b0
 SHA256: 39cb8ce5060840e2e94c18f3015dfde7fd92ce067ce4a8d6c25fed70b7d3e869
-Description: PMP Protect My Photos!
-Name: PMP
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.pmp
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.pmp.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.pmp.png
-
-Package: pro.ikghd.pmp
-Version: 1.1.4
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware(>= 11.0), com.opa334.ccsupport
-Conflicts: com.yourepo.ikghd.pmp
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.pmp_1.1.4_iphoneos-arm.deb
-Size: 47162
-Installed-Size: 740
-MD5sum: 919b89ff733fd42fe2d465a5d90ad72f
-SHA1: 2dcebecdb921f80aad1ab94e43497971b178ddcf
-SHA256: 126bebbeb97bf199f3a54fab53cbb56bc8f9cc1ac7b1c59bb8b78b1a78d7467a
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikg_hd@bk.ru>

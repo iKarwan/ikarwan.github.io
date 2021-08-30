@@ -89,12 +89,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.4",
+               "text":"1.1.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 29, 2021",
+               "text":"Aug 31, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -150,6 +150,18 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.1.5",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- add kill the app immediately when pressing the module",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
            {
                "title":"Version 1.1.4",
                "useBoldText":true,
