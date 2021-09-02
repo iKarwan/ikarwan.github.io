@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0.6-2",
+               "text":"3.1.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 11, 2021",
+               "text":"Sep 2, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -147,13 +147,13 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.0.6-2",
+               "title":"Version 3.1.4",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
            },
            {
-              "markdown":"- bug fixes & clean up\n- add center label",
+              "markdown":"- reversioned to be same as BigBoss version\n- bug fixes & clean up\n- add center label",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

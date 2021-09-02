@@ -1,6 +1,7 @@
 <changelog>
 	<changes>
-		<version>0.0.8-4</version>
+		<version>0.0.8-5</version>
+		<change>・add cc module for enabled/disabled</change>
 		<change>・bug fixes &amp; clean up</change>
 		<change>・add app appearance || Dark or Light</change>
 		<change>・add rounded corners</change>

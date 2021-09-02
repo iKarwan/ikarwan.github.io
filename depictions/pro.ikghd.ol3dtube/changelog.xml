@@ -1,6 +1,7 @@
 <changelog>
 	<changes>
-		<version>1.1.6-4</version>
+		<version>1.1.6-5</version>
+		<change>・add cc module for ease enabled/disabled oled mode</change>
 		<change>・clean up &amp; enhancements</change>
 		<change>・hide advertisment</change>
 		<change>・hide upload(+) tab</change>

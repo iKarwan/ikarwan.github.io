@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.iksettings</id>
     <name>iKSettings</name>
-    <version>1.0.6-2</version>
+    <version>3.1.4</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
 
         <date>
-          <date>Aug 11, 2021</date>
+          <date>Sep 2, 2021</date>
         </date>
 
         <price>

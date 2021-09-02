@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.6-4",
+               "text":"1.1.6-5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 18, 2021",
+               "text":"Sep 2, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -202,7 +202,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.6-4",
+               "title":"Version 1.1.6-5",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -211,7 +211,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-             "markdown":"- clean up & enhancements\n- fix an issue with alderis colorpicker\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- improve & enhancement\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- generral clean up & bug fixes",
+             "markdown":"- add cc module for ease enabled/disabled oled mode\n- clean up & enhancements\n- fix an issue with alderis colorpicker\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- improve & enhancement\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- generral clean up & bug fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },
