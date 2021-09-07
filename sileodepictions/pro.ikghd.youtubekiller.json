@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0.6",
+               "text":"1.1.0.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 2, 2021",
+               "text":"Sep 7, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -302,7 +302,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.0.6",
+               "title":"Version 1.1.0.7",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
