@@ -102,13 +102,14 @@ Version: 2.0.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Replaces: pro.ikghd.ictmiz
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.ictmizxiv_2.0.1_iphoneos-arm.deb
-Size: 368140
+Size: 367378
 Installed-Size: 2824
-MD5sum: 320ea121b7e6fa186912397a3f905a7e
-SHA1: d6f416ca32e1d20979b9002162ef397f1752c221
-SHA256: f2f32ca790de152b0b5b639252705ddf7cd60bd3b174a3ae143fb4b43579c3de
+MD5sum: dfcebb05747ffc0f771d97dd47bf355e
+SHA1: 1bfc39e1db4a38422dcdfdd721a24f1badabd04d
+SHA256: f12eedb444b6b5b8c3cf998048785cae020e73b7cfc30eaa79e08dbe6aa122c0
 Description: i Customize Not U appl !...
 Name: iCTMiZ XiV
 Author: iKarwan <ikg_hd@bk.ru>
@@ -325,11 +326,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.5_iphoneos-arm.deb
-Size: 525582
-Installed-Size: 3052
-MD5sum: e607a55707a85d90f9cbe5447e7d1fc4
-SHA1: f04770c283fcc8dd10f7945db71542f55e372c56
-SHA256: 2f432aef3e478e41bc4e44b98ccf5fefea70ed8838149cd5db35364818eb127d
+Size: 570134
+Installed-Size: 3212
+MD5sum: 8de77d3bc863b0c34f06caa70599e5d5
+SHA1: 99bd09853ccfd696671a0e58576564c71cac27b7
+SHA256: 98a81cec064414a9ba1279b1acb759d7671e6be867052e52db0bfa9b7009fb9e
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
