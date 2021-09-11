@@ -306,11 +306,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.0_iphoneos-arm.deb
-Size: 573622
-Installed-Size: 3144
-MD5sum: d8fad87280ee87685e511ec5d171adde
-SHA1: 62840a91daccc1384ae7cf602fda19c829dc6eec
-SHA256: 91ea59a097d2eb89c9293e595084f403f4f246622a4c9b7d06cbc464d938d665
+Size: 573296
+Installed-Size: 3160
+MD5sum: a14ca515943faebd5dc96a9631401628
+SHA1: 2dc76e3293c2705b25ffdcc1a404322cd0fd4868
+SHA256: eee5bb6cfa39cd3a7dc77a11ec53e09c31fc65a4615377a7310446cc8ad5ecae
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
