@@ -50,7 +50,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "\"PMP\" Protect My Photos iOS 11/12/13",
+                "markdown": "\"PMP\" Protect My Photos",
                 "useSpacing": true
             },
 
@@ -89,12 +89,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5",
+               "text":"1.1.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 31, 2021",
+               "text":"Sep 20, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -150,6 +150,18 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.1.6",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- add face-id touch-id protection\n- re add cephei cause needed",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
            {
                "title":"Version 1.1.5",
                "useBoldText":true,

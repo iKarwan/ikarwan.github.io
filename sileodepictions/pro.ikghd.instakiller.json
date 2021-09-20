@@ -95,7 +95,7 @@
             },
 
             {
-              "title":"buy :: $1.49 الشـراء",
+              "title":"50% off now = ٥٠٪ تخفيض الان",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/iNstaKiller",
                "class":"DepictionTableButtonView"
@@ -149,18 +149,18 @@
             },
             {
                "title":"Version",
-               "text":"0.0.8-7",
+               "text":"0.0.8-8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 8, 2021",
+               "text":"Sep 20, 2021",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Price",
-               "text":"$1.49 USD",
+               "text":"$1.00 USD",
                "class":"DepictionTableTextView"
             },
             {
@@ -216,7 +216,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 0.0.8-7",
+               "title":"Version 0.0.8-8",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -225,7 +225,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-             "markdown":"- add cc module for enabled/disabled\n- add app appearance || Dark or Light\n- bug fixes & clean up\n- add rounded corner \n- add use classic layouts \n- bug fixes & clean up",
+             "markdown":"- now u can buy it via bitcoin crypto will be always for 1$ with $BTC\n- bug fixes & clean up\n- add cc module for enabled/disabled\n- add app appearance || Dark or Light\n- bug fixes & clean up\n- add rounded corner \n- add use classic layouts \n- bug fixes & clean up",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

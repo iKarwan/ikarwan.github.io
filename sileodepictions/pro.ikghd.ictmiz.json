@@ -259,7 +259,7 @@
 
 
             {
-              "title":"buy :: $1.99 الشـراء",
+              "title":"50% off now = ٥٠٪ تخفيض الان",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/checkout1",
                "class":"DepictionTableButtonView"
@@ -320,18 +320,18 @@
             },
             {
                "title":"Version",
-               "text":"1.2.1-4",
+               "text":"1.2.1-5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 7, 2021",
+               "text":"Sep 20, 2021",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Price",
-               "text":"$1.99 USD",
+               "text":"$1.00 USD",
                "class":"DepictionTableTextView"
             },
             {
@@ -388,7 +388,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.2.1-4",
+               "title":"Version 1.2.1-5",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -397,7 +397,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- bug fixes & clean up\n- change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- fix an issue related to color recent tab (Phone) !reported",
+               "markdown":"- now u can buy it via bitcoin crypto will be always for 1$ with $BTC\n- bug fixes & clean up\n- change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- fix an issue related to color recent tab (Phone) !reported",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

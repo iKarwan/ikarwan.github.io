@@ -1,8 +1,11 @@
 <changelog>
 	<changes>
-		<version>0.0.8-7</version>
-		<change>・add cc module for enabled/disabled</change>
+		<version>0.0.8-8</version>
+		<change>・now onsale only 1$ USD</change>
+		<change>・now u can buy it via bitcoin crypto will be always for 1$ with $BTC</change>
 		<change>・bug fixes &amp; clean up</change>
+
+		<change>・add cc module for enabled/disabled</change>
 		<change>・add app appearance || Dark or Light</change>
 		<change>・add rounded corners</change>
 		<change>・add use classic layouts</change>

@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.6-6",
+               "text":"1.1.6-7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 7, 2021",
+               "text":"Sep 20, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -202,7 +202,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.6-6",
+               "title":"Version 1.1.6-7",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -211,7 +211,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-             "markdown":"- add cc module for ease enabled/disabled oled mode\n- clean up & enhancements\n- fix an issue with alderis colorpicker\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- improve & enhancement\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- generral clean up & bug fixes",
+             "markdown":"- now u can buy it via bitcoin crypto will be always for 1$ with $BTC\n- bug fixes & clean up\n- add cc module for ease enabled/disabled oled mode\n- fix an issue with alderis colorpicker\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- improve & enhancement\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- generral clean up & bug fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

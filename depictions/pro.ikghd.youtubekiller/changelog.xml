@@ -1,6 +1,10 @@
 <changelog>
 	<changes>
-		<version>1.1.0.7</version>
+		<version>1.1.0.8</version>
+		<change>・now onsale only 1$ USD</change>
+		<change>・now u can buy it via bitcoin crypto will be always for 1$ with $BTC</change>
+		<change>・bug fixes &amp; clean up</change>
+
 		<change>・add cc module for ease enabled/disabled oled mode</change>
 		<change>・add applock settings</change>
 		<change>・fix pip not working on YouTube version 16.25.4 (Streaming)</change>
@@ -13,7 +17,6 @@
 		<change>・forgotton: change sparkcolorpicker to HB alderis color picker</change>
 		<change>・change the apply button to be applied with in features Enabled/Disabled buttons</change>
 		<change>・add latest procursus bootstrap compatibility</change>
-		<change>・general cleanup &amp; fixes</change>
 	</changes>
 	<changes>
 		<version>1.0.6</version>

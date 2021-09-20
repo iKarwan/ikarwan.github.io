@@ -1,17 +1,17 @@
 <changelog>
 	<changes>
-		<version>1.1.6-6</version>
+		<version>1.1.6-7</version>
+		<change>・now u can buy it via bitcoin crypto</change>
+		<change>・bug fixes &amp; clean up</change>
+
 		<change>・add cc module for ease enabled/disabled oled mode</change>
-		<change>・clean up &amp; enhancements</change>
 		<change>・hide advertisment</change>
 		<change>・hide upload(+) tab</change>
 		<change>・play in background</change>
 		<change>・fix an issue with alderis colorpicker</change>
-		<change>・improve</change>
 		<change>・forgotton: change sparkcolorpicker to HB alderis color picker</change>
 		<change>・change the apply button to be applied with in features Enabled/Disabled buttons</change>
 		<change>・add latest procursus bootstrap compatibility</change>
-		<change>・generral clean up &amp; bug fixes</change>
 	</changes>
 	<changes>
 		<version>1.1.3</version>
