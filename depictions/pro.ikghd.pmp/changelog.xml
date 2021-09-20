@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.1.5</version>
+		<version>1.1.6</version>
 		<change>・add face-id touch-id protection</change>
 		<change>・re add cephei cause needed</change>
 	</changes>
