@@ -1,7 +1,10 @@
 <changelog>
 	<changes>
 		<version>2.0.1.5</version>
+		<change>・now onsale only 1$ USD</change>
+		<change>・now u can buy it via bitcoin crypto will be always for 1$ with $BTC</change>
 		<change>・bug fixes &amp; clean up</change>
+
 		<change>・add cc module for enabled/disabled</change>
 		<change>・add lock apps with face-id touch-id</change>
 		<change>・add disable pasted from..(SystemWide)</change>
