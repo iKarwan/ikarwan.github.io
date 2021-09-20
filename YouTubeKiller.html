@@ -42,7 +42,7 @@
 </div>
 
     <hr>
-    <span id="display-name">$1.99 USD</span>
+    <span id="display-name">$1.00 USD</span>
     <hr>
 
     <div id="smart-button-container">
@@ -64,7 +64,7 @@
 
         createOrder: function(data, actions) {
           return actions.order.create({
-            purchase_units: [{"description":"Experience YOuTube Like You Want!","amount":{"currency_code":"USD","value":1.99}}]
+            purchase_units: [{"description":"Experience YOuTube Like You Want!","amount":{"currency_code":"USD","value":1.00}}]
           });
         },
 
