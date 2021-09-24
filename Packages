@@ -199,6 +199,26 @@ Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.instakiller
 SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.instakiller.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.instakiller.png
 
+Package: pro.ikghd.instakiller
+Version: 0.0.8
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0), com.opa334.ccsupport
+Conflicts: com.haoict.instanoads, com.unliapps.gramplus, prasa.instagramplus, com.lema.michael.rhino
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.instakiller_0.0.8_iphoneos-arm.deb
+Size: 403918
+Installed-Size: 1860
+MD5sum: dd588c95fa564bfc68fd6609897263e0
+SHA1: b474e03417bd7bbb2cd9935d34f460d1c9743d99
+SHA256: b16e45478b49df0a9a640238473c6b06a09be5de464dc5f62b51c72ac5798846
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.instakiller
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.instakiller.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.instakiller.png
+
 Package: pro.ikghd.libkdev
 Version: 1.0.0
 Section: System
@@ -282,15 +302,15 @@ Package: pro.ikghd.youtubekiller
 Version: 1.1.0.0
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 11.0), ws.hbang.alderis, com.opa334.ccsupport
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.0_iphoneos-arm.deb
-Size: 572166
-Installed-Size: 3160
-MD5sum: 02060487ae0def73572577c6b4f261ef
-SHA1: dcb30a87d9ca03663becf1fd6955a279ea65bdfc
-SHA256: 94c258901416b6ede32717b53df47aa4a53f39410c281de21d693a29512e20af
+Size: 540798
+Installed-Size: 3096
+MD5sum: 831734b66bc4d13acd5d60cf4097e8e5
+SHA1: cfe5d8f076fe06a7d4163d47e76eac184398c42a
+SHA256: 542e67f46e7872d62d3a06827994753324beb45089bd0760a8207743b85cc699
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
