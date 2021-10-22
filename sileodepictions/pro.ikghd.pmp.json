@@ -181,7 +181,7 @@
                "class":"DepictionSubheaderView"
            },
            {
-              "markdown":"- removed cephei depends\n- add hide hidden & trash photo separately\n- add hide camera image well separately\n- apply changes immediately\n- add control center module\n- requires ccsupport by opa334\n- add haptic feedback when pressing the module\n- fix access from camera image well\n- removed preference bundle",
+              "markdown":"- removed cephei depends\n- add hide hidden & trash photo separately\n- add hide recent taked photo on camera separately\n- apply changes immediately\n- add control center module\n- requires ccsupport by opa334\n- add haptic feedback when pressing the module\n- fix access from camera image well\n- removed preference bundle",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

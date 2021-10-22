@@ -12,7 +12,7 @@
 		<version>1.1.4</version>
 		<change>・removed cephei depends</change>
 		<change>・add hide hidden &amp; trash photo separately</change>
-		<change>・add hide camera image well separately</change>
+		<change>・add hide recent taked photo on camera separately</change>
 		<change>・apply changes immediately</change>
 		<change>・add control center module</change>
 		<change>・requires ccsupport by opa334</change>
