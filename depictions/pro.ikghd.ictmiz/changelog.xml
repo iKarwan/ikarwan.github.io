@@ -1,8 +1,8 @@
 <changelog>
 	<changes>
-		<version>1.2.1-5</version>
-		<change>・now onsale only 1$ USD</change>
-		<change>・now u can buy it via bitcoin crypto will be always for 1$ with $BTC</change>
+		<version>1.2.2</version>
+		<change>・improve activation server with new DNS</change>
+		<change>・now u can buy it via crypto's will be always for 1$ when paying via crypto</change>
 		<change>・bug fixes &amp; clean up</change>
 
 		<change>・change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons</change>

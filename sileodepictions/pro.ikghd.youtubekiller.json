@@ -177,7 +177,7 @@
             },
 
             {
-              "title":"50% off now = ٥٠٪ تخفيض الان",
+              "title":"buy :: $1.99 الشـراء",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/YouTubeKiller",
                "class":"DepictionTableButtonView"
@@ -236,17 +236,17 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0.8",
+               "text":"1.1.0.9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 20, 2021",
+               "text":"Nov 01, 2021",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Price",
-               "text":"$1.00 USD",
+               "text":"$1.99 USD",
                "class":"DepictionTableTextView"
             },
             {
@@ -302,7 +302,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.0.7",
+               "title":"Version 1.1.0.9",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -311,7 +311,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-               "markdown":"- now u can buy it via bitcoin crypto will be always for 1$ with $BTC\n- bug fixes & clean up\n- add cc module for ease enabled/disabled oled mode\n- add applock settings\n- fix pip not working on YouTube version 16.25.4 (Streaming)\n- fix speed playback issue related to pip in Streaming\n- add hide short videos thanks to - MiRo92 - for providing it\n- add PiP feature (Streaming)\n- fix revert old quality selection causing the app to crash\n- other improve & optimization\n\n- add revert old quality selection (Streaming)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
+               "markdown":"- improve activation server with new DNS\n- now u can buy it via crypto's will be always for 1$ when paying via crypto\n- bug fixes & clean up\n- add cc module for ease enabled/disabled oled mode\n- add applock settings\n- fix pip not working on YouTube version 16.25.4 (Streaming)\n- fix speed playback issue related to pip in Streaming\n- add hide short videos thanks to - MiRo92 - for providing it\n- add PiP feature (Streaming)\n- fix revert old quality selection causing the app to crash\n- other improve & optimization\n\n- add revert old quality selection (Streaming)\n- fix a bug may cause the tweak not work for some users\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- general cleanup & fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

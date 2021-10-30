@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.0.8</version>
+    <version>1.1.0.9</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,28 +10,23 @@
     </compatibility>
 
     <date>
-      <date>Sep 20, 2021</date>
+      <date>Nov 01, 2021</date>
     </date>
 
     <price>
-      <price>$1.00 USD</price>
+      <price>$1.99 USD</price>
     </price>
 
 
     <descriptionlist>
-        <!--  <description>New YouTube Experience!</description> -->
-          <description>50% off now = ٥٠٪ تخفيض الان</description>
-<!--
-            <li>
-                <a href="https://twitter.com/ikg_hd/status/1329404610923143173?s=21">if u purchased on Yourepo Pls Read!: اذا شاري الاداة من قبل اقرأ</a>
-            </li>
+          <description>New YouTube Experience!</description>
+      <!--    <description>50% off now = ٥٠٪ تخفيض الان</description> -->
 
--->
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/YouTubeKiller">buy :: $1.00 الشـراء</a>
+                <a href="https://repo.ikghd.me/YouTubeKiller">buy :: $1.99 الشـراء</a>
             </li>
 
             <br>
@@ -154,3 +149,10 @@
 
     <links></links>
 </package>
+
+<!--
+            <li>
+                <a href="https://twitter.com/ikg_hd/status/1329404610923143173?s=21">if u purchased on Yourepo Pls Read!: اذا شاري الاداة من قبل اقرأ</a>
+            </li>
+
+-->

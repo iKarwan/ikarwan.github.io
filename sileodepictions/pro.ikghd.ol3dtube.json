@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.6-8",
+               "text":"1.1.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 23, 2021",
+               "text":"Nov 01, 2021",
                "class":"DepictionTableTextView"
             },
             {
@@ -202,7 +202,7 @@
          "tabname":"Changelog",
          "views":[
            {
-               "title":"Version 1.1.6-8",
+               "title":"Version 1.1.7",
                "useBoldText":true,
                "useBottomMargin":false,
                "class":"DepictionSubheaderView"
@@ -211,7 +211,7 @@
               "class":"DepictionSeparatorView"
            },
            {
-             "markdown":"- fix activation issue\n- now u can buy it via bitcoin crypto will be always for 1$ with $BTC\n- bug fixes & clean up\n- add cc module for ease enabled/disabled oled mode\n- fix an issue with alderis colorpicker\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- improve & enhancement\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- generral clean up & bug fixes",
+             "markdown":"- improve activation server with new DNS\n- now u can buy it via crypto's will be always for 1$ when paying via crypto\n- now u can buy it via bitcoin crypto will be always for 1$ with $BTC\n- bug fixes & clean up\n- add cc module for ease enabled/disabled oled mode\n- fix an issue with alderis colorpicker\n- forgotton: change sparkcolorpicker to HB alderis color picker\n- improve & enhancement\n- change the apply button to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- generral clean up & bug fixes",
                "useSpacing":true,
                "class":"DepictionMarkdownView"
            },

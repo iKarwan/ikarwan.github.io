@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ictmiz</id>
     <name>iCTMiZ Pro</name>
-    <version>1.2.1-5</version>
+    <version>1.2.2</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,23 +10,23 @@
     </compatibility>
 
         <date>
-          <date>Sep 20, 2021</date>
+          <date>Nov 01, 2021</date>
         </date>
 
         <price>
-          <price>$1.00 USD</price>
+          <price>$1.99 USD</price>
         </price>
 
 
     <descriptionlist>
-      <!-- <description>Contain Over 250+ features!</description> -->
-       <description>50% off now = ٥٠٪ تخفيض الان</description>
+       <description>Contain Over 250+ features!</description>
+      <!-- <description>50% off now = ٥٠٪ تخفيض الان</description> -->
 
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/checkout1">buy :: $1.00 الشـراء</a>
+                <a href="https://repo.ikghd.me/checkout1">buy :: $1.99 الشـراء</a>
             </li>
 
             <br>
