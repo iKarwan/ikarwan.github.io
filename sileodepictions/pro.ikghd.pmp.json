@@ -89,12 +89,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.6",
+               "text":"1.1.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 20, 2021",
+               "text":"Nov 10, 2021",
                "class":"DepictionTableTextView"
             },
 
@@ -150,6 +150,18 @@
       {
          "tabname":"Changelog",
          "views":[
+           {
+               "title":"Version 1.1.7",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- fix search tab photos appear when searched before",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
            {
                "title":"Version 1.1.6",
                "useBoldText":true,
