@@ -17,7 +17,13 @@
           <price>Free</price>
         </price>
 
+        <changelog>
+          <change>・fixed Appstore third party apps sapce</change>
+          <change>・add new modern apply button</change>
+          <change>・add hide Arrow Sign</change>
+        </changelog>
 
+        
     <descriptionlist>
         <description>Redefind Settings app:</description>
         <longdescription><![CDATA[
@@ -46,11 +52,4 @@
         </screenshot>
     </screenshots>
 
-    <changelog>
-      <change>・fixed Appstore third party apps sapce</change>
-      <change>・add new modern apply button</change>
-      <change>・add hide Arrow Sign</change>
-    </changelog>
-
-    <links></links>
 </package>

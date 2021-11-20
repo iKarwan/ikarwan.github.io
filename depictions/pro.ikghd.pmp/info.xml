@@ -17,7 +17,9 @@
           <price>Free</price>
         </price>
 
-
+        <changelog>
+          <change>・fix search tab photos appear when searched before</change>
+        </changelog>
 
     <descriptionlist>
         <description>"PMP" Protect My Photos:</description>
@@ -39,9 +41,4 @@
         </screenshot>
     </screenshots>
 
-    <changelog>
-      <change>・add control center module</change>
-    </changelog>
-
-    <links></links>
 </package>

@@ -18,6 +18,10 @@
         </price>
 
 
+            <changelog>
+              <change>・improve &amp; enhancement</change>
+            </changelog>
+
     <descriptionlist>
         <description>Some useful features for systemwide:</description>
         <longdescription><![CDATA[
@@ -43,9 +47,4 @@
         </screenshot>
     </screenshots>
 
-    <changelog>
-      <change>・improve &amp; enhancement</change>
-    </changelog>
-
-    <links></links>
 </package>

@@ -17,6 +17,10 @@
           <price>Free</price>
         </price>
 
+    <changelog>
+      <change>・new release</change>
+    </changelog>
+
 
     <descriptionlist>
         <description>inspired by a flower name:</description>
@@ -34,9 +38,4 @@
         </screenshot>
     </screenshots>
 
-    <changelog>
-      <change>・new release</change>
-    </changelog>
-
-    <links></links>
 </package>

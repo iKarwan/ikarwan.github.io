@@ -17,7 +17,11 @@
           <price>Free</price>
         </price>
 
+        <changelog>
+          <change>・chnged from hidefleets to hidespace features</change>
+        </changelog>
 
+        
     <descriptionlist>
         <description>Hide twitter !space:</description>
         <longdescription><![CDATA[
@@ -37,9 +41,4 @@
         </screenshot>
     </screenshots>
 
-    <changelog>
-      <change>・chnged from hidefleets to hidespace features</change>
-    </changelog>
-
-    <links></links>
 </package>

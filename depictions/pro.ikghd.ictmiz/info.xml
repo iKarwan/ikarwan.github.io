@@ -17,6 +17,12 @@
           <price>$1.99 USD</price>
         </price>
 
+    <changelog>
+      <change>・now u can buy it via crypto's will be always for 1$ when paying via crypto</change>
+      <change>・improve filter between apps and system hooks</change>
+      <change>・add hide upload (+) tab (YouTube)</change>
+    </changelog>
+
 
     <descriptionlist>
        <description>Contain Over 250+ features!</description>
@@ -149,10 +155,4 @@
         </screenshot>
     </screenshots>
 
-    <changelog>
-      <change>・improve filter between apps and system hooks</change>
-      <change>・add hide upload (+) tab (YouTube)</change>
-    </changelog>
-
-    <links></links>
 </package>
