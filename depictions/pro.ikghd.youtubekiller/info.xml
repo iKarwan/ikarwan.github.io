@@ -17,6 +17,11 @@
       <price>$1.99 USD</price>
     </price>
 
+    <changelog>
+      <change>・add applock settings</change>
+      <change>・or add se</change>
+    </changelog>
+
 
     <descriptionlist>
           <description>New YouTube Experience!</description>
@@ -143,11 +148,7 @@
         </screenshot>
     </screenshots>
 
-    <changelog>
-      <change>・add applock settings</change>
-    </changelog>
 
-    <links></links>
 </package>
 
 <!--
