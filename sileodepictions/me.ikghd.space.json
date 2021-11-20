@@ -2,9 +2,7 @@
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.space/Images/Banner.jpg",
    "tintColor":"#BED3F3",
-   "tabs":[
       {
-         "tabname":"Details",
          "views":[
             {
                 "itemCornerRadius":6,
@@ -147,7 +145,5 @@
 
          ],
          "class":"DepictionStackView"
-      }
-   ],
-   "class":"DepictionTabView"
+
 }
