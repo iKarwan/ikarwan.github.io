@@ -59,7 +59,7 @@
 
 
                             {
-                               "title":"Latest Changes",
+                               "title":"What's New",
                                "class":"DepictionHeaderView"
                             },
 
@@ -134,24 +134,7 @@
                "spacing":10,
                "class":"DepictionSpacerView"
             }
-         ],
-         "class":"DepictionStackView"
-      },
-      {
-         "tabname":"Changelog",
-         "views":[
 
-             {
-                 "title":"Version 1.0.0",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-               "markdown":"- new release",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
          ],
          "class":"DepictionStackView"
       }

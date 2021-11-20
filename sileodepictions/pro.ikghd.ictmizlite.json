@@ -64,7 +64,7 @@
 
 
         {
-           "title":"Latest Changes",
+           "title":"What's New",
            "class":"DepictionHeaderView"
         },
 
@@ -140,48 +140,7 @@
      ],
      "class":"DepictionStackView"
   },
-  {
-     "tabname":"Changelog",
-     "views":[
 
-       {
-           "title":"Version 1.0.2",
-           "useBoldText":true,
-           "useBottomMargin":false,
-           "class":"DepictionSubheaderView"
-       },
-       {
-          "markdown":"- improve & enhancement",
-           "useSpacing":true,
-           "class":"DepictionMarkdownView"
-       },
-
-         {
-             "title":"Version 1.0.1",
-             "useBoldText":true,
-             "useBottomMargin":false,
-             "class":"DepictionSubheaderView"
-         },
-         {
-            "markdown":"- improve the code\n- clean up",
-             "useSpacing":true,
-             "class":"DepictionMarkdownView"
-         },
-
-         {
-             "title":"Version 1.0.0",
-             "useBoldText":true,
-             "useBottomMargin":false,
-             "class":"DepictionSubheaderView"
-         },
-         {
-            "markdown":"- new release",
-             "useSpacing":true,
-             "class":"DepictionMarkdownView"
-         },
-     ],
-     "class":"DepictionStackView"
-  }
 ],
 "class":"DepictionTabView"
 }

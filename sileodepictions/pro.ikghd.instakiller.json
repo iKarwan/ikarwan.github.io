@@ -128,7 +128,7 @@
 
 
                             {
-                               "title":"Latest Changes",
+                               "title":"What's New",
                                "class":"DepictionHeaderView"
                             },
 
@@ -209,111 +209,7 @@
                "spacing":10,
                "class":"DepictionSpacerView"
             }
-         ],
-         "class":"DepictionStackView"
-      },
-      {
-         "tabname":"Changelog",
-         "views":[
-           {
-               "title":"Version 0.0.9",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-             "markdown":"- improve activation server with new DNS\n- now u can buy it via crypto's will be always for 1$ when paying via crypto\n- bug fixes & clean up\n- add cc module for enabled/disabled\n- add app appearance || Dark or Light\n- bug fixes & clean up\n- add rounded corner \n- add use classic layouts \n- bug fixes & clean up",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 0.0.6",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-             "markdown":"- bug fixes & clean up",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 0.0.5",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-             "markdown":"- fix story URL issue",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 0.0.4",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-             "markdown":"- optimization",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 0.0.3",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-             "markdown":"- add show unsend message (miscellaneous)\n- add disable auto scroll (story)",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 0.0.2",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-             "markdown":"- redefind the preferences",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
 
-             {
-                 "title":"Version 0.0.1",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                "class":"DepictionSeparatorView"
-             },
-             {
-               "markdown":"- Initial Release",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
          ],
          "class":"DepictionStackView"
       }

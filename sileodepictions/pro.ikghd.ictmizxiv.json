@@ -265,7 +265,7 @@
 
 
                             {
-                               "title":"Latest Changes",
+                               "title":"What's New",
                                "class":"DepictionHeaderView"
                             },
 
@@ -349,138 +349,7 @@
             }
          ],
          "class":"DepictionStackView"
-      },
-      {
-         "tabname":"Changelog",
-         "views":[
-           {
-               "title":"Version 2.0.1.6",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- improve activation server with new DNS\n- now u can buy it via crypto's will be always for 1$ when paying via crypto\n- bug fixes & clean up\n- add cc module for enabled/disabled\n- add lock apps with face-id touch-id\n- optimization\n- add disable pasted from..(SystemWide)\n- add Done button to text editor..\n- add disable shutter sound..(Camera)\n- add like & tweet confirmation ?..(apps)\n- add ipad Ui style..(YTKiller)\n- transition from libsparkcolorpicker to HB alderis\n- other optimization\n- change the apply button ! in apps only ! to be applied with in features Enabled/Disabled buttons\n- add latest procursus bootstrap compatibility\n- add latest procursus bootstrap compatibility\n- add new (+) Tab (Safai)\n- add show exact time (Phone)\n- fix an issue related to color recent tab (Phone) !reported\n- other fixes & improvemnts",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 2.0.0",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- add app apearance dark & light\n- fix iconfly in effect\n- add hide notification exposure covid-19\n- fix hide app store third apps\n- other minor bug fixes\n- clean up & enhancements",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.5",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- minor bug fixes & enhancements",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.4",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- fix alignment date &amp; time\n- other minor bug fixes",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.3",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- add resize maduls & spacing (Control Center)\n- add custom icon colomn & rows (Icons)\n- other minor bug fixes",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.2",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- add hide AirDrop & Contacts (SystemWide)\n- other minor bug fixes",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.1",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- bug fixes & improvements\n- other changes in changelog",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.0beta",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "class":"DepictionSeparatorView"
-           },
-           {
-               "markdown":"- fix an issue with previous version",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-             {
-                 "title":"Version 1.0.0beta",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-                "class":"DepictionSeparatorView"
-             },
-             {
-                 "markdown":"- first build for ios14 support\n- Initial Release",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
-         ],
-         "class":"DepictionStackView"
+
       }
    ],
    "class":"DepictionTabView"

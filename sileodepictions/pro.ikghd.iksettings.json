@@ -65,7 +65,7 @@
 
 
                             {
-                               "title":"Latest Changes",
+                               "title":"What's New",
                                "class":"DepictionHeaderView"
                             },
 
@@ -140,92 +140,7 @@
                "spacing":10,
                "class":"DepictionSpacerView"
             }
-         ],
-         "class":"DepictionStackView"
-      },
-      {
-         "tabname":"Changelog",
-         "views":[
-           {
-               "title":"Version 3.1.4",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- reversioned to be same as BigBoss version\n- bug fixes & clean up\n- add center label",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.5",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- improve & enhancement",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.4",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- fixes hiding apply button on light mode",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-           {
-               "title":"Version 1.0.3",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- add new modern apply button\n- fixed Appstore third party apps space\n- add hide Arrow Sign",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
 
-           {
-               "title":"Version 1.0.2",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- fixed Appstore third party apps ios 14 & higher\n- add hide Exposure Notification ios 13.6 & higher",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-
-         {
-             "title":"Version 1.0.1",
-             "useBoldText":true,
-             "useBottomMargin":false,
-             "class":"DepictionSubheaderView"
-         },
-         {
-            "markdown":"- improve the code\n- clean up",
-             "useSpacing":true,
-             "class":"DepictionMarkdownView"
-         },
-
-             {
-                 "title":"Version 1.0.0",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-               "markdown":"- new release",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
          ],
          "class":"DepictionStackView"
       }

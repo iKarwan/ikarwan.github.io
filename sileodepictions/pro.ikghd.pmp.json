@@ -68,7 +68,7 @@
 
 
                             {
-                               "title":"Latest Changes",
+                               "title":"What's New",
                                "class":"DepictionHeaderView"
                             },
 
@@ -144,106 +144,7 @@
                "spacing":10,
                "class":"DepictionSpacerView"
             }
-         ],
-         "class":"DepictionStackView"
-      },
-      {
-         "tabname":"Changelog",
-         "views":[
-           {
-               "title":"Version 1.1.7",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- fix search tab photos appear when searched before",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
 
-           {
-               "title":"Version 1.1.6",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- add face-id touch-id protection\n- re add cephei cause needed",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-
-           {
-               "title":"Version 1.1.5",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- add kill the app immediately when pressing the module",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-
-           {
-               "title":"Version 1.1.4",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- removed cephei depends\n- add hide hidden & trash photo separately\n- add hide recent taked photo on camera separately\n- apply changes immediately\n- add control center module\n- requires ccsupport by opa334\n- add haptic feedback when pressing the module\n- fix access from camera image well\n- removed preference bundle",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-
-           {
-               "title":"Version 1.0.3",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- improve & enhancement",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-
-           {
-               "title":"Version 1.0.2",
-               "useBoldText":true,
-               "useBottomMargin":false,
-               "class":"DepictionSubheaderView"
-           },
-           {
-              "markdown":"- fixes access to photos inside camera for ios14",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-           },
-
-         {
-             "title":"Version 1.0.1",
-             "useBoldText":true,
-             "useBottomMargin":false,
-             "class":"DepictionSubheaderView"
-         },
-         {
-            "markdown":"- improve the code \n- clean up",
-             "useSpacing":true,
-             "class":"DepictionMarkdownView"
-         },
-             {
-                 "title":"Version 1.0.0",
-                 "useBoldText":true,
-                 "useBottomMargin":false,
-                 "class":"DepictionSubheaderView"
-             },
-             {
-               "markdown":"- new release",
-                 "useSpacing":true,
-                 "class":"DepictionMarkdownView"
-             },
          ],
          "class":"DepictionStackView"
       }
