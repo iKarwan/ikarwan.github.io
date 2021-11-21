@@ -9,6 +9,10 @@
         </firmware>
     </compatibility>
 
+    <version2>
+      <version2>2.0.1.6</version2>
+    </version2>
+
         <date>
           <date>Nov 01, 2021</date>
         </date>

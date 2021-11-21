@@ -9,6 +9,10 @@
         </firmware>
     </compatibility>
 
+    <version2>
+      <version2>3.1.4</version2>
+    </version2>
+
         <date>
           <date>Sep 2, 2021</date>
         </date>
@@ -23,7 +27,7 @@
           <change>・add hide Arrow Sign</change>
         </changelog>
 
-        
+
     <descriptionlist>
         <description>Redefind Settings app:</description>
         <longdescription><![CDATA[

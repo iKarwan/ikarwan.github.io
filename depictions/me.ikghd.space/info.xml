@@ -9,6 +9,10 @@
         </firmware>
     </compatibility>
 
+    <version2>
+      <version2>0.0.4</version2>
+    </version2>
+
         <date>
           <date>Aug 27, 2021</date>
         </date>
@@ -21,7 +25,7 @@
           <change>・chnged from hidefleets to hidespace features</change>
         </changelog>
 
-        
+
     <descriptionlist>
         <description>Hide twitter !space:</description>
         <longdescription><![CDATA[

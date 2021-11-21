@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- change sparkcolorpicker to HB alderis color picker",
+                                "markdown":"- fix some grey color were changed with new YouTube version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.7",
+               "text":"1.1.8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 01, 2021",
+               "text":"Nov 21, 2021",
                "class":"DepictionTableTextView"
             },
             {

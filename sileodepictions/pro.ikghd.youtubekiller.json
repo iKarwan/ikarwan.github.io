@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- add applock settings",
+                                "markdown":"- fix some oled color with new YouTube version\n- fix replace short with explorer on new YouTube version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0.9",
+               "text":"1.1.0.10",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 01, 2021",
+               "text":"Nov 21, 2021",
                "class":"DepictionTableTextView"
             },
             {
