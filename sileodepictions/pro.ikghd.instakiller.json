@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fix round thumbnails with newest iNsta Version\n- add disable single tap prevent iGTV Reels video to go fullscreen. for muste/unmute videos u can use the volume indicator button when this feature R enabled\n- add a chevron in left down corner to go fullscreen if u want to\n- fix all confirm to like Tap button &amp; double tap :)",
+                                "markdown":"- fix download for older instagram version v207.0 and below\n- fix Reel ProgressHUD not showing after 1one video downloading\n\n- fix round thumbnails with newest iNsta Version\n- add disable single tap prevent iGTV Reels video to go fullscreen. for muute/unmute videos u can use the volume indicator button when this feature R enabled\n- add a chevron in left down corner to go fullscreen if u want to\n- fix all confirm to like Tap button &amp; double tap :)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,7 +149,7 @@
             },
             {
                "title":"Version",
-               "text":"0.0.10",
+               "text":"0.0.11",
                "class":"DepictionTableTextView"
             },
             {
