@@ -26,7 +26,7 @@
           <change>・fix Reel ProgressHUD not showing after 1one video downloading</change>
           <change></change>
 
-          <change>・add disable single tap prevent iGTV Reels video to go fullscreen. for muute/unmute videos u can use the volume indicator button when this feature R enabled</change>
+          <change>・add disable single tap prevent iGTV Reels video to go fullscreen. for mute/unmute videos u can use the volume indicator button when this feature R enabled</change>
           <change>・add a chevron in left down corner to go fullscreen if u want to</change>
           <change>・fix all confirm to like Tap button &amp; double tap :)</change>
         </changelog>
