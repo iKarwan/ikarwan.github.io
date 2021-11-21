@@ -2,8 +2,6 @@
 <html lang="en">
 <head>
   <title>PackageName</title>
-  <link rel="shortcut icon" type="image/ico" href="assets/favicon.ico">
-
   <link rel="manifest" href="/site.webmanifest">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -89,8 +87,6 @@
 		,"#miniOS" : {"type":"text","source":"package>compatibility>firmware>miniOS"}
 		,"#maxiOS" : {"type":"text","source":"package>compatibility>firmware>maxiOS"}
 		,"#versionBadge" : {"type":"text","source":"package>version"}
-    ,"#priceBadge" : {"type":"text","source":"package>price"}
-    ,"#dateBadge" : {"type":"text","source":"package>date"}
         ,"#changesList"	:
 			{"type":"list"
 				,"source" :"package>changelog>change"
@@ -98,7 +94,22 @@
 				,"paragraphElement"	: "<li class='list-group-item'>"
 				,"emptyListCallback":function(e){$("#changesList").hide()}
 			}
-
+		,"#changelogLink" :
+            {"type":"custom"
+                ,"source" :"package>changelog>change"
+                ,"render":function(element, source){
+                    $("#changelogLink").remove();
+                    if ($(source).size() == 0) {
+                        return
+                    }
+                    // create changelog link
+                    $("#changesList").append(
+                        $("<a style='margin-left: 13px'>")
+                            .attr("href","changelog.html?p="+bundleid)
+                            .text("Changelog")
+                    );
+                }
+            }
 	}
     $( document ).ready(function() {
         $.ajax({
@@ -131,38 +142,20 @@
 
 	<div class="container" id="packageHeader" style="background-color: rgba(0, 0, 255, 0);">
 		<h1 id="packageName"></h1>
-		<h4 id="packageShortDesc" style="margin-bottom: -5px; color:orange;"></h4>
+		<h4 id="packageShortDesc" style="margin-bottom: -5px;"></h4>
 		<p id="packageLongDesc"></p>
 	</div>
 
-
-  <div class="container" style="margin-bottom: 15px;">
-    <h4>Version </h4>
-    <h4><span id="versionBadge" class="badge" /></h4>
-  </div>
-
-  <div class="container" style="margin-bottom: 15px;">
-    <h4>Updated </h4>
-    <h4><span id="dateBadge" class="badge" /></h4>
-  </div>
-
-  <div class="container" style="margin-bottom: 15px;">
-    <h4>Price </h4>
-    <h4><span id="priceBadge" class="badge" /></h4>
-  </div>
-
-
-  <div class="container" style="margin-bottom: 15px;">
+	<div class="container" style="margin-bottom: 15px;">
 		<h4>Compatibility</h4>
-		iOS/iPadOS <span id="miniOS" class="info" style="font-size: 16px; color:coral;"></span> - <span id="maxiOS" class="info" style="font-size: 16px; color:coral;"></span>
+		This tweak supports iOS <span id="miniOS" class="info" style="font-size: 16px; color:coral;"></span> - <span id="maxiOS" class="info" style="font-size: 16px; color:coral;"></span>
 	</div>
 
-
-  <div class="container" style="margin-bottom: 15px;">
-		<h4>What's New <span id="versionBadge" class="badge" /></h4>
+	<div class="container" style="margin-bottom: 15px;">
+		<h4>Changes for version <span id="versionBadge" class="badge" /></h4>
 		<ul id="changesList" class="list-group">
+		<li id="changelogLink" />
 	</div>
-
 
 </div>
 
@@ -231,8 +224,8 @@
 	</div>
 
 
+	<div class="container" style="margin-bottom: 10px; color: gray; text-align: center;">Lightmann | 2020</div>
 
-  <div class="container" style="margin-bottom: 10px; color: gray; text-align: center;">© 2020 | iKarwan</div>
 
 </body>
 </html>
