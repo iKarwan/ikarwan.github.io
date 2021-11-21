@@ -302,7 +302,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS/iPadOS 14.0 - 15.0",
+               "text":"iOS 14.0 - 14.8",
                "class":"DepictionTableTextView"
             },
             {
