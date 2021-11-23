@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.0.10</version>
+    <version>1.1.0.10-1</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.1.0.10</version2>
+      <version2>1.1.0.10-1</version2>
     </version2>
 
     <date>
-      <date>Nov 21, 2021</date>
+      <date>Nov 23, 2021</date>
     </date>
 
     <price>
@@ -22,6 +22,10 @@
     </price>
 
     <changelog>
+      <change>・add compatibility version on YouTubeKiller section</change>
+      <change></change>
+      <change></change>
+
       <change>・fix some oled color with new YouTube version</change>
       <change>・fix replace short with explorer on new YouTube version</change>
     </changelog>

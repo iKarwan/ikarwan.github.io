@@ -180,26 +180,6 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.iksettings.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.iksettings.png
 
 Package: pro.ikghd.instakiller
-Version: 0.0.11
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0), com.opa334.ccsupport
-Conflicts: com.haoict.instanoads, com.unliapps.gramplus, prasa.instagramplus, com.lema.michael.rhino
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.instakiller_0.0.11_iphoneos-arm.deb
-Size: 566316
-Installed-Size: 2032
-MD5sum: 62da6504c36f64be23efd275c94c717c
-SHA1: a9735a365d294295784bf50a33fb4c1f48cf4c2d
-SHA256: f107feda46dc2b9300fc8de8325434fdca14495b4035847884b494705804e78f
-Description: iNstagram app no ad’s Media Downloads and much more...
-Name: iNstaKiller
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.instakiller
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.instakiller.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.instakiller.png
-
-Package: pro.ikghd.instakiller
 Version: 0.0.10
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
@@ -212,6 +192,26 @@ Installed-Size: 1908
 MD5sum: 4d10f328894829cd67622e986a19d163
 SHA1: f4fb513bf22fa9a8c85bf6eecc74232ad344cbeb
 SHA256: 494072a6882e586d8a87f81db8337d3c8a09bf798683dd2379c8a209d507e691
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.instakiller
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.instakiller.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.instakiller.png
+
+Package: pro.ikghd.instakiller
+Version: 0.0.11-1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0), com.opa334.ccsupport
+Conflicts: com.haoict.instanoads, com.unliapps.gramplus, prasa.instagramplus, com.lema.michael.rhino
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.instakiller_0.0.11-1_iphoneos-arm.deb
+Size: 579140
+Installed-Size: 2040
+MD5sum: aaf9e705cc78623c9b892a43d3894ce6
+SHA1: 8a0b8385d72faf75b0e5d118ed242967f8f50ab5
+SHA256: bd3140a9eec4665c2b6505de3d130fd9b0542d4b499d25055e0ddd36aa1549fc
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikg_hd@bk.ru>
@@ -279,18 +279,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.pmp.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.pmp.png
 
 Package: pro.ikghd.youtubekiller
-Version: 1.1.0.10
+Version: 1.1.0.10-1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.10_iphoneos-arm.deb
-Size: 726904
-Installed-Size: 3196
-MD5sum: 372154fa023162f2ce1ef6da56229b59
-SHA1: f112ada0d52d8b484a2305bbc5a5b6b85a05beed
-SHA256: c058daad31309538358b2abea9e371c34dfd72a912e139aacd59f5c9c89951ab
+Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.10-1_iphoneos-arm.deb
+Size: 709200
+Installed-Size: 2944
+MD5sum: 6e599a4a54f0c5ffe4eeeddc821f29b7
+SHA1: 6a1c97318b4cdd499a4c6133ee1d026e9dfaacc8
+SHA256: 9b517b3e29d7f72ae04be0a2fbbdd6ed9ba413edb7b5064f85137725ab58fc01
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
