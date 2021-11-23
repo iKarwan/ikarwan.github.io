@@ -207,11 +207,11 @@ Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (
 Conflicts: com.haoict.instanoads, com.unliapps.gramplus, prasa.instagramplus, com.lema.michael.rhino
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.instakiller_0.0.11-1_iphoneos-arm.deb
-Size: 579140
+Size: 579128
 Installed-Size: 2040
-MD5sum: aaf9e705cc78623c9b892a43d3894ce6
-SHA1: 8a0b8385d72faf75b0e5d118ed242967f8f50ab5
-SHA256: bd3140a9eec4665c2b6505de3d130fd9b0542d4b499d25055e0ddd36aa1549fc
+MD5sum: 6b158b8e5563034e7f1f64938a41e13f
+SHA1: 68488acb63d4dbb2f30d6d5f1f593774201d95ba
+SHA256: 142cb63e5cade500598704133bc1eada895332cfb86940805f43fe6ddc76a599
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikg_hd@bk.ru>
@@ -288,9 +288,9 @@ Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.10-1_iphoneos-arm.deb
 Size: 709200
 Installed-Size: 2944
-MD5sum: 6e599a4a54f0c5ffe4eeeddc821f29b7
-SHA1: 6a1c97318b4cdd499a4c6133ee1d026e9dfaacc8
-SHA256: 9b517b3e29d7f72ae04be0a2fbbdd6ed9ba413edb7b5064f85137725ab58fc01
+MD5sum: 579ac2c0f35a44394f2ab78ec916702f
+SHA1: bbd73af3aec8ae7e0ab27945538c90fa5f331baa
+SHA256: 93d448b725b84186863f5f5e368abe822b86d11a7c9384ef8f81538ded6a5ee3
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
