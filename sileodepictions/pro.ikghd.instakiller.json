@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- add compatibility version on iNstaKiller section\n\n\n- fix download for older instagram version v207.0 and below\n- fix Reel ProgressHUD not showing after 1one video downloading\n\n- fix round thumbnails with newest iNsta Version\n- add disable single tap prevent iGTV Reels video to go fullscreen. for mute/unmute videos u can use the volume indicator button when this feature R enabled\n- add a chevron in left down corner to go fullscreen if u want to\n- fix all confirm to like Tap button &amp; double tap :)",
+                                "markdown":"- fix some bug & visual effects\n\n\n- add compatibility version on iNstaKiller section\n- fix download for older instagram version v207.0 and below",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.11-1",
+               "text":"0.0.12",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 23, 2021",
+               "text":"Nov 25, 2021",
                "class":"DepictionTableTextView"
             },
 

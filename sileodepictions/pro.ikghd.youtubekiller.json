@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- add compatibility version on YouTubeKiller section\n\n\n-fix some oled color with new YouTube version\n- fix replace short with explorer on new YouTube version",
+                                "markdown":"- fix pip Features not working\n\n\n- add compatibility version on YouTubeKiller section\n- fix some oled color with new YouTube version\n- fix replace short with explorer on new YouTube version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0.10-1",
+               "text":"1.1.0.11",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 23, 2021",
+               "text":"Nov 25, 2021",
                "class":"DepictionTableTextView"
             },
             {
