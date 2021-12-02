@@ -187,11 +187,11 @@ Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (
 Conflicts: com.haoict.instanoads, com.unliapps.gramplus, prasa.instagramplus, com.lema.michael.rhino
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.instakiller_0.0.12_iphoneos-arm.deb
-Size: 459672
+Size: 437164
 Installed-Size: 2040
-MD5sum: 54cfdbfa00e08efe9b015bd501ae1d18
-SHA1: 290910f218124c8effc3a4263f54710fb84d86fa
-SHA256: aa4143b16b8df8f82b69cb70bdbe97e7a7c8bc555a3499c73cf8e56fcbeac695
+MD5sum: 363dc4faf56762c0598329e73cd3cb1a
+SHA1: 4b4bd19528ec0e0e24f6fd0cd3ff5f7d8e518616
+SHA256: ee33f69bcd4648702b500870a88c5e76d1cbc904c1cff3f462cf39ac1cc87e33
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikg_hd@bk.ru>
@@ -286,11 +286,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.11_iphoneos-arm.deb
-Size: 589102
+Size: 588988
 Installed-Size: 3212
-MD5sum: 8fbd33ae9d5a90e9b309a46c79cedbe1
-SHA1: 3700c083bfb4309b714d6e3c1fe6cba04511b422
-SHA256: a3ce7d8f4d2230a7493de54cff68b297acc2beb9ade1bf7426c52ae6a68141a9
+MD5sum: 796ae8c91ba0dd5283561073f05aafb8
+SHA1: 4c28a1766c8681244a77504fc7d69685b046f2c1
+SHA256: f6ca3cfaabecf6171eb994d736d98d6c9bc79f647527f877f9482e8293f68a38
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
