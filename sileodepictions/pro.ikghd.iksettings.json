@@ -70,7 +70,7 @@
                             },
 
                             {
-                                "markdown":"- add new modern apply button\n- fix Appstore third party apps space\n- add hide Arrow Sign",
+                                "markdown":"- add hide emergency SOS",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"3.1.4",
+               "text":"3.1.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 2, 2021",
+               "text":"Dec 12, 2021",
                "class":"DepictionTableTextView"
             },
 
