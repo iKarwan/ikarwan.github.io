@@ -184,14 +184,13 @@ Version: 0.0.13
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0), com.opa334.ccsupport
-Conflicts: com.haoict.instanoads, com.unliapps.gramplus, prasa.instagramplus, com.lema.michael.rhino
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.instakiller_0.0.13_iphoneos-arm.deb
-Size: 441962
+Size: 441526
 Installed-Size: 1836
-MD5sum: 092f7f3d28966d5ee819dbac02cb25ac
-SHA1: a29a5bbd860eb05d2906448f1f08cdd5607f576d
-SHA256: 898e6dacfdb6b2c02836f892e0fb726a747a275bed0dd87da823e6f243c6497b
+MD5sum: 7b404aa635ff4536ae4cb4ff1b743d3a
+SHA1: 3b7a90a3994150dabf0280ae0f7982616630bf73
+SHA256: faf00f6b65c8b01d99cdd83f92cb69cd49fe25d122134968e3f30b6682d1bcf4
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikg_hd@bk.ru>
@@ -263,14 +262,15 @@ Version: 1.1.0.12
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
-Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
+Provides: com.ps.youpip
+Replaces: com.ps.youpip
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.12_iphoneos-arm.deb
-Size: 545384
+Size: 545796
 Installed-Size: 2848
-MD5sum: ecab107c6d2d74e075dd4a96c3162d9d
-SHA1: 27c84c87417a307922689eae44e3c5578e96baab
-SHA256: a4c93c2fe602e21517302364280bd784005ac9ce825cd8d4d5237965962e6036
+MD5sum: 42f6cd54764de698045b716610f4482f
+SHA1: d06f2890e18202a4737dbd71ec639c6c5a1e9d3b
+SHA256: a99fe9f3756202ac2c7f8f04a2938826194cb8b976cd5469799079d7c344d8f5
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
