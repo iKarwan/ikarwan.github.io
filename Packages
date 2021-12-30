@@ -326,11 +326,11 @@ Provides: com.ps.youpip
 Replaces: com.ps.youpip
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.1_iphoneos-arm.deb
-Size: 486104
-Installed-Size: 2632
-MD5sum: 268c9816209a3921dcd9d2a98bfa7b3e
-SHA1: 05139f897070d38b5f6235d58b65c93b600e4570
-SHA256: 3008fdc6221c82b683463d25139f0c1fde85a6f8c6da634b0075c5fa59206308
+Size: 522842
+Installed-Size: 2668
+MD5sum: cfdde5a8fc0c6e58c330175cd2ce8592
+SHA1: c6a2535bb1fe99351c5d3ec0aa092f5e61cd57ae
+SHA256: 374756afd8ae72fcf2dd1868e55e6c0112bf2aed075a3103919b224a236aae97
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>
