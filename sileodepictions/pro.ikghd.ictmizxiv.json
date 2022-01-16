@@ -270,7 +270,7 @@
                             },
 
                             {
-                                "markdown":"- add disable flash light on (LockScreen) other bug fixes & improvements",
+                                "markdown":"- add disable flash light on (LockScreen) \n- other bug fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
