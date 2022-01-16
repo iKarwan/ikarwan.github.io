@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ictmizxiv</id>
     <name>iCTMiZ XiV</name>
-    <version>2.0.1.7</version>
+    <version>2.0.1.8</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -10,34 +10,32 @@
     </compatibility>
 
     <version2>
-      <version2>2.0.1.7</version2>
+      <version2>2.0.1.8</version2>
     </version2>
 
         <date>
-          <date>Dec 12, 2021</date>
+          <date>Jan 16, 2022</date>
         </date>
 
         <price>
-          <price>$1.00 USD</price>
+          <price>$1.99 USD</price>
         </price>
 
         <changelog>
-          <change>・add hide photos cc module</change>
-          <change>・add hide emergency SOS in (Settings)</change>
+          <change>・add disable flash light on (LockScreen)</change>
           <change>・bug fixes &amp; clean up</change>
         </changelog>
 
 
     <descriptionlist>
-    <!--  <description>Contain Over 250+ features!</description>
-      <description>50% off now = ٥٠٪ تخفيض الان</description>  --> <!-- buy :: $1.99 الشـراء --> <!-- 50% off now = ٥٠٪ تخفيض الان -->
-      <description>تخفيض من اجل الغالي كلاسك ومتابعينه @CydiaiOS15</description>
+      <description>Contain Over 250+ features!</description>
+       <!-- <description>50% off now = ٥٠٪ تخفيض الان</description>  --> <!-- buy :: $1.99 الشـراء --> <!-- 50% off now = ٥٠٪ تخفيض الان -->
 
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/checkout2">buy :: $1.00 الشـراء</a>
+                <a href="https://repo.ikghd.me/checkout2">buy :: $1.99 الشـراء</a>
             </li>
 
             <br>

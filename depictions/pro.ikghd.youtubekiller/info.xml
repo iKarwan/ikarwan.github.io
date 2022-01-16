@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.0.12</version>
+    <version>1.1.0.13</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
 
     <version2>
-      <version2>1.1.0.12</version2>
+      <version2>1.1.0.13</version2>
     </version2>
 
     <date>
@@ -18,29 +18,24 @@
     </date>
 
     <price>
-      <price>$1.00 USD</price>
+      <price>$1.99 USD</price>
     </price>
 
     <changelog>
-      <change>・fix pip Features not working</change>
-      <change></change>
-      <change></change>
-      <change>・add compatibility version on YouTubeKiller section</change>
-      <change>・fix some oled color with new YouTube version</change>
-      <change>・fix replace short with explorer on new YouTube version</change>
+      <change>・fix some oled section with latest youtube version</change>
+      <change>・Update compatibility version</change>
     </changelog>
 
 
     <descriptionlist>
-        <!--  <description>New YouTube Experience!</description>
-          <description>50% off now = ٥٠٪ تخفيض الان</description> -->
-      <description>تخفيض من اجل الغالي كلاسك ومتابعينه @CydiaiOS15</description>
+          <description>New YouTube Experience!</description>
+        <!--  <description>50% off now = ٥٠٪ تخفيض الان</description> -->
 
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/YouTubeKiller">buy :: $1.00 الشـراء</a>
+                <a href="https://repo.ikghd.me/YouTubeKiller">buy :: $1.99 الشـراء</a>
             </li>
 
             <br>

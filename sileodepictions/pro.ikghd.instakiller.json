@@ -95,7 +95,7 @@
             },
 
             {
-              "title":"تخفيض من اجل الغالي كلاسك ومتابعينه @CydiaiOS15",
+              "title":"buy :: $1.49 الشـراء",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/iNstaKiller",
                "class":"DepictionTableButtonView"
@@ -149,18 +149,18 @@
             },
             {
                "title":"Version",
-               "text":"0.0.13",
+               "text":"0.0.14",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Dec 12, 2021",
+               "text":"Jan 16, 2022",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Price",
-               "text":"$1.00 USD",
+               "text":"$1.49 USD",
                "class":"DepictionTableTextView"
             },
             {

@@ -177,7 +177,7 @@
             },
 
             {
-              "title":"تخفيض من اجل الغالي كلاسك ومتابعينه @CydiaiOS15",
+              "title":"buy :: $1.99 الشـراء",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/YouTubeKiller",
                "class":"DepictionTableButtonView"
@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- fix pip Features not working\n\n\n- add compatibility version on YouTubeKiller section\n- fix some oled color with new YouTube version\n- fix replace short with explorer on new YouTube version",
+                                "markdown":"- fix some oled section with latest youtube version\n- improvements\n- Update compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,17 +236,17 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0.12",
+               "text":"1.1.0.13",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Dec 12, 2021",
+               "text":"Jan 16, 2022",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Price",
-               "text":"$1.00 USD",
+               "text":"$1.99 USD",
                "class":"DepictionTableTextView"
             },
             {

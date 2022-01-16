@@ -225,7 +225,7 @@
             },
 
             {
-              "title":"تخفيض من اجل الغالي كلاسك ومتابعينه @CydiaiOS15",
+              "title":"buy :: $1.99 الشـراء",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/checkout2",
                "class":"DepictionTableButtonView"
@@ -270,7 +270,7 @@
                             },
 
                             {
-                                "markdown":"- add hide emergency SOS in settings\n- add hide photos cc modeule",
+                                "markdown":"- add disable flash light on (LockScreen) other bug fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -286,18 +286,18 @@
             },
             {
                "title":"Version",
-               "text":"2.0.1.7",
+               "text":"2.0.1.8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Dec 12, 2021",
+               "text":"Jan 16, 2022",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Price",
-               "text":"$1.00 USD",
+               "text":"$1.99 USD",
                "class":"DepictionTableTextView"
             },
             {
