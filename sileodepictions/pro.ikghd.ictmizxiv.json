@@ -270,7 +270,7 @@
                             },
 
                             {
-                                "markdown":"- improvements\n- add disable flash light on (LockScreen) \n- other bug fixes & improvements",
+                                "markdown":"- fix hide cc Grabber conflicts with hidden photos\n- improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
