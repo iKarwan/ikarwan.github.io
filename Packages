@@ -78,26 +78,6 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizlite.j
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizlite.png
 
 Package: pro.ikghd.ictmizxiv
-Version: 2.0.1.9
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), ws.hbang.alderis, com.spark.libsparkapplist, com.opa334.ccsupport
-Replaces: pro.ikghd.ictmiz
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmizxiv_2.0.1.9_iphoneos-arm.deb
-Size: 700986
-Installed-Size: 5060
-MD5sum: dfdd0eccf630aa97123afb14fb4a9246
-SHA1: fc3a424ba14f52ebd9e660183e9c21d2c52991bd
-SHA256: f3ac836d48111a59d8ed2b3c75558d428f2b70f3a2f72be78920aba513a541a1
-Description: i Customize Not U appl !...
-Name: iCTMiZ XiV
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizxiv
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizxiv.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizxiv.png
-
-Package: pro.ikghd.ictmizxiv
 Version: 2.0.1
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
@@ -110,6 +90,26 @@ Installed-Size: 2824
 MD5sum: dfcebb05747ffc0f771d97dd47bf355e
 SHA1: 1bfc39e1db4a38422dcdfdd721a24f1badabd04d
 SHA256: f12eedb444b6b5b8c3cf998048785cae020e73b7cfc30eaa79e08dbe6aa122c0
+Description: i Customize Not U appl !...
+Name: iCTMiZ XiV
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.ictmizxiv
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizxiv.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizxiv.png
+
+Package: pro.ikghd.ictmizxiv
+Version: 2.0.1.10
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), ws.hbang.alderis, com.spark.libsparkapplist, com.opa334.ccsupport
+Replaces: pro.ikghd.ictmiz
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmizxiv_2.0.1.10_iphoneos-arm.deb
+Size: 701298
+Installed-Size: 5060
+MD5sum: 332274a7db738f05a298315a593b896a
+SHA1: 468e2b5f9d6ebb1c39b26717277940003bff7183
+SHA256: 792499d0217b01969df1521e4de9af114d5c6decbcd913190d1cc119af20ff63
 Description: i Customize Not U appl !...
 Name: iCTMiZ XiV
 Author: iKarwan <ikg_hd@bk.ru>
