@@ -1,31 +1,152 @@
-{"minVersion":"0.3",
-"headerImage":"https://cdn.chariz.cloud/sileo-banner/eyeplugs.jpg",
+{
+   "minVersion":"0.1",
+   "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.space/Images/Banner.jpg",
+   "tintColor":"#BED3F3",
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[],
+            {
+                "itemCornerRadius":6,
+                "itemSize":"{160, 275.41333333333336}",
+                "screenshots":[
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
+                    }
+                ],
+                "ipad":{
+                    "itemCornerRadius":9,
+                    "itemSize":"{320, 550.8266666666667}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
+                        }
+                    ],
+                    "class":"DepictionScreenshotView"
+                },
+                "class":"DepictionScreenshotsView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
 
-"tintColor":"#444444",
-"class":"DepictionTabView",
-"views":[],
-"tabs":[{"class":"DepictionStackView",
-"tabname":"Details",
-"views":[{"class":"DepictionMarkdownView",
-"useSpacing":true,"useRawFormat":true,
-"markdown":"<style>html,body{font:-apple-system-body;line-height:1.4}p,h1,h2,h3,h4,h5,h6,ol,ul{margin:0 0 1rem 0}h1,h2,h3,h4,h5,h6{font-family:ui-rounded,-apple-system}pre,code{font-family:ui-monospace,Menlo,monospace;font-size:.8em}.small{font-size:.85em}ul{list-style-type:disc}ul ul,ol ul{list-style-type:circle}ul ul ul,ol ul ul,ol ol ul,ol ul ul{list-style-type:square}</style><div><p>\n</div>"},
-{"class":"DepictionImageView",
-"URL":"https://cdn.chariz.cloud/screenshot/eyeplugs/eyeplugs-1.jpg","width":750,"height":344,
-"accessibilityText":"",
-"cornerRadius":8,"horizontalPadding":16,
-"alignment":1},{"class":"DepictionSpacerView","spacing":6},
-{"class":"DepictionMarkdownView","useSpacing":true,
-"useRawFormat":true,
-"markdown":"<style>html,body{font:-apple-system-body;line-height:1.4}p,h1,h2,h3,h4,h5,h6,ol,ul{margin:0 0 1rem 0}h1,h2,h3,h4,h5,h6{font-family:ui-rounded,-apple-system}pre,code{font-family:ui-monospace,Menlo,monospace;font-size:.8em}.small{font-size:.85em}ul{list-style-type:disc}ul ul,ol ul{list-style-type:circle}ul ul ul,ol ul ul,ol ol ul,ol ul ul{list-style-type:square}</style><div></p>\n</div>"},
-{"class":"DepictionSeparatorView"},
-{"class":"DepictionMarkdownView",
-"useSpacing":true,
-"useRawFormat":true,"markdown":"<style>html,body{font:-apple-system-body;line-height:1.4}p,h1,h2,h3,h4,h5,h6,ol,ul{margin:0 0 1rem 0}h1,h2,h3,h4,h5,h6{font-family:ui-rounded,-apple-system}pre,code{font-family:ui-monospace,Menlo,monospace;font-size:.8em}.small{font-size:.85em}ul{list-style-type:disc}ul ul,ol ul{list-style-type:circle}ul ul ul,ol ul ul,ol ol ul,ol ul ul{list-style-type:square}</style><div><p>\nEyeplugs blocks notification banners in the apps you choose.</p>\n<p>\nIf any notifications were blocked, Eyeplugs will helpfully remind you to check your notification center once you switch apps.</p>\n</div>"},{"class":"DepictionSeparatorView"},{"class":"DepictionStackView","orientation":"landscape","views":[{"class":"DepictionSubheaderView","title":"New in Version 1.6.3","useBoldText":true,"useBottomMargin":false},{"class":"DepictionButtonView","action":"https://chariz.com/get/eyeplugs/changelog","openExternal":false,"isLink":true,"view":{"class":"DepictionLabelView","text":"Version History","fontSize":12,"alignment":2,"margins":"{21, 15, 6, 15}"}}]},{"class":"DepictionLabelView","text":"Released 6 months ago","fontSize":12,"margins":"{0, 15, 0, 15}"},{"class":"DepictionMarkdownView","useSpacing":true,"useRawFormat":true,"markdown":"<style>html,body{font:-apple-system-body;line-height:1.4}p,h1,h2,h3,h4,h5,h6,ol,ul{margin:0 0 1rem 0}h1,h2,h3,h4,h5,h6{font-family:ui-rounded,-apple-system}pre,code{font-family:ui-monospace,Menlo,monospace;font-size:.8em}.small{font-size:.85em}ul{list-style-type:disc}ul ul,ol ul{list-style-type:circle}ul ul ul,ol ul ul,ol ol ul,ol ul ul{list-style-type:square}body{font:inherit;font-size:.9em}</style><div><p>\nInitial Release on Chariz</p>\n</div>"},{"class":"DepictionSeparatorView"},{"class":"DepictionSubheaderView","title":"Released by","useBoldText":true,"useBottomMargin":false},{"class":"DepictionSpacerView","spacing":10},{"class":"DepictionStackView","xPadding":15,"views":[{"class":"DepictionLayerView","views":[{"class":"DepictionSpacerView","spacing":32},{"class":"DepictionLabelView","text":"The Holy Constituency of the Summer Triangle","fontSize":14,"fontWeight":"semibold","margins":"{2, 32, 2, 15}"},{"class":"DepictionImageView","URL":"https://img.chariz.cloud/user/profile-image/yG4sScfSF72r8GKQuxRCC5zZGsLcfiIu4lV5MWHCUs9BxSr0qwDLuHmWftvOtvuJqoyr4QHbH5I1SXlDpBadTw@3x.jpg?s=32","width":24,"height":24,"cornerRadius":12}]}]},{"class":"DepictionButtonView","action":"mailto:summertriangle.dev%40gmail.com?subject=Eyeplugs%20%E2%80%93%20Support","openExternal":true,"isLink":true,"view":{"class":"DepictionLabelView","text":"Email Support","fontSize":12,"margins":"{4, 15, 10, 15}"}},{"class":"DepictionSeparatorView"},{"class":"DepictionSubheaderView","title":"Compatibility","useBoldText":true,"useBottomMargin":false},{"class":"DepictionMarkdownView","useRawFormat":true,"markdown":"<style>html,body{font:-apple-system-body;line-height:1.4}p,h1,h2,h3,h4,h5,h6,ol,ul{margin:0 0 1rem 0}h1,h2,h3,h4,h5,h6{font-family:ui-rounded,-apple-system}pre,code{font-family:ui-monospace,Menlo,monospace;font-size:.8em}.small{font-size:.85em}ul{list-style-type:disc}ul ul,ol ul{list-style-type:circle}ul ul ul,ol ul ul,ol ol ul,ol ul ul{list-style-type:square}</style><p class=\"small\">Supports iPhone, iPad, and iPod touch running iOS 9.0 – 14.7.</p>"},{"class":"DepictionSeparatorView"},{"class":"DepictionMarkdownView","useRawFormat":true,"markdown":"<style>html,body{font:-apple-system-body;line-height:1.4}p,h1,h2,h3,h4,h5,h6,ol,ul{margin:0 0 1rem 0}h1,h2,h3,h4,h5,h6{font-family:ui-rounded,-apple-system}pre,code{font-family:ui-monospace,Menlo,monospace;font-size:.8em}.small{font-size:.85em}ul{list-style-type:disc}ul ul,ol ul{list-style-type:circle}ul ul ul,ol ul ul,ol ol ul,ol ul ul{list-style-type:square}</style><p class=\"small\">Prices are in US Dollars and include tax.</p>"},{"class":"DepictionButtonView","action":"https://chariz.com/","isLink":true,"yPadding":8,"text":"Chariz","view":{"class":"DepictionImageView","URL":"https://chariz.com/img/chariz-logo-head@3x.png","width":83,"height":30,"cornerRadius":0,"alignment":1,"accessibilityText":"Chariz"}},{"class":"DepictionMarkdownView","useRawFormat":true,"useSpacing":false,"markdown":"<style>html,body{font:-apple-system-body;line-height:1.4}p,h1,h2,h3,h4,h5,h6,ol,ul{margin:0 0 1rem 0}h1,h2,h3,h4,h5,h6{font-family:ui-rounded,-apple-system}pre,code{font-family:ui-monospace,Menlo,monospace;font-size:.8em}.small{font-size:.85em}ul{list-style-type:disc}ul ul,ol ul{list-style-type:circle}ul ul ul,ol ul ul,ol ol ul,ol ul ul{list-style-type:square}html,body{background:red;text-align:center}#links{display:inline-block;text-align:center;font-size:.8em}.sileo-is-broken{font-size:0}</style><div>
+            {
+                "title":"Features",
+                "class":"DepictionHeaderView"
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "Hide twitter space:",
+                "useSpacing": true
+            },
+
+            {
+                "useBottomMargin": false,
+                "markdown": "- Hide new twitter features !space:\n- اخفاء ميزة المساحة بالتويتر",
+                "useBoldText": true,
+                "title": "markdown-description",
+                "class": "DepictionMarkdownView"
+            },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
 
 
-}
-]
-}
+                            {
+                               "title":"What's New",
+                               "class":"DepictionHeaderView"
+                            },
 
-]
+                            {
+                                "markdown":"- chnged from hidefleets to hidespace features",
+                                "useSpacing":true,
+                                "class":"DepictionMarkdownView"
+                            },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
+
+            {
+               "title":"Information",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"0.0.4",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Updated",
+               "text":"Aug 27, 2021",
+               "class":"DepictionTableTextView"
+            },
+
+            {
+               "title":"Price",
+               "text":"Free",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Compatibility",
+               "text":"iOS 11.0 - 14.8",
+               "class":"DepictionTableTextView"
+            },
+
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Support",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Via PayPal",
+               "useBoldText": true,
+               "action":"https://www.paypal.com/paypalme/hiwajaf",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"Follow @iKarwan",
+               "useBoldText": true,
+               "action":"https://twitter.com/ikg_hd",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"YouTube Channel",
+               "useBoldText": true,
+               "action":"https://youtube.com/c/ikghd",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "spacing":10,
+               "class":"DepictionSpacerView"
+            }
+
+         ],
+         "class":"DepictionStackView"
+      }
+   "class":"DepictionTabView"
 }
