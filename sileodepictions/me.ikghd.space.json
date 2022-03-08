@@ -2,12 +2,13 @@
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.space/Images/Banner.jpg",
    "tintColor":"#BED3F3",
-
+   "tabs":[
+      {
 
          "views":[
             {
-                "itemCornerRadius":8,
-                "itemSize":"{170, 280.41333333333336}",
+                "itemCornerRadius":6,
+                "itemSize":"{160, 275.41333333333336}",
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
@@ -145,4 +146,7 @@
             }
 
          ],
+         "class":"DepictionStackView"
+      }
+   ],
 }
