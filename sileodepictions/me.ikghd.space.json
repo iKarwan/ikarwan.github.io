@@ -1,45 +1,37 @@
 {
-   "minVersion":"0.1",
-   "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.space/Images/Banner.jpg",
-   "tintColor":"#BED3F3",
-   "tabs":[
-      {
-         "tabname":"Details",
-         "views":[],
-            {
-                "itemCornerRadius":6,
-                "itemSize":"{160, 275.41333333333336}",
-                "screenshots":[
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
-                    }
-                ],
-                "ipad":{
-                    "itemCornerRadius":9,
-                    "itemSize":"{320, 550.8266666666667}",
-                    "screenshots":[
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG",
-                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG",
-                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
-                        }
-                    ],
-                    "class":"DepictionScreenshotView"
-                },
-                "class":"DepictionScreenshotsView"
-            },
+{"minVersion":"0.3",
+  "headerImage":"https://cdn.chariz.cloud/sileo-banner/prokeys.jpg",
+  "tintColor":"#5s22a5",
+
+  "class":"DepictionTabView",
+
+  "views":[],
+  "tabs":[{"class":"DepictionStackView",
+    "tabname":"Details",
+    "views":[{"class":"DepictionScreenshotsView",
+      "itemCornerRadius":8,"itemSize":"{160, 346}",
+      "screenshots":[{"url":"https://cdn.chariz.cloud/screenshot/prokeys/prokeys-1.0.1.mp4",
+        "accessibilityText":"",
+        "video":true},
+        {"url":"https://cdn.chariz.cloud/screenshot/prokeys/prokeys-2.jpg",
+          "accessibilityText":"",
+          "video":false},
+          {"url":"https://cdn.chariz.cloud/screenshot/prokeys/prokeys-3.jpg",
+            "accessibilityText":"",
+            "video":false},
+            {"url":"https://cdn.chariz.cloud/screenshot/prokeys/prokeys-4.jpg",
+              "accessibilityText":"",
+              "video":false},
+              {"url":"https://cdn.chariz.cloud/screenshot/prokeys/prokeys-5.jpg",
+                "accessibilityText":"",
+                "video":false},
+                {"url":"https://cdn.chariz.cloud/screenshot/prokeys/prokeys-6.jpg",
+                  "accessibilityText":"",
+                  "video":false}]},
+                  {"class":"DepictionSeparatorView"},
+                  {"class":"DepictionMarkdownView"},
+
+            
             {
                "class":"DepictionSeparatorView"
             },
@@ -145,7 +137,10 @@
                "class":"DepictionSpacerView"
             }
 
+         ],
+         "class":"DepictionStackView"
       }
-   "class":"DepictionTabView"
    ],
+   "class":"DepictionTabView"
+ }
 }
