@@ -1,6 +1,6 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://repo.ikghd.me/depictions/pro.ikghd.space/screenshots/space.PNG",
+   "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/space.PNG",
    "tintColor":"#4300EB",
    "tabs":[
       {
@@ -12,14 +12,13 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.space/screenshots/1.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.space/screenshots/1.PNG"
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG"
                     },
-
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.sapce/screenshots/2.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.space/screenshots/2.PNG"
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.sapce/screenshots/2.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
                     }
                 ],
                 "ipad":{
@@ -28,14 +27,14 @@
                     "screenshots":[
                       {
                           "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.space/screenshots/1.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.space/screenshots/1.PNG"
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG"
                       },
 
                       {
                           "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.sapce/screenshots/2.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.space/screenshots/2.PNG"
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.sapce/screenshots/2.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
                       }
                     ],
                     "class":"DepictionScreenshotView"
@@ -152,5 +151,4 @@
       }
    ],
    "class":"DepictionTabView"
- }
 }
