@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- add control center module",
+                                "markdown":"- Make it work outside the Photos App\n- fixes",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -89,12 +89,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.7",
+               "text":"1.1.8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 10, 2021",
+               "text":"Mar 22, 2022",
                "class":"DepictionTableTextView"
             },
 
