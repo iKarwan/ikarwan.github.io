@@ -231,6 +231,12 @@
                "class":"DepictionTableButtonView"
             },
             {
+              "title":"iOS 13 Version: نسخة iOS 13",
+               "useBoldText": true,
+               "action":"https://repo.ikghd.me/checkout1",
+               "class":"DepictionTableButtonView"
+            },
+            {
                "class":"DepictionSeparatorView"
             },
             {
