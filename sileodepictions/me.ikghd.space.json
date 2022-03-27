@@ -1,7 +1,7 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/space.PNG",
-   "tintColor":"#C4DEF6",
+   "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.space/Images/Banner.jpg",
+   "tintColor":"#BED3F3",
    "tabs":[
       {
          "tabname":"Details",
@@ -17,7 +17,7 @@
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/me.ikghd.sapce/screenshots/2.PNG",
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
                     }
                 ],
@@ -25,17 +25,16 @@
                     "itemCornerRadius":9,
                     "itemSize":"{320, 550.8266666666667}",
                     "screenshots":[
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG"
-                      },
-
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.sapce/screenshots/2.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
-                      }
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/1.PNG"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.space/screenshots/2.PNG"
+                        }
                     ],
                     "class":"DepictionScreenshotView"
                 },
@@ -69,7 +68,7 @@
 
 
                             {
-                               "title":"What's New",
+                               "title":"Latest Changes",
                                "class":"DepictionHeaderView"
                             },
 
@@ -106,7 +105,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 11.0 - 14.8",
+               "text":"iOS/iPadOS 11.0 - 15.0",
                "class":"DepictionTableTextView"
             },
 
@@ -145,7 +144,59 @@
                "spacing":10,
                "class":"DepictionSpacerView"
             }
+         ],
+         "class":"DepictionStackView"
+      },
+      {
+         "tabname":"Changelog",
+         "views":[
 
+           {
+               "title":"Version 0.0.4",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- chnged from hidefleets to hidespace features",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
+           {
+               "title":"Version 0.0.3",
+               "useBoldText":true,
+               "useBottomMargin":false,
+               "class":"DepictionSubheaderView"
+           },
+           {
+              "markdown":"- improve & enhancement",
+               "useSpacing":true,
+               "class":"DepictionMarkdownView"
+           },
+
+         {
+             "title":"Version 0.0.2",
+             "useBoldText":true,
+             "useBottomMargin":false,
+             "class":"DepictionSubheaderView"
+         },
+         {
+            "markdown":"- improve the code\n- clean up",
+             "useSpacing":true,
+             "class":"DepictionMarkdownView"
+         },
+             {
+                 "title":"Version 0.0.1",
+                 "useBoldText":true,
+                 "useBottomMargin":false,
+                 "class":"DepictionSubheaderView"
+             },
+             {
+               "markdown":"- initial release",
+                 "useSpacing":true,
+                 "class":"DepictionMarkdownView"
+             },
          ],
          "class":"DepictionStackView"
       }
