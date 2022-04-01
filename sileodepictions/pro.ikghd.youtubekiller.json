@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- add return dislike count\n- fix app themes to match the device settings\n- fix some oled section with latest youtube version\n- Update app compatibility version",
+                                "markdown":"- Update app compatibility version\n- Fixes",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0.14",
+               "text":"1.1.0.15",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Feb 24, 2022",
+               "text":"Apr 01, 2022",
                "class":"DepictionTableTextView"
             },
             {

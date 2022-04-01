@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- improvements\n- Update app compatibility version\n- fix download for newer instagram version v207.0 and above",
+                                "markdown":"- Update app compatibility version\n- fixes",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.15",
+               "text":"0.0.16",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Feb 24, 2022",
+               "text":"Apr 01, 2022",
                "class":"DepictionTableTextView"
             },
 
