@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- Update app compatibility version\n- fixes",
+                                "markdown":"- Update app compatibility version\n- fixing a possible crash for some users were reported on latest version!",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.15-1",
+               "text":"0.0.15-2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 01, 2022",
+               "text":"Apr 05, 2022",
                "class":"DepictionTableTextView"
             },
 
