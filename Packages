@@ -78,18 +78,18 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.ictmizxiv.js
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.ictmizxiv.png
 
 Package: pro.ikghd.ictmizxiv
-Version: 2.0.1.10
+Version: 2.0.1.11
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), ws.hbang.alderis, com.spark.libsparkapplist, com.opa334.ccsupport
 Replaces: pro.ikghd.ictmiz
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ictmizxiv_2.0.1.10_iphoneos-arm.deb
-Size: 701298
+Filename: .//debs/pro.ikghd.ictmizxiv_2.0.1.11_iphoneos-arm.deb
+Size: 701302
 Installed-Size: 5060
-MD5sum: 332274a7db738f05a298315a593b896a
-SHA1: 468e2b5f9d6ebb1c39b26717277940003bff7183
-SHA256: 792499d0217b01969df1521e4de9af114d5c6decbcd913190d1cc119af20ff63
+MD5sum: ab5690e32a344109ddca11d33f32ed82
+SHA1: 9527f8637a66966908fd5bd7ed25e95089e01720
+SHA256: 3335298dc84606362d65ce1c6d2116a540481f3625914af6c4685416e38074eb
 Description: i Customize Not U appl !...
 Name: iCTMiZ XiV
 Author: iKarwan <ikg_hd@bk.ru>
@@ -179,17 +179,17 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.instakiller.
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.instakiller.png
 
 Package: pro.ikghd.instakiller
-Version: 0.0.15-2
+Version: 0.0.16
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 14.0), com.opa334.ccsupport
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.instakiller_0.0.15-2_iphoneos-arm.deb
-Size: 439600
+Filename: .//debs/pro.ikghd.instakiller_0.0.16_iphoneos-arm.deb
+Size: 439590
 Installed-Size: 1816
-MD5sum: 77bba288a3b7a3fe3a14fd6eaa11b17f
-SHA1: 445ea02928ecbe00be94d1bc19b749a169ce59ca
-SHA256: 4c5dd68bdf90e36f3d32e510eba2f05d36ebc998a723ec3d81aa53649f3a6831
+MD5sum: fb3b3b615766b127fcb3a853dc9be1e9
+SHA1: e2a10cedc39be1de5d327b4fa3fd82c798169ac0
+SHA256: 07db2d8c06927aeb08563f7e9d762c793c9ad3ce8d173c2abd4690e88248a5d2
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikg_hd@bk.ru>
@@ -218,17 +218,17 @@ SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.libkdev.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.libkdev.png
 
 Package: pro.ikghd.ol3dtube
-Version: 1.1.9
+Version: 1.1.10
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ol3dtube_1.1.9_iphoneos-arm.deb
-Size: 142300
+Filename: .//debs/pro.ikghd.ol3dtube_1.1.10_iphoneos-arm.deb
+Size: 142308
 Installed-Size: 916
-MD5sum: ca8e4a1830f48be0eb3ed4a85f85bc13
-SHA1: 4b497b0dd2cc552e5453c4f1d72a44920a60b777
-SHA256: 9e6fa0d7070604757108932d8bdaf79fb867b94057fa7b8ee63ec3993776ed08
+MD5sum: fc34c4ce27c4dd1c5c5aed887de4aae4
+SHA1: d169e576f66ac05943ae0be5e43b69feb3d78d79
+SHA256: 70a861cfe64aa739d1c40c6ee688fba88db40a51e6712a8b7fe17ef576e2e788
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikg_hd@bk.ru>
@@ -255,6 +255,27 @@ Author: iKarwan <ikg_hd@bk.ru>
 Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.pmp
 SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.pmp.json
 Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.pmp.png
+
+Package: pro.ikghd.youtubekiller
+Version: 1.1.0.16
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
+Provides: com.ps.youpip
+Replaces: com.ps.youpip
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.16_iphoneos-arm.deb
+Size: 573280
+Installed-Size: 3040
+MD5sum: 45986bf36b78782437227f7ebf423bec
+SHA1: 3c21e46cb1445b15aca7fb2fef89d618d6e1f2a8
+SHA256: 17f34c8ce2f9d144046e1b69c743e21d630278c792c4d51ec7b584731ae7a618
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.youtubekiller
+SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.youtubekiller.json
+Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.youtubekiller.png
 
 Package: pro.ikghd.youtubekiller
 Version: 1.1.0.0
@@ -290,27 +311,6 @@ Installed-Size: 2668
 MD5sum: cfdde5a8fc0c6e58c330175cd2ce8592
 SHA1: c6a2535bb1fe99351c5d3ec0aa092f5e61cd57ae
 SHA256: 374756afd8ae72fcf2dd1868e55e6c0112bf2aed075a3103919b224a236aae97
-Description: Youtube app no ad’s background playback iPad UI style and much more !
-Name: YouTubeKiller
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://ikarwan.github.io/depictions/?p=pro.ikghd.youtubekiller
-SileoDepiction: https://ikarwan.github.io/sileodepictions/pro.ikghd.youtubekiller.json
-Icon: https://ikarwan.github.io/assets/icons/pro.ikghd.youtubekiller.png
-
-Package: pro.ikghd.youtubekiller
-Version: 1.1.0.15
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
-Provides: com.ps.youpip
-Replaces: com.ps.youpip
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.youtubekiller_1.1.0.15_iphoneos-arm.deb
-Size: 573804
-Installed-Size: 3040
-MD5sum: 0ebf518b685ca73f445b04d503b757b4
-SHA1: b1ecf62bcd1366bf1a011d456092372a25fb31d1
-SHA256: cf3b70c46683637f4beff3efff8955950c5e32e9ec8b7be59a835604a61056ca
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikg_hd@bk.ru>

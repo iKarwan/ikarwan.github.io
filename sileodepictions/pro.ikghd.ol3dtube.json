@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- add compatibility version on OL3DTube section\n- fix some grey color were changed with new YouTube version",
+                                "markdown":"- fixes & improvements\n- fix some grey color were changed with new YouTube version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.9",
+               "text":"1.1.10",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Feb 24, 2022",
+               "text":"Apr 06, 2022",
                "class":"DepictionTableTextView"
             },
             {

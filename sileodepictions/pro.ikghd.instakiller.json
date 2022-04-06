@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- Update app compatibility version\n- fixing a possible crash for some users were reported on latest version!",
+                                "markdown":"- improve the following You dispatch\n- improve the downloading in reeel\n- fixing a possible crash for some users were reported on latest version!",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.15-2",
+               "text":"0.0.16",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 05, 2022",
+               "text":"Apr 06, 2022",
                "class":"DepictionTableTextView"
             },
 

@@ -276,7 +276,7 @@
                             },
 
                             {
-                                "markdown":"- fix hide cc Grabber conflicts with hidden photos\n- improvements",
+                                "markdown":"- fix hide cc Grabber conflicts with hidden photos\n- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -292,12 +292,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.1.10",
+               "text":"2.0.1.11",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Mar 06, 2022",
+               "text":"Apr 06, 2022",
                "class":"DepictionTableTextView"
             },
 
