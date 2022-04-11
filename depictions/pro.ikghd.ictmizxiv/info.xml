@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ictmizxiv</id>
     <name>iCTMiZ XiV</name>
-    <version>2.0.1.11</version>
+    <version>2.0.2</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.0.1.11</version2>
+      <version2>2.0.2</version2>
     </version2>
 
         <date>
-          <date>Apr 06, 2022</date>
+          <date>Apr 12, 2022</date>
         </date>
 
         <price>
@@ -22,46 +22,35 @@
         </price>
 
         <changelog>
-          <change>・fixes &amp; improvements</change>
+          <change>・fixes a possible conflict with NiceBarX 14 killallapps features!</change>
+          <change>・other improvements</change>
         </changelog>
 
 
     <descriptionlist>
       <description>Contain Over 250+ features!</description>
-       <!-- <description>50% off now = ٥٠٪ تخفيض الان</description>  --> <!-- buy :: $1.99 الشـراء --> <!-- 50% off now = ٥٠٪ تخفيض الان -->
 
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/checkout2">buy :: $1.99 الشـراء</a>
+                <a href="https://repo.ikghd.me/checkout2">buy | $1.99</a>
             </li>
 
             <br>
               <br>
                 <li>
-                    <a href="https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmiz">iOS 13 Version: نسخة iOS 13</a>
+                    <a href="https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmiz">iOS 13 Version</a>
                 </li>
                 <br>
 
 		<br>English:
     <br>· i Customize Not You Appl
 	  <br>· included more then 250+ features
-		<br>· Compataible with iOS 14 & higher
-		<br>· Supported Languges English>عــربي >中文！
-		<br>
-		<br>عربي:
-		<br>· تخصيص النظام من الالف الى الياء تقريبا
-	  <br>· فيها اكتر من ٢٥٠+ ميزة
-	 	<br>· تدعم الاصدارات وما فوق/١٤
-    <br>
-    <br>Chinese:
-    <br>· 我自定义不是您appl
-    <br>· 包含了250多种功能
-    <br>· 支持iOS 14 / 更高
+		<br>· Compataible with iOS 14 to 14.8
     <br> <br>
     <li>
-        <a href="https://youtu.be/0aGJi5a78lI">Demo Via YouTube : استعراض المميزات</a>
+        <a href="https://youtu.be/0aGJi5a78lI">Demo Via YouTube</a>
     </li>
     <br>
 
@@ -75,15 +64,12 @@
                 <br>
                 <br>
 
-                  <br>Purchased before or Changing device : تم شراؤها من قبل أو تغيير الجهاز ?
-                        <br>· send a proof & UDID to the email <a href = "mailto: ict-pro@bk.ru?cc=&subject=iCTMiZ XiV&body=Pls send a photo proof of the purchase! and Paste Your UDID down below::">Send Mail:ارسل الايميل</a> to reactivate ur liscence!
-                        <br>· لاعادة تنشيط ترخيصك ارسل اثباتاَ مع اليودي ا يدي الى الايميل
-                        <br>
+                  <br>Purchased before or Changing device ?
+                        <br>· send a proof & UDID to the email <a href = "mailto: ict-pro@bk.ru?cc=&subject=iCTMiZ XiV&body=Pls send a photo proof of the purchase! and Paste Your UDID down below::">Send Mail:</a> to reactivate ur liscence!
                         <br>
 
-                  <br>Multiple Device : عدد الاجهزة
+                  <br>Multiple Devices!
                   <br>· you can add up to 3 devices with one purchase
-                  <br>· يمكنك اضافة  حتى ٣ ثلاثة اجهزة مع الشراء واحد
                   <br>
 
 

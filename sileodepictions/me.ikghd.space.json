@@ -56,7 +56,7 @@
 
             {
                 "useBottomMargin": false,
-                "markdown": "- Hide new twitter features !space:\n- اخفاء ميزة المساحة بالتويتر",
+                "markdown": "- Hide new twitter features !space",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"

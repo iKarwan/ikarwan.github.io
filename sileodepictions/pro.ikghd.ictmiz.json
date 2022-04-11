@@ -259,7 +259,7 @@
 
 
             {
-              "title":"buy :: $1.99 الشـراء",
+              "title":"buy : $1.99",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/checkout1",
                "class":"DepictionTableButtonView"
@@ -268,7 +268,7 @@
                "class":"DepictionSeparatorView"
             },
             {
-              "title":"iOS 14 Version: نسخة iOS 14",
+              "title":"iOS 14 Version",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmizxiv",
                "class":"DepictionTableButtonView"
@@ -284,7 +284,7 @@
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
                 "title": "markdown-description",
-                "markdown": "English:\r\n\u00b7 i Customize Not You Appl\r\n\u00b7 included more then 250+ features\r\n\u00b7 Compitaible with iOS 13 / 13.7\r\n\u00b7 Supported Languges English>\u0639\u0640\u0640\u0631\u0628\u064a >\u4e2d\u6587\uff01\r\n\r\n\u0639\u0631\u0628\u064a:\r\n\u00b7 \u062a\u062e\u0635\u064a\u0635 \u0627\u0644\u0646\u0638\u0627\u0645 \u0645\u0646 \u0627\u0644\u0627\u0644\u0641 \u0627\u0644\u0649 \u0627\u0644\u064a\u0627\u0621 \u062a\u0642\u0631\u064a\u0628\u0627\r\n\u00b7 \u0641\u064a\u0647\u0627 \u0627\u0643\u062a\u0631 \u0645\u0646 \u0662\u0665\u0660+ \u0645\u064a\u0632\u0629\r\n\u00b7 \u062a\u062f\u0639\u0645 \u0627\u0644\u0627\u0635\u062f\u0627\u0631\u0627\u062a \u0661\u0663.\u0667/\u0661\u0663\r\n\r\nChinese:\r\n\u00b7 \u6211\u81ea\u5b9a\u4e49\u4e0d\u662f\u60a8appl\r\n\u00b7 \u5305\u542b\u4e86250\u591a\u79cd\u529f\u80fd\r\n\u00b7 \u652f\u6301iOS 13 / 13.7",
+                "markdown": " i Customize Not You Appl\r\n\u00b7 included more then 250+ features\r\n\u00b7 Compitaible with iOS 13 / 13.7",
                 "useBottomMargin": false
             },
 
@@ -293,7 +293,7 @@
                             },
 
                             {
-                               "title":"Demo Via YouTube : استعراض المميزات",
+                               "title":"Demo Via YouTube",
                                "useBoldText": true,
                                "action":"https://youtu.be/W7MDTnJ_SEE",
                                "class":"DepictionTableButtonView"

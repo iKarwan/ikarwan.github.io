@@ -31,13 +31,12 @@
 
     <descriptionlist>
       <description>"iNstaKiller" New Instagram Experiance:</description>
-    <!--  <description>25% off now = ٢٥٪ تخفيض الان</description> -->
 
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/iNstaKiller">buy :: $1.49 الشـراء</a>
+                <a href="https://repo.ikghd.me/iNstaKiller">buy : $1.49</a>
             </li>
 
             <br>
@@ -53,20 +52,11 @@
           <br>· block all advertisment
             <br>· and many more settings
               <br>· check Screenshot above for more info,
-      		<br>
-          <br>الخيارات الموجودة:
-          <br>· تحميل الفيديوهات
-          <br>· تحميل فيديوهات الـ IGTV كـ
-          <br>· تحميل فيديوهات الريل
-            <br>· تحميل فيديوهات الستوري والصور
-              <br>· تحميل الصور
-          <br>· تعطيل الاعلانات بالكامل
-            <br>· والكتير من المميزات والخيارات الاخرى
-              <br>· القي نظرة على لقطات الشاشة لمعلومات اكثر,
+
           <br> <br>
 
           <li>
-              <a href="https://youtu.be/haAaqU1zFFo">Demo Via YouTube : استعراض المميزات</a>
+              <a href="https://youtu.be/haAaqU1zFFo">Demo Via YouTube</a>
           </li>
           <br>
 
@@ -80,15 +70,13 @@
                       <br>
                       <br>
 
-                        <br>Purchased before or Changing device : تم شراؤها من قبل أو تغيير الجهاز ?
-                        <br>· send a proof & UDID to the email <a href = "mailto: insta-killer@bk.ru?cc=&subject=iNstaKiller&body=Pls send a photo proof of the purchase! and Paste Your UDID down below::">Send Mail:ارسل الايميل</a>  to reactivate ur liscence!
-                        <br>· لاعادة تنشيط ترخيصك ارسل اثباتاَ مع اليودي ا يدي الى الايميل
+                        <br>Purchased before or Changing device ?
+                        <br>· send a proof & UDID to the email <a href = "mailto: insta-killer@bk.ru?cc=&subject=iNstaKiller&body=Pls send a photo proof of the purchase! and Paste Your UDID down below::">Send Mail</a>  to reactivate ur liscence!
                         <br>
                         <br>
 
-                          <br>Multiple Device : عدد الاجهزة
+                          <br>Multiple Devices
                           <br>· you can add up to 3 devices with one purchase
-                          <br>· يمكنك اضافة  حتى ٣ ثلاثة اجهزة مع الشراء واحد
                           <br>
 
         ]]></longdescription>
@@ -118,34 +106,4 @@
         </screenshot>
     </screenshots>
 
-<!--        <buy>
-              <div class="buy-header has-banner">
-              <div class="buy-header-content">
-              <div> <div class="buy-header-product-box">
-              <div class="buy-header-product-icon">
-              <div class="product-icon">
-              <span class="fade-on-load loaded"><img alt="" loading="lazy" role="presentation" src="https://cdn.chariz.cloud/icon/prokeys/icon.png" srcset="https://cdn.chariz.cloud/icon/prokeys/icon@2x.png 2x,https://cdn.chariz.cloud/icon/prokeys/icon@3x.png 3x"></span>
-              </div>
-              </div>
-              <div class="buy-header-title">
-              <h1>ProKeys</h1>
-
-              </div>
-              </div>
-              <form class="buy-header-buy-button" action="https://chariz.com/buy/prokeys/checkout" method="get">
-              <button class="btn btn-primary buy-button text-price" type="submit" data-confirm-compatibility="" aria-label="$1.99. Go to Checkout.">$1.99</button>
-              </form>
-              </div>
-              </div>
-              </div>
-            </buy>
-
-            <buy>
-              <![CDATA[
-                <id>
-                    <a href="https://repo.ikghd.me/iNstaKiller">Buy: $1.49 :الشـراء</a>
-                </id>
-              ]]>
-            </buy>
--->
 </package>

@@ -87,7 +87,7 @@
                "class":"DepictionSeparatorView"
             },
             {
-              "title":"buy :: $1.00 الشـراء",
+              "title":"buy : $1.00",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/checkout",
                "class":"DepictionTableButtonView"
