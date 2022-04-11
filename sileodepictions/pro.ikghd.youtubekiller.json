@@ -254,11 +254,6 @@
                "text":"iOS 13.0 - 14.8",
                "class":"DepictionTableTextView"
             },
-            {
-               "title":"Languages",
-               "text":"en ar zh_CN",
-               "class":"DepictionTableTextView"
-            },
 
             {
                "class":"DepictionSeparatorView"

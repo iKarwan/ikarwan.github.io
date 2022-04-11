@@ -170,12 +170,6 @@
             },
 
             {
-               "title":"Languages",
-               "text":"en ar",
-               "class":"DepictionTableTextView"
-            },
-
-            {
                "class":"DepictionSeparatorView"
             },
 
