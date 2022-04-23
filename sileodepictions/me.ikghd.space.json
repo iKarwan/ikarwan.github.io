@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- chnged from hidefleets to hidespace features",
+                                "markdown":"- redefind preferences\n- removed cephei",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -89,12 +89,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.4",
+               "text":"0.0.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 27, 2021",
+               "text":"Apr 23, 2022",
                "class":"DepictionTableTextView"
             },
 

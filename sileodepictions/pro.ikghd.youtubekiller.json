@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- Update app compatibility version\n- Fixes & improvements",
+                                "markdown":"- add new download method \n- fixed download api keys\n- known issue the local downloader will duplicate the video quality pls use top one like 1080p - 1080p use first one\n- Update app compatibility version\n- Fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.0.17",
+               "text":"1.1.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 13, 2022",
+               "text":"Apr 23, 2022",
                "class":"DepictionTableTextView"
             },
             {

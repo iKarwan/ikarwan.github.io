@@ -276,7 +276,7 @@
                             },
 
                             {
-                                "markdown":"- fixes a possible conflict with NiceBarX 14 killallapps features!\n- other improvements",
+                                "markdown":"- add disable press to hide comment on reddit app\n- add permanently alert when deleting photos in Photos app\n- fixes a possible conflict with NiceBarX 14 killallapps features!\n- other improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -292,12 +292,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.2",
+               "text":"2.0.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 12, 2022",
+               "text":"Apr 23, 2022",
                "class":"DepictionTableTextView"
             },
 

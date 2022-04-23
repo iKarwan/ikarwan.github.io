@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.space</id>
     <name>HideSpace</name>
-    <version>0.0.4</version>
+    <version>0.0.5</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>0.0.4</version2>
+      <version2>0.0.5</version2>
     </version2>
 
         <date>
-          <date>Aug 27, 2021</date>
+          <date>Apr 23, 2022</date>
         </date>
 
         <price>
@@ -22,7 +22,8 @@
         </price>
 
         <changelog>
-          <change>・chnged from hidefleets to hidespace features</change>
+          <change>・redefind the preferences</change>
+          <change>・removed cephei</change>
         </changelog>
 
 
