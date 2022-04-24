@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- add new download method \n- fixed download api keys\n- known issue the local downloader will duplicate the video quality pls use top one like 1080p - 1080p use first one\n- Update app compatibility version\n- Fixes & improvements",
+                                "markdown":"- add show/hide download toggle in overlay\n- seperate PiP from download now have on/off toggle\n- add new download method \n- fixed download api keys\n- known issue the local downloader will duplicate the video quality pls use top one like 1080p - 1080p use first one\n- Update app compatibility version\n- Fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.1",
+               "text":"1.1.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 23, 2022",
+               "text":"Apr 24, 2022",
                "class":"DepictionTableTextView"
             },
             {

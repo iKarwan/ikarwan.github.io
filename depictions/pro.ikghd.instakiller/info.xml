@@ -22,9 +22,8 @@
         </price>
 
         <changelog>
-          <change>・NOTE!!! classic layout work only with Taurin JB</change>
           <change>・fixed hide Explorer not function</change>
-          <change>・iadd hide reel tab</change>
+          <change>・add hide reel tab</change>
           <change>・update app compatibility version</change>
           <change></change>
           <change>・improve the following You dispatch</change>
