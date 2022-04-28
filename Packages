@@ -5,11 +5,11 @@ Maintainer: iKarwan <ikg_hd@bk.ru>
 Depends: mobilesubstrate, firmware(>= 11.0), com.opa334.ccsupport
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.ikpowercc_0.0.1_iphoneos-arm.deb
-Size: 75530
+Size: 75440
 Installed-Size: 1040
-MD5sum: 84d3edd7b2b50ad46d24909767356ddb
-SHA1: b43a3e2a5397c2995ef797439c5ef3aba9637faf
-SHA256: 636a979f0afbc9c2784f2f767072e8f3e4d02df35e613c34606f17ff34c2f0ea
+MD5sum: fbee8dea74eadaca94be17ee09a4fa76
+SHA1: 101d20ac885ce58fbbb0e214caf00e2329434150
+SHA256: 89a583791cc948173d568d19faa9071aeac3bc6fe4d261fe3579ca386aa4fb6a
 Description: Respring SafeMode UiCache Reboot Shutdown
 Name: iKPowerCC
 Author: iKarwan <ikg_hd@bk.ru>
