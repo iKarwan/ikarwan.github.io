@@ -1,0 +1,19 @@
+<changelog>
+	<changes>
+		<version>0.0.4</version>
+		<change>・chnged from hidefleets to hidespace features</change>
+	</changes>
+	<changes>
+		<version>0.0.3</version>
+		<change>・improve &amp; enhancement</change>
+	</changes>
+	<changes>
+		<version>0.0.2</version>
+		<change>・improve the code</change>
+		<change>・clean up</change>
+	</changes>
+	<changes>
+		<version>0.0.1</version>
+		<change>・initial release</change>
+	</changes>
+</changelog>
