@@ -23,6 +23,7 @@
 
     <changelog>
       <change>・add morer speed playback options</change>
+      <change>・fix applock not function</change>
       <change>・minor improvements</change>
       <change>・fixing a possible freezes when playing more then 10 Playlists videos in some cases</change>
       <change></change>
