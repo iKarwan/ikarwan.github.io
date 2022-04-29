@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.4</version>
+    <version>1.1.4.1</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.1.4</version2>
+      <version2>1.1.4.1</version2>
     </version2>
 
     <date>
-      <date>Apr 25, 2022</date>
+      <date>Apr 29, 2022</date>
     </date>
 
     <price>
@@ -22,7 +22,9 @@
     </price>
 
     <changelog>
-      <change>・fixing a possible freezes when playing more then 10 Playlists videos in some cases >thanx for the reporter</change>
+      <change>・add morer speed playback options</change>
+      <change>・minor improvements</change>
+      <change>・fixing a possible freezes when playing more then 10 Playlists videos in some cases</change>
       <change></change>
       <change>・add show/hide download toggle in overlay</change>
       <change>・seperate PiP from download now have on/off toggle</change>
