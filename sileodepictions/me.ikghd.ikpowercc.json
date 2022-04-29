@@ -14,6 +14,11 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/me.ikghd.ikpowercc/screenshots/1.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ikpowercc/screenshots/1.PNG"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.ikpowercc/screenshots/2.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ikpowercc/screenshots/2.PNG"
                     }
 
                 ],
@@ -25,6 +30,11 @@
                             "accessibilityText":"Screenshot",
                             "url":"https://repo.ikghd.me/depictions/me.ikghd.ikpowercc/screenshots/1.PNG",
                             "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ikpowercc/screenshots/1.PNG"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.ikpowercc/screenshots/2.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ikpowercc/screenshots/2.PNG"
                         }
 
                     ],
@@ -48,7 +58,7 @@
 
             {
                 "useBottomMargin": false,
-                "markdown": "- respring\n- safemode\n- uicache\n- reboot\n- shutdown \n\n\rn- NOTE!!! you need to add it first in CONTROL CENTER section in settings!",
+                "markdown": "- respring\n- safemode\n- uicache\n- reboot\n- shutdown \n\n\n- NOTE!!! you need to add it first in CONTROL CENTER section in settings!",
                 "useBoldText": true,
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
@@ -65,7 +75,7 @@
                             },
 
                             {
-                                "markdown":"- initial Released",
+                                "markdown":"- initial Release",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },

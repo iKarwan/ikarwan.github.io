@@ -259,15 +259,15 @@ Package: pro.ikghd.pmp
 Version: 1.1.8
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, firmware(>= 11.0), ws.hbang.common (>= 1.15), com.opa334.ccsupport
+Depends: mobilesubstrate, firmware(>= 11.0), ws.hbang.common (>= 1.15), com.opa334.ccsupport
 Conflicts: com.yourepo.ikghd.pmp
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.pmp_1.1.8_iphoneos-arm.deb
-Size: 51598
+Size: 51570
 Installed-Size: 748
-MD5sum: 6dab25954bc03a9560e25c9a1751a461
-SHA1: 7789c2801408aa2d1483859881379aae89cc387e
-SHA256: 7e5a3d56155602d6606b155f775cbd5ffea8fe84db67b6cceabe5c4bcffd909d
+MD5sum: c0690c6ebf2897818723807d06ad2a83
+SHA1: 0594eb00a0ad4d1955f7245e23ce8213b3e8f36e
+SHA256: 7851f4b595e563d1a14e331b5ee9d93f786536b48655f2fc3e712aaf4e8a9988
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikg_hd@bk.ru>
