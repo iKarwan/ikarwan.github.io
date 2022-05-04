@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- add more speed playback options\n- fix applock not function\n- minor improvements\n- fixing a possible freezes when playing more then 10 Playlists videos in some cases >thanx for the reporter\n- add show/hide download toggle in overlay\n- seperate PiP from download now have on/off toggle\n- add new download method \n- fixed download api keys\n- known issue the local downloader will duplicate the video quality pls use top one like 1080p - 1080p use first one\n- Update app compatibility version\n- Fixes & improvements",
+                                "markdown":"- add save short & stories\n- add save posted image\n- Update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.4.1",
+               "text":"1.1.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 29, 2022",
+               "text":"May 04, 2022",
                "class":"DepictionTableTextView"
             },
             {
