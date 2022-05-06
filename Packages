@@ -1,3 +1,22 @@
+Package: me.ikghd.ikpowercc
+Version: 0.0.1
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, firmware(>= 11.0), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ikpowercc_0.0.1_iphoneos-arm.deb
+Size: 75440
+Installed-Size: 1040
+MD5sum: fbee8dea74eadaca94be17ee09a4fa76
+SHA1: 101d20ac885ce58fbbb0e214caf00e2329434150
+SHA256: 89a583791cc948173d568d19faa9071aeac3bc6fe4d261fe3579ca386aa4fb6a
+Description: Respring SafeMode UiCache Reboot Shutdown
+Name: iKPowerCC
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://ikarwan.github.io/depictions/?p=me.ikghd.ikpowercc
+SileoDepiction: https://ikarwan.github.io/sileodepictions/me.ikghd.ikpowercc.json
+Icon: https://ikarwan.github.io/assets/icons/me.ikghd.ikpowercc.png
+
 Package: me.ikghd.space
 Version: 0.0.5
 Section: Tweaks
