@@ -176,11 +176,11 @@ FILE:
 
 	$tv{'Filename'}= "$pathprefix$fn";
 
-	$tv{'Depiction'} = "https://ikarwan.github.io/depictions/?p=$p";
+	$tv{'Depiction'} = "https://repo.ikghd.me/depictions/?p=$p";
 
-	$tv{'SileoDepiction'} = "https://ikarwan.github.io/sileodepictions/$p.json";
+	$tv{'SileoDepiction'} = "https://repo.ikghd.me/sileodepictions/$p.json";
 
-	$tv{'Icon'} = "https://ikarwan.github.io/assets/icons/$p.png";
+	$tv{'Icon'} = "https://repo.ikghd.me/assets/icons/$p.png";
 
 	my @checksums = (
 		{
