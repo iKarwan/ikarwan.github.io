@@ -6,3 +6,4 @@ dpkg-scanpackages
 *.sh
 .DS_Store
 .DS_Store
+.DS_Store
