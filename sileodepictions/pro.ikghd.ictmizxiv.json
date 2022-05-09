@@ -227,8 +227,11 @@
             {
               "title":"buy : $1.99",
                "useBoldText": true,
-               "action":"https://repo.ikghd.me/checkout2",
+               "action":"https://repo.ikghd.me/iCTMiZXiV",
                "class":"DepictionTableButtonView"
+            },
+            {
+               "class":"DepictionSeparatorView"
             },
             {
               "title":"iOS 13 Version",
@@ -236,9 +239,7 @@
                "action":"https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmiz",
                "class":"DepictionTableButtonView"
             },
-            {
-               "class":"DepictionSeparatorView"
-            },
+
             {
                "title":"Features",
                "class":"DepictionHeaderView"

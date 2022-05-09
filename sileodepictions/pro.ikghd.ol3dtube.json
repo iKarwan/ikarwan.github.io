@@ -89,7 +89,7 @@
             {
               "title":"buy : $1.00",
                "useBoldText": true,
-               "action":"https://repo.ikghd.me/checkout",
+               "action":"https://repo.ikghd.me/OL3DTube",
                "class":"DepictionTableButtonView"
             },
             {
