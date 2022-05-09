@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- minor fixes\n\n- add save short & stories\n- add save posted image\n- Update app compatibility version",
+                                "markdown":"- fix shorts & story download button not showing with YouTube version 17.18.4 and above\n- add hide shorts like deslike comment share & more buttons",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5.1",
+               "text":"1.1.5.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 07, 2022",
+               "text":"May 09, 2022",
                "class":"DepictionTableTextView"
             },
             {
