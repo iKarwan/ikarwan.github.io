@@ -264,7 +264,7 @@
             {
               "title":"iOS 14 Version",
                "useBoldText": true,
-               "action":"sileo://package/pro.ikghd.ictmizxiv",
+               "action":"https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmizxiv",
                "class":"DepictionTableButtonView"
             },
             {
