@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- fix shorts & story download button not showing with YouTube version 17.18.4 and above\n- add hide shorts like deslike comment share & more buttons",
+                                "markdown":"- fix PiP not function\n- fix shorts & story download button not showing with YouTube version 17.18.4 and above\n- add hide shorts like deslike comment share & more buttons",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5.2",
+               "text":"1.1.5.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 09, 2022",
+               "text":"May 10, 2022",
                "class":"DepictionTableTextView"
             },
             {
