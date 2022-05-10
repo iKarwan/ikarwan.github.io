@@ -236,7 +236,7 @@
             {
               "title":"iOS 13 Version",
                "useBoldText": true,
-               "action":"https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmiz",
+               "action":"sileo://package/pro.ikghd.ictmiz - from https://repo.ikghd.me/",
                "class":"DepictionTableButtonView"
             },
 
