@@ -234,9 +234,9 @@
                "class":"DepictionSeparatorView"
             },
             {
-              "title":"iOS 13 Version",
+              "title":"iOS 12/13 Version",
                "useBoldText": true,
-               "action":"https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmizxiv",
+               "action":"https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmiz",
                "class":"DepictionTableButtonView"
             },
 
