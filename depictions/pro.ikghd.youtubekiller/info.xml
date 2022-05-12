@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.5.3</version>
+    <version>1.1.5.4</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.1.5.3</version2>
+      <version2>1.1.5.4</version2>
     </version2>
 
     <date>
-      <date>May 10, 2022</date>
+      <date>May 12, 2022</date>
     </date>
 
     <price>
@@ -22,6 +22,9 @@
     </price>
 
     <changelog>
+      <change>・fixes crashes on ipad and landscape mode when pressing download manager or download button in some cases!</change>
+      <change>・other minor fixes &amp; enhancments</change>
+      <change></change>
       <change>・fix PiP not function</change>
       <change></change>
       <change>・fix shorts &amp; story download button not showing with YouTube version 17.18.4 and above</change>
