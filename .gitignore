@@ -3,3 +3,4 @@ assets/.DS_Store
 *.pl
 dpkg-scanpackages
 *.sh
+.DS_Store

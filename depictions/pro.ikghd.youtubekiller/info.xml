@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.5.4</version>
+    <version>1.1.5.5</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.1.5.4</version2>
+      <version2>1.1.5.5</version2>
     </version2>
 
     <date>
-      <date>May 12, 2022</date>
+      <date>May 13, 2022</date>
     </date>
 
     <price>
@@ -22,6 +22,10 @@
     </price>
 
     <changelog>
+      <change>・merge ytdl download engin</change>
+      <change>・select quality with server download available now</change>
+      <change>・fix download manager videos were be hiden in some cases</change>
+      <change></change>
       <change>・fixes crashes on ipad and landscape mode when pressing download manager or download button in some cases!</change>
       <change>・other minor fixes &amp; enhancments</change>
       <change></change>
