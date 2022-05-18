@@ -276,6 +276,26 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.pmp.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.pmp.png
 
 Package: pro.ikghd.youtubekiller
+Version: 1.1.5.7
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
+Conflicts: com.spicat.youpip, com.ps.youpip
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.youtubekiller_1.1.5.7_iphoneos-arm.deb
+Size: 9669740
+Installed-Size: 29864
+MD5sum: d5ab00fbf2a3d3d2e344173d23951005
+SHA1: 670a3b6521daf839cda09ad5e6cc56d320f812b1
+SHA256: 32ce7e071f59737f5843a1264d018ddfd2e4dde20e13b25ef7d7a19f5be89aa8
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.youtubekiller.png
+
+Package: pro.ikghd.youtubekiller
 Version: 1.1.0.0
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
