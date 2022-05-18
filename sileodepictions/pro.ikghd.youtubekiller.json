@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- merge ytdl download engin\n- select quality with server download available now\n- fix download manager videos were be hiden in some cases\n- fixes crashes on ipad and landscape mode when pressing download manager or download button in some cases!\n- other minor fixes & enhancments\r\n- fix PiP not function\n- fix shorts & story download button not showing with YouTube version 17.18.4 and above\n- add hide shorts like deslike comment share & more buttons",
+                                "markdown":"- download shorts & stories by long press on videos\n- keep ur version on 17.17.4 for compatibility\n- minor fixes",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5.5",
+               "text":"1.1.5.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 13, 2022",
+               "text":"May 18, 2022",
                "class":"DepictionTableTextView"
             },
             {

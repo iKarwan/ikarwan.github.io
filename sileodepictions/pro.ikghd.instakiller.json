@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fixes hide Explorer tab\n- add hide reel tab\n- Update app compatibility version\n-  improve the following You dispatch\n- improve the downloading in reeel\n- fixing a possible crash for some users were reported on latest version!",
+                                "markdown":"- add compacted HomeFeed Explorer with search only & profile(Main Ui)\n- minor fixes\n- Update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.18",
+               "text":"0.0.19",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 23, 2022",
+               "text":"May 16, 2022",
                "class":"DepictionTableTextView"
             },
 
