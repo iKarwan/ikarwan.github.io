@@ -1,0 +1,13 @@
+-------------------------------------------------------------------
+karo	1100$
+fekon	500,000
+dyay	187,000 250-iPXs 250-GarazeTR
+amnj	50,000		50,000 daste bo dokan	haqe, brnjesh
+arkn	4000
+
+paywando	ip6s screeen+battery
+-------------------------------------
+bcdedit -set TESTSIGNING OFF
+
+
+mzori lams 5,000
