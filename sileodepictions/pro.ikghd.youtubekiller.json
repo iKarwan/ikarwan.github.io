@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- download shorts & stories by long press on videos\n- keep ur version on 17.17.4 for compatibility\n- minor fixes",
+                                "markdown":"- oled mode changing automatically with system appearance dark/light mode\n- add coulor all icons\n- add hide hud alerts\n- download shorts & stories by long press on videos\n- minor fixes\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.5.7",
+               "text":"1.1.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 18, 2022",
+               "text":"May 23, 2022",
                "class":"DepictionTableTextView"
             },
             {

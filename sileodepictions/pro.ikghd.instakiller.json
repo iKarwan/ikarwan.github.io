@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- add compacted HomeFeed Explorer with search only & profile(Main Ui)\n- minor fixes\n- Update app compatibility version",
+                                "markdown":"- minor fixes\n- add compacted HomeFeed Explorer with search only & profile(Main Ui)\n- minor fixes\n- Update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.0.19",
+               "text":"0.1.0",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 16, 2022",
+               "text":"May 23, 2022",
                "class":"DepictionTableTextView"
             },
 

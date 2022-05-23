@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- fixes & improvements\n- fix some grey color were changed with new YouTube version",
+                                "markdown":"- oled mode changing automatically with system appearance dark/light mode\n- minor fixes\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.10",
+               "text":"1.1.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 06, 2022",
+               "text":"May 23, 2022",
                "class":"DepictionTableTextView"
             },
             {
