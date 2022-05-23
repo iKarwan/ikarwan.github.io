@@ -295,6 +295,25 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.libkdev.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.libkdev.png
 
 Package: pro.ikghd.ol3dtube
+Version: 1.2.0
+Section: Tweaks
+Maintainer: iKarwan <ikg_hd@bk.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ol3dtube_1.2.0_iphoneos-arm.deb
+Size: 115984
+Installed-Size: 808
+MD5sum: 93c47c935979975498302812f096030d
+SHA1: 4bb054fe9a1a86734a5bedd72dc305ab1fc4fa01
+SHA256: ab202c13877d460fd3ccd718da5e1fad95e4a3b07af5822e648f1a43483e8308
+Description: Ol3d Dark Mode For YouTube!
+Name: OL3DTube
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.ol3dtube
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.ol3dtube.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.ol3dtube.png
+
+Package: pro.ikghd.ol3dtube
 Version: 1.1.10
 Section: Tweaks
 Maintainer: iKarwan <ikg_hd@bk.ru>
@@ -306,25 +325,6 @@ Installed-Size: 916
 MD5sum: e3456ed3b9592549ce8ec7d3de8751e1
 SHA1: 60600ae5e755d88c0e1781ff42a61d4c895fdf15
 SHA256: d457d1fff0d634e9708679cc6bdc3bbd30e70a034709a0c389e112235a27725e
-Description: Ol3d Dark Mode For YouTube!
-Name: OL3DTube
-Author: iKarwan <ikg_hd@bk.ru>
-Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.ol3dtube
-SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.ol3dtube.json
-Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.ol3dtube.png
-
-Package: pro.ikghd.ol3dtube
-Version: 1.1.2
-Section: Tweaks
-Maintainer: iKarwan <ikg_hd@bk.ru>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.ol3dtube_1.1.2_iphoneos-arm.deb
-Size: 115994
-Installed-Size: 808
-MD5sum: 65a0e53079b2c6de73f26cf5735a2883
-SHA1: df25791c44b79993e690e3af05caf7d8b6b47f22
-SHA256: cf07e642cd9f830edd6a0f91fdd57fcaa1e7e69342ea326692451a131bee95c5
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikg_hd@bk.ru>
