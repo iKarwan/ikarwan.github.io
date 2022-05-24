@@ -90,7 +90,7 @@
                 "title": "markdown-description",
                 "useBoldText": true,
                 "useBottomMargin": false,
-                "markdown": " included: YouTubeKiller\r\n- iCTMiZ XiV\r\n- iNstaKiller\r\n- OL3DTube",
+                "markdown": " included:\n- YouTubeKiller\r\n- iCTMiZ XiV\r\n- iNstaKiller\r\n- OL3DTube",
                 "class": "DepictionMarkdownView"
             },
 
