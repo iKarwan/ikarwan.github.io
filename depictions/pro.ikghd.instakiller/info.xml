@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>0.1.0</version2>
+      <version2>0.1.1</version2>
     </version2>
 
         <date>
-          <date>May 23, 2022</date>
+          <date>May 26, 2022</date>
         </date>
 
         <price>
@@ -22,16 +22,19 @@
         </price>
 
         <changelog>
-          <change>・minor fixes</change>
+          <change>・fix ads for Reels on latest Instagram version</change>
+          <change>・fix double tap and like Reel confirm</change>
+          <change>・fix round thumbnails on home feeds</change>
+          <change>・other fixes &amp; improvements</change>
           <change></change>
           <change>・add compacted HomeFeed Explorer with search only &amp; profile(Main Ui)</change>
           <change>・update app compatibility version</change>
           <change></change>
-          <change>v0.0.18</change>
+          <change>v0.1.0</change>
           <change>・improve the following You dispatch</change>
           <change>・improve the downloading in reeel</change>
           <change></change>
-          <change>v0.0.17</change>
+          <change>v0.0.19</change>
           <change>・fixing a possible crash for some users were reported on latest version!</change>
         </changelog>
 

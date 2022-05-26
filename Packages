@@ -198,6 +198,25 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.iksettings.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.iksettings.png
 
 Package: pro.ikghd.instakiller
+Version: 0.1.1
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 14.0), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.instakiller_0.1.1_iphoneos-arm.deb
+Size: 534084
+Installed-Size: 1936
+MD5sum: e405473ec6e2ce064eae31eef8663108
+SHA1: 8c9578748036aeecd254496e29b3b82d9fa84464
+SHA256: 470d09ab423ede488549c75662695261209fe433a1f719c9b569609e237b886d
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.instakiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.instakiller.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.instakiller.png
+
+Package: pro.ikghd.instakiller
 Version: 0.1.0
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
