@@ -95,7 +95,7 @@
             },
 
             {
-              "title":"buy : $1.49",
+              "title":"buy : $1.99",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/iNstaKiller",
                "class":"DepictionTableButtonView"
@@ -149,7 +149,7 @@
             },
             {
                "title":"Version",
-               "text":"0.1.0",
+               "text":"0.1.1",
                "class":"DepictionTableTextView"
             },
             {
@@ -160,7 +160,7 @@
 
             {
                "title":"Price",
-               "text":"$1.49 USD",
+               "text":"$1.99 USD",
                "class":"DepictionTableTextView"
             },
             {
