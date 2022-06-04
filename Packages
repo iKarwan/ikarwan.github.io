@@ -254,6 +254,25 @@ Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.instakiller
 SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.instakiller.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.instakiller.png
 
+Package: pro.ikghd.instakiller
+Version: 0.1.2
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 14.0), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.instakiller_0.1.2_iphoneos-arm.deb
+Size: 534104
+Installed-Size: 1936
+MD5sum: 095a5ca2ed5a3bb88025cd76c19320a9
+SHA1: 8ac150a04977c5f19d281aa4a43efb72b1acae44
+SHA256: e8c3ba7fdc8e2f8d60f497abceb2dbf0cfc2b81dc43e1fbeb42173b03a67da64
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.instakiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.instakiller.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.instakiller.png
+
 Package: pro.ikghd.libkdev
 Version: 1.0.0
 Section: System
@@ -312,6 +331,26 @@ Author: iKarwan <ikghd3@gmail.com>
 Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.pmp
 SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.pmp.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.pmp.png
+
+Package: pro.ikghd.youtubekiller
+Version: 1.1.7
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
+Conflicts: com.spicat.youpip, com.ps.youpip
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.youtubekiller_1.1.7_iphoneos-arm.deb
+Size: 9685352
+Installed-Size: 29968
+MD5sum: eec69b57b650133562ad4bbfa89db8c8
+SHA1: 821960fc2918d7434749bec8ffcd1d5f32989421
+SHA256: 79484f3039e9bbfd649a7fb4ee1e13639594d216e6555a506fed7e001bc32ce8
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.youtubekiller.png
 
 Package: pro.ikghd.youtubekiller
 Version: 1.1.6

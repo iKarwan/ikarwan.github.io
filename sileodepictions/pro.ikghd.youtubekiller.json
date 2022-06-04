@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- oled mode changing automatically with system appearance dark/light mode\n- add coulor all icons\n- add hide hud alerts\n- download shorts & stories by long press on videos\n- minor fixes\n- update app compatibility",
+                                "markdown":"- add enable short playerBar\n- add hide overlay quick actions\n- add hide all tabs\n- minor fixes & improvements\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.6",
+               "text":"1.1.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 23, 2022",
+               "text":"Jun 04, 2022",
                "class":"DepictionTableTextView"
             },
             {
