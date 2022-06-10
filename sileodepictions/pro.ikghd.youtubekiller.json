@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- add enable short playerBar\n- add hide overlay quick actions\n- add hide all tabs\n- minor fixes & improvements\n- update app compatibility",
+                                "markdown":"- add fake version in (YouTubeKiller)section\n- add enable short playerBar\n- improvements\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.7",
+               "text":"1.1.8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 04, 2022",
+               "text":"Jun 10, 2022",
                "class":"DepictionTableTextView"
             },
             {

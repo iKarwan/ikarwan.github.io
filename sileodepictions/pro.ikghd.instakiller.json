@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fix round thumbnails Photos on newer instagram version\n- minor fixes & improvements\n- Update app compatibility version",
+                                "markdown":"- fix round thumbnails videos on newer instagram version\n- improvements\n- Update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.1.2",
+               "text":"0.1.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 04, 2022",
+               "text":"Jun 10, 2022",
                "class":"DepictionTableTextView"
             },
 
