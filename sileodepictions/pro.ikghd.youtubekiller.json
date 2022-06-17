@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- add fake version in (YouTubeKiller)section this will enable features were disabled in v17.x and above\n- add enable short playerBar\n- improvements\n- update app compatibility",
+                                "markdown":"- minor fixes",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.8",
+               "text":"1.1.8.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 10, 2022",
+               "text":"Jun 17, 2022",
                "class":"DepictionTableTextView"
             },
             {
