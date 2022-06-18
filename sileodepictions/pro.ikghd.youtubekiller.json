@@ -220,7 +220,7 @@
                             },
 
                             {
-                                "markdown":"- minor fixes",
+                                "markdown":"- add view in filza\n- fixes &amp; improvements\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -236,12 +236,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.8.1",
+               "text":"1.1.8.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 17, 2022",
+               "text":"Jun 18, 2022",
                "class":"DepictionTableTextView"
             },
             {
