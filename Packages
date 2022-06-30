@@ -242,11 +242,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware 
 Conflicts: com.spicat.youpip, com.ps.youpip
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.1.8_iphoneos-arm.deb
-Size: 9634764
+Size: 9636732
 Installed-Size: 29700
-MD5sum: edc2e4b78db8a348e10df1fb249d5d5b
-SHA1: bc17c4f68a474fd81a075af7b7130ac5dca2bfdf
-SHA256: 975c7e0c21a6fee9e4789a5378ff5951124e472f9393de103fd5ec557099c4ca
+MD5sum: 8bf43eca9621e3d97361e7b9aaebf481
+SHA1: 1fa35ec897cd93c26482888dc9694eb88baabeff
+SHA256: 07cac4466995673c4f23e42b68c9efba1b8d34853715a5864143b5da823f3d56
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikghd3@gmail.com>
