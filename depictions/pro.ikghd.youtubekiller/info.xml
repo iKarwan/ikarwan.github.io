@@ -1,20 +1,20 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.8.3</version>
+    <version>1.1.9</version>
     <compatibility>
         <firmware>
-            <miniOS>11.0</miniOS>
+            <miniOS>12.0</miniOS>
             <maxiOS>14.8</maxiOS>
         </firmware>
     </compatibility>
 
     <version2>
-      <version2>1.1.8.3</version2>
+      <version2>1.1.9</version2>
     </version2>
 
     <date>
-      <date>Jul 02, 2022</date>
+      <date>Jul 06, 2022</date>
     </date>
 
     <price>
@@ -22,8 +22,11 @@
     </price>
 
     <changelog>
-      <change>・add view in filza</change>
-      <change>・fixes &amp; improvements</change>
+      <change>・add iOS 12 support u must downgrade the version to 1.1.8</change>
+      <change>・add short downloading icon in short Tabs/overlay</change>
+      <change>・fixes hide include paid promotion</change>
+      <change>・fixes coloring all icons with newer ytube version</change>
+      <change>・other fixes &amp; improvements</change>
       <change>・update app compatibility version</change>
     </changelog>
 

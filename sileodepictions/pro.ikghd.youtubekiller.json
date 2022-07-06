@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- add view in filza\n- fixes &amp; improvements\n- update app compatibility version",
+                                "markdown":"- add support for iOS 12 u must downgrade the version to 1.1.8\n- add short downloading icon in short Tabs/overlay\n- fixes hide include paid promotion\n- fixes coloring all icons with newer ytube version\n- other fixes & improvements\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -266,12 +266,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.8.3",
+               "text":"1.1.9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 02, 2022",
+               "text":"Jul 06, 2022",
                "class":"DepictionTableTextView"
             },
             {
@@ -281,7 +281,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 13.0 - 14.8",
+               "text":"iOS 12.0 - 14.8",
                "class":"DepictionTableTextView"
             },
 
