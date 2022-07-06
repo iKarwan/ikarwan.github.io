@@ -23,7 +23,8 @@
 
         <changelog>
           <change>・add iOS 12 support u must downgrade the version to 0.1.3</change>
-          <change>・fixes &amp; improvements</change>
+          <change>・fixes app lock settings was disabled in the previuos version</change>
+          <change>・other fixes &amp; improvements</change>
           <change>・update app compatibility version</change>
         </changelog>
 

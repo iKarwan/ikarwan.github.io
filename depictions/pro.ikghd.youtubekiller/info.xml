@@ -24,6 +24,7 @@
     <changelog>
       <change>・add iOS 12 support u must downgrade the version to 1.1.8</change>
       <change>・add short downloading icon in short Tabs/overlay</change>
+      <change>・fixes app lock settings was disabled in the previuos version</change>
       <change>・fixes hide include paid promotion</change>
       <change>・fixes coloring all icons with newer ytube version</change>
       <change>・other fixes &amp; improvements</change>

@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- add support for iOS 12 u must downgrade the version to 1.1.8\n- add short downloading icon in short Tabs/overlay\n- fixes hide include paid promotion\n- fixes coloring all icons with newer ytube version\n- other fixes & improvements\n- update app compatibility version",
+                                "markdown":"- add support for iOS 12 u must downgrade the version to 1.1.8\n- add short downloading icon in short Tabs/overlay\n- fixes app lock settings was disabled in the previuos version\n- fixes hide include paid promotion\n- fixes coloring all icons with newer ytube version\n- other fixes & improvements\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
