@@ -67,7 +67,7 @@
             },
 
             {
-              "title":"buy : $3.99",
+              "title":"Eid Discount only : $2.99",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/iKGPack",
                "class":"DepictionTableButtonView"
@@ -132,7 +132,7 @@
 
             {
                "title":"Price",
-               "text":"$3.99 USD",
+               "text":"$2.99 USD",
                "class":"DepictionTableTextView"
             },
             {
