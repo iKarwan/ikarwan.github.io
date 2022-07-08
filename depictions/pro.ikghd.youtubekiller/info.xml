@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.9</version>
+    <version>1.1.9.1</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.1.9</version2>
+      <version2>1.1.9.1</version2>
     </version2>
 
     <date>
-      <date>Jul 06, 2022</date>
+      <date>Jul 08, 2022</date>
     </date>
 
     <price>
@@ -22,13 +22,9 @@
     </price>
 
     <changelog>
-      <change>・add iOS 12 support u must downgrade the version to 1.1.8</change>
-      <change>・add short downloading icon in short Tabs/overlay</change>
-      <change>・fixes app lock settings was disabled in the previuos version</change>
-      <change>・fixes hide include paid promotion</change>
-      <change>・fixes coloring all icons with newer ytube version</change>
-      <change>・other fixes &amp; improvements</change>
-      <change>・update app compatibility version</change>
+      <change>・Moved Fake Version to YouTubeKiller section in YouTube settings under general tab</change>
+      <change>・with this feature u can use features that stoped work on v17.xx and above like adding/hiding items under media player and so on...</change>
+      <change>・fixed a fake version issue when enabled hiding quick videos actions! auality loop ext...</change>
     </changelog>
 
 

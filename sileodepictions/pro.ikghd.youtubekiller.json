@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- add support for iOS 12 u must downgrade the version to 1.1.8\n- add short downloading icon in short Tabs/overlay\n- fixes app lock settings was disabled in the previuos version\n- fixes hide include paid promotion\n- fixes coloring all icons with newer ytube version\n- other fixes & improvements\n- update app compatibility version",
+                                "markdown":"- Moved Fake Version to YouTubeKiller section in YouTube settings under general tab\n- with this feature u can use features that stoped work on v17.xx and above like adding/hiding items under media player and so on...\n- fixed a fake version issue when enabled hiding quick videos actions! auality loop ext...",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -266,12 +266,12 @@
             },
             {
                "title":"Version",
-               "text":"1.1.9",
+               "text":"1.1.9.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 06, 2022",
+               "text":"Jul 08, 2022",
                "class":"DepictionTableTextView"
             },
             {
