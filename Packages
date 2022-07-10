@@ -115,6 +115,26 @@ Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmizxiv
 SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.ictmizxiv.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.ictmizxiv.png
 
+Package: pro.ikghd.ictmizxiv
+Version: 2.0.5
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), ws.hbang.alderis, com.spark.libsparkapplist, com.opa334.ccsupport
+Replaces: pro.ikghd.ictmiz
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmizxiv_2.0.5_iphoneos-arm.deb
+Size: 685070
+Installed-Size: 4892
+MD5sum: b920ce48bd99e71ff8fcdaaf4d87979b
+SHA1: fcd9ca701a48c26bfd96dc0e8ead811699e12f5a
+SHA256: 37dee15f92312e725a9211b69efa6e07a1cd6748afd4b46eaa5558f430b70826
+Description: i Customize Not U appl !...
+Name: iCTMiZ XiV
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmizxiv
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.ictmizxiv.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.ictmizxiv.png
+
 Package: pro.ikghd.iksafari
 Version: 1.0.4
 Section: Tweaks

@@ -277,7 +277,7 @@
                             },
 
                             {
-                                "markdown":"- minor fixes\n- add disable press to hide comment on reddit app\n- add permanently alert when deleting photos in Photos app\n- fixes a possible conflict with NiceBarX 14 killallapps features!\n- other improvements",
+                                "markdown":"- fixed tweet confirm\n- add follow confirm\n- add disable unfollow confirm\n- add twitter blue features | cricle. undo tweet. disable sensetive posted Img\n- other improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -293,12 +293,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.4",
+               "text":"2.0.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 23, 2022",
+               "text":"Jul 10, 2022",
                "class":"DepictionTableTextView"
             },
 
