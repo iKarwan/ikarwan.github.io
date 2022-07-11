@@ -202,11 +202,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 12.0), firmware (<<13.0), com.opa334.ccsupport
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.instakiller_0.1.3_iphoneos-arm.deb
-Size: 528472
+Size: 532508
 Installed-Size: 1824
-MD5sum: 54f96d3051c913dff794c80838ac172c
-SHA1: 3c9ea8b791b3814acd27a2b044e0f2ceab88ad87
-SHA256: 47aa241c0e801a510d0dc95bc1718266de120d0149763b813fdbd17d72978020
+MD5sum: f25a0d6f4c62dec3702881955a414fce
+SHA1: 1026ecf0c8ff2e94e84f6db1d6422d60a4c0803e
+SHA256: f8e3b4dd27974fd55b13b20c64182c64ad088a514771b4d09c31bb88362c8381
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikghd3@gmail.com>
