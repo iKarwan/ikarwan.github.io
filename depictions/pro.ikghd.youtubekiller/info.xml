@@ -26,6 +26,7 @@
       <change>・with this feature u can use features that stoped work on v17.xx and above like adding/hiding items under media player and so on...</change>
       <change>・fixed a fake version issue when enabled hiding quick videos actions! Qauality loop ext...</change>
       <change>・add some oled section were chenged on latest YouTube version</change>
+      <change>・fix rounded videos thumbnails were some videos show black panel only</change>
       <change>・update app compatibility version</change>
     </changelog>
 

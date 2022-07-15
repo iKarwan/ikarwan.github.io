@@ -105,7 +105,7 @@
                 "title": "markdown-description",
                 "useBoldText": true,
                 "useBottomMargin": false,
-                "markdown": "\r\nMain Options:\r\n\u00b7 Oled dark mode\r\n\u00b7 hide advertisment\r\n\u00b7 hide upload(+) tab\r\n\u00b7 play in background\r\n\u00b7 custom color\r\n      \t\t",
+                "markdown": "\r\nMain Options:\r\n\- Oled dark mode\r\n\- hide advertisment\r\n\- hide upload(+) tab\r\n\- play in background\r\n\- custom color\r\n      \t\t",
                 "class": "DepictionMarkdownView"
             },
 
@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- oled mode changing automatically with system appearance dark/light mode\n- minor fixes\n- update app compatibility\n- add some oled section were chenged on latest YouTube version\n- update app compatibility version",
+                                "markdown":"- oled mode changing automatically with system appearance dark/light mode\n- add some oled section were chenged on latest YouTube version\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },

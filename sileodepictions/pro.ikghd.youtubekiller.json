@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- Moved Fake Version to YouTubeKiller section in YouTube settings under general tab\n- with this feature u can use features that stoped work on v17.xx and above like adding/hiding items under media player and so on...\n- fixed a fake version issue when enabled hiding quick videos actions! Qauality loop ext...\n- add some oled section were chenged on latest YouTube version\n- update app compatibility version",
+                                "markdown":"- Moved Fake Version to YouTubeKiller section in YouTube settings under general tab\n- with this feature u can use features that stoped work on v17.xx and above like adding/hiding items under media player and so on...\n- fixed a fake version issue when enabled hiding quick videos actions! Qauality loop ext...\n- add some oled section were chenged on latest YouTube version\n- fix rounded videos thumbnails were some videos show black panel only\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
