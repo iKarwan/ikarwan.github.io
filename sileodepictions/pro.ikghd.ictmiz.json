@@ -253,7 +253,7 @@
 
 
             {
-              "title":"Eid Discount only : $1.00",
+              "title":"buy : $1.99",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/iCTMiZ",
                "class":"DepictionTableButtonView"
@@ -331,7 +331,7 @@
 
             {
                "title":"Price",
-               "text":"$1.00 USD",
+               "text":"$1.99 USD",
                "class":"DepictionTableTextView"
             },
             {

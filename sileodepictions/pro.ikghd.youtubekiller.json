@@ -207,7 +207,7 @@
             },
 
             {
-              "title":"Eid Discount only : $1.00",
+              "title":"buy : $1.99",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/YouTubeKiller",
                "class":"DepictionTableButtonView"
@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- Moved Fake Version to YouTubeKiller section in YouTube settings under general tab\n- with this feature u can use features that stoped work on v17.xx and above like adding/hiding items under media player and so on...\n- fixed a fake version issue when enabled hiding quick videos actions! Qauality loop ext...",
+                                "markdown":"- Moved Fake Version to YouTubeKiller section in YouTube settings under general tab\n- with this feature u can use features that stoped work on v17.xx and above like adding/hiding items under media player and so on...\n- fixed a fake version issue when enabled hiding quick videos actions! Qauality loop ext...\n- add some oled section were chenged on latest YouTube version\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -266,17 +266,17 @@
             },
             {
                "title":"Version",
-               "text":"1.1.9.1",
+               "text":"1.1.9.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 08, 2022",
+               "text":"Jul 16, 2022",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Price",
-               "text":"$1.00 USD",
+               "text":"$1.99 USD",
                "class":"DepictionTableTextView"
             },
             {

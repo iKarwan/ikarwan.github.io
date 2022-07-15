@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.9.1</version>
+    <version>1.1.9.2</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,21 +10,23 @@
     </compatibility>
 
     <version2>
-      <version2>1.1.9.1</version2>
+      <version2>1.1.9.2</version2>
     </version2>
 
     <date>
-      <date>Jul 08, 2022</date>
+      <date>Jul 16, 2022</date>
     </date>
 
     <price>
-      <price>$1.00 USD</price>
+      <price>$1.99 USD</price>
     </price>
 
     <changelog>
       <change>・Moved Fake Version to YouTubeKiller section in YouTube settings under general tab</change>
       <change>・with this feature u can use features that stoped work on v17.xx and above like adding/hiding items under media player and so on...</change>
       <change>・fixed a fake version issue when enabled hiding quick videos actions! Qauality loop ext...</change>
+      <change>・add some oled section were chenged on latest YouTube version</change>
+      <change>・update app compatibility version</change>
     </changelog>
 
 
@@ -35,7 +37,7 @@
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/YouTubeKiller">Eid Discount only : $1.00</a>
+                <a href="https://repo.ikghd.me/YouTubeKiller">buy : $1.99</a>
             </li>
 
             <br>
@@ -68,6 +70,7 @@
             <br>IPA Version ?
             <br>· Not available yet !
             <br>
+
 
               <br>iOS 12 / 12.5.5 ?
               <br>· downgrade to version 1.1.8

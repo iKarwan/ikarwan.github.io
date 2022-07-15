@@ -95,7 +95,7 @@
             },
 
             {
-              "title":"Eid Discount only : $1.00",
+              "title":"buy : $1.99",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/iNstaKiller",
                "class":"DepictionTableButtonView"
@@ -149,18 +149,18 @@
             },
             {
                "title":"Version",
-               "text":"0.1.4",
+               "text":"0.1.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 06, 2022",
+               "text":"Jul 16, 2022",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Price",
-               "text":"$1.00 USD",
+               "text":"$1.99 USD",
                "class":"DepictionTableTextView"
             },
             {

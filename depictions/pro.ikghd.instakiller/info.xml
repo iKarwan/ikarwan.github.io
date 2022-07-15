@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>0.1.4</version>
+    <version>0.1.5</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,15 +10,15 @@
     </compatibility>
 
     <version2>
-      <version2>0.1.4</version2>
+      <version2>0.1.5</version2>
     </version2>
 
         <date>
-          <date>Jul 06, 2022</date>
+          <date>Jul 16, 2022</date>
         </date>
 
         <price>
-          <price>$1.00 USD</price>
+          <price>$1.99 USD</price>
         </price>
 
         <changelog>
@@ -36,7 +36,7 @@
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/iNstaKiller">Eid Discount only : $1.00</a>
+                <a href="https://repo.ikghd.me/iNstaKiller">buy : $1.99</a>
             </li>
 
             <br>
@@ -65,9 +65,8 @@
             <br>
 
               <br>iOS 12 / 12.5.5 ?
-              <br>· downgrade to version 0.1.3
+                <br>· downgrade to version 0.1.3
               <br>
-
 
                       <br>Refund Policy:
                       <br>· refund accepted if u have !issue such a safe mode or th tweak not working!

@@ -105,7 +105,7 @@
                 "title": "markdown-description",
                 "useBoldText": true,
                 "useBottomMargin": false,
-                "markdown": "          \r\n\u00b7 if u purchased this tweak on yourepo before you can get YoutubeKiller for $1.00\r\n            \r\nMain Options:\r\n\u00b7 Oled dark mode\r\n\u00b7 hide advertisment\r\n\u00b7 hide upload(+) tab\r\n\u00b7 play in background\r\n\u00b7 custom color\r\n      \t\t",
+                "markdown": "\r\nMain Options:\r\n\u00b7 Oled dark mode\r\n\u00b7 hide advertisment\r\n\u00b7 hide upload(+) tab\r\n\u00b7 play in background\r\n\u00b7 custom color\r\n      \t\t",
                 "class": "DepictionMarkdownView"
             },
 
@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- oled mode changing automatically with system appearance dark/light mode\n- minor fixes\n- update app compatibility",
+                                "markdown":"- oled mode changing automatically with system appearance dark/light mode\n- minor fixes\n- update app compatibility\n- add some oled section were chenged on latest YouTube version\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0",
+               "text":"1.2.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 23, 2022",
+               "text":"Jul 16, 2022",
                "class":"DepictionTableTextView"
             },
             {
