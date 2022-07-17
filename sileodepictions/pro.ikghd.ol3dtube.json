@@ -105,7 +105,7 @@
                 "title": "markdown-description",
                 "useBoldText": true,
                 "useBottomMargin": false,
-                "markdown": " Main Options:\n- Oled dark moden\n- hide advertisment\n- hide upload(+) tab\n- play in background\n- custom color",
+                "markdown": " Main Options:\n- Oled dark mode\n- dark keyboard\n- hide advertisment\n- hide upload(+) tab\n- play in background\n- custom color",
                 "class": "DepictionMarkdownView"
             },
 
