@@ -7,8 +7,8 @@
          "tabname":"Details",
          "views":[
             {
-                "itemCornerRadius":8,
-                "itemSize":"{200,380}",
+                "itemCornerRadius":6,
+                "itemSize":"{160, 275.41333333333336}",
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
@@ -64,6 +64,10 @@
                 "class": "DepictionMarkdownView"
             },
 
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
 
                             {
                                "title":"What's New",
@@ -76,6 +80,9 @@
                                 "class":"DepictionMarkdownView"
                             },
 
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
 
 
             {
@@ -106,6 +113,11 @@
 
 
             {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
                "title":"Support",
                "class":"DepictionHeaderView"
             },
@@ -128,13 +140,6 @@
                "useBoldText": true,
                "action":"https://youtube.com/c/ikghd",
                "class":"DepictionTableButtonView"
-            },
-
-            {"class":"DepictionLabelView",
-              "text":"iKarwan Tweaks | iKPowercc 0.0.1",
-              "textColor":"#999999","fontSize":"10.0",
-              "alignment":1,"class":"DepictionStackView",
-              "class":"DepictionTabView"
             },
 
             {
