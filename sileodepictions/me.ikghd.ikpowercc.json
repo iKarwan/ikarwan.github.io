@@ -2,9 +2,10 @@
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.ikpowercc/Images/Banner.jpg",
    "tintColor":"#2d3e50",
+      {
 
 
-            {
+
                 "itemCornerRadius":8,
                 "itemSize":"{180,380}",
                 "screenshots":[
@@ -40,19 +41,7 @@
                 },
                 "class":"DepictionScreenshotsView"
             },
-            {
-               "class":"DepictionSeparatorView"
-            },
 
-            {
-                "title":"Features",
-                "class":"DepictionHeaderView"
-            },
-            {
-                "class": "DepictionMarkdownView",
-                "markdown": "Power action CC Module:",
-                "useSpacing": true
-            },
 
             {
                 "useBottomMargin": false,
@@ -135,11 +124,7 @@
               "class":"DepictionTabView"
             },
 
-            {
-               "spacing":10,
-               "class":"DepictionSpacerView"
-            }
 
-         [],
+         {
          "class":"DepictionStackView"
       }
