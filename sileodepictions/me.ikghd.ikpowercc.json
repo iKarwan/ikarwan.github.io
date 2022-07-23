@@ -2,9 +2,9 @@
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.ikpowercc/Images/Banner.jpg",
    "tintColor":"#2d3e50",
-   "tabs":[
+   "":[
       {
-         "tabname":"Details",
+         "tabname":"",
          "views":[
             {
                 "itemCornerRadius":8,
@@ -64,10 +64,6 @@
                 "class": "DepictionMarkdownView"
             },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
-
 
                             {
                                "title":"What's New",
@@ -80,9 +76,6 @@
                                 "class":"DepictionMarkdownView"
                             },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
 
 
             {
@@ -113,11 +106,6 @@
 
 
             {
-               "class":"DepictionSeparatorView"
-            },
-
-
-            {
                "title":"Support",
                "class":"DepictionHeaderView"
             },
@@ -143,7 +131,7 @@
             },
 
             {"class":"DepictionLabelView",
-              "text":"iKarwan Tweaks | iKPCC 1.2.2",
+              "text":"iKarwan Tweaks | iKPowercc 0.0.1",
               "textColor":"#999999","fontSize":"10.0",
               "alignment":1,"class":"DepictionStackView",
               "class":"DepictionTabView"
