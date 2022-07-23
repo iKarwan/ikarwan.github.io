@@ -8,7 +8,7 @@
          "views":[
             {
                 "itemCornerRadius":8,
-                "itemSize":"{150,300}",
+                "itemSize":"{150,250}",
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
@@ -140,6 +140,13 @@
                "useBoldText": true,
                "action":"https://youtube.com/c/ikghd",
                "class":"DepictionTableButtonView"
+            },
+
+            {"class":"DepictionLabelView",
+              "text":"iKarwan Tweaks | iKPCC 1.2.2",
+              "textColor":"#999999","fontSize":"10.0",
+              "alignment":1}],"class":"DepictionStackView"}],
+              "class":"DepictionTabView"
             },
 
             {
