@@ -8,7 +8,7 @@
          "views":[
             {
                 "itemCornerRadius":8,
-                "itemSize":"{185,400}",
+                "itemSize":"{150,300}",
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
