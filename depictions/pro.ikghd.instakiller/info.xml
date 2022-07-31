@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>0.1.5</version>
+    <version>0.1.6</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>0.1.5</version2>
+      <version2>0.1.6</version2>
     </version2>
 
         <date>
-          <date>Jul 16, 2022</date>
+          <date>Jul 31, 2022</date>
         </date>
 
         <price>
@@ -22,9 +22,10 @@
         </price>
 
         <changelog>
-          <change>・add iOS 12 support u must downgrade the version to 0.1.3</change>
-          <change>・fixes app lock settings was disabled in the previuos version</change>
-          <change>・other fixes &amp; improvements</change>
+          <change>・add focus mode (Main UI)</change>
+          <change>・add a button for stories to Qq read/unread it</change>
+          <change>・add a button for DM/Messages to Qq read/unread it</change>
+          <change>・other minor improvements</change>
           <change>・update app compatibility version</change>
         </changelog>
 

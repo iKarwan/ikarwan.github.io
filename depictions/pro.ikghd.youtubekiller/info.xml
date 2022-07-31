@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.1.9.2</version>
+    <version>1.2.0</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.1.9.2</version2>
+      <version2>1.2.0</version2>
     </version2>
 
     <date>
-      <date>Jul 16, 2022</date>
+      <date>Jul 31, 2022</date>
     </date>
 
     <price>
@@ -22,11 +22,10 @@
     </price>
 
     <changelog>
-      <change>・Moved Fake Version to YouTubeKiller section in YouTube settings under general tab</change>
-      <change>・with this feature u can use features that stoped work on v17.xx and above like adding/hiding items under media player and so on...</change>
-      <change>・fixed a fake version issue when enabled hiding quick videos actions! Qauality loop ext...</change>
-      <change>・add some oled section were chenged on latest YouTube version</change>
-      <change>・fix rounded videos thumbnails were some videos show black panel only</change>
+      <change>・add focus mode (main)</change>
+      <change>・add reorder videos in paly list (Vplayer)</change>
+      <change>・fixed spaces between tabs (TabBar)</change>
+      <change>・other minor improvements</change>
       <change>・update app compatibility version</change>
     </changelog>
 

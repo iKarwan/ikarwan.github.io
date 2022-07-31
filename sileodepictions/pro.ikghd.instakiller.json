@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- add iOS 12 support u must downgrade the version to 0.1.3\n- fixes app lock settings was disabled in the previuos version\n- other fixs & improvements\n- Update app compatibility version",
+                                "markdown":"- add focus mode (Main UI)\n- add a button for stories to Qq read/unread it\n- add a button for DM/Messages to Qq read/unread it\n- other minor improvements\n- Update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.1.5",
+               "text":"0.1.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 16, 2022",
+               "text":"Jul 31, 2022",
                "class":"DepictionTableTextView"
             },
 
