@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- add focus mode (Main UI)\n- add a button for stories to Qq read/unread it || in v0.1.7 fixed enaled button not function grayed out !!! \n- add a button for DM/Messages to Qq read/unread it || in v0.1.7 fixed enaled button not function grayed out !!!\n- other minor improvements\n- Update app compatibility version",
+                                "markdown":"- add focus mode (Main UI)\n- add a button for stories to Qq read/unread it || in v0.1.7 fixed enabled button not function grayed out !!! \n- add a button for DM/Messages to Qq read/unread it || in v0.1.7 fixed enabled button not function grayed out !!!\n- other minor improvements\n- Update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
