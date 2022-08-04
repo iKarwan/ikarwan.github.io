@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>0.1.7</version>
+    <version>0.1.7.1</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>0.1.7</version2>
+      <version2>0.1.7.1</version2>
     </version2>
 
         <date>
-          <date>Aug 01, 2022</date>
+          <date>Aug 04, 2022</date>
         </date>
 
         <price>
@@ -22,6 +22,8 @@
         </price>
 
         <changelog>
+          <change>・minor fixes</change>
+          <change></change>
           <change>・add focus mode (Main UI)</change>
           <change>・add a button for stories to Qq read/unread it || in v0.1.7 fixed enabled button not function grayed out !!!</change>
           <change>・add a button for DM/Messages to Qq read/unread it || in v0.1.7 fixed enabled button not function grayed out !!!</change>
