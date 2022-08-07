@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>0.1.7.2</version>
+    <version>0.1.7.3</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>0.1.7.2</version2>
+      <version2>0.1.7.3</version2>
     </version2>
 
         <date>
-          <date>Aug 04, 2022</date>
+          <date>Aug 07, 2022</date>
         </date>
 
         <price>
@@ -22,6 +22,8 @@
         </price>
 
         <changelog>
+          <change>・improvements</change>
+          <change></change>
           <change>・add a button in videos for downloading instead of long press! | reels, iGTV ext...</change>
           <change>・add haptics feedback in various sections</change>
           <change>・minor fixes</change>
