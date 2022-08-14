@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- fixes & improvements\r\n\r\n- \r\n\r\n- add focus mode (main)\n- add reorder videos in paly list (Vplayer)\n- fixed spaces between tabs (TabBar)\n- other minor improvements\n- update app compatibility version",
+                                "markdown":"- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -266,12 +266,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0.3",
+               "text":"1.2.0.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 08, 2022",
+               "text":"Aug 14, 2022",
                "class":"DepictionTableTextView"
             },
             {

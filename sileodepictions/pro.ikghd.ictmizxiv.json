@@ -277,7 +277,7 @@
                             },
 
                             {
-                                "markdown":"- fixed tweet confirm\n- add follow confirm\n- add disable unfollow confirm\n- add twitter blue features | cricle. undo tweet. disable sensetive posted Img\n- other improvements",
+                                "markdown":"- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -293,12 +293,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.5",
+               "text":"2.0.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 10, 2022",
+               "text":"Aug 14, 2022",
                "class":"DepictionTableTextView"
             },
 

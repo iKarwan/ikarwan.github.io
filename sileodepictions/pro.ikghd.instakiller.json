@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- improvements\r\n\r\n- add a button in videos for downloading instead of long press! | reels, iGTV ext...\n- add haptics feedback in various sections\n-\n- minor fixes\r\n\r\n- add focus mode (Main UI)\n- add a button for stories to Qq read/unread it || in v0.1.7 fixed enabled button not function grayed out !!! \n- add a button for DM/Messages to Qq read/unread it || in v0.1.7 fixed enabled button not function grayed out !!!\n- other minor improvements\n- Update app compatibility version",
+                                "markdown":"- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.1.7.3",
+               "text":"0.1.7.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 07, 2022",
+               "text":"Aug 14, 2022",
                "class":"DepictionTableTextView"
             },
 
