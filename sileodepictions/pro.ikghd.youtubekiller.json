@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- compile with ios 14 sdk's\n- fixes & improvements\n- update app compatibility version",
+                                "markdown":"- update return youtube deslike\n- fix an issue with PiP disable in miniPlayer get invoked even when video in miniPlayer\n- compile with ios 14 sdk's\n- fixes & improvements\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },

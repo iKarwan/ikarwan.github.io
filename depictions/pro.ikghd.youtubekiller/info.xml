@@ -22,6 +22,8 @@
     </price>
 
     <changelog>
+      <change>・update return youtube deslike</change>
+      <change>・fix an issue with PiP disable in miniPlayer video get invoked even when in miniPlayer</change>
       <change>・compile with ios 14 sdk's</change>
       <change>・fixes &amp; improvements</change>
       <change>・update app compatibility version</change>
