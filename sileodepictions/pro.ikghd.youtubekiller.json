@@ -221,7 +221,7 @@
                "class":"DepictionHeaderView"
             },
             {
-                "markdown": "- NOTE !!! u need to move your previuos downloaded video/audio to new directory YouTubeKiller in youtube documents directory\n- Download Videos\r\n- Import Videos To Photos\r\n- block all advertisment\r\n- play in background\r\n- stream HD videos over 3G/4G/5G\r\n- stream 4K videos\r\n- PiP feature Picture in Picture\r\n- oled mode better experiance dark mode\r\n- color customization for all icons\r\n- Customize tab bar layout\r\n- YouTube Music support\r\n- AppLock Settings\r\n- and many more settings",
+                "markdown": "- Download Videos\r\n- Import Videos To Photos\r\n- block all advertisment\r\n- play in background\r\n- stream HD videos over 3G/4G/5G\r\n- stream 4K videos\r\n- PiP feature Picture in Picture\r\n- oled mode better experiance dark mode\r\n- color customization for all icons\r\n- Customize tab bar layout\r\n- YouTube Music support\r\n- AppLock Settings\r\n- and many more settings",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- improve download manager\n- fixes & improvements",
+                                "markdown":"- NOTE !!! u need to move your previuos downloaded video/audio to new directory YouTubeKiller in youtube documents directory\n- improve download manager\n- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
