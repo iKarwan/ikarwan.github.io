@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- add PiP to downloaded video item\n- add play inbackground to audio downloaded\n- sorted downloaded item alphabetically\n- fixes & improvements\n- update app compatibility version",
+                                "markdown":"- improve download manager\n- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -266,12 +266,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0.6",
+               "text":"1.2.0.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 24, 2022",
+               "text":"Aug 29, 2022",
                "class":"DepictionTableTextView"
             },
             {
