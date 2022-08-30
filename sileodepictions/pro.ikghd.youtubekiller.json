@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- fixes\n\n\n- NOTE !!! u need to move your previuos downloaded video/audio to new directory YouTubeKiller in youtube documents directory\n- improve download manager\n- fixes & improvements",
+                                "markdown":"- more improvements to downloads\n- fixes\n\n- improve download manager\n- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -266,12 +266,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0.7",
+               "text":"1.2.0.9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 29, 2022",
+               "text":"Aug 31, 2022",
                "class":"DepictionTableTextView"
             },
             {
