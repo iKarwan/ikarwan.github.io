@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- NOTE !!! u need to move your previuos downloaded video/audio to new directory YouTubeKiller in youtube documents directory\n- improve download manager\n- fixes & improvements",
+                                "markdown":"- fixes\n\n\n- NOTE !!! u need to move your previuos downloaded video/audio to new directory YouTubeKiller in youtube documents directory\n- improve download manager\n- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
