@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- more improvements to downloads\n- fixes\n\n- improve download manager\n- fixes & improvements",
+                                "markdown":"- more improvements to downloads\n- fixes & improvements\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
