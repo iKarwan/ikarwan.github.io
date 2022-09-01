@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- more improvements to downloads\n- fixes & improvements\n- update app compatibility",
+                                "markdown":"- clean up\n- more improvements to downloads\n- fixes\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -266,12 +266,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0.10",
+               "text":"1.2.0.11",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 31, 2022",
+               "text":"Sep 02, 2022",
                "class":"DepictionTableTextView"
             },
             {
