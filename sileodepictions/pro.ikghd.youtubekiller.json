@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- clean up\n- more improvements to downloads\n- fixes\n- update app compatibility",
+                                "markdown":"- update activation server\n- add use system VolumeHUD(Miscellaneous)\n- clean up\n- more improvements to downloads\n- fixes\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -266,12 +266,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0.11",
+               "text":"1.2.0.12",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 02, 2022",
+               "text":"Sep 04, 2022",
                "class":"DepictionTableTextView"
             },
             {

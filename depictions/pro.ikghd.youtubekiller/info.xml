@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.2.0.11</version>
+    <version>1.2.0.12</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.2.0.11</version2>
+      <version2>1.2.0.12</version2>
     </version2>
 
     <date>
-      <date>Sep 02, 2022</date>
+      <date>Sep 04, 2022</date>
     </date>
 
     <price>
@@ -22,6 +22,8 @@
     </price>
 
     <changelog>
+      <change>・add use system VolumeHUD(Miscellaneous)</change>
+      <change>・update activation server</change>
       <change>・clean up</change>
       <change>・more improvements to downloads</change>
       <change></change>

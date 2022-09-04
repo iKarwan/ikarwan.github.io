@@ -304,7 +304,7 @@
                             },
 
                             {
-                                "markdown":"- improve filter between apps and system hooks\n- add hide upload (+) tab (YouTube)",
+                                "markdown":"- update activation server\n- improve filter between apps and system hooks\n- add hide upload (+) tab (YouTube)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -320,12 +320,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.2",
+               "text":"1.2.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 01, 2021",
+               "text":"Sep 04, 2022",
                "class":"DepictionTableTextView"
             },
 

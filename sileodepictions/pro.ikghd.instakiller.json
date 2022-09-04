@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- compile with ios 14 sdk's\n- fixes & improvements\n- update app compatibility version",
+                                "markdown":"- update activation server\n- fixes & improvements\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"0.1.7.5",
+               "text":"0.1.7.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 21, 2022",
+               "text":"Sep 04, 2022",
                "class":"DepictionTableTextView"
             },
 
