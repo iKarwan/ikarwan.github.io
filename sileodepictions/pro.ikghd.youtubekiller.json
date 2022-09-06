@@ -270,8 +270,8 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"iOS 12 / 12.5.5 ?",
-               "text":"downgrade to version 1.2.0",
+               "title":"iOS 12.0/12.5.5 ?",
+               "text":"downgrade to v1.2.0",
                "class":"DepictionTableTextView"
             },
             {
