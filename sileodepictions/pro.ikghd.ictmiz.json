@@ -304,7 +304,7 @@
                             },
 
                             {
-                                "markdown":"- update activation server\n- improve filter between apps and system hooks\n- add hide upload (+) tab (YouTube)",
+                                "markdown":"- fixes preferences error\n- update activation server\n- improve filter between apps and system hooks\n- add hide upload (+) tab (YouTube)",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -320,12 +320,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.3",
+               "text":"1.2.3.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 04, 2022",
+               "text":"Sep 06, 2022",
                "class":"DepictionTableTextView"
             },
 
