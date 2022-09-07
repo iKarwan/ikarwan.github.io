@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>0.1.7.8</version>
+    <version>0.1.7.9</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
 
     <version2>
-      <version2>0.1.7.8</version2>
+      <version2>0.1.7.9</version2>
     </version2>
 
         <date>
@@ -22,6 +22,8 @@
         </price>
 
         <changelog>
+          <change>・SOS fixes prefs activation error</change>
+          <change></change>
           <change>・fixes fucos mode for newer Instagram Version</change>
           <change>・fixes hide reel / post &amp; explore</change>
           <change>・add hide all tabs individually</change>
