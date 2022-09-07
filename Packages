@@ -217,6 +217,25 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.instakiller.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.instakiller.png
 
 Package: pro.ikghd.instakiller
+Version: 0.1.7.8
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 12.0), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.instakiller_0.1.7.8_iphoneos-arm.deb
+Size: 668092
+Installed-Size: 2652
+MD5sum: e52cff58b708b222461c9d7429b002bf
+SHA1: 7d9d8397dc3a55c8c8b17108e026bf7729e8145d
+SHA256: 5a2df3169fab27d03229b3a0735f687e52ca84aa35769af030bbc7fdfda22e6d
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.instakiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.instakiller.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.instakiller.png
+
+Package: pro.ikghd.instakiller
 Version: 0.1.7
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -307,6 +326,26 @@ Installed-Size: 29868
 MD5sum: d5084da76236924928dbe1df6651d119
 SHA1: 2b64946c4ecba3674524d170f987e247f61e2dfa
 SHA256: 4d6a46e45d452d056203b9897c0a719979cc702535205456d3c308e8b71678e0
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.youtubekiller.png
+
+Package: pro.ikghd.youtubekiller
+Version: 1.2.0.13
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 12.0), ws.hbang.alderis, com.opa334.ccsupport
+Conflicts: com.spicat.youpip, com.ps.youpip
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.youtubekiller_1.2.0.13_iphoneos-arm.deb
+Size: 10880660
+Installed-Size: 29852
+MD5sum: ff101dda642bf573074ad9f9a6762c06
+SHA1: cfdab4785e11f4b234b354fe186e0f5ff0d02a0c
+SHA256: 04d10c8fcc5ee344508f2cf463b854107d1adb56880a66d49db3a00c57fcf6c4
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikghd3@gmail.com>
