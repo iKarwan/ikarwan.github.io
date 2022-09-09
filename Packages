@@ -198,25 +198,6 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.iksettings.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.iksettings.png
 
 Package: pro.ikghd.instakiller
-Version: 0.1.7.7
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 12.0), com.opa334.ccsupport
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.instakiller_0.1.7.7_iphoneos-arm.deb
-Size: 631996
-Installed-Size: 2408
-MD5sum: d99bd7f134aec2145e33761a636c80f1
-SHA1: 290c8d912ce59756f76c5d549e073613137062b4
-SHA256: afb66fd0af0f23d3e78937cffca23df6a76624d9782f0a0c7afee80340b70276
-Description: iNstagram app no ad’s Media Downloads and much more...
-Name: iNstaKiller
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.instakiller
-SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.instakiller.json
-Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.instakiller.png
-
-Package: pro.ikghd.instakiller
 Version: 0.1.7
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -334,18 +315,18 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.youtubekiller.js
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.youtubekiller.png
 
 Package: pro.ikghd.youtubekiller
-Version: 1.2.0.12
+Version: 1.2.0.15
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 12.0), ws.hbang.alderis, com.opa334.ccsupport
 Conflicts: com.spicat.youpip, com.ps.youpip
 Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.youtubekiller_1.2.0.12_iphoneos-arm.deb
-Size: 10880630
-Installed-Size: 29868
-MD5sum: d5084da76236924928dbe1df6651d119
-SHA1: 2b64946c4ecba3674524d170f987e247f61e2dfa
-SHA256: 4d6a46e45d452d056203b9897c0a719979cc702535205456d3c308e8b71678e0
+Filename: .//debs/pro.ikghd.youtubekiller_1.2.0.15_iphoneos-arm.deb
+Size: 10823180
+Installed-Size: 29428
+MD5sum: 1f2a7772b33418c064756273d85b39d2
+SHA1: 1affdd43fbb4000e1af1aad78c98848b8e7e1d4b
+SHA256: 8e656f4dae247b351847d090ad191ec169e58e584fc6a9810882dcc41d39df43
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikghd3@gmail.com>

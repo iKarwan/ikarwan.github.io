@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.2.0.14</version>
+    <version>1.2.0.15</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.2.0.14</version2>
+      <version2>1.2.0.15</version2>
     </version2>
 
     <date>
-      <date>Sep 07, 2022</date>
+      <date>Sep 10, 2022</date>
     </date>
 
     <price>
@@ -22,7 +22,12 @@
     </price>
 
     <changelog>
-      <change>・SOS fixes prefs activation error</change>
+      <change>・fixed the download naming forever this is last time sorry</change>
+      <change>・add download audio quality</change>
+      <change>・speed up download audio quality 50x + time.!!!</change>
+      <change>・add long press to download media on playback in feed just let the video play and long press to downloading it without opening the video even</change>
+      <change>・add replace next/previous button with fastforward/rewind seek button</change>
+      <change></change>
       <change></change>
       <change>・improvements &amp; cleaning up</change>
       <change>・add use system VolumeHUD(Miscellaneous)</change>

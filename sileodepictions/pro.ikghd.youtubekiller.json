@@ -250,7 +250,7 @@
                             },
 
                             {
-                                "markdown":"- improvements & cleaning up\n- update activation server\n- add use system VolumeHUD(Miscellaneous)\n- more improvements to downloads\n- update app compatibility",
+                                "markdown":"- fixed the download naming forever this is last time sorry\n- add download audio quality\n- speed up download audio quality 50x + time.!!!\n- add long press to download media on playback in feed just let the video play and long press to downloading it without opening the video even\n- add replace next/previous button with fastforward/rewind seek button \r\n\r\n- improvements & cleaning up\n- update activation server\n- add use system VolumeHUD(Miscellaneous)\n- more improvements to downloads\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -266,7 +266,7 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0.13",
+               "text":"1.2.0.15",
                "class":"DepictionTableTextView"
             },
             {
@@ -276,7 +276,7 @@
             },
             {
                "title":"Updated",
-               "text":"Sep 07, 2022",
+               "text":"Sep 10, 2022",
                "class":"DepictionTableTextView"
             },
             {
