@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.2.0.16</version>
+    <version>1.2.0.17</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
 
     <version2>
-      <version2>1.2.0.16</version2>
+      <version2>1.2.0.17</version2>
     </version2>
 
     <date>
@@ -22,10 +22,16 @@
     </price>
 
     <changelog>
+      <change>・v1.2.0.17</change>
+      <change>・fixes download label text</change>
+      <change>・revamped X close button</change>
+      <change></change>
+      <change></change>
       <change>・downloaded items have thumbnails/artwork now</change>
       <change>・tab bar have an icon now</change>
       <change>・fixes pulldown to refresh wasn't function in previous build</change>
       <change>・another fixe for the download naming this is last time i promise sorry again :D</change>
+      <change></change>
       <change></change>
       <change>・fixed the download naming forever this is last time sorry</change>
       <change>・add download audio quality</change>
