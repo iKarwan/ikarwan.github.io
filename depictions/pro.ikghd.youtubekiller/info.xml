@@ -22,11 +22,12 @@
     </price>
 
     <changelog>
-      <change>・v1.2.0.17</change>
+      <change>・v1.2.0.17/ 04:45:19 am</change>
       <change>・fixes download label text</change>
       <change>・revamped X close button</change>
       <change></change>
       <change></change>
+      <change>・v1.2.0.16/ 03:40:50 am</change>
       <change>・downloaded items have thumbnails/artwork now</change>
       <change>・tab bar have an icon now</change>
       <change>・fixes pulldown to refresh wasn't function in previous build</change>
