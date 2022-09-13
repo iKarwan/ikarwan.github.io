@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.2.0.15</version>
+    <version>1.2.0.16</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.2.0.15</version2>
+      <version2>1.2.0.16</version2>
     </version2>
 
     <date>
-      <date>Sep 10, 2022</date>
+      <date>Sep 13, 2022</date>
     </date>
 
     <price>
@@ -22,6 +22,11 @@
     </price>
 
     <changelog>
+      <change>・downloaded items have thumbnails/artwork now</change>
+      <change>・tab bar have an icon now</change>
+      <change>・fixes pulldown to refresh wasn't function in previous build</change>
+      <change>・another fixe for the download naming this is last time i promise sorry again :D</change>
+      <change></change>
       <change>・fixed the download naming forever this is last time sorry</change>
       <change>・add download audio quality</change>
       <change>・speed up download audio quality 50x + time.!!!</change>
