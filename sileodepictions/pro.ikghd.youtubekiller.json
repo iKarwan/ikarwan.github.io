@@ -207,7 +207,7 @@
             },
 
             {
-              "title":"buy : $1.99",
+              "title":"buy : $1.00",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/YouTubeKiller",
                "class":"DepictionTableButtonView"
@@ -266,7 +266,7 @@
             },
             {
                "title":"Version",
-               "text":"1.2.0.17",
+               "text":"1.2.2",
                "class":"DepictionTableTextView"
             },
             {
@@ -276,12 +276,12 @@
             },
             {
                "title":"Updated",
-               "text":"Sep 13, 2022",
+               "text":"Sep 27, 2022",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Price",
-               "text":"$1.99 USD",
+               "text":"$1.00 USD",
                "class":"DepictionTableTextView"
             },
             {

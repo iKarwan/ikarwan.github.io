@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.2.0.17</version>
+    <version>1.2.2</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,53 +10,32 @@
     </compatibility>
 
     <version2>
-      <version2>1.2.0.17</version2>
+      <version2>1.2.2</version2>
     </version2>
 
     <date>
-      <date>Sep 13, 2022</date>
+      <date>Sep 27, 2022</date>
     </date>
 
     <price>
-      <price>$1.99 USD</price>
+      <price>$1.00 USD</price>
     </price>
 
     <changelog>
-      <change>・v1.2.0.17/ 04:45:19 am</change>
-      <change>・fixes download label text</change>
-      <change>・revamped X close button</change>
-      <change></change>
-      <change></change>
-      <change>・v1.2.0.16/ 03:40:50 am</change>
-      <change>・downloaded items have thumbnails/artwork now</change>
-      <change>・tab bar have an icon now</change>
-      <change>・fixes pulldown to refresh wasn't function in previous build</change>
-      <change>・another fixe for the download naming this is last time i promise sorry again :D</change>
-      <change></change>
-      <change></change>
-      <change>・fixed the download naming forever this is last time sorry</change>
-      <change>・add download audio quality</change>
-      <change>・speed up download audio quality 50x + time.!!!</change>
-      <change>・add long press to download media on playback in feed just let the video play and long press to downloading it without opening the video even</change>
-      <change>・add replace next/previous button with fastforward/rewind seek button</change>
-      <change></change>
-      <change></change>
       <change>・improvements &amp; cleaning up</change>
-      <change>・add use system VolumeHUD(Miscellaneous)</change>
-      <change>・update activation server</change>
-      <change>・more improvements to downloads</change>
       <change>・update app compatibility</change>
     </changelog>
 
 
     <descriptionlist>
-          <description>New YouTube Experience!</description>
+          <!-- <description>New YouTube Experience!</description> -->
+          <description>discount for a limited time only $1.00</description>
 
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/YouTubeKiller">buy : $1.99</a>
+                <a href="https://repo.ikghd.me/YouTubeKiller">buy : $1.00</a>
             </li>
 
             <br>

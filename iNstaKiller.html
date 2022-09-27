@@ -15,7 +15,9 @@
 <body>
 
   <div id="wrapper">
-    <span id="display-name">iNstaKiller</span>
+    <!-- <span id="display-name">iNstaKiller</span> -->
+    <span id="display-name">discount for a limited time only $1.00</span>
+
     <hr>
 
     <span id="description">after purchase Copy  your UDID:  <a href = "mailto: insta.k3ller@gmail.com?cc=&subject=iNstaKiller&body=Pls send a photo proof of the purchase for fastest activation! Paste Your UDID down below::">Send UDID</a></span>
@@ -24,7 +26,7 @@
 
         <div style="padding-top: 15px;">
         <!-- <hr> -->
-        <span id="display-name">Buy Via Crypto's</span>
+        <span id="display-name">Crypto/FastPay</span>
         <div style="padding-top: 15px;">
         <hr>
         </div>
@@ -42,10 +44,10 @@
         <div class="social-popout">
         <div class="columns">
           <ul class="lpro">
+            <li><a href="https://repo.ikghd.me/FastPay" target="_blank"><img src="assets/fp.png" alt="FastPay FP"></a></li>
             <li><a href="https://repo.ikghd.me/usdtTRC20" target="_blank"><img src="assets/usdtTRC20.png" alt="Tether USDT TRC20"></a></li>
             <li><a href="https://repo.ikghd.me/btc" target="_blank"><img src="assets/btc.png" alt="Bitcoin BTC"></a></li>
             <li><a href="https://repo.ikghd.me/usdtERC20" target="_blank"><img src="assets/usdtERC20.png" alt="Tether USDT ERC20"></a></li>
-            <li><a href="https://repo.ikghd.me/eth" target="_blank"><img src="assets/eth.png" alt="Ethereum ETH"></a></li>
           </ul>
         </div>
         </div>
@@ -53,7 +55,7 @@
 
 
         <hr>
-    <span id="display-name">$1.99 USD</span>
+    <span id="display-name">$1.00 USD</span>
     <hr>
 
     <div id="smart-button-container">
@@ -75,7 +77,7 @@
 
             createOrder: function(data, actions) {
               return actions.order.create({
-                purchase_units: [{"description":"New Instagram Experiance !","amount":{"currency_code":"USD","value":1.99}}]
+                purchase_units: [{"description":"New Instagram Experiance !","amount":{"currency_code":"USD","value":1}}]
               });
             },
 

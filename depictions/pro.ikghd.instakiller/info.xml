@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>0.1.7.9</version>
+    <version>0.1.8</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,38 +10,32 @@
     </compatibility>
 
     <version2>
-      <version2>0.1.7.9</version2>
+      <version2>0.1.8</version2>
     </version2>
 
         <date>
-          <date>Sep 07, 2022</date>
+          <date>Sep 27, 2022</date>
         </date>
 
         <price>
-          <price>$1.99 USD</price>
+          <price>$1.00 USD</price>
         </price>
 
         <changelog>
-          <change>・fixes fucos mode for newer Instagram Version</change>
-          <change>・fixes hide reel / post &amp; explore</change>
-          <change>・add hide all tabs individually</change>
-          <change>・add disable long press on tabs</change>
-          <change>・add hide suggested profile when following users</change>
-          <change>・add disable double tap on tab bar to switch BT accounts</change>
-          <change>・other fixes &amp; cleaning up</change>
-          <change>・update activation server</change>
+          <change>・fixes &amp; cleaning up</change>
           <change>・update app compatibility version</change>
         </changelog>
 
 
     <descriptionlist>
-      <description>"iNstaKiller" New Instagram Experiance:</description>
+      <!-- <description>"iNstaKiller" New Instagram Experiance:</description> -->
+      <description>"discount for a limited time only $1.00</description>
 
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/iNstaKiller">buy : $1.99</a>
+                <a href="https://repo.ikghd.me/iNstaKiller">buy : $1.00</a>
             </li>
 
             <br>

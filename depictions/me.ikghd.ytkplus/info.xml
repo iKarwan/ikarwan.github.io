@@ -1,0 +1,112 @@
+<package>
+   <id>me.ikghd.ytkplus</id>
+    <name>YTKillerPlus</name>
+    <version>2.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>13.0</miniOS>
+            <maxiOS>16.1</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <version2>
+      <version2>2.0</version2>
+    </version2>
+
+    <date>
+      <date>Sep 28, 2022</date>
+    </date>
+
+    <price>
+      <price>$1.99 USD</price>
+    </price>
+
+    <changelog>
+      <change>・initial</change>
+    </changelog>
+
+
+    <descriptionlist>
+          <description>a whole New YouTube Experience!</description>
+
+        <longdescription><![CDATA[
+          <br>
+
+            <li>
+                <a href="https://repo.ikghd.me/YTKPlus/">buy : $1.99</a>
+            </li>
+
+            <br>
+              <li>
+                  <a href="https://repo.ikghd.me/Upgrade/">Upgrade from YouTubeKiller : $1.00</a>
+              </li>
+
+              <br>
+
+          <br>
+          <br>In App Settings?:
+          <br>· Download Videos/Shorts/Posted Img
+          <br>· Download Manager for manging DWN Items
+          <br>· Import Videos To Photos
+          <br>· block all advertisment
+          <br>· play in background
+      		<br>· stream HD videos over 3G/4G/5G
+          <br>· stream 4K videos
+          <br>· PiP feature Picture in Picture
+          <br>· oled mode better experiance dark mode
+          <br>· Customize tab bar layout
+          <br>· and many more settings
+          <br> <br>
+
+          <li>
+              <a href="https://youtu.be/haAaqU1zFFo">Demo Via YouTube</a>
+          </li>
+          <br>
+
+
+            <br>IPA & TrollStore Version?
+              <li>
+                  <a href="https://repo.ikghd.me/YTKillerPlus/">available here...</a>
+                  <br>· don't try to sideload this DEB as it won't work just use the iPA above instead .
+              </li>
+            <br>
+
+
+
+                      <br>Refund Policy:
+                      <br>· refund accepted if u have !issue such a safe mode or the tweak not working!
+                      <br>· must provide full details about the !issue photo & crash log>
+                      <br>· change in mind not accepted !u can see details with photos & video before buying,
+                      <br>· if refund was accepted will processing with in 3 to 7 days:
+                      <br>· thank you 🤗 & Enjoy:
+                      <br>
+                      <br>
+
+                        <br>Purchased before or Changing device ?
+                      <br>· send a proof & UDID to the email <a href = "mailto: yt.k3ller@gmail.com?cc=&subject=YouTubeKiller&body=Pls send a photo proof of the purchase! and Paste Your UDID down below::">Send Mail:</a> to reactivate ur liscence!
+                      <br>
+                      <br>
+
+                          <br>Multiple Devices
+                          <br>· you can add up to 3 devices with one purchase
+                          <br>
+
+        ]]></longdescription>
+    </descriptionlist>
+
+    <screenshots>
+      <screenshot>
+          <image>1.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>2.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>3.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>4.PNG</image>
+      </screenshot>
+    </screenshots>
+
+</package>
