@@ -156,7 +156,7 @@ a:hover {
 .screenshotCard{
 	display: inline-block;
 	height: 100%;
-	width: 350px;
+	width: 320px;
 }
 
 @media (prefers-color-scheme: dark) {
