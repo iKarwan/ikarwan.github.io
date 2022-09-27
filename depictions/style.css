@@ -150,13 +150,13 @@ a:hover {
 }
 
 .screenshotCardFrame{
-	margin: 4px;
+	margin: 5px;
 }
 
 .screenshotCard{
 	display: inline-block;
 	height: 100%;
-	width: 290px;
+	width: 300px;
 }
 
 @media (prefers-color-scheme: dark) {
