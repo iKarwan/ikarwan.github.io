@@ -5,9 +5,9 @@
     "banners": [
 
       {
-          "url": "https://repo.ikghd.me/assets/banners/youtubed.png",
-          "title": "YouTubeKiller",
-          "package": "pro.ikghd.youtubekiller",
+          "url": "https://repo.ikghd.me/assets/banners/ytkplus.png",
+          "title": "YTKillerPlus",
+          "package": "me.ikghd.ytkplus",
           "hideShadow": false
       },
 
