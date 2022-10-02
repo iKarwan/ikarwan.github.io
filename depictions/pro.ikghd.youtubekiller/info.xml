@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.2.2</version>
+    <version>1.2.4</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,32 +10,31 @@
     </compatibility>
 
     <version2>
-      <version2>1.2.2</version2>
+      <version2>1.2.4</version2>
     </version2>
 
     <date>
-      <date>Sep 27, 2022</date>
+      <date>Oct 03, 2022</date>
     </date>
 
     <price>
-      <price>$1.00 USD</price>
+      <price>$1.99 USD</price>
     </price>
 
     <changelog>
-      <change>・improvements &amp; cleaning up</change>
+      <change>・minor improvements</change>
       <change>・update app compatibility</change>
     </changelog>
 
 
     <descriptionlist>
-          <!-- <description>New YouTube Experience!</description> -->
-          <description>discount for a limited time only $1.00</description>
+          <description>New YouTube Experience!</description>
 
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://repo.ikghd.me/YouTubeKiller">buy : $1.00</a>
+                <a href="https://repo.ikghd.me/YouTubeKiller">buy : $1.99</a>
             </li>
 
             <br>
@@ -100,25 +99,10 @@
           <image>1.PNG</image>
       </screenshot>
       <screenshot>
-          <image>19.PNG</image>
-      </screenshot>
-      <screenshot>
-          <image>20.PNG</image>
-      </screenshot>
-      <screenshot>
           <image>2.PNG</image>
       </screenshot>
       <screenshot>
-          <image>16.PNG</image>
-      </screenshot>
-      <screenshot>
-          <image>17.PNG</image>
-      </screenshot>
-      <screenshot>
           <image>3.PNG</image>
-      </screenshot>
-      <screenshot>
-          <image>18.PNG</image>
       </screenshot>
       <screenshot>
           <image>4.PNG</image>
@@ -129,27 +113,9 @@
       <screenshot>
           <image>6.PNG</image>
       </screenshot>
-        <screenshot>
-            <image>7.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>8.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>9.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>10.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>11.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>12.PNG</image>
-        </screenshot>
-        <screenshot>
-            <image>13.PNG</image>
-        </screenshot>
+      <screenshot>
+          <image>7.PNG</image>
+      </screenshot>
     </screenshots>
 
 </package>

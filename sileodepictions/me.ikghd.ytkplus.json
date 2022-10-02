@@ -1,7 +1,7 @@
 {
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/assets/banners/ytkplus.png",
-   "tintColor":"#DB3E00",
+   "tintColor":"#fa2942",
    "tabs":[
       {
          "tabname":"Details",
@@ -95,6 +95,18 @@
                "class":"DepictionTableButtonView"
             },
             {
+              "title":"Download iPA (Direct Link)..",
+               "useBoldText": true,
+               "action":"https://ikghd.site/iPA/YouTube_v17.38.10.ipa",
+               "class":"DepictionTableButtonView"
+            },
+            {
+              "title":"Open In AltStore..",
+               "useBoldText": true,
+               "action":"https://tinyurl.com/37fjn9hs",
+               "class":"DepictionTableButtonView"
+            },
+            {
                "class":"DepictionSeparatorView"
             },
 
@@ -132,7 +144,7 @@
                             },
 
                             {
-                                "markdown":"- initial",
+                                "markdown":"- minor fixes\n- add local downloading (Download section)\n- update iPA to YouTube_v17.38.10",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -148,12 +160,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0",
+               "text":"2.0.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 28, 2022",
+               "text":"Oct 03, 2022",
                "class":"DepictionTableTextView"
             },
             {

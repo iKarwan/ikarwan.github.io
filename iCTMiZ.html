@@ -54,7 +54,7 @@
 
 
         <hr>
-    <span id="display-name">$1.00 USD</span>
+    <span id="display-name">$1.99 USD</span>
     <hr>
 
     <div id="smart-button-container">
@@ -76,7 +76,7 @@
 
         createOrder: function(data, actions) {
           return actions.order.create({
-            purchase_units: [{"description":"iCTMiZ Pro: Contain Over 250+ features!","amount":{"currency_code":"USD","value":1}}]
+            purchase_units: [{"description":"iCTMiZ Pro: Contain Over 250+ features!","amount":{"currency_code":"USD","value":1.99}}]
           });
         },
 

@@ -1,7 +1,7 @@
 {
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/assets/banners/youtubed.png",
-   "tintColor":"#B80000",
+   "tintColor":"#DB3E00",
    "tabs":[
       {
          "tabname":"Details",
@@ -17,38 +17,13 @@
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/19.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/19.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/20.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/20.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/16.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/16.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/17.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/17.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/18.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/18.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
@@ -69,36 +44,6 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/7.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/7.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/8.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/8.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/9.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/9.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/10.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/10.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/11.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/11.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/12.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/12.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/13.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/13.PNG"
                     }
 
                 ],
@@ -113,38 +58,13 @@
                       },
                       {
                           "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/19.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/19.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/20.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/20.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/2.PNG"
                       },
                       {
                           "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/16.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/16.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/17.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/17.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/3.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/18.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/18.PNG"
                       },
                       {
                           "accessibilityText":"Screenshot",
@@ -165,36 +85,6 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/7.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/7.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/8.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/8.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/9.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/9.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/10.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/10.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/11.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/11.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/12.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/12.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/13.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/13.PNG"
                       }
 
                     ],
@@ -207,7 +97,7 @@
             },
 
             {
-              "title":"buy : $1.00",
+              "title":"buy : $1.99",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/YouTubeKiller",
                "class":"DepictionTableButtonView"
@@ -250,7 +140,7 @@
                             },
 
                             {
-                                "markdown":"- v1.2.0.17/ 04:45:19 am /fixes download label text\n- revamped X close button\n- v1.2.0.16/ 03:40:50 am /downloaded items have thumbnails/artwork now\n- tab bar have an icon now\n- fixes pulldown to refresh wasn't function in previous build\n- another fix for the download naming this is last time i promise sorry again :D\r\n\r\n- fixed the download naming forever this is last time sorry\n- add download audio quality\n- speed up download audio quality 50x + time.!!!\n- add long press to download media on playback in feed just let the video play and long press to downloading it without opening the video even\n- add replace next/previous button with fastforward/rewind seek button \r\n\r\n- improvements & cleaning up\n- update activation server\n- add use system VolumeHUD(Miscellaneous)\n- more improvements to downloads\n- update app compatibility",
+                                "markdown":"- minor improvements\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -266,7 +156,7 @@
             },
             {
                "title":"Version",
-               "text":"1.2.2",
+               "text":"1.2.4",
                "class":"DepictionTableTextView"
             },
             {
@@ -276,12 +166,12 @@
             },
             {
                "title":"Updated",
-               "text":"Sep 27, 2022",
+               "text":"Oct 03, 2022",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Price",
-               "text":"$1.00 USD",
+               "text":"$1.99 USD",
                "class":"DepictionTableTextView"
             },
             {

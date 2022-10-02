@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.0</version>
+    <version>2.0.1</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.0</version2>
+      <version2>2.0.1</version2>
     </version2>
 
     <date>
-      <date>Sep 28, 2022</date>
+      <date>Oct 03, 2022</date>
     </date>
 
     <price>
@@ -22,7 +22,9 @@
     </price>
 
     <changelog>
-      <change>・initial</change>
+      <change>・minor fixes</change>
+      <change>・add local downloading (Download section)</change>
+      <change>・update iPA to YouTube_v17.38.10</change>
     </changelog>
 
 
@@ -66,10 +68,17 @@
 
             <br>IPA & TrollStore Version?
               <li>
-                  <a href="https://github.com/iKarwan/YTKillerPlus">  available here... </a>
-                  <br>· don't try to sideload this DEB as it won't work just use the iPA above instead .
+                  <a href="https://github.com/iKarwan/YTKillerPlus">  instructions from here... </a>
               </li>
-            <br>
+              <br>
+              <li>
+                  <a href="https://ikghd.site/iPA/YouTube_v17.38.10.ipa">  Download iPA (Direct Link).. </a>
+              </li>
+              <br>
+              <li>
+                  <a href="https://tinyurl.com/37fjn9hs">  Open In AltStore.. </a>
+              </li>
+              <br>
 
 
 
