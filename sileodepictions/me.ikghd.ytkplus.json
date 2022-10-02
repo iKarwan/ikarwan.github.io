@@ -89,6 +89,9 @@
                "class":"DepictionTableButtonView"
             },
             {
+               "class":"DepictionSeparatorView"
+            },
+            {
               "title":"IPA & TrollStore Version?",
                "useBoldText": true,
                "action":"https://github.com/iKarwan/YTKillerPlus",
