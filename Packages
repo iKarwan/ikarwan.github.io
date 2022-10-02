@@ -82,11 +82,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.ytkplus_2.0.1_iphoneos-arm.deb
-Size: 10500778
+Size: 10498550
 Installed-Size: 28160
-MD5sum: 89033a5d4f3fb7f19b0455e22dfa316c
-SHA1: c75f56bc72e318fa43473054c2800257d3cfc95f
-SHA256: 7dfd1442323e21fd58bcba421c894afffcdd9f7d4fd781aa3b729b17b338ee89
+MD5sum: 310c75410a7ff1d6fbd80a57e48e8bed
+SHA1: 241204500c5309dd54a17a97023f232de6f0ad69
+SHA256: 8ee918fb5653b195ace6758c6f56460fc3f99d1275da993365beae1f707a82ec
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -340,11 +340,11 @@ Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), ws.hbang.common
 Conflicts: com.spicat.youpip, com.ps.youpip, me.ikghd.ytkplus
 Architecture: iphoneos-arm
 Filename: .//debs/pro.ikghd.youtubekiller_1.2.4_iphoneos-arm.deb
-Size: 10848238
+Size: 10842810
 Installed-Size: 29400
-MD5sum: 2168932a0420c7b7b837d5a77cba7202
-SHA1: 7cd6a98bd9a6db7522e138dd65b30e0faeb0bc9d
-SHA256: bf446e8cc5eb6c9a2bbe89abe433bae3ac89d3bf2d341c66d23c2e06a9e2075f
+MD5sum: 2c4498920fe317be4fec3659e2249511
+SHA1: 430a925e78ba46409bbd0a8997ea1b436c313f05
+SHA256: c477ca81cacf5b9679c3051610640f015da95da67832ab7110ffd0d825c487b3
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikghd3@gmail.com>
