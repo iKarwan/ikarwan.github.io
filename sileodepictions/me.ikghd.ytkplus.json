@@ -147,7 +147,7 @@
                             },
 
                             {
-                                "markdown":"- fixes app login\n- convert to FRPreferences\n- improvements &amp; enhancements ( specialy iOS 15 / 16..)\n- update iPA to YouTube_v17.40.5\n- add Support iPA for YouTube_v15.30.3 old glorius Icon",
+                                "markdown":"- fixes app login\n- convert to FRPreferences\n- improvements &amp; enhancements ( specialy iOS 15 / 16..)\n- update iPA to YouTube_v17.40.5\n- add Support iPA for YouTube_v15.30.3 old glorious Icon",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
