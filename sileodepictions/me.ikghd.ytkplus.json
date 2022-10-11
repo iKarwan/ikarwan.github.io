@@ -100,13 +100,13 @@
             {
               "title":"Download iPA (Direct Link)..",
                "useBoldText": true,
-               "action":"https://ikghd.site/iPA/YouTube_v17.39.4.ipa",
+               "action":"https://ikghd.site/iPA/YouTube_v17.40.5.ipa",
                "class":"DepictionTableButtonView"
             },
             {
               "title":"Open In AltStore..",
                "useBoldText": true,
-               "action":"https://tinyurl.com/5fesnnyp",
+               "action":"https://tinyurl.com/ywyfnmka",
                "class":"DepictionTableButtonView"
             },
             {
@@ -147,7 +147,7 @@
                             },
 
                             {
-                                "markdown":"- minor fixes\n- add local downloading (Download section)\n- update iPA to YouTube_v17.38.10",
+                                "markdown":"- fixes app login\n- convert to FRPreferences\n- improvements &amp; enhancements ( specialy iOS 15 / 16..)\n- update iPA to YouTube_v17.40.5\n- add Support iPA for YouTube_v15.30.3 old glorius Icon",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -163,12 +163,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.1",
+               "text":"2.0.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Oct 03, 2022",
+               "text":"Oct 12, 2022",
                "class":"DepictionTableTextView"
             },
             {
