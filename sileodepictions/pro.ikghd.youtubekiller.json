@@ -39,11 +39,6 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/6.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/6.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/7.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/7.PNG"
                     }
 
                 ],
@@ -80,11 +75,6 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/6.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/6.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/7.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.youtubekiller/screenshots/7.PNG"
                       }
 
                     ],
@@ -140,7 +130,7 @@
                             },
 
                             {
-                                "markdown":"- minor improvements\n- update app compatibility",
+                                "markdown":"- improv & fixes\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -156,7 +146,7 @@
             },
             {
                "title":"Version",
-               "text":"1.2.4",
+               "text":"1.2.5",
                "class":"DepictionTableTextView"
             },
             {
@@ -166,7 +156,7 @@
             },
             {
                "title":"Updated",
-               "text":"Oct 03, 2022",
+               "text":"Oct 19, 2022",
                "class":"DepictionTableTextView"
             },
             {

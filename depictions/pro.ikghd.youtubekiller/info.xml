@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.2.4</version>
+    <version>1.2.5</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.2.4</version2>
+      <version2>1.2.5</version2>
     </version2>
 
     <date>
-      <date>Oct 03, 2022</date>
+      <date>Oct 19, 2022</date>
     </date>
 
     <price>
@@ -22,7 +22,7 @@
     </price>
 
     <changelog>
-      <change>・minor improvements</change>
+      <change>・improv &amp; fixes</change>
       <change>・update app compatibility</change>
     </changelog>
 
@@ -66,7 +66,7 @@
 
             <br>IPA Version ?
               <li>
-                  <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus">use YTKillerPlus</a>
+                  <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus">try YTKillerPlus</a>
               </li>
             <br>
 
@@ -115,9 +115,9 @@
       <screenshot>
           <image>6.PNG</image>
       </screenshot>
-      <screenshot>
+      <!-- <screenshot>
           <image>7.PNG</image>
-      </screenshot>
+      </screenshot> -->
     </screenshots>
 
 </package>
