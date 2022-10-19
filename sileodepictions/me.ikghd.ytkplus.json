@@ -147,7 +147,7 @@
                             },
 
                             {
-                                "markdown":"- fixes & enhancements\n- clean some bugs/codes/other stuff!\n- convert to FRPreferences\n- update iPA to YouTube_v17.41.2",
+                                "markdown":"- WIPE all JB related stuff! In Application Support\n- fixes & enhancements\n- clean some bugs/codes & other stuff!\n- convert to FRPreferences\n- update iPA to YouTube_v17.41.2",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },

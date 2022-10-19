@@ -22,8 +22,9 @@
     </price>
 
     <changelog>
+      <change>・WIPE all JB related stuff! In Application Support</change>
       <change>・fixes &amp; enhancements</change>
-      <change>・clean some bugs/codes/other stuff!</change>
+      <change>・clean some bugs/codes &amp; other stuff!</change>
       <change>・convert to FRPreferences</change>
       <change>・update iPA to YouTube_v17.41.2</change>
     </changelog>

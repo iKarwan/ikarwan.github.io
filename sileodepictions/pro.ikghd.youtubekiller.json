@@ -130,7 +130,7 @@
                             },
 
                             {
-                                "markdown":"- improv & fixes\n- update app compatibility",
+                                "markdown":"- improve & fixes\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
