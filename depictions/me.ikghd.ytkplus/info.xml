@@ -22,7 +22,7 @@
     </price>
 
     <changelog>
-      <change>・add AppLock(Lock the app via Sys password)</change>
+      <change>・add AppLock(Lock the app via System password)</change>
       <change>・fixes bug/clean codes &amp; other stuff!</change>
       <change>・convert to FRPreferences</change>
       <change>・update iPA to YouTube_v17.42.6</change>

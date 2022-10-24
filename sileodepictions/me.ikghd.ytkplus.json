@@ -147,7 +147,7 @@
                             },
 
                             {
-                                "markdown":"- add AppLock(Lock the app via Sys password)\n- fixes bug/clean codes & other stuff!\n- convert to FRPreferences\n- update iPA to YouTube_v17.42.6",
+                                "markdown":"- add AppLock(Lock the app via System password)\n- fixes bug/clean codes & other stuff!\n- convert to FRPreferences\n- update iPA to YouTube_v17.42.6",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
