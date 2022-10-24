@@ -146,7 +146,7 @@
             },
             {
                "title":"Version",
-               "text":"1.2.5",
+               "text":"1.2.5.1",
                "class":"DepictionTableTextView"
             },
             {
@@ -156,7 +156,7 @@
             },
             {
                "title":"Updated",
-               "text":"Oct 19, 2022",
+               "text":"Oct 24, 2022",
                "class":"DepictionTableTextView"
             },
             {

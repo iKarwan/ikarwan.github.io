@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.2.5</version>
+    <version>1.2.5.1</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.2.5</version2>
+      <version2>1.2.5.1</version2>
     </version2>
 
     <date>
-      <date>Oct 19, 2022</date>
+      <date>Oct 24, 2022</date>
     </date>
 
     <price>

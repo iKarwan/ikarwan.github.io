@@ -1,20 +1,20 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.0.3</version>
+    <version>2.0.4</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
-            <maxiOS>16.1</maxiOS>
+            <maxiOS>16.x</maxiOS>
         </firmware>
     </compatibility>
 
     <version2>
-      <version2>2.0.3</version2>
+      <version2>2.0.4</version2>
     </version2>
 
     <date>
-      <date>Oct 19, 2022</date>
+      <date>Oct 24, 2022</date>
     </date>
 
     <price>
@@ -22,11 +22,10 @@
     </price>
 
     <changelog>
-      <change>・WIPE all JB related stuff! In Application Support</change>
-      <change>・fixes &amp; enhancements</change>
-      <change>・clean some bugs/codes &amp; other stuff!</change>
+      <change>・add AppLock(Lock the app via Sys password)</change>
+      <change>・fixes bug/clean codes &amp; other stuff!</change>
       <change>・convert to FRPreferences</change>
-      <change>・update iPA to YouTube_v17.41.2</change>
+      <change>・update iPA to YouTube_v17.42.6</change>
     </changelog>
 
 
@@ -58,6 +57,7 @@
           <br>· PiP feature Picture in Picture
           <br>· oled mode better experiance dark mode
           <br>· Customize tab bar layout
+          <br>· AppLock Settings
           <br>· and many more settings
           <br> <br>
 
@@ -73,11 +73,11 @@
               </li>
               <br>
               <li>
-                  <a href="https://ikghd.site/iPA/YouTube_v17.41.2.ipa">  Download iPA (Direct Link).. </a>
+                  <a href="https://ikghd.site/iPA/YouTube_v17.42.6.ipa">  Download iPA (Direct Link).. </a>
               </li>
               <br>
               <li>
-                  <a href="https://tinyurl.com/yhf7yu29">  Open In AltStore.. </a>
+                  <a href="https://tinyurl.com/2mrryzmr">  Open In AltStore.. </a>
               </li>
               <br>
 

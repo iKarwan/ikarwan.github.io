@@ -100,13 +100,13 @@
             {
               "title":"Download iPA (Direct Link)..",
                "useBoldText": true,
-               "action":"https://ikghd.site/iPA/YouTube_v17.41.2.ipa",
+               "action":"https://ikghd.site/iPA/YouTube_v17.42.6.ipa",
                "class":"DepictionTableButtonView"
             },
             {
               "title":"Open In AltStore..",
                "useBoldText": true,
-               "action":"https://tinyurl.com/yhf7yu29",
+               "action":"https://tinyurl.com/2mrryzmr",
                "class":"DepictionTableButtonView"
             },
             {
@@ -147,7 +147,7 @@
                             },
 
                             {
-                                "markdown":"- WIPE all JB related stuff! In Application Support\n- fixes & enhancements\n- clean some bugs/codes & other stuff!\n- convert to FRPreferences\n- update iPA to YouTube_v17.41.2",
+                                "markdown":"- add AppLock(Lock the app via Sys password)\n- fixes bug/clean codes & other stuff!\n- convert to FRPreferences\n- update iPA to YouTube_v17.42.6",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -163,12 +163,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.3",
+               "text":"2.0.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Oct 19, 2022",
+               "text":"Oct 24, 2022",
                "class":"DepictionTableTextView"
             },
             {
@@ -178,7 +178,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 13.0 - 16.1",
+               "text":"iOS 13.0 - 16.x",
                "class":"DepictionTableTextView"
             },
 
