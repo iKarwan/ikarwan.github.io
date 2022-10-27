@@ -34,6 +34,11 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/5.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/5.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG"
                       }
 
                 ],
@@ -65,7 +70,13 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/5.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/5.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG"
                       }
+
 
                     ],
                     "class":"DepictionScreenshotView"
@@ -100,13 +111,13 @@
             {
               "title":"Download iPA (Direct Link)..",
                "useBoldText": true,
-               "action":"https://ikghd.site/iPA/YouTube_v17.42.6.ipa",
+               "action":"https://ikghd.site/iPA/YouTube_v17.42.7.ipa",
                "class":"DepictionTableButtonView"
             },
             {
               "title":"Open In AltStore..",
                "useBoldText": true,
-               "action":"https://tinyurl.com/2mrryzmr",
+               "action":"https://tinyurl.com/369yekfu",
                "class":"DepictionTableButtonView"
             },
             {
@@ -118,7 +129,7 @@
                "class":"DepictionHeaderView"
             },
             {
-                "markdown": "- Download Videos/Shorts/Posted Img\r\n- Download Manager for manging DWN Items\r\n- Import Videos To Photos\r\n- block all advertisment\r\n- play in background\r\n- stream HD videos over 3G/4G/5G\r\n- PiP feature Picture in Picture\r\n- oled mode better experiance dark mode\r\n- Customize tab bar layout\r\n- and many more settings",
+                "markdown": "- Download Videos/Shorts/Posted Img\r\n- Download Manager for manging DWN Items\r\n- Import Videos To Photos\r\n- block all advertisment\r\n- play in background\r\n- stream HD videos over 3G/4G/5G\r\n- PiP feature Picture in Picture\r\n- oled mode better experiance dark mode\r\n- Customize tab bar layout\r\n- AppLock Settings\r\n- and many more settings",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -147,7 +158,7 @@
                             },
 
                             {
-                                "markdown":"- add AppLock(Lock the app via System password)\n- fixes bug/clean codes & other stuff!\n- convert to FRPreferences\n- update iPA to YouTube_v17.42.6",
+                                "markdown":"- YTKillerPlus now fully support multi languages if u wish to add your languages pls download the (Localizable.strings) file and translate it completely and open a pull request to be add in future update .\n- fixes bug/clean codes & other stuff!\n- convert to FRPreferences\n- update iPA to YouTube_v17.42.7",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -163,12 +174,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.4",
+               "text":"2.0.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Oct 24, 2022",
+               "text":"Oct 28, 2022",
                "class":"DepictionTableTextView"
             },
             {

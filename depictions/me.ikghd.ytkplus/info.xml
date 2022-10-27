@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.0.4</version>
+    <version>2.0.5</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.0.4</version2>
+      <version2>2.0.5</version2>
     </version2>
 
     <date>
-      <date>Oct 24, 2022</date>
+      <date>Oct 28, 2022</date>
     </date>
 
     <price>
@@ -22,10 +22,10 @@
     </price>
 
     <changelog>
-      <change>・add AppLock(Lock the app via System password)</change>
+      <change>・YTKillerPlus now fully support multi languages if u wish to add your languages pls download the (Localizable.strings) file and translate it completely and open a pull request to be add in future update .</change>
       <change>・fixes bug/clean codes &amp; other stuff!</change>
       <change>・convert to FRPreferences</change>
-      <change>・update iPA to YouTube_v17.42.6</change>
+      <change>・update iPA to YouTube_v17.42.7</change>
     </changelog>
 
 
@@ -73,15 +73,19 @@
               </li>
               <br>
               <li>
-                  <a href="https://ikghd.site/iPA/YouTube_v17.42.6.ipa">  Download iPA (Direct Link).. </a>
+                  <a href="https://ikghd.site/iPA/YouTube_v17.42.7.ipa">  Download iPA (Direct Link).. </a>
               </li>
               <br>
               <li>
-                  <a href="https://tinyurl.com/2mrryzmr">  Open In AltStore.. </a>
+                  <a href="https://tinyurl.com/369yekfu">  Open In AltStore.. </a>
               </li>
               <br>
 
-
+                <br>translation?
+                  <li>
+                      <a href="https://github.com/iKarwan/Localizable.strings">  YTKillerPlus now fully support multi languages if u wish to add your languages pls download the (Localizable.strings) file and translate it completely, then u can send it via Email @( ikghd3@gmail.com ) or open pull request on github to be add in future update . </a>
+                  </li>
+                  <br>
 
                       <br>Refund Policy:
                       <br>· refund accepted if u have !issue such a safe mode or the tweak not working!
@@ -119,6 +123,9 @@
       </screenshot>
       <screenshot>
           <image>5.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>6.PNG</image>
       </screenshot>
     </screenshots>
 
