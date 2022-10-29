@@ -158,7 +158,7 @@
                             },
 
                             {
-                                "markdown":"- YTKillerPlus now fully support localization ( more info on Github page) .\n- fixes bug/clean codes & other stuff!\n- convert to FRPreferences\n- update iPA to YouTube_v17.42.7",
+                                "markdown":"- add Russian Localizable\n- add Chinese Localizable\n- YTKillerPlus now fully support localization ( more info on Github page) .\n- fixes bug/clean codes & other stuff!\n- convert to FRPreferences\n- update iPA to YouTube_v17.42.7",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -174,12 +174,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.5",
+               "text":"2.0.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Oct 28, 2022",
+               "text":"Oct 29, 2022",
                "class":"DepictionTableTextView"
             },
             {
