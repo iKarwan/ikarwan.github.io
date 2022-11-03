@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.0.6</version>
+    <version>2.0.7</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.0.6</version2>
+      <version2>2.0.7</version2>
     </version2>
 
     <date>
-      <date>Oct 29, 2022</date>
+      <date>Nov 04, 2022</date>
     </date>
 
     <price>
@@ -22,12 +22,9 @@
     </price>
 
     <changelog>
-      <change>・add Russian Localizable</change>
-      <change>・add Chinese Localizable</change>
       <change>・YTKillerPlus now fully support localization ( more info on Github page) .</change>
-      <change>・fixes bug/clean codes &amp; other stuff!</change>
-      <change>・convert to FRPreferences</change>
-      <change>・update iPA to YouTube_v17.42.7</change>
+      <change>・fixes/correcting codes &amp; other stuff!</change>
+      <change>・update iPA to YTKillerPlus_v17.43.1</change>
     </changelog>
 
 
@@ -75,19 +72,19 @@
               </li>
               <br>
               <li>
-                  <a href="https://ikghd.site/iPA/YouTube_v17.42.7.ipa">  Download iPA (Direct Link).. </a>
+                  <a href="https://ikghd.site/iPA/YTKillerPlus_v17.43.1.ipa">  Download iPA (Direct Link).. </a>
               </li>
               <br>
               <li>
-                  <a href="https://tinyurl.com/369yekfu">  Open In AltStore.. </a>
+                  <a href="https://tinyurl.com/3tysabny">  Open In AltStore.. </a>
               </li>
               <br>
 
-                <br>translation?
+                <br>localization..
                   <li>
                       <a href="https://github.com/iKarwan/YTKillerPlus">   download base.strings.. </a>
                   </li>
-                    <br>· YTKillerPlus now fully support localization if u wish to add your languages please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail.com ) to be add in future update . </a>
+                    <br>· YTKillerPlus now fully support localization if u wish to add your language please download the (base) file and translate it completely. then open a pull request or send it via Email to ( ikghd3@gmail.com ) to be add in future update . </a>
                   <br>
 
                       <br>Refund Policy:
