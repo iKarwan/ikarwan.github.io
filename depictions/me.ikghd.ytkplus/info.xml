@@ -22,7 +22,7 @@
     </price>
 
     <changelog>
-      <change>・fixing a key_window issuw when downloading view is nil!</change>
+      <change>・fixing a key_window issue when downloading view is nil!</change>
       <change></change>
       <change>・YTKillerPlus now fully support localization ( more info on Github page) .</change>
       <change>・fixes/correcting codes &amp; other stuff!</change>

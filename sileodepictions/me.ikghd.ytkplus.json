@@ -158,7 +158,7 @@
                             },
 
                             {
-                                "markdown":"- fixing a key_window issuw when downloading view is nil!\n\r\n\rYTKillerPlus now fully support localization ( more info on Github page) .\n- fixes/correcting codes & other stuff!\n- update iPA to YTKillerPlus_v17.43.1",
+                                "markdown":"- fixing a key_window issue when downloading view is nil!\n\r\n\rYTKillerPlus now fully support localization ( more info on Github page) .\n- fixes/correcting codes & other stuff!\n- update iPA to YTKillerPlus_v17.43.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
