@@ -111,13 +111,13 @@
             {
               "title":"Download iPA (Direct Link)..",
                "useBoldText": true,
-               "action":"https://ikghd.site/iPA/YTKillerPlus_v17.43.1.ipa",
+               "action":"https://ikghd.site/iPA/YTKillerPlus_v17.44.4.ipa",
                "class":"DepictionTableButtonView"
             },
             {
               "title":"Open In AltStore..",
                "useBoldText": true,
-               "action":"https://tinyurl.com/3tysabny",
+               "action":"https://tinyurl.com/4wjcfz8t",
                "class":"DepictionTableButtonView"
             },
             {
@@ -158,7 +158,7 @@
                             },
 
                             {
-                                "markdown":"- fixing a key_window issue when downloading view is nil!\n\r\n\rYTKillerPlus now fully support localization ( more info on Github page) .\n- fixes/correcting codes & other stuff!\n- update iPA to YTKillerPlus_v17.43.1",
+                                "markdown":"- add arabic localize\n- update zh localize\n- optimize & cleaning some codes realted to iPadOS\n- fixes/correcting/ cleaning codes & other stuff!\n- update iPA to YTKillerPlus_v17.44.4",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -174,12 +174,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.7.1",
+               "text":"2.0.8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 04, 2022",
+               "text":"Nov 09, 2022",
                "class":"DepictionTableTextView"
             },
             {
