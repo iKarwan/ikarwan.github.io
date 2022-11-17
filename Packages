@@ -75,6 +75,25 @@ Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
 
+Package: me.ikghd.ytkplus
+Version: 2.0.9
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ytkplus_2.0.9_iphoneos-arm.deb
+Size: 10498516
+Installed-Size: 27980
+MD5sum: bc7b6f4a65fbdea307e965f9a25eebe5
+SHA1: 24d49cd411326f9883ed4b8f1497ef6471f95058
+SHA256: 850d229369c321dee5a3d2add1cf45a6c7396bfcf094d1791a54cf5c71a17047
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
 Package: pro.ikghd.iastrid
 Version: 1.0.0
 Section: Themes
