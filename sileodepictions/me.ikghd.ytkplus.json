@@ -111,13 +111,13 @@
             {
               "title":"Download iPA (Direct Link)..",
                "useBoldText": true,
-               "action":"https://ikghd.site/iPA/YTKillerPlus_v17.44.4.ipa",
+               "action":"https://ikghd.site/iPA/YTKillerPlus_v17.45.1.ipa",
                "class":"DepictionTableButtonView"
             },
             {
               "title":"Open In AltStore..",
                "useBoldText": true,
-               "action":"https://tinyurl.com/4wjcfz8t",
+               "action":"https://tinyurl.com/34aen3z2",
                "class":"DepictionTableButtonView"
             },
             {
@@ -158,7 +158,7 @@
                             },
 
                             {
-                                "markdown":"- add arabic localize\n- update zh localize\n- optimize & cleaning some codes realted to iPadOS\n- fixes/correcting/ cleaning codes & other stuff!\n- update iPA to YTKillerPlus_v17.44.4",
+                                "markdown":"- NOTE!!! the registeration server has chenged pls if alredy purchased send UR UUID again in order to be activated again sorry for this inconviniance\n- add sign in fix button to fix log in issue on iOS below 15.x from 13.x to 14.8.1\n- update localizes\n- fixes/polished/ wiped codes & other stuff!\n- update iPA to YTKillerPlus_v17.45.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -174,12 +174,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.8",
+               "text":"2.0.9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 09, 2022",
+               "text":"Nov 19, 2022",
                "class":"DepictionTableTextView"
             },
             {
