@@ -56,6 +56,25 @@ Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.space
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.space.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.space.png
 
+Package: me.ikghd.ytkplus
+Version: 2.0.10
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ytkplus_2.0.10_iphoneos-arm.deb
+Size: 10498314
+Installed-Size: 27980
+MD5sum: e16b4800bdb092a9d22210bcd19c6d75
+SHA1: 619eff89b81f1af60f96aa0db3799c7fef2832e5
+SHA256: 6f73f32db0d88ee1db1c0b8aad20f3db6fb613eeabe156d458ddcb2d3db31376
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
 Package: pro.ikghd.iastrid
 Version: 1.0.0
 Section: Themes
@@ -74,6 +93,46 @@ Author: iKarwan <ikghd3@gmail.com>
 Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.iastrid
 SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.iastrid.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.iastrid.png
+
+Package: pro.ikghd.ictmiz
+Version: 1.2.4
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0), firmware (<<14.0), ws.hbang.common (>= 1.15), com.spark.libsparkcolourpicker, com.spark.libsparkapplist
+Replaces: pro.ikghd.ictmizxiv
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmiz_1.2.4_iphoneos-arm.deb
+Size: 682686
+Installed-Size: 3656
+MD5sum: 4f06eec9fd74bb60e3af1e1601febcd6
+SHA1: c44cf6cfe7e98ab52df389d831de88098e0a7d17
+SHA256: 13e92abfdc6d35bbb4d083fdacb381d3d112a14fc46f356724537c7bd026b57b
+Description: i Customize Not U appl !...
+Name: iCTMiZ Pro
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmiz
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.ictmiz.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.ictmiz.png
+
+Package: pro.ikghd.ictmizxiv
+Version: 2.0.7
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0), ws.hbang.common (>= 1.15), ws.hbang.alderis, com.spark.libsparkapplist, com.opa334.ccsupport
+Replaces: pro.ikghd.ictmiz
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ictmizxiv_2.0.7_iphoneos-arm.deb
+Size: 714612
+Installed-Size: 4980
+MD5sum: f46b8fa92a93b30420178c5c7799f8d3
+SHA1: baddb7d21248124d9c4b5b49f9d17751b4693137
+SHA256: fe29684a5b317f8c8998aa6f8ed03acf12b86a610c39606928431df82a891240
+Description: i Customize Not U appl !...
+Name: iCTMiZ XiV
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmizxiv
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.ictmizxiv.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.ictmizxiv.png
 
 Package: pro.ikghd.iksafari
 Version: 1.0.4
@@ -137,6 +196,25 @@ Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.iksettings
 SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.iksettings.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.iksettings.png
 
+Package: pro.ikghd.instakiller
+Version: 0.1.9
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, pro.ikghd.libkdev, ws.hbang.common (>= 1.15), firmware ( >= 13.0), com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.instakiller_0.1.9_iphoneos-arm.deb
+Size: 557766
+Installed-Size: 2628
+MD5sum: dccf86ec5face0fab565723d761c3ca3
+SHA1: 64762d89edd03c8850ed213250966fd0b4988c4e
+SHA256: d7a0e5e36c06fb724422712b89b83aae36d4335f684fb62763522ec7a9cfca94
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.instakiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.instakiller.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.instakiller.png
+
 Package: pro.ikghd.libkdev
 Version: 1.0.0
 Section: System
@@ -157,6 +235,25 @@ Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.libkdev
 SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.libkdev.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.libkdev.png
 
+Package: pro.ikghd.ol3dtube
+Version: 1.2.3
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), ws.hbang.alderis, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.ol3dtube_1.2.3_iphoneos-arm.deb
+Size: 171662
+Installed-Size: 1056
+MD5sum: 19e91cbf684c9e07156b3daa9ea16156
+SHA1: 47601687f08b8dc4942dc359df0cf48aa475f34e
+SHA256: 5d692753478b06175a93de055d0d324da60e7214f98c2e2f2d29a120481ede65
+Description: Ol3d Dark Mode For YouTube!
+Name: OL3DTube
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.ol3dtube
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.ol3dtube.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.ol3dtube.png
+
 Package: pro.ikghd.pmp
 Version: 1.1.8
 Section: Tweaks
@@ -176,4 +273,24 @@ Author: iKarwan <ikghd3@gmail.com>
 Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.pmp
 SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.pmp.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.pmp.png
+
+Package: pro.ikghd.youtubekiller
+Version: 1.2.6
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 13.0), ws.hbang.common (>= 1.15), ws.hbang.alderis, com.opa334.ccsupport
+Conflicts: com.spicat.youpip, com.ps.youpip, me.ikghd.ytkplus
+Architecture: iphoneos-arm
+Filename: .//debs/pro.ikghd.youtubekiller_1.2.6_iphoneos-arm.deb
+Size: 10842698
+Installed-Size: 29464
+MD5sum: ac509dfa45f34d0145509203b651d029
+SHA1: b681f0d8786dd125510091f1803ba957ab2e0b99
+SHA256: d110154d338413084175fbfac12187d4e9942255382d800f6175540f37ccd5bd
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.youtubekiller.png
 
