@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fixes fucos mode for newer Instagram Version\n- fixes hide reel / post & explore\n- add hide all tabs individually\n- add disable long press on tabs\n- add hide suggested profile when following users\n- add disable double tap on tab bar to switch BT accounts\n- other fixes & cleaning up\n- update activation server\n- update app compatibility version",
+                                "markdown":"- NOTE!!! update activation server u need to update to activate the license\n- fixes fucos mode for newer Instagram Version\n- fixes hide reel / post & explore\n- add hide all tabs individually\n- add disable long press on tabs\n- add hide suggested profile when following users\n- add disable double tap on tab bar to switch BT accounts\n- other fixes & cleaning up\n- update activation server\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,17 +149,17 @@
             },
             {
                "title":"Version",
-               "text":"0.1.8",
+               "text":"0.1.9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"iOS 12.0/12.5.5 ?",
-               "text":"downgrade to v0.1.7",
+               "text":"downgrade to v0.1.0",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 27, 2022",
+               "text":"Nov 19, 2022",
                "class":"DepictionTableTextView"
             },
 

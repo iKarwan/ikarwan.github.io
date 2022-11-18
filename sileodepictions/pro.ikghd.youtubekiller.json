@@ -130,7 +130,7 @@
                             },
 
                             {
-                                "markdown":"- improve & fixes\n- update app compatibility",
+                                "markdown":"- NOTE!!! update activation server u need to update to activate the license\n- improve & fixes\n- update app compatibility",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -146,7 +146,7 @@
             },
             {
                "title":"Version",
-               "text":"1.2.5.1",
+               "text":"1.2.6",
                "class":"DepictionTableTextView"
             },
             {
@@ -156,7 +156,7 @@
             },
             {
                "title":"Updated",
-               "text":"Oct 24, 2022",
+               "text":"Nov 19, 2022",
                "class":"DepictionTableTextView"
             },
             {

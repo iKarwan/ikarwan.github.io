@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- update activation server\n- oled mode now follows system appearance settings\n- update app compatibility version",
+                                "markdown":"- NOTE!!! update activation server u need to update to activate the license\n- oled mode now follows system appearance settings\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.1.1",
+               "text":"1.2.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 04, 2022",
+               "text":"Nov 19, 2022",
                "class":"DepictionTableTextView"
             },
             {

@@ -277,7 +277,7 @@
                             },
 
                             {
-                                "markdown":"- update activation server\n- fixes & improvements",
+                                "markdown":"- NOTE!!! update activation server u need to update to activate the license\n- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -293,12 +293,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.6.1",
+               "text":"2.0.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 04, 2022",
+               "text":"Nov 19, 2022",
                "class":"DepictionTableTextView"
             },
 
