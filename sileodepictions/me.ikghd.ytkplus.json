@@ -111,13 +111,13 @@
             {
               "title":"Download iPA (Direct Link)..",
                "useBoldText": true,
-               "action":"https://ikghd.site/iPA/YTKillerPlus_v17.45.1.ipa",
+               "action":"https://ikghd.site/iPA/YTKillerPlus_v17.46.3.ipa",
                "class":"DepictionTableButtonView"
             },
             {
               "title":"Open In AltStore..",
                "useBoldText": true,
-               "action":"https://tinyurl.com/34aen3z2",
+               "action":"https://tinyurl.com/2su35fwm",
                "class":"DepictionTableButtonView"
             },
             {
@@ -158,7 +158,7 @@
                             },
 
                             {
-                                "markdown":"- NOTE!!! update activation server u need to update to activate the license\n- update localize\n- add sign in fix button to fix log in issue on iOS below 15.x from 13.x to 14.8.1\n- update localizes\n- fixes/polished/ wiped codes & other stuff!\n- update iPA to YTKillerPlus_v17.45.1",
+                                "markdown":"- NOTE!!! update activation server u need to update to activate the license\n- update localize\n- add sign in fix button to fix log in issue on iOS below 15.x from 13.x to 14.8.1\n- update localizes\n- fixes/polished/ wiped codes & other stuff!\n- update iPA to YTKillerPlus_v17.46.3",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -179,7 +179,7 @@
             },
             {
                "title":"Updated",
-               "text":"Nov 19, 2022",
+               "text":"Nov 22, 2022",
                "class":"DepictionTableTextView"
             },
             {
