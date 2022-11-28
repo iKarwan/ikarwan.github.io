@@ -129,7 +129,7 @@
                "class":"DepictionHeaderView"
             },
             {
-                "markdown": "- Download Videos/Shorts/Posted Img\r\n- Download Manager for manging DWN Items\r\n- Import Videos To Photos\r\n- block all advertisment\r\n- play in background\r\n- stream HD videos over 3G/4G/5G\r\n- PiP feature Picture in Picture\r\n- oled mode better experiance dark mode\r\n- Customize tab bar layout\r\n- AppLock Settings\r\n- and many more settings",
+                "markdown": "- Download Videos/Audio/Shorts/Images\r\n- Download Manager for manging DWN Items\r\n- Import Videos To Photos\r\n- block all advertisment\r\n- play in background\r\n- stream HD videos over 3G/4G/5G\r\n- PiP feature Picture in Picture\r\n- oled mode better experiance dark mode\r\n- Customize tab bar layout\r\n- AppLock Settings\r\n- and many more settings",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -174,12 +174,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.11",
+               "text":"2.0.12",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 25, 2022",
+               "text":"Nov 29, 2022",
                "class":"DepictionTableTextView"
             },
             {
