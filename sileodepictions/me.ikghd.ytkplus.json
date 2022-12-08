@@ -111,13 +111,13 @@
             {
               "title":"Download iPA (Direct Link)..",
                "useBoldText": true,
-               "action":"https://ikghd.site/iPA/YTKillerPlus_v17.46.4.ipa",
+               "action":"https://ikghd.site/iPA/YTKillerPlus_v17.48.2.ipa",
                "class":"DepictionTableButtonView"
             },
             {
               "title":"Open In AltStore..",
                "useBoldText": true,
-               "action":"https://tinyurl.com/5n9bmndh",
+               "action":"https://tinyurl.com/yc2rtart",
                "class":"DepictionTableButtonView"
             },
             {
@@ -158,7 +158,7 @@
                             },
 
                             {
-                                "markdown":"- add turkish localize\n- fixes / squashed bugs\n- update iPA to YTKillerPlus_v17.46.4",
+                                "markdown":"- add turkish localize\n- fixes / squashed bugs\n- update iPA to YTKillerPlus_v17.48.2",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
