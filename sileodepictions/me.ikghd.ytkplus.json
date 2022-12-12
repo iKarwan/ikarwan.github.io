@@ -121,6 +121,12 @@
                "class":"DepictionTableButtonView"
             },
             {
+              "title":"download via telegram..",
+               "useBoldText": true,
+               "action":"https://t.me/ikghdiPA",
+               "class":"DepictionTableButtonView"
+            },
+            {
                "class":"DepictionSeparatorView"
             },
 
