@@ -22,8 +22,6 @@
     </price>
 
     <changelog>
-      <change>・2.1-1 revert server activation sorry for every inconvenience</change>
-      <change></change>
       <change>・fixes some wierd downloded videos name</change>
       <change>・now download propare thumbnails/artwork images</change>
       <change>・artwork now showed 100 scaled</change>
