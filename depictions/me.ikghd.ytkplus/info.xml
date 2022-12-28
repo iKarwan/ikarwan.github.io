@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.0.15</version>
+    <version>2.1</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.0.15</version2>
+      <version2>2.1</version2>
     </version2>
 
     <date>
-      <date>Dec 12, 2022</date>
+      <date>Dec 22, 2022</date>
     </date>
 
     <price>
@@ -22,19 +22,8 @@
     </price>
 
     <changelog>
-      <change>・update server activation and changed sorry there was an issue with the previuos one it was creating multiple ID on the same device pls SEND the new UUID again to the email with the proof of the purchase to activated it again sorry to everyone for the inconvenience 😔</change>
-      <change>・更新服务器激活并更改抱歉，previus 存在问题，它在同一设备上创建多个 ID 请再次将新的 UUID 发送到电子邮件中，并附上购买证明以再次激活它，对于给大家带来的不便，我们深表歉意😔</change>
-      <change>・sunucu aktivasyonunu güncelle ve değişti üzgünüm öncekiyle ilgili bir sorun vardı aynı cihazda birden fazla kimlik oluşturuyordu lütfen yeni UUID'yi yeniden etkinleştirmek için satın alma kanıtıyla birlikte e-postaya tekrar GÖNDERİN rahatsızlıktan dolayı herkesten özür dileriz 😔</change>
-      <change>・تحديث تنشيط الخادم وتغييره ، آسف كانت هناك مشكلة مع الرقم السابق الذي كان ينشئ معرفات متعددة على نفس الجهاز ، الرجاء إرسال UUID الجديد مرة أخرى إلى البريد الإلكتروني مع إثبات الشراء لتنشيطه مرة أخرى آسف للجميع على الإزعاج 😔</change>
-
-      <change></change>
-      <change>・add a telegram channel to download the iPA if u have issue with the main one</change>
-      <change></change>
-      <change></change>
-
-      <change>・update localization</change>
       <change>・fixes / squashed bugs &amp; improvements</change>
-      <change>・update iPA to YTKillerPlus_v17.49.4</change>
+      <change>・update iPA to YTKillerPlus_v17.49.6</change>
     </changelog>
 
 
@@ -82,14 +71,17 @@
               </li>
               <br>
               <li>
-                  <a href="https://ikghd.site/iPA/YTKillerPlus_v17.49.4.ipa">  Download iPA (Direct Link).. </a>
+                  <a href="https://ikghd.site/iPA/YTKillerPlus_v17.49.6.ipa">  Download iPA (Direct Link).. </a>
               </li>
               <br>
-              <li>
-                  <a href="https://tinyurl.com/jxdta452">  Open In AltStore.. </a>
-              </li>
-              <br>
+                <li>
+                    <a href="https://ikghd.site/iPA/YTK+TS_v17.49.6.ipa">  TrollStore iPA (Direct Link).. </a>
+                </li>
                 <br>
+              <li>
+                  <a href="https://tinyurl.com/3h6rrv8n">  Open In AltStore.. </a>
+              </li>
+              <br>
                 <li>
                     <a href="https://t.me/ikghdiPA">  download via telegram.. </a>
                 </li>
@@ -112,12 +104,12 @@
                       <br>
 
                         <br>Purchased before or Changing device ?
-                      <br>· send a proof & UUID to the email <a href = "mailto: ytk.pluss@gmail.com?cc=&subject=YouTubeKiller&body=Pls send a photo proof of the purchase! and Paste Your UUID down below::">Send Mail:</a> to reactivate ur liscence!
+                      <br>· send a proof & UUID to the email <a href = "mailto: ytk.pluss@gmail.com?cc=&subject=YTKillerPlus&body=Pls send a photo proof of the purchase! and Paste Your UUID down below::">Send Mail:</a> to reactivate ur liscence!
                       <br>
                       <br>
 
-                          <br>Multiple Devices
-                          <br>· you can add up to 3 devices with one purchase
+                          <br>Devices
+                          <br>· this is for only one 1 devices for & 1 year subscription
                           <br>
 
         ]]></longdescription>
