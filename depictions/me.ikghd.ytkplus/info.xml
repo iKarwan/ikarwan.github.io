@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.1</version>
+    <version>2.1-2</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
 
     <version2>
-      <version2>2.1</version2>
+      <version2>2.1-2</version2>
     </version2>
 
     <date>
@@ -106,8 +106,8 @@
                       <br>
                       <br>
 
-                        <br>Multiple Devices
-                        <br>· you can add up to 3 devices with one purchase
+                        <br>Devices
+                        <br>· for 1 devices & 1 year subscription
                         <br>
 
         ]]></longdescription>
