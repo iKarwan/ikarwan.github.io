@@ -115,27 +115,10 @@
                "class":"DepictionTableButtonView"
             },
             {
-              "title":"TrollStore iPA (Direct Link)..",
-               "useBoldText": true,
-               "action":"https://ikghd.site/iPA/YTK+TS_v17.49.6.ipa",
-               "class":"DepictionTableButtonView"
-            },
-            {
               "title":"Open In AltStore..",
                "useBoldText": true,
                "action":"https://tinyurl.com/3h6rrv8n",
                "class":"DepictionTableButtonView"
-            },
-            {
-              "title":"download via telegram..",
-               "useBoldText": true,
-               "action":"https://t.me/ikghdiPA",
-               "class":"DepictionTableButtonView"
-            },
-            {
-               "title":"Devices",
-               "text":"only 1 devices for & 1 year subscription",
-               "class":"DepictionTableTextView"
             },
             {
                "class":"DepictionSeparatorView"
