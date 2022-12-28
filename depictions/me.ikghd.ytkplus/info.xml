@@ -14,7 +14,7 @@
     </version2>
 
     <date>
-      <date>Dec 22, 2022</date>
+      <date>Dec 28, 2022</date>
     </date>
 
     <price>
@@ -22,6 +22,11 @@
     </price>
 
     <changelog>
+      <change>・fixes some wierd downloded videos name</change>
+      <change>・now download propare thumbnails/artwork images</change>
+      <change>・artwork now showed 100 scaled</change>
+      <change>・fixes share sheet wasn't function</change>
+      <change>・add germany languges</change>
       <change>・fixes / squashed bugs &amp; improvements</change>
       <change>・update iPA to YTKillerPlus_v17.49.6</change>
     </changelog>
