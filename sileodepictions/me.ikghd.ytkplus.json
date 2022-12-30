@@ -111,13 +111,13 @@
             {
               "title":"Download iPA (Direct Link)..",
                "useBoldText": true,
-               "action":"https://ikghd.site/iPA/YTKillerPlus_v17.49.6.ipa",
+               "action":"https://ikghd.site/iPA/YouTube_v17.49.6.ipa",
                "class":"DepictionTableButtonView"
             },
             {
               "title":"Open In AltStore..",
                "useBoldText": true,
-               "action":"https://tinyurl.com/3h6rrv8n",
+               "action":"https://tinyurl.com/yjv6r6vn",
                "class":"DepictionTableButtonView"
             },
             {
@@ -158,7 +158,7 @@
                             },
 
                             {
-                                "markdown":"- fixes some wierd downloded videos name\n- now download propare thumbnails/artwork images\n- artwork now showed 100 scaled\n- fixes share sheet wasn't function\n- add germany languges\n- squashed bugs & improvements\n- update iPA to YTKillerPlus_v17.49.6",
+                                "markdown":"- fixes some wierd downloded videos name\n- now download propare thumbnails/artwork images\n- artwork now showed 100 scaled\n- fixes share sheet wasn't function\n- add germany languges\n- squashed bugs & improvements\n- update iPA to YouTube_v17.49.6",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
