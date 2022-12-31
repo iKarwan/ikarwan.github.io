@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- NOTE!!! update activation server u need to update to activate the license\n- oled mode now follows system appearance settings\n- update app compatibility version",
+                                "markdown":"- iOS 15/16 palra1n and Xina15 compatibility\n- oled mode now follows system appearance settings\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.3",
+               "text":"1.2.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 19, 2022",
+               "text":"Jan 01, 2023",
                "class":"DepictionTableTextView"
             },
             {
@@ -151,7 +151,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 13.0 - 14.8",
+               "text":"iOS 13.0 - 16.x",
                "class":"DepictionTableTextView"
             },
 

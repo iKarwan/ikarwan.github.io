@@ -158,7 +158,7 @@
                             },
 
                             {
-                                "markdown":"- fixes some wierd downloded videos name\n- now download propare thumbnails/artwork images\n- artwork now showed 100 scaled\n- fixes share sheet wasn't function\n- add germany languges\n- squashed bugs & improvements\n- update iPA to YouTube_v17.49.6",
+                                "markdown":"- fixes iOS 13 compatibility\n\n- fixes some wierd downloded videos name\n- now download propare thumbnails/artwork images\n- artwork now showed 100 scaled\n- fixes share sheet wasn't function\n- add germany languges\n- squashed bugs & improvements\n- update iPA to YouTube_v17.49.6",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -174,12 +174,12 @@
             },
             {
                "title":"Version",
-               "text":"2.1-2",
+               "text":"2.1-3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Dec 28, 2022",
+               "text":"Jan 01, 2023",
                "class":"DepictionTableTextView"
             },
             {

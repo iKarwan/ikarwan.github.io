@@ -1,20 +1,20 @@
 <package>
    <id>pro.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.2.6</version>
+    <version>1.2.7</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
-            <maxiOS>14.8</maxiOS>
+            <maxiOS>16.x</maxiOS>
         </firmware>
     </compatibility>
 
     <version2>
-      <version2>1.2.6</version2>
+      <version2>1.2.7</version2>
     </version2>
 
     <date>
-      <date>Nov 19, 2022</date>
+      <date>Jan 01, 2023</date>
     </date>
 
     <price>
@@ -22,7 +22,7 @@
     </price>
 
     <changelog>
-      <change>・NOTE!!! update activation server u need to update to activate the license</change>
+      <change>・iOS 15/16 palra1n and Xina15 compatibility</change>
       <change></change>
       <change>・improve &amp; fixes</change>
       <change>・update app compatibility</change>
