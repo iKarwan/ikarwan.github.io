@@ -108,18 +108,7 @@
                "action":"https://github.com/iKarwan/YTKillerPlus",
                "class":"DepictionTableButtonView"
             },
-            {
-              "title":"Download iPA (Direct Link)..",
-               "useBoldText": true,
-               "action":"https://mega.nz/file/p5dhCQAZ#-kCCQZ_m4tMxNqMAN7kDWbeX-bpFj0qEsIDLQEKaFxk",
-               "class":"DepictionTableButtonView"
-            },
-            {
-              "title":"Open In AltStore..",
-               "useBoldText": true,
-               "action":"https://tinyurl.com/yckr9kvr",
-               "class":"DepictionTableButtonView"
-            },
+  
             {
                "class":"DepictionSeparatorView"
             },
