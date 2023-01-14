@@ -108,7 +108,7 @@
                "action":"https://github.com/iKarwan/YTKillerPlus",
                "class":"DepictionTableButtonView"
             },
-  
+
             {
                "class":"DepictionSeparatorView"
             },
@@ -147,7 +147,7 @@
                             },
 
                             {
-                                "markdown":"- fixes iOS 13 compatibility\n\n- fixes some wierd downloded videos name\n- now download propare thumbnails/artwork images\n- artwork now showed 100 scaled\n- fixes share sheet wasn't function\n- add germany languges\n- squashed bugs & improvements\n- update iPA to YouTube_v17.49.6",
+                                "markdown":"- NOTE!!! 1- google revoked sign in for new sign in not resolved in this update yet\n- NOTE!!! 2- the activation screen may appears sometimes when u rejailbreak or reboot the device, | you just need enter the code again and click on reset code and activate, | this is a known issue and hope it'll be fixed in future updates.\n\r\n\r- new feature:\n- add option to disable pinch to zoom (overlay)\n- add an option to disable RTL language (miscellanuos)\n- add an option to enable 4K video on sideloaded iPA and none supported device (main)\n- download manager:\n- redisign the video views and artwork \n- add the name duration and badge quality to the view of the artwork\n- slide from left to right to show the options \n- add an option to save the artwork/thumbnails of the video to photos album \n- resolve issues:\n- fixes an issue that sometimes clicking on the files not playing\n- squashed bugs & improvements\n- update iPA to YouTube_v18.01.6",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -163,12 +163,12 @@
             },
             {
                "title":"Version",
-               "text":"2.1-3",
+               "text":"2.1-4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jan 01, 2023",
+               "text":"Jan 14, 2023",
                "class":"DepictionTableTextView"
             },
             {

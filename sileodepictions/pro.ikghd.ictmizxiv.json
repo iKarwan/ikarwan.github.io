@@ -277,7 +277,7 @@
                             },
 
                             {
-                                "markdown":"- NOTE!!! update activation server u need to update to activate the license\n- fixes & improvements",
+                                "markdown":"- add option to disable right to left (systemwide)\n- fix RTL language for battery percentage\n- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -293,12 +293,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.7",
+               "text":"2.0.8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Nov 19, 2022",
+               "text":"Jan 12, 2023",
                "class":"DepictionTableTextView"
             },
 
