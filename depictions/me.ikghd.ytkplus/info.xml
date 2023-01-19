@@ -22,21 +22,21 @@
     </price>
 
     <changelog>
-      <change> • What's New v2.1-4 :</change>
-      <change> • Add option to disable pinch to zoom (Overlay section) </change>
-      <change> • Add an option to disable RTL language (Miscellanuos section)</change>
-      <change> • Add an option to enable 4K video on sideloaded IPA and none supported device (Main) .</change>
-      <change> • </change>
-      <change> • - Download Manager Library:</change>
-      <change> • Redesign the video views and artwork .</change>
-      <change> • Add the name duration and badge quality to the view of the artwork</change>
-      <change> • slide from left to right to show the options .</change>
-      <change> • Add an option to save the artwork/thumbnails of the video to photos album .</change>
-      <change> • </change>
-      <change> • resolved issues:</change>
-      <change> • Fixes an issue that sometimes clicking on the files not playing .</change>
-      <change> • fixes / squashed bugs &amp; improvements</change>
-      <change> • update iPA to YouTube_v18.02.3</change>
+      <change>What's New v2.1-4 :</change>
+      <change>· Add option to disable pinch to zoom (Overlay section) </change>
+      <change>· Add an option to disable RTL language (Miscellanuos section)</change>
+      <change>· Add an option to enable 4K video on sideloaded IPA and none supported device (Main) .</change>
+      <change></change>
+      <change>- Download Manager Library:</change>
+      <change>· Redesign the video views and artwork .</change>
+      <change>· Add the name duration and badge quality to the view of the artwork</change>
+      <change>· slide from left to right to show the options .</change>
+      <change>· Add an option to save the artwork/thumbnails of the video to photos album .</change>
+      <change></change>
+      <change>resolved issues:</change>
+      <change>· Fixes an issue that sometimes clicking on the files not playing .</change>
+      <change>· fixes / squashed bugs &amp; improvements</change>
+      <change>· update iPA to YouTube_v18.02.3</change>
     </changelog>
 
 
@@ -96,6 +96,7 @@
                         <br>Activation NOTICE!!:
                         <br>· NOTE!! 1- the activation screen may appears sometimes when u rejailbreak or reboot the device, | you just need enter the code again and click on reset code and activate, | this is a known issue and hope it'll be fixed in future updates.
                         <br>· NOTE!! 2- if u have XinaA12 Jailbreak please use the TrollStore version if u have freeze on YouTube first launch
+                        <br>
                         <br>
 
                         <br>Devices
