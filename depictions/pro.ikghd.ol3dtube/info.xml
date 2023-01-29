@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.ol3dtube</id>
     <name>OL3DTube</name>
-    <version>1.2.4</version>
+    <version>1.2.5</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.2.4</version2>
+      <version2>1.2.5</version2>
     </version2>
 
         <date>
-          <date>Jan 01, 2023</date>
+          <date>Jan 30, 2023</date>
         </date>
 
         <price>
@@ -22,8 +22,7 @@
         </price>
 
         <changelog>
-          <change>・iOS 15/16 palra1n and Xina15 compatibility</change>
-          <change></change>
+          <change>・fixes</change>
           <change>・update oled mode</change>
           <change>・update app compatibility version</change>
         </changelog>

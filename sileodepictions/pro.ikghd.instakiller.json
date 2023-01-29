@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- iOS 15/16 palra1n and Xina15 compatibility\n- NOTE!!! update activation server u need to update to activate the license\n- update app compatibility version",
+                                "markdown":"- fixes\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,7 +149,7 @@
             },
             {
                "title":"Version",
-               "text":"0.1.11",
+               "text":"1.0",
                "class":"DepictionTableTextView"
             },
             {
@@ -159,7 +159,7 @@
             },
             {
                "title":"Updated",
-               "text":"Jan 01, 2023",
+               "text":"Jan 30, 2023",
                "class":"DepictionTableTextView"
             },
 

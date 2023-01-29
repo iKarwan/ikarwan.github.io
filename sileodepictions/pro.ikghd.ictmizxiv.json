@@ -293,12 +293,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0.8",
+               "text":"2.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jan 12, 2023",
+               "text":"Jan 30, 2023",
                "class":"DepictionTableTextView"
             },
 

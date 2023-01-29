@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- iOS 15/16 palra1n and Xina15 compatibility\n- oled mode now follows system appearance settings\n- update app compatibility version",
+                                "markdown":"- fixes\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.2.4",
+               "text":"1.2.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jan 01, 2023",
+               "text":"Jan 30, 2023",
                "class":"DepictionTableTextView"
             },
             {
