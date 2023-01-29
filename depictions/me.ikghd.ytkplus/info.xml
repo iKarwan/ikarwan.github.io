@@ -26,6 +26,7 @@
       <change>· add size of the media files to the artwork view</change>
       <change>· fixes all artwork layouts issue</change>
       <change>· all new context menu</change>
+      <change>· lot of fixes and improvements for iPadOS</change>
       <change>· press and hold on media files to show the context menu</change>
       <change>· all videos should now have own artwork properly</change>
       <change>· add a new mechanism to download artworks from the server to use the exact video Artwork</change>
