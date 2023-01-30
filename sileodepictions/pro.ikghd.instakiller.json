@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fixes\n- update app compatibility version",
+                                "markdown":"- fixes seen story button as it wasn't showing with previous build\n- new download engin\n- new ProgressHUD\n- other fixes / optimazation\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,7 +149,7 @@
             },
             {
                "title":"Version",
-               "text":"1.0",
+               "text":"1.0.1",
                "class":"DepictionTableTextView"
             },
             {

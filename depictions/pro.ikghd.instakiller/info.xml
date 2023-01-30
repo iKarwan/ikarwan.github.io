@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
 
     <version2>
-      <version2>1.0</version2>
+      <version2>1.0.1</version2>
     </version2>
 
         <date>
@@ -22,7 +22,10 @@
         </price>
 
         <changelog>
-          <change>・fixes</change>
+          <change>・fixes seen story button as it wasn't showing with previous build</change>
+          <change>・new download engin</change>
+          <change>・new ProgressHUD</change>
+          <change>・other fixes / optimazation</change>
           <change>・update app compatibility version</change>
         </changelog>
 
