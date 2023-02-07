@@ -104,7 +104,7 @@
                "class":"DepictionTableButtonView"
             },
             {
-              "title":"Upgrade from YouTubeKiller : $1.01",
+              "title":"Upgrade from YouTubeKiller : $1.00",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/Upgrade",
                "class":"DepictionTableButtonView"
@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- a redesigned download manager artwork views\n- add size of the media files to the artwork view\n- fixes all artwork layouts issue\n- lot of fixes and improvements for iPadOS\n- all new context menu\n- press and hold on media files to show the context menu\n- all videos should now have own artwork properly\n- add a new mechanism to download artworks from the server to use the exact video Artwork\n- fixes all downloaded related issues\n- new mechanism to odownload video / sounds & shorts\n- \n- add segmented controller in favour of tab bars | as tabbar and navBar has a lot of changes in iOS16\n- fixes all layouts for larger devices artwork and media position\n- other fixes / squashed bugs & improvements\n- update iPA to YouTube_v18.03.3",
+                                "markdown":"- now we use stack YT tab bar for download manager\n- add set prefer download quality to choose from\n- shorts now downloading by long press\n- u have choice to add or hide YTKillerPlus icon settings from navbar\n- add YTKillerPlus Tab to startup page to use it as prefer start tab\n- other fixes / squashed bugs & improvements\n- update iPA to YouTube_v18.05.2",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +173,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2",
+               "text":"2.2-3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jan 30, 2023",
+               "text":"Feb 08, 2023",
                "class":"DepictionTableTextView"
             },
             {

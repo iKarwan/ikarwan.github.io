@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.2</version>
+    <version>2.2-3</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.2</version2>
+      <version2>2.2-3</version2>
     </version2>
 
     <date>
-      <date>Jan 30, 2023</date>
+      <date>Feb 08, 2023</date>
     </date>
 
     <price>
@@ -22,20 +22,13 @@
     </price>
 
     <changelog>
-      <change>· a redesigned download manager artwork views</change>
-      <change>· add size of the media files to the artwork view</change>
-      <change>· fixes all artwork layouts issue</change>
-      <change>· all new context menu</change>
-      <change>· lot of fixes and improvements for iPadOS</change>
-      <change>· press and hold on media files to show the context menu</change>
-      <change>· all videos should now have own artwork properly</change>
-      <change>· add a new mechanism to download artworks from the server to use the exact video Artwork</change>
-      <change>· fixes all downloaded related issues</change>
-      <change>· new mechanism to odownload video / sounds &amp; shorts</change>
-      <change>· add segmented controller in favour of tab bars | as tabbar and navBar has a lot of changes in iOS16</change>
-      <change>· fixes all layouts for larger devices artwork and media position</change>
+      <change>· now we use stack YT tab bar for download manager</change>
+      <change>· add set prefer download quality to choose from</change>
+      <change>· shorts now downloading by long press</change>
+      <change>· u have choice to add or hide YTKillerPlus icon settings from navbar</change>
+      <change>· add YTKillerPlus Tab to startup page to use it as prefer start tab</change>
       <change>· other fixes / squashed bugs &amp; improvements</change>
-      <change>· update iPA to YouTube_v18.03.3</change>
+      <change>· update iPA to YouTube_v18.05.2</change>
     </changelog>
 
 
