@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- now we use stack YT tab bar for download manager\n- add set prefer download quality to choose from\n- shorts now downloading by long press\n- u have choice to add or hide YTKillerPlus icon settings from navbar\n- add YTKillerPlus Tab to startup page to use it as prefer start tab\n- other fixes / squashed bugs & improvements\n- update iPA to YouTube_v18.05.2",
+                                "markdown":"- now we use stack YT tab bar for download manager\n- add set prefer download quality to choose from\n- shorts now downloading by long press\n- u have choice to add or hide YTKillerPlus icon settings from navbar\n- add YTKillerPlus Tab to startup page to use it as prefer start tab\n- this update uses my new own library for downloading and merging files and it increased the size by 80%\n- other fixes / squashed bugs & improvements\n- update iPA to YouTube_v18.05.2",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
