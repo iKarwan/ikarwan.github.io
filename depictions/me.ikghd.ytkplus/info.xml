@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.2-3</version>
+    <version>2.2-5</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.2-3</version2>
+      <version2>2.2-5</version2>
     </version2>
 
     <date>
-      <date>Feb 08, 2023</date>
+      <date>Feb 14, 2023</date>
     </date>
 
     <price>
@@ -22,13 +22,16 @@
     </price>
 
     <changelog>
-      <change>· now we use stack YT tab bar for download manager</change>
-      <change>· add set prefer download quality to choose from</change>
-      <change>· shorts now downloading by long press</change>
-      <change>· u have choice to add or hide YTKillerPlus icon settings to the navbar</change>
-      <change>· add YTKillerPlus Tab to startup page to use it as prefer start tab</change>
+      <change>· add an option to show all quality's with the audio</change>
+      <change>· add a minimized button to the ProgressHUD (BETA)</change>
+      <change>· add vietnamees language</change>
+      <change>· fix cancel button wasn't function in previous build</change>
+      <change>· fixes a possible crash in some cases when set download qulity is selected</change>
+      <change>· improve the download manager tab</change>
+      <change>· fix refresh download tab bar when a downloaded video is finished that not appear auto in some cases</change>
       <change>· this update uses my new own library for downloading and merging files and it decreased the size by 80%</change>
-      <change>· other fixes / squashed bugs &amp; improvements</change>
+      <change>· improve the library and other components with clean up to decrease even more to the size</change>
+      <change>· lot of fixes / squashed bugs &amp; improvements</change>
       <change>· update iPA to YouTube_v18.05.2</change>
     </changelog>
 

@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.0.1</version2>
+      <version2>1.0.2</version2>
     </version2>
 
         <date>
-          <date>Jan 30, 2023</date>
+          <date>Feb 14, 2023</date>
         </date>
 
         <price>
@@ -22,7 +22,7 @@
         </price>
 
         <changelog>
-          <change>・fixes seen story button as it wasn't showing with previous build</change>
+          <change>・fixes seen story button color change</change>
           <change>・new download engin</change>
           <change>・new ProgressHUD</change>
           <change>・other fixes / optimazation</change>
@@ -69,7 +69,7 @@
             <br>
 
               <br>iOS 12 / 12.5.5 ?
-                <br>· downgrade to version 0.1.0
+                <br>· downgrade to version 1.0
               <br>
 
                       <br>Refund Policy:

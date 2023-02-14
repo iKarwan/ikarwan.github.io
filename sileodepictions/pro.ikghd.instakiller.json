@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fixes seen story button as it wasn't showing with previous build\n- new download engin\n- new ProgressHUD\n- other fixes / optimazation\n- update app compatibility version",
+                                "markdown":"- fixes seen story button color change\n- new download engin\n- new ProgressHUD\n- other fixes / optimazation\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,17 +149,17 @@
             },
             {
                "title":"Version",
-               "text":"1.0.1",
+               "text":"1.0.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"iOS 12.0/12.5.5 ?",
-               "text":"downgrade to v0.1.0",
+               "text":"downgrade to v1.0",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jan 30, 2023",
+               "text":"Feb 14, 2023",
                "class":"DepictionTableTextView"
             },
 
