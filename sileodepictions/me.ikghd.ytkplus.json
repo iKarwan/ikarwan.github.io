@@ -66,7 +66,7 @@
                "class":"DepictionHeaderView"
             },
             {
-                "markdown": "- Download Video/Audio/Shorts & Image\r\n- Download Manager for manging downloaded Items\r\n- Import Videos To Photos\r\n- block all advertisment\r\n- play in background\r\n- stream HD videos over 3G/4G/5G\r\n- PiP feature Picture in Picture\r\n- oled mode better experiance dark mode\r\n- Customize tab bar layout\r\n- AppLock Settings\r\n- and many more settings",
+                "markdown": "- i",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -80,7 +80,7 @@
             {
                "title":"Demo Via YouTube",
                "useBoldText": true,
-               "action":"https://www.youtube.com/watch?v=haAaqU1zFFo&feature=youtu.be&ab_channel=iKarwan-ikghd",
+               "action":"",
                "class":"DepictionTableButtonView"
             },
 
@@ -95,7 +95,7 @@
                             },
 
                             {
-                                "markdown":"- fixes &amp; improvements\n- 2.2-9 Changes\n- add time when the video downloaded to the artwork view\n- fixes some layouts issue with previus build was reverted on all devices and iPad\n- many more improvements and bug fixes to improve the experiance and make it much more flowent\n- update iPA to YouTube_v18.06.6\n\n- 2.2-7 Changes\n add an option to show all quality's with the audio\n- add a minimized button to the ProgressHUD (BETA)\n- add vietnamees language\n- fix cancel button as the task was still present in the background and not killed\n- fixes a possible crash in some cases when set download qulity is selected\n- improve the download manager tab\n- fix refresh download tab bar when a downloaded video is finished that not appear auto in some cases\n- this update uses my new own library for downloading and merging files and it decreased the size by 80%\n- improve the library and other components with clean up to decrease even more to the size\n- lot of fixes / squashed bugs &amp; improvements \n- update iPA to YouTube_v18.05.2",
+                                "markdown":"- hi",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -168,5 +168,5 @@
 
          ],
 
-      }
-   ]
+   ],
+}
