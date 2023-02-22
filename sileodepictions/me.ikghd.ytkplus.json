@@ -2,10 +2,11 @@
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/assets/banners/ytkplus.png",
    "tintColor":"#fa2942",
-   "tabs": [
-     {
-       "views": [
-         {
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[
+            {
                 "itemCornerRadius":8,
                 "itemSize":"{195, 385}",
                 "screenshots":[
@@ -223,12 +224,13 @@
             },
 
             {
-              "class": "DepictionSpacerView",
-              "spacing": 10
+               "spacing":10,
+               "class":"DepictionSpacerView"
             }
-          ],
-          "class":"DepictionStackView"
-        }
-      ],
-      "class":"DepictionTabView"
-    }
+
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}
