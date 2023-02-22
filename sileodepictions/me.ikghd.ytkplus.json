@@ -227,6 +227,8 @@
               "spacing": 10
             }
           ],
+          "class":"DepictionStackView"
         }
       ],
+      "class":"DepictionTabView"
     }
