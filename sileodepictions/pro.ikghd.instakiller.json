@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fixes seen story button color change\n- new download engin\n- new ProgressHUD\n- other fixes / optimazation\n- update app compatibility version",
+                                "markdown":"- fixes seen story button completely\n- new download engin\n- new ProgressHUD\n- other fixes / optimazation\n- update app compatibility version",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,7 +149,7 @@
             },
             {
                "title":"Version",
-               "text":"1.0.2",
+               "text":"1.0.3",
                "class":"DepictionTableTextView"
             },
             {
@@ -159,7 +159,7 @@
             },
             {
                "title":"Updated",
-               "text":"Feb 14, 2023",
+               "text":"Feb 23, 2023",
                "class":"DepictionTableTextView"
             },
 
