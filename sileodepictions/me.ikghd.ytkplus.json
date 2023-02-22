@@ -1,12 +1,10 @@
-{
-   "minVersion":"0.1",
-   "headerImage":"https://repo.ikghd.me/assets/banners/ytkplus.png",
-   "tintColor":"#fa2942",
-   "tabs":[
-      {
-         "tabname":"Details",
-         "views":[
-            {
+"minVersion":"0.1",
+"headerImage":"https://repo.ikghd.me/assets/banners/ytkplus.png",
+"tintColor":"#fa2942",
+"tabs":[
+   {
+      "views":[
+         {
                 "itemCornerRadius":8,
                 "itemSize":"{195, 385}",
                 "screenshots":[
@@ -14,36 +12,6 @@
                         "accessibilityText":"Screenshot",
                         "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                         "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/3.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/3.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/4.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/4.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/5.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/5.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG"
                       }
 
                 ],
@@ -55,36 +23,6 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/3.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/3.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/4.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/4.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/5.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/5.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG"
                       }
 
 
@@ -229,8 +167,6 @@
             }
 
          ],
-         "class":"DepictionStackView"
+
       }
-   ],
-   "class":"DepictionTabView"
-}
+   ]
