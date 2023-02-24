@@ -100,13 +100,13 @@
             {
               "title":"buy : $1.99",
                "useBoldText": true,
-               "action":"https://repo.ikghd.me/inkplus",
+               "action":"https://repo.ikghd.me/iNKPlus",
                "class":"DepictionTableButtonView"
             },
             {
               "title":"Upgrade from iNstaKiller : $1.00",
                "useBoldText": true,
-               "action":"https://repo.ikghd.me/Upgrade",
+               "action":"https://repo.ikghd.me/UpgradeInk",
                "class":"DepictionTableButtonView"
             },
             {
