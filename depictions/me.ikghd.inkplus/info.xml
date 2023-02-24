@@ -1,0 +1,117 @@
+<package>
+   <id>me.ikghd.inkplus</id>
+    <name>iNKillerPlus</name>
+    <version>2.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>13.0</miniOS>
+            <maxiOS>16.x</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <version2>
+      <version2>2.0</version2>
+    </version2>
+
+    <date>
+      <date>Feb 24, 2023</date>
+    </date>
+
+    <price>
+      <price>$1.99 USD</price>
+    </price>
+
+    <changelog>
+      <change>· Initial</change>
+    </changelog>
+
+
+    <descriptionlist>
+          <description>a whole New Instagram Experience!</description>
+
+        <longdescription><![CDATA[
+          <br>
+
+            <li>
+                <a href="https://repo.ikghd.me/inkplus">buy : $1.99</a>
+            </li>
+
+            <br>
+              <li>
+                  <a href="https://repo.ikghd.me/UpgradeIntsa">Upgrade from iNstaKiller : $1.00</a>
+              </li>
+
+              <br>
+
+          <br>
+          <br>In App Settings?:
+          <br>· Download Video from post iGTV Reels ext.. HD | SD
+          <br>· Save Image from post Stories & profile
+          <br>· block all promo ads
+          <br>· Quick seen/unseen stories/DM's Button
+          <br>· copy various text like comments description bio ext...
+          <br>· variuos confirmation on like double tap..
+          <br>· lock the app
+          <br>· and many more settings..
+          <br> <br>
+
+          <li>
+              <a href="https://youtu.be/haAaqU1zFFo">Demo Via YouTube</a>
+          </li>
+          <br>
+
+
+            <br>IPA & TrollStore Version?
+              <li>
+                  <a href="https://github.com/iKarwan/iNKillerPlus">  instructions from here... </a>
+              </li>
+              <br>
+
+                      <br>Refund Policy:
+                      <br>· refund accepted if u have !issue such a safe mode or the tweak not working!
+                      <br>· must provide full details about the !issue photo & crash log>
+                      <br>· change in mind not accepted !u can see details with photos & video before buying,
+                      <br>· if refund was accepted will processing with in 3 to 7 days:
+                      <br>· thank you 🤗 & Enjoy:
+                      <br>
+                      <br>
+
+                        <br>Activation NOTICE!!:
+                        <br>· NOTE!! 1- you need to activate the license with in 20 seconds otherwise the app will crash as it normal due to the security included .
+                        <br>· NOTE!! 2- the activation screen may appears sometimes when u rejailbreak or reboot the device, due to security & anti crack included | you just need to enter the code again and click on reset code and activate .
+                        <br>· NOTE!! 3- if u on palra1n or XinaA15 Jailbreak please use the iPA or TrollStore version if u have freeze on Instagram first launch .
+                        <br>
+                        <br>
+
+                        <br>Subscription:
+                        <br>· 1 devices & for 1 year subscription
+                        <br>
+
+        ]]></longdescription>
+    </descriptionlist>
+
+    <screenshots>
+      <screenshot>
+          <image>1.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>2.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>3.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>4.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>5.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>6.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>7.PNG</image>
+      </screenshot>
+    </screenshots>
+
+</package>

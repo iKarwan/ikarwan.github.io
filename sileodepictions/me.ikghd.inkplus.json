@@ -1,0 +1,236 @@
+{
+   "minVersion":"0.1",
+   "headerImage":"https://repo.ikghd.me/assets/banners/inkbanner.png",
+   "tintColor":"#ff7c9f",
+   "tabs":[
+      {
+         "tabname":"Details",
+         "views":[
+            {
+                "itemCornerRadius":8,
+                "itemSize":"{195, 385}",
+                "screenshots":[
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/3.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/3.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/4.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/4.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG"
+                      }
+
+                ],
+                "ipad":{
+                    "itemCornerRadius":9,
+                    "itemSize":"{320, 550.8266666666667}",
+                    "screenshots":[
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/3.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/3.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/4.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/4.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG"
+                      }
+
+
+                    ],
+                    "class":"DepictionScreenshotView"
+                },
+                "class":"DepictionScreenshotsView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+            {
+              "title":"buy : $1.99",
+               "useBoldText": true,
+               "action":"https://repo.ikghd.me/inkplus",
+               "class":"DepictionTableButtonView"
+            },
+            {
+              "title":"Upgrade from iNstaKiller : $1.00",
+               "useBoldText": true,
+               "action":"https://repo.ikghd.me/Upgrade",
+               "class":"DepictionTableButtonView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+              "title":"IPA & TrollStore Version?",
+               "useBoldText": true,
+               "action":"https://github.com/iKarwan/iNKillerPlus",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+            {
+               "title":"In App Settings",
+               "class":"DepictionHeaderView"
+            },
+            {
+                "markdown": "- Download Video from post iGTV Reels ext.. HD | SD\r\n- Save Image from post Stories & profile\r\n- block all promo ads\r\n- Quick seen/unseen stories/DM's Button\r\n- copy various text like comments description bio ext...\r\n- variuos confirmation on like double tap..\r\n- lock the app\r\n- and many more settings",
+                "title": "markdown-description",
+                "useBoldText": true,
+                "class": "DepictionMarkdownView",
+                "useBottomMargin": false
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+            {
+               "title":"Demo Via Instagam",
+               "useBoldText": true,
+               "action":"https://www.Instagam.com/watch?v=haAaqU1zFFo&feature=youtu.be&ab_channel=iKarwan-ikghd",
+               "class":"DepictionTableButtonView"
+            },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
+
+                            {
+                               "title":"What's New",
+                               "class":"DepictionHeaderView"
+                            },
+
+                            {
+                                "markdown":"- Initial",
+                                "useSpacing":true,
+                                "class":"DepictionMarkdownView"
+                            },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
+
+            {
+               "title":"Information",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"2.0",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Updated",
+               "text":"Feb 24, 2023",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Price",
+               "text":"$1.99 USD",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Compatibility",
+               "text":"iOS 13.0 - 16.x",
+               "class":"DepictionTableTextView"
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Support",
+               "class":"DepictionHeaderView"
+            },
+
+            {
+               "title":"Via PayPal",
+               "useBoldText": true,
+               "action":"https://www.paypal.com/paypalme/hiwajaf",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"Follow @iKarwan",
+               "useBoldText": true,
+               "action":"https://twitter.com/ikg_hd",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"Instagam Channel",
+               "useBoldText": true,
+               "action":"https://Instagam.com/c/ikghd",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "spacing":10,
+               "class":"DepictionSpacerView"
+            }
+
+         ],
+         "class":"DepictionStackView"
+      }
+   ],
+   "class":"DepictionTabView"
+}
