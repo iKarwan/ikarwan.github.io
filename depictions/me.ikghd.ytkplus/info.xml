@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.2-11</version>
+    <version>2.2-12</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.2-11</version2>
+      <version2>2.2-12</version2>
     </version2>
 
     <date>
-      <date>Feb 21, 2023</date>
+      <date>Feb 24, 2023</date>
     </date>
 
     <price>
@@ -22,7 +22,8 @@
     </price>
 
     <changelog>
-      <change>· fixes &amp; improvements</change>
+      <change>· additional fixes &amp; improvements</change>
+      <change>· more cleaning up for smother experiance</change>
       <change></change>
       <change>· 2.2-9 Changes</change>
       <change>· add time when the video downloaded to the artwork view</change>

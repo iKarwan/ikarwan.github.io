@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- fixes &amp; improvements\n- 2.2-9 Changes\n- add time when the video downloaded to the artwork view\n- fixes some layouts issue with previus build was reverted on all devices and iPad\n- many more improvements and bug fixes to improve the experiance and make it much more flowent\n- update iPA to YouTube_v18.07.5\n\n- 2.2-7 Changes\n add an option to show all quality's with the audio\n- add a minimized button to the ProgressHUD (BETA)\n- add vietnamees language\n- fix cancel button as the task was still present in the background and not killed\n- fixes a possible crash in some cases when set download qulity is selected\n- improve the download manager tab\n- fix refresh download tab bar when a downloaded video is finished that not appear auto in some cases\n- this update uses my new own library for downloading and merging files and it decreased the size by 80%\n- improve the library and other components with clean up to decrease even more to the size\n- lot of fixes / squashed bugs &amp; improvements \n- update iPA to YouTube_v18.05.2",
+                                "markdown":"- more cleaning up for smother experiance\n- additionalfixes &amp; improvements\n- 2.2-9 Changes\n- add time when the video downloaded to the artwork view\n- fixes some layouts issue with previus build was reverted on all devices and iPad\n- many more improvements and bug fixes to improve the experiance and make it much more flowent\n- update iPA to YouTube_v18.07.5\n\n- 2.2-7 Changes\n add an option to show all quality's with the audio\n- add a minimized button to the ProgressHUD (BETA)\n- add vietnamees language\n- fix cancel button as the task was still present in the background and not killed\n- fixes a possible crash in some cases when set download qulity is selected\n- improve the download manager tab\n- fix refresh download tab bar when a downloaded video is finished that not appear auto in some cases\n- this update uses my new own library for downloading and merging files and it decreased the size by 80%\n- improve the library and other components with clean up to decrease even more to the size\n- lot of fixes / squashed bugs &amp; improvements \n- update iPA to YouTube_v18.05.2",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +173,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2-11",
+               "text":"2.2-12",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Feb 21, 2023",
+               "text":"Feb 24, 2023",
                "class":"DepictionTableTextView"
             },
             {
