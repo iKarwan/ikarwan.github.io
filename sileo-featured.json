@@ -1,57 +1,35 @@
 {
-    "class": "FeaturedBannersView",
-    "itemSize": "{263, 148}",
-    "itemCornerRadius": 10,
-    "banners": [
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
 
-          {
-              "url": "https://repo.ikghd.me/assets/banners/ytkplus.png",
-              "title": "YTKillerPlus",
-              "package": "me.ikghd.ytkplus",
-              "hideShadow": false
-          },
+      {
+          "url": "https://repo.ikghd.me/assets/banners/ytkplus.png",
+          "title": "YTKillerPlus",
+          "package": "me.ikghd.ytkplus",
+          "hideShadow": false
+      },
 
-          {
-              "url": "https://repo.ikghd.me/assets/banners/inkbanner.png",
-              "title": "iNKillerPlus",
-              "package": "me.ikghd.inkplus",
-              "hideShadow": false
-          },
+      {
+          "url": "https://repo.ikghd.me/assets/banners/inkbanner.png",
+          "title": "iNKillerPlus",
+          "package": "me.ikghd.inkplus",
+          "hideShadow": false
+      },
 
-          {
-              "url": "https://repo.ikghd.me/assets/banners/ytk.png",
-              "title": "YouTubeKiller",
-              "package": "pro.ikghd.youtubekiller",
-              "hideShadow": false
-          },
+      {
+        "url": "https://repo.ikghd.me/assets/banners/xiv.png",
+        "title": "iCTMiZ XiV",
+        "package": "pro.ikghd.ictmizxiv",
+        "hideShadow": false
+      },
 
-          {
-            "url": "https://repo.ikghd.me/assets/banners/xiv.png",
-            "title": "iCTMiZ XiV",
-            "package": "pro.ikghd.ictmizxiv",
-            "hideShadow": false
-        },
-
-        {
-            "url": "https://repo.ikghd.me/assets/banners/instak.png",
-            "title": "iNstaKiller",
-            "package": "pro.ikghd.instakiller",
-            "hideShadow": false
-        },
-
-        {
-            "url": "https://repo.ikghd.me/assets/banners/ban.png",
-            "title": "iCTMiZ Pro",
-            "package": "pro.ikghd.ictmiz",
-            "hideShadow": false
-        },
-
-
-        {
-            "url": "https://repo.ikghd.me/assets/banners/ol3d.png",
-            "title": "OL3DTube",
-            "package": "pro.ikghd.ol3dtube",
-            "hideShadow": false
-        }
+      {
+          "url": "https://repo.ikghd.me/assets/banners/ol3d.png",
+          "title": "OL3DTube",
+          "package": "pro.ikghd.ol3dtube",
+          "hideShadow": false
+      }
     ]
 }
