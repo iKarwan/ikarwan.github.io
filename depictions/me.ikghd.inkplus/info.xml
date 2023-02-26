@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.0-1</version>
+    <version>2.0-2</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.0-1</version2>
+      <version2>2.0-2</version2>
     </version2>
 
     <date>
-      <date>Feb 25, 2023</date>
+      <date>Feb 26, 2023</date>
     </date>
 
     <price>
@@ -22,7 +22,9 @@
     </price>
 
     <changelog>
-      <change>· fixes &amp; improvements</change>
+      <change>· add invoke the settings by long pressing on instagram text logo in navbar</change>
+      <change>· u can also show the icon in Miscellaneous section if u prefer</change>
+      <change>· clean up and fixes</change>
       <change>· update ipa to Instagram v271.1</change>
     </changelog>
 
@@ -39,7 +41,7 @@
 
             <br>
               <li>
-                  <a href="https://repo.ikghd.me/UpgradeInk">Upgrade from iNstaKiller : $1.00</a>
+                  <a href="https://repo.ikghd.me/UpgradeInk">Upgrade from iNstaKiller : $0.99</a>
               </li>
 
               <br>

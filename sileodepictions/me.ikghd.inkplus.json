@@ -104,7 +104,7 @@
                "class":"DepictionTableButtonView"
             },
             {
-              "title":"Upgrade from iNstaKiller : $1.00",
+              "title":"Upgrade from iNstaKiller : $0.99",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/UpgradeInk",
                "class":"DepictionTableButtonView"
@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- fixes & improvements",
+                                "markdown":"- add invoke the settings by long pressing on instagram text logo in navbar\n- u can also show the icon in Miscellaneous section if u prefer\n- clean up and fixes\n- update ipa to Instagram v271.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +173,12 @@
             },
             {
                "title":"Version",
-               "text":"2.0-1",
+               "text":"2.0-2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Feb 25, 2023",
+               "text":"Feb 26, 2023",
                "class":"DepictionTableTextView"
             },
             {
