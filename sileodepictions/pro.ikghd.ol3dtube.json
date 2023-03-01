@@ -87,7 +87,7 @@
                "class":"DepictionSeparatorView"
             },
             {
-              "title":"buy : $1.00",
+              "title":"buy : $0.99",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/OL3DTube",
                "class":"DepictionTableButtonView"
@@ -146,7 +146,7 @@
             },
             {
                "title":"Price",
-               "text":"$1.00 USD",
+               "text":"$0.99 USD",
                "class":"DepictionTableTextView"
             },
             {
