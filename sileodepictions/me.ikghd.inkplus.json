@@ -1,6 +1,6 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://repo.ikghd.me/assets/banners/inkbanner.png",
+   "headerImage":"https://repo.ikghd.me/assets/banners/iNKBanner.png",
    "tintColor":"#ff7c9f",
    "tabs":[
       {
@@ -140,7 +140,7 @@
             },
 
             {
-               "title":"Demo Via Instagam",
+               "title":"Demo Via YouTube",
                "useBoldText": true,
                "action":"https://www.Instagam.com/watch?v=haAaqU1zFFo&feature=youtu.be&ab_channel=iKarwan-ikghd",
                "class":"DepictionTableButtonView"
@@ -217,7 +217,7 @@
             },
 
             {
-               "title":"Instagam Channel",
+               "title":"YouTube Channel",
                "useBoldText": true,
                "action":"https://Instagam.com/c/ikghd",
                "class":"DepictionTableButtonView"

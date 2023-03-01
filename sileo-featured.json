@@ -5,31 +5,24 @@
   "banners": [
 
       {
-          "url": "https://repo.ikghd.me/assets/banners/ytkplus.png",
+          "url": "https://repo.ikghd.me/assets/banners/YTKBanner.png",
           "title": "YTKillerPlus",
           "package": "me.ikghd.ytkplus",
           "hideShadow": false
       },
 
       {
-          "url": "https://repo.ikghd.me/assets/banners/inkbanner.png",
+          "url": "https://repo.ikghd.me/assets/banners/iNKBanner.png",
           "title": "iNKillerPlus",
           "package": "me.ikghd.inkplus",
           "hideShadow": false
       },
 
       {
-        "url": "https://repo.ikghd.me/assets/banners/xiv.png",
+        "url": "https://repo.ikghd.me/assets/banners/iCTXiVBanner.png",
         "title": "iCTMiZ XiV",
         "package": "pro.ikghd.ictmizxiv",
         "hideShadow": false
-      },
-
-      {
-          "url": "https://repo.ikghd.me/assets/banners/ol3d.png",
-          "title": "OL3DTube",
-          "package": "pro.ikghd.ol3dtube",
-          "hideShadow": false
       }
     ]
 }
