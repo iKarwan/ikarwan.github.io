@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- fixes circle view percentage not updated\click on the circle view to cancel\n- update localization\n- more refinement & fixes\n- update iPA to YouTube_v18.09.4",
+                                "markdown":"- fixes circle view percentage not updated\n- click on the circle view to cancel\n- update localization\n- more refinement & fixes\n- update iPA to YouTube_v18.09.4",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
