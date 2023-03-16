@@ -44,6 +44,11 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG"
                       }
 
                 ],
@@ -85,8 +90,12 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG"
                       }
-
 
                     ],
                     "class":"DepictionScreenshotView"
