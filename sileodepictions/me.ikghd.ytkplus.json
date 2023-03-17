@@ -166,7 +166,7 @@
                             },
 
                             {
-                                "markdown":"- fixes circle view percentage not updated\n- click on the circle view to cancel\n- update localization\n- more refinement & fixes\n- update iPA to YouTube_v18.09.4",
+                                "markdown":"- add an acceleration to show all quality and 1080p that increased the speed up to 50% + ..\n- fixes all minimized circle view issues progress updating canceling auto hiding and so on...\n- Tap minimized circle view to cancel the progress..\n- more squshed bugs speed & fixes\n- update localization\n- update iPA to YouTube_v18.10.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -182,12 +182,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.3",
+               "text":"2.2.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Mar 08, 2023",
+               "text":"Mar 18, 2023",
                "class":"DepictionTableTextView"
             },
             {
