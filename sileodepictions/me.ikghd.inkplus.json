@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- add shortcut for the iNKillerPlus settings to the default instagram settings pane\n- you still can invoke the settings by long pressing on Instagram text logo\n- fixes all minimized circle view issues progress updating canceling auto hiding and so on...\n- Tap minimized circle view to cancel the progress..\n- add hide tab bar tabs individually\n- add germany languages\n- style all icons downloading seen buttons with a new modern style!\n- clean up and fixes\n- update ipa to Instagram v274.0",
+                                "markdown":"- making the stories manually seen button in unseen mode by default\n- styling qiuck image view & iNKillerPlus settings shurtcut button\n- refinment and clening up\n- update ipa to newer Instagram v274.0\n\r\n- 2.1.0 changelog:\n- add shortcut for the iNKillerPlus settings to the default instagram settings pane\n- you still can invoke the settings by long pressing on Instagram text logo\n- fixes all minimized circle view issues progress updating canceling auto hiding and so on...\n- Tap minimized circle view to cancel the progress..\n- add hide tab bar tabs individually\n- add germany languages\n- style all icons downloading seen buttons with a new modern style!\n- clean up and fixes\n- update ipa to Instagram v274.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +173,12 @@
             },
             {
                "title":"Version",
-               "text":"2.1.0",
+               "text":"2.1.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Mar 18, 2023",
+               "text":"Mar 20, 2023",
                "class":"DepictionTableTextView"
             },
             {

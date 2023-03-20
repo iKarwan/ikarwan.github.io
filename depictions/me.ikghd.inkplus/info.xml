@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.1.0</version>
+    <version>2.1.1</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.1.0</version2>
+      <version2>2.1.1</version2>
     </version2>
 
     <date>
-      <date>Mar 18, 2023</date>
+      <date>Mar 20, 2023</date>
     </date>
 
     <price>
@@ -22,6 +22,12 @@
     </price>
 
     <changelog>
+      <change>· making the stories manually seen button in unseen mode by default</change>
+      <change>· styling qiuck image view &amp; iNKillerPlus settings shurtcut button</change>
+      <change>· refinment and clening up</change>
+      <change>· update ipa to newer Instagram v274.0</change>
+      <change></change>
+      <change>· 2.1.0 changelog:</change>
       <change>· add shortcut for the iNKillerPlus settings to the default instagram settings pane</change>
       <change>· you still can invoke the settings by long pressing on Instagram text logo</change>
       <change>· fixes all minimized circle view issues progress updating canceling auto hiding and so on...</change>
