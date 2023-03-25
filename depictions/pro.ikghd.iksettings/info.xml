@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.iksettings</id>
     <name>iKSettings</name>
-    <version>3.1.6</version>
+    <version>3.1.7</version>
     <compatibility>
         <firmware>
             <miniOS>11.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>3.1.6</version2>
+      <version2>3.1.7</version2>
     </version2>
 
         <date>
-          <date>Mar 24, 2023</date>
+          <date>Mar 25, 2023</date>
         </date>
 
         <price>
@@ -23,7 +23,7 @@
 
         <changelog>
           <change>・add iOS 15/16 support palera1n only</change>
-          <change>・fix a settings crash for iOS 11/12</change>
+          <change>・fixes a settings crash for iOS 11/12</change>
         </changelog>
 
 

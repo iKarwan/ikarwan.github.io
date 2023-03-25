@@ -70,7 +70,7 @@
                             },
 
                             {
-                                "markdown":"- add iOS 15/16 support palera1n only\n- fix a settings crash for iOS 11/12",
+                                "markdown":"- add iOS 15/16 support palera1n only\n- fixes a settings crash for iOS 11/12",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"3.1.6",
+               "text":"3.1.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Mar 24, 2023",
+               "text":"Mar 25, 2023",
                "class":"DepictionTableTextView"
             },
 
