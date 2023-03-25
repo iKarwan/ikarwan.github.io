@@ -70,7 +70,7 @@
                             },
 
                             {
-                                "markdown":"- add hide emergency SOS",
+                                "markdown":"- add iOS 15/16 support palera1n only\n- fix a settings crash for iOS 11/12",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"3.1.5",
+               "text":"3.1.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Dec 12, 2021",
+               "text":"Mar 24, 2023",
                "class":"DepictionTableTextView"
             },
 
@@ -102,7 +102,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 11.0 - 14.8",
+               "text":"iOS 11.0 - 16.x",
                "class":"DepictionTableTextView"
             },
 
