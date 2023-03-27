@@ -135,27 +135,6 @@ Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.iksettings
 SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.iksettings.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.iksettings.png
 
-Package: pro.ikghd.iksettings-rootless
-Version: 3.1.7
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
-Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset
-Replaces: pro.ikghd.ikset
-Architecture: iphoneos-arm64
-Filename: .//debs/pro.ikghd.iksettings-rootless_3.1.7_iphoneos-arm64.deb
-Size: 76918
-Installed-Size: 408
-MD5sum: 0100fc927d1977e6bd70936283b3746e
-SHA1: 0796c844fa4ea00c360067f3d69fbf25aa8d3608
-SHA256: 7bc5cfe22d2c23bad66574126571585d2583f1b8e1c00694a6e4fb86b4350110
-Description: redefind Settings app !
-Name: iKSettings
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.iksettings-rootless
-SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.iksettings-rootless.json
-Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.iksettings-rootless.png
-
 Package: pro.ikghd.instakiller
 Version: 1.0.3
 Section: Tweaks
