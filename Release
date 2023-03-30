@@ -1,7 +1,7 @@
 Origin: iKarwan
 Label: iKarwan Repo
 Suite: stable
-Version: 1.0
+Version: 1.1
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
