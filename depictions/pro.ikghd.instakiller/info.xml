@@ -1,7 +1,7 @@
 <package>
    <id>pro.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.0.3</version2>
+      <version2>1.0.4</version2>
     </version2>
 
         <date>
-          <date>Feb 23, 2023</date>
+          <date>Apr 01, 2023</date>
         </date>
 
         <price>
@@ -22,13 +22,13 @@
         </price>
 
         <changelog>
-          <change>・fixes seen story button completely</change>
-          <change></change>
-          <change>・new download engin</change>
-          <change>・new download engin</change>
-          <change>・new ProgressHUD</change>
-          <change>・other fixes / optimazation</change>
-          <change>・update app compatibility version</change>
+          <change>・add seen story button new style</change>
+          <change>・add seen DM button new style</change>
+          <change>・a whole new download engin</change>
+          <change>・a whole new showing follow status</change>
+          <change>・a whole copying text</change>
+          <change>・many fixes / optimazation</change>
+          <change>・update app compatibility to v276.1</change>
         </changelog>
 
 
