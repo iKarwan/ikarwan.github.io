@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- add seen story button new style\n- add seen DM button new style\n- a whole new download engin\n- a whole new showing follow status\n- a whole copying text\n- many fixes / optimazation\n- update app compatibility to v276.1",
+                                "markdown":"- add seen story button new style\n- add seen DM button new style\n- a whole new download engin\n- a whole new showing follow status\n- a whole new copying text\n- many fixes / optimazation\n- update app compatibility to v276.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
