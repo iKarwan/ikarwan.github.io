@@ -1,3 +1,45 @@
+Package: me.ikghd.ikset
+Version: 3.1.7
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
+Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Replaces: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.ikset_3.1.7_iphoneos-arm64.deb
+Size: 58708
+Installed-Size: 436
+MD5sum: c7f06b98fafdca070def8d21f0e9992b
+SHA1: 671e2ab2a5430a6d7f8ff22927ed144b520b1608
+SHA256: 154ea1c6b7cceaef545f82e5b6f1b60935b016b4996f3a854ed7f98dd0c8bd56
+Description: redefind Settings app !
+Name: iKSettings
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
+
+Package: me.ikghd.ikset
+Version: 3.1.7
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0)
+Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Replaces: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ikset_3.1.7_iphoneos-arm.deb
+Size: 58768
+Installed-Size: 436
+MD5sum: 4076e148c659360797bcba4f7233650e
+SHA1: 72e058c4cb873976c6f86e0924ddccc6e8fc8cfd
+SHA256: 6b0a4c34a27e6c0cec5914dded29c50dd039e6cc6452404c74b70ba0a474d645
+Description: redefind Settings app !
+Name: iKSettings
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
+
 Package: me.ikghd.inkplus
 Version: 2.1.2
 Section: Tweaks
@@ -170,27 +212,6 @@ Author: iKarwan <ikghd3@gmail.com>
 Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmizxiv
 SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.ictmizxiv.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.ictmizxiv.png
-
-Package: pro.ikghd.iksettings
-Version: 3.1.7
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
-Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset
-Replaces: pro.ikghd.ikset
-Architecture: iphoneos-arm
-Filename: .//debs/pro.ikghd.iksettings_3.1.7_iphoneos-arm.deb
-Size: 83522
-Installed-Size: 444
-MD5sum: c0da88d24c9bc5f1ef879d25091ebe52
-SHA1: 4722a96d354c8cd20f18d795bdfafa94b34de988
-SHA256: 15f0cfad8e1d9172f5e7973ed7367f9b44160ff7ff5e09c817dcede16e24b337
-Description: redefind Settings app !
-Name: iKSettings
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.iksettings
-SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.iksettings.json
-Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.iksettings.png
 
 Package: pro.ikghd.instakiller
 Version: 1.0.3

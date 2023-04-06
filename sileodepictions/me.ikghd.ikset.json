@@ -1,6 +1,6 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://repo.ikghd.me/depictions/pro.ikghd.iksettings/Images/Banner.jpg",
+   "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.ikset/Images/Banner.jpg",
    "tintColor":"#FCCB00",
    "tabs":[
       {
@@ -12,13 +12,13 @@
                 "screenshots":[
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.iksettings/screenshots/1.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iksettings/screenshots/1.PNG"
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/1.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/1.PNG"
                     },
                     {
                         "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/pro.ikghd.iksettings/screenshots/2.jpg",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iksettings/screenshots/2.jpg"
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/2.jpg",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/2.jpg"
                     }
 
                 ],
@@ -28,13 +28,13 @@
                     "screenshots":[
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://repo.ikghd.me/depictions/pro.ikghd.iksettings/screenshots/1.PNG",
-                            "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iksettings/screenshots/1.PNG"
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/1.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/1.PNG"
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://repo.ikghd.me/depictions/pro.ikghd.iksettings/screenshots/2.jpg",
-                            "fullSizeURL":"https://repo.ikghd.me/depictions/pro.ikghd.iksettings/screenshots/2.jpg"
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/2.jpg",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/2.jpg"
                         }
                     ],
                     "class":"DepictionScreenshotView"
