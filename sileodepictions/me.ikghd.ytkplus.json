@@ -166,7 +166,7 @@
                             },
 
                             {
-                                "markdown":"- serveral fixes & improvements\n- update iPA to YouTube_v18.12.2\n\r\n- 2.2.6 changelog:\n- add an acceleration to show all quality and 1080p that increased the download speed up to 50% + ..\n- fixes all minimized circle view issues progress updating canceling auto hiding and so on...\n- Tap minimized circle view to cancel the progress..\n- more squshed bugs speed & fixes\n- update localization\n- update iPA to YouTube_v18.10.1",
+                                "markdown":"- serveral fixes & improvements\n- update iPA to YouTube_v18.13.4\n\r\n- 2.2.6 changelog:\n- add an acceleration to show all quality and 1080p that increased the download speed up to 50% + ..\n- fixes all minimized circle view issues progress updating canceling auto hiding and so on...\n- Tap minimized circle view to cancel the progress..\n- more squshed bugs speed & fixes\n- update localization\n- update iPA to YouTube_v18.10.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -182,12 +182,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.7",
+               "text":"2.2.8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Mar 30, 2023",
+               "text":"Apr 08, 2023",
                "class":"DepictionTableTextView"
             },
             {
