@@ -70,7 +70,7 @@
                             },
 
                             {
-                                "markdown":"- add iOS 15/16 support palera1n only\n- fixes a settings crash for iOS 11/12",
+                                "markdown":"- removed cephie dependency\n- fixes apply button for older ios version then 13\n- add support for iOS 15/16 palera1n xina fugu15 rootless JB\n- fixes editing text wasn't function",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"3.1.7",
+               "text":"3.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Mar 25, 2023",
+               "text":"Apr 07, 2023",
                "class":"DepictionTableTextView"
             },
 

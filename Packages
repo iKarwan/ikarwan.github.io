@@ -1,17 +1,17 @@
 Package: me.ikghd.ikset
-Version: 3.1.7
+Version: 3.2
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0)
 Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
 Replaces: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
-Architecture: iphoneos-arm64
-Filename: .//debs/me.ikghd.ikset_3.1.7_iphoneos-arm64.deb
-Size: 58708
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ikset_3.2_iphoneos-arm.deb
+Size: 58452
 Installed-Size: 436
-MD5sum: c7f06b98fafdca070def8d21f0e9992b
-SHA1: 671e2ab2a5430a6d7f8ff22927ed144b520b1608
-SHA256: 154ea1c6b7cceaef545f82e5b6f1b60935b016b4996f3a854ed7f98dd0c8bd56
+MD5sum: 550b616f4b168cf297f1042ace376776
+SHA1: b01f79427011cf21ccd74255f9dab63aedba8f8d
+SHA256: 5209f3faaccf89e52407898eae2f47d1a42a691514d8b723f9bdddb97478b548
 Description: redefind Settings app !
 Name: iKSettings
 Author: iKarwan <ikghd3@gmail.com>
@@ -20,19 +20,19 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
 
 Package: me.ikghd.ikset
-Version: 3.1.7
+Version: 3.2
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0)
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
 Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
 Replaces: com.yourepo.ikghd.ikset, pro.ikghd.ikset, pro.ikghd.iksettings
-Architecture: iphoneos-arm
-Filename: .//debs/me.ikghd.ikset_3.1.7_iphoneos-arm.deb
-Size: 58768
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.ikset_3.2_iphoneos-arm64.deb
+Size: 58514
 Installed-Size: 436
-MD5sum: 4076e148c659360797bcba4f7233650e
-SHA1: 72e058c4cb873976c6f86e0924ddccc6e8fc8cfd
-SHA256: 6b0a4c34a27e6c0cec5914dded29c50dd039e6cc6452404c74b70ba0a474d645
+MD5sum: b33d1668f9af555d5a77dcf228d250ae
+SHA1: e0ecb68005353cb0f6a2fbede6cfa579caaac09d
+SHA256: 4a4d518d94ee39d2892ba34e2d9d85de3cef1752b95ab26a11d16e4c50e98faf
 Description: redefind Settings app !
 Name: iKSettings
 Author: iKarwan <ikghd3@gmail.com>
