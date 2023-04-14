@@ -1,7 +1,7 @@
 <package>
-   <id>pro.ikghd.instakiller</id>
+   <id>me.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.0.4</version>
+    <version>1.1</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.0.4</version2>
+      <version2>1.1</version2>
     </version2>
 
         <date>
-          <date>Apr 01, 2023</date>
+          <date>Apr 15, 2023</date>
         </date>
 
         <price>
@@ -22,7 +22,11 @@
         </price>
 
         <changelog>
-          <change>・add seen story button new style</change>
+          <change>・removed cephei dependancy</change>
+          <change>・rootless support fugu 15 palera1n</change>
+          <change>・redefind settings pane</change>
+          <change></change>
+          <change>・1.0.4 changes</change>
           <change>・add seen DM button new style</change>
           <change>・a whole new download engin</change>
           <change>・a whole new showing follow status</change>
@@ -67,12 +71,8 @@
           <br>
 
             <br>IPA Version ?
-            <br>· Not available yet !
+              <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus">check out iNKillerPlus</a>
             <br>
-
-              <br>iOS 12 / 12.5.5 ?
-                <br>· downgrade to version 1.0
-              <br>
 
                       <br>Refund Policy:
                       <br>· refund accepted if u have !issue such a safe mode or the tweak not working!
