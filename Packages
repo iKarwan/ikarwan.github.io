@@ -129,11 +129,11 @@ Conflicts: pro.ikghd.pmp
 Replaces: pro.ikghd.pmp
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.pmp_1.2_iphoneos-arm.deb
-Size: 54822
+Size: 54834
 Installed-Size: 792
-MD5sum: 4a60eac3338604e0ff5e963c1bdf2237
-SHA1: 0050ce4004fdb8630f1b3d3401484790e10a0735
-SHA256: 9abde774b6b8af1e9b2f358a42e7c6a15b3492014a33912e0ddcc189b64d8832
+MD5sum: 9c4c8897744f6d2caf977eac480bb857
+SHA1: 5e4759862022caf635391f0dc5186ca626aa940f
+SHA256: 853fe11cfa3efc8e84ba43ee020a059843074c45e7fedd6ecf43cbe9fd3d0432
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikghd3@gmail.com>
@@ -150,11 +150,11 @@ Conflicts: pro.ikghd.pmp
 Replaces: pro.ikghd.pmp
 Architecture: iphoneos-arm64
 Filename: .//debs/me.ikghd.pmp_1.2_iphoneos-arm64.deb
-Size: 54902
+Size: 54914
 Installed-Size: 792
-MD5sum: eb4714c03b664039c4fa98c9333e144e
-SHA1: 0e023c7f02a77c9e096fbb4db1c76c921f3c8cde
-SHA256: 8c429e7c2a34ce4ad8a4be0ffc4c69aff25644ec2a7b9f7cd96c3ed89ee5e27f
+MD5sum: 67a7ec4fa3fe8b00225f64a427cc5d90
+SHA1: c693eee1dc127d4c5b01a22cca99990575f2a8ef
+SHA256: b2feede3842c1cda3ee55dc8a6bc979f8722011bc8e12ca3d4090d041019d8e5
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikghd3@gmail.com>
