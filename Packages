@@ -1,4 +1,25 @@
 Package: me.ikghd.ikset
+Version: 3.2.1
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
+Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset
+Replaces: pro.ikghd.ikset pro.ikghd.iksettings
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ikset_3.2.1_iphoneos-arm.deb
+Size: 49328
+Installed-Size: 392
+MD5sum: 613f1500d9b1c76002577587672e9943
+SHA1: a2d8ac6ef0258f1dd847c6fcb215e8aa42a7f9d3
+SHA256: d6cd62c6339db7fe59ce899511384b64fa294a62aed751545cd38511e14f627b
+Description: redefind Settings app !
+Name: iKSettings
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
+
+Package: me.ikghd.ikset
 Version: 3.2
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -101,6 +122,48 @@ Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
 
+Package: me.ikghd.instakiller
+Version: 1.2
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
+Conflicts: pro.ikghd.instakiller
+Replaces: pro.ikghd.instakiller
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.instakiller_1.2_iphoneos-arm.deb
+Size: 625040
+Installed-Size: 2852
+MD5sum: 6914b231224f841ec9404d86dc032f84
+SHA1: e2fa9a97dc5ca06defc237871ba7e8c0beae4606
+SHA256: 9b2d6b04c7095c49d1891271814ac973debc53558f15602297a227aae648a4ae
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
+
+Package: me.ikghd.ol3dtube
+Version: 1.4
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
+Conflicts: pro.ikghd.ol3dtube
+Replaces: pro.ikghd.ol3dtube
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ol3dtube_1.4_iphoneos-arm.deb
+Size: 157240
+Installed-Size: 876
+MD5sum: a5ffa5ea6de993bfee01a4c7a4f0ce41
+SHA1: 694c42c1ec43df2289bca95383c4e8f7ecbd3a3b
+SHA256: 60191cb38dc1e49b3aaa51be87f3cc000fd71c3a1092e9092adb20d5ff6daf14
+Description: Ol3d Dark Mode For YouTube!
+Name: OL3DTube
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ol3dtube.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ol3dtube.png
+
 Package: me.ikghd.ol3dtube
 Version: 1.3
 Section: Tweaks
@@ -197,6 +260,27 @@ Installed-Size: 380
 MD5sum: d34e4a5d12ada07891a8c614b84d2b92
 SHA1: bbea0053426d87331bfc48a71ef2de2dc61b67f5
 SHA256: 5c5b2265d9272d6a43104e26cc8c5dbc46edfa0750e397ebbeabed0935944a3b
+Description: PMP Protect My Photos!
+Name: PMP
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.pmp
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+
+Package: me.ikghd.pmp
+Version: 1.4
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, firmware(>= 11.0), ws.hbang.common (>= 1.15), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.pmp_1.4_iphoneos-arm.deb
+Size: 54152
+Installed-Size: 772
+MD5sum: cdc4229412e2995387b69b69c11d0da8
+SHA1: 5fbe60a0c5a7d3f10071de85a1068951b9f085ac
+SHA256: 9396e4e60f63727dc6d34f086cf40d066fe1d3e4c6f4edc32f1bf7cc6e6d1418
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikghd3@gmail.com>

@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- removed cephei dependancy\n- supporting rootless fugu 15 and palera1n",
+                                "markdown":"- fix preferences replaced by rootless prefs\n- supporting rootless fugu 15 and palera1n",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.3",
+               "text":"1.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 13, 2023",
+               "text":"Apr 17, 2023",
                "class":"DepictionTableTextView"
             },
             {

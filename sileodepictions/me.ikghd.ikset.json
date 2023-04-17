@@ -70,7 +70,7 @@
                             },
 
                             {
-                                "markdown":"- removed cephie dependency\n- fixes apply button for older ios version then 13\n- add support for iOS 15/16 palera1n xina fugu15 rootless JB\n- fixes editing text wasn't function",
+                                "markdown":"- fix preferences replaced by rootless prefs\n- fixes apply button for older ios version then 13\n- add support for iOS 15/16 palera1n xina fugu15 rootless JB\n- fixes editing text wasn't function",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"3.2",
+               "text":"3.2.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 07, 2023",
+               "text":"Apr 17, 2023",
                "class":"DepictionTableTextView"
             },
 

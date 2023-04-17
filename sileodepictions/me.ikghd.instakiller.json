@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- removed cephei dependancy\n- rootless support fugu 15 palera1n\n- redefind settings pane",
+                                "markdown":"- fix preferences replaced by rootless prefs\n- rootless support fugu 15 palera1n\n- redefind settings pane",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,13 +149,13 @@
             },
             {
                "title":"Version",
-               "text":"1.1",
+               "text":"1.2",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"Apr 15, 2023",
+               "text":"Apr 17, 2023",
                "class":"DepictionTableTextView"
             },
 

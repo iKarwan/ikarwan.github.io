@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.1</version>
+    <version>1.2</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.1</version2>
+      <version2>1.2</version2>
     </version2>
 
         <date>
-          <date>Apr 15, 2023</date>
+          <date>Apr 17, 2023</date>
         </date>
 
         <price>
@@ -22,9 +22,10 @@
         </price>
 
         <changelog>
-          <change>・removed cephei dependancy</change>
+          <change>・fix preferences replaced by rootless prefs</change>
+          <change></change>
+          <change>・1.1 changelog:</change>
           <change>・rootless support fugu 15 palera1n</change>
-          <change>・redefind settings pane</change>
           <change></change>
           <change>・1.0.4 changes</change>
           <change>・add seen DM button new style</change>
