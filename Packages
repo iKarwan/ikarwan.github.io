@@ -1,25 +1,4 @@
 Package: me.ikghd.ikset
-Version: 3.2.1
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 11.0), ws.hbang.common (>= 1.15)
-Conflicts: com.yourepo.ikghd.ikset, pro.ikghd.ikset
-Replaces: pro.ikghd.ikset pro.ikghd.iksettings
-Architecture: iphoneos-arm
-Filename: .//debs/me.ikghd.ikset_3.2.1_iphoneos-arm.deb
-Size: 49328
-Installed-Size: 392
-MD5sum: 613f1500d9b1c76002577587672e9943
-SHA1: a2d8ac6ef0258f1dd847c6fcb215e8aa42a7f9d3
-SHA256: d6cd62c6339db7fe59ce899511384b64fa294a62aed751545cd38511e14f627b
-Description: redefind Settings app !
-Name: iKSettings
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ikset
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
-
-Package: me.ikghd.ikset
 Version: 3.2
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
