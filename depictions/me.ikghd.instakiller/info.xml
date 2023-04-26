@@ -14,7 +14,7 @@
     </version2>
 
         <date>
-          <date>Apr 17, 2023</date>
+          <date>Apr 26, 2023</date>
         </date>
 
         <price>
@@ -22,7 +22,7 @@
         </price>
 
         <changelog>
-          <change>・fixes</change>
+          <change>・fixes lot of missing / issues on rootless JB</change>
         </changelog>
 
 

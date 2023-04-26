@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fixes",
+                                "markdown":"- fixes lot of missing / issues on rootless JB",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -155,7 +155,7 @@
 
             {
                "title":"Updated",
-               "text":"Apr 17, 2023",
+               "text":"Apr 26, 2023",
                "class":"DepictionTableTextView"
             },
 
