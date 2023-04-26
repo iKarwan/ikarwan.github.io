@@ -22,18 +22,7 @@
         </price>
 
         <changelog>
-          <change>・fix preferences replaced by rootless prefs</change>
-          <change></change>
-          <change>・1.1 changelog:</change>
-          <change>・rootless support fugu 15 palera1n</change>
-          <change></change>
-          <change>・1.0.4 changes</change>
-          <change>・add seen DM button new style</change>
-          <change>・a whole new download engin</change>
-          <change>・a whole new showing follow status</change>
-          <change>・a whole new copying text</change>
-          <change>・many fixes / optimazation</change>
-          <change>・update app compatibility to v276.1</change>
+          <change>・fixes</change>
         </changelog>
 
 

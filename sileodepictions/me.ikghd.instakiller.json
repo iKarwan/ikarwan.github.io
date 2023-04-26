@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fix preferences replaced by rootless prefs\n- rootless support fugu 15 palera1n\n- redefind settings pane",
+                                "markdown":"- fixes",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
