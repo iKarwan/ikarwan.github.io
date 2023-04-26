@@ -87,11 +87,11 @@ Conflicts: pro.ikghd.instakiller
 Replaces: pro.ikghd.instakiller
 Architecture: iphoneos-arm64
 Filename: .//debs/me.ikghd.instakiller_1.2_iphoneos-arm64.deb
-Size: 349160
-Installed-Size: 2324
-MD5sum: f14dc937e8164f827aa8b53e7801b8e8
-SHA1: e9f5543375593136016439bdd4a94636e4c74c16
-SHA256: da263032cc6ffdf64189819b182c7866d66792116eddc3fbb3ec4344798f58aa
+Size: 348748
+Installed-Size: 2316
+MD5sum: 9c37531215d0f6aaefb21463632d8a9d
+SHA1: f715c2d53214e1422e3f146aee959257a7d3aaa0
+SHA256: bee85b730eecbd11245f9b4b5bd478cc9938f016560023de61f6d60e6850e482
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikghd3@gmail.com>
@@ -113,27 +113,6 @@ Installed-Size: 2852
 MD5sum: 6914b231224f841ec9404d86dc032f84
 SHA1: e2fa9a97dc5ca06defc237871ba7e8c0beae4606
 SHA256: 9b2d6b04c7095c49d1891271814ac973debc53558f15602297a227aae648a4ae
-Description: iNstagram app no ad’s Media Downloads and much more...
-Name: iNstaKiller
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
-
-Package: me.ikghd.instakiller
-Version: 1.3
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
-Conflicts: pro.ikghd.instakiller
-Replaces: pro.ikghd.instakiller
-Architecture: iphoneos-arm64
-Filename: .//debs/me.ikghd.instakiller_1.3_iphoneos-arm64.deb
-Size: 348746
-Installed-Size: 2316
-MD5sum: 0460c4f6ec4c3ab35d152a705be172ea
-SHA1: aeac4e05102b47ab9ce22bf9ac712572103d7a3a
-SHA256: 3363687b917146c6dbaf2b02b4ac1e9d75fb0417d2375824e3bb2e0fc817732b
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikghd3@gmail.com>
