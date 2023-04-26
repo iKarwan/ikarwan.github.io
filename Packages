@@ -163,27 +163,6 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.packed.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.packed.png
 
 Package: me.ikghd.pmp
-Version: 1.3
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, firmware(>= 15.0), com.opa334.ccsupport
-Conflicts: pro.ikghd.pmp
-Replaces: pro.ikghd.pmp
-Architecture: iphoneos-arm64
-Filename: .//debs/me.ikghd.pmp_1.3_iphoneos-arm64.deb
-Size: 37000
-Installed-Size: 380
-MD5sum: d34e4a5d12ada07891a8c614b84d2b92
-SHA1: bbea0053426d87331bfc48a71ef2de2dc61b67f5
-SHA256: 5c5b2265d9272d6a43104e26cc8c5dbc46edfa0750e397ebbeabed0935944a3b
-Description: PMP Protect My Photos!
-Name: PMP
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.pmp
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
-
-Package: me.ikghd.pmp
 Version: 1.4
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>

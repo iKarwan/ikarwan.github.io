@@ -22,10 +22,7 @@
         </price>
 
         <changelog>
-          <change>・fix preferences replaced by rootless prefs</change>
-          <change></change>
-          <change>・1.3 changelog:</change>
-          <change>・rootless support fugu 15 and palera1n</change>
+          <change>・fixes preferences</change>
         </changelog>
 
     <descriptionlist>

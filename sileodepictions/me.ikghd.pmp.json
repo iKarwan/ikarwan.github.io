@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- fix preferences replaced by rootless prefs\n- rootless support fugu 15 and palera1n",
+                                "markdown":"- fixes preferences",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
