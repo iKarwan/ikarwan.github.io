@@ -60,40 +60,19 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
 Package: me.ikghd.instakiller
-Version: 1.4
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
-Conflicts: pro.ikghd.instakiller
-Replaces: pro.ikghd.instakiller
-Architecture: iphoneos-arm
-Filename: .//debs/me.ikghd.instakiller_1.4_iphoneos-arm.deb
-Size: 625050
-Installed-Size: 2852
-MD5sum: 0576f3ecb68e0e9013342e6e746b326e
-SHA1: f9dc769cb1f804190135bc1123ac71b7fdffabf7
-SHA256: a0d5be58211d2b5978e120d5923acc78259d56de61f8b3e1e638ac32b3ca5578
-Description: iNstagram app no ad’s Media Downloads and much more...
-Name: iNstaKiller
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
-
-Package: me.ikghd.instakiller
-Version: 1.4
+Version: 1.4-1
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
 Conflicts: pro.ikghd.instakiller
 Replaces: pro.ikghd.instakiller
 Architecture: iphoneos-arm64
-Filename: .//debs/me.ikghd.instakiller_1.4_iphoneos-arm64.deb
-Size: 351918
-Installed-Size: 2300
-MD5sum: 7a562165d39985a27596e181cfdddd3b
-SHA1: 3f3ba9cd2ea14ff5d5bec4cc581df330877c8647
-SHA256: 53b7e3b83278dbc5d4757453c112644aa362dd3a6fc7d8b6f006a47bd1a77f66
+Filename: .//debs/me.ikghd.instakiller_1.4-1_iphoneos-arm64.deb
+Size: 360032
+Installed-Size: 2356
+MD5sum: 073a167ec3dd463176b58913f136b07e
+SHA1: c6c2c259e3ec99bec70c57a5ca7ba0580307a9b3
+SHA256: f0f90d3eb747982c1a6c327c8165babc3be9a4572df343d32d2350964571ed2f
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikghd3@gmail.com>
@@ -102,67 +81,25 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
 
 Package: me.ikghd.instakiller
-Version: 1.3
+Version: 1.4-1
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
 Conflicts: pro.ikghd.instakiller
 Replaces: pro.ikghd.instakiller
 Architecture: iphoneos-arm
-Filename: .//debs/me.ikghd.instakiller_1.3_iphoneos-arm.deb
-Size: 625060
-Installed-Size: 2852
-MD5sum: 67fbe84b8d38b671fa7ecbb09d4f866f
-SHA1: 656b1848065c410a78db605f1d25c978939eeb2d
-SHA256: 4d7cf9b69e9103a61fdc1a8255c8a40be31e362fd5b7348150f7c974ccdf824a
+Filename: .//debs/me.ikghd.instakiller_1.4-1_iphoneos-arm.deb
+Size: 627278
+Installed-Size: 2904
+MD5sum: 588432a18afb9625f623d930610c173e
+SHA1: 0f0ff977b95685d094bcd24282633de8ff8b1431
+SHA256: 64a64a133720dc4a4db97261e452f0435023b41f17ec7ebb1f7cae064fc7412e
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikghd3@gmail.com>
 Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
-
-Package: me.ikghd.instakiller
-Version: 1.3
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
-Conflicts: pro.ikghd.instakiller
-Replaces: pro.ikghd.instakiller
-Architecture: iphoneos-arm64
-Filename: .//debs/me.ikghd.instakiller_1.3_iphoneos-arm64.deb
-Size: 350302
-Installed-Size: 2300
-MD5sum: 70230e8c748c646f173a2a14107adb10
-SHA1: 928bff387e5bcb09d303184dcec27486157faa00
-SHA256: 02adb8dc09d72818f9ad4c759878b0a55fab1d7964c712144a6840a22d2172c9
-Description: iNstagram app no ad’s Media Downloads and much more...
-Name: iNstaKiller
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
-
-Package: me.ikghd.ol3dtube
-Version: 1.4
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0)
-Conflicts: pro.ikghd.ol3dtube
-Replaces: pro.ikghd.ol3dtube
-Architecture: iphoneos-arm
-Filename: .//debs/me.ikghd.ol3dtube_1.4_iphoneos-arm.deb
-Size: 157240
-Installed-Size: 876
-MD5sum: a5ffa5ea6de993bfee01a4c7a4f0ce41
-SHA1: 694c42c1ec43df2289bca95383c4e8f7ecbd3a3b
-SHA256: 60191cb38dc1e49b3aaa51be87f3cc000fd71c3a1092e9092adb20d5ff6daf14
-Description: Ol3d Dark Mode For YouTube!
-Name: OL3DTube
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ol3dtube.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ol3dtube.png
 
 Package: me.ikghd.ol3dtube
 Version: 1.5
@@ -199,27 +136,6 @@ Installed-Size: 876
 MD5sum: bfbed31b8cc53c288437eda10512f82c
 SHA1: c52d34bf357fe24c51d9174193d886e66066eca9
 SHA256: 81153a133f166c4d4511a479053c03ea7eb5045dde82357d6d5e44db10df7b6c
-Description: Ol3d Dark Mode For YouTube!
-Name: OL3DTube
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ol3dtube.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ol3dtube.png
-
-Package: me.ikghd.ol3dtube
-Version: 1.4
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
-Conflicts: pro.ikghd.ol3dtube
-Replaces: pro.ikghd.ol3dtube
-Architecture: iphoneos-arm64
-Filename: .//debs/me.ikghd.ol3dtube_1.4_iphoneos-arm64.deb
-Size: 81058
-Installed-Size: 680
-MD5sum: ed43ab49f04d518f000782604dd65a10
-SHA1: 58c461da2877b6b925d4986aaeba69f572d42012
-SHA256: db36e2bbd85c8e93036f2454e08dbe86df8dd5f03df5576851b6e40c19313c33
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikghd3@gmail.com>
