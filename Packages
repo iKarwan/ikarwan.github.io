@@ -41,6 +41,25 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
 
 Package: me.ikghd.inkplus
+Version: 2.1.5-1
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.inkplus_2.1.5-1_iphoneos-arm.deb
+Size: 878370
+Installed-Size: 2792
+MD5sum: 66b9f29206f661d41de2f5471cf31360
+SHA1: 789c219685d2db09de2efa09f679cef5b4ef799e
+SHA256: c42884b2a8643a02da10b4633dd48c1f9e64b8eafbb6d0606bbe4e46b9fa0d42
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.inkplus
 Version: 2.1.5
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -195,6 +214,25 @@ Installed-Size: 3780
 MD5sum: 00f0eff2fa5f2cd85e44db364e735fcd
 SHA1: a93cd6c88567f7b31d779e41f4664b6ff41edb34
 SHA256: bbc8ee2756e639f6d7c4b8887652dd626ee3aa3e705a803766bbf711c05fb20b
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
+Package: me.ikghd.ytkplus
+Version: 2.2.9-1
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ytkplus_2.2.9-1_iphoneos-arm.deb
+Size: 1114798
+Installed-Size: 3936
+MD5sum: f226d4ea825cdf4ba43976bb2c00c258
+SHA1: 43d538a7ed864f72cf297376f9b3b605e99b3b60
+SHA256: d8288ac5a66c9fd4fa73bed62f84cedfd7beb2c1d26eafd7b7980777800cba5f
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
