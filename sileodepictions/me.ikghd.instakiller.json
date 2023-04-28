@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fixes lot of missing / issues on rootless JB",
+                                "markdown":"- fixes fugu 15 / issues on rootless JB",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,13 +149,13 @@
             },
             {
                "title":"Version",
-               "text":"1.3",
+               "text":"1.4",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"Apr 26, 2023",
+               "text":"Apr 28, 2023",
                "class":"DepictionTableTextView"
             },
 
