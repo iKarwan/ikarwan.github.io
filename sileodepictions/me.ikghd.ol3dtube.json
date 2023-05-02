@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- fixes fugu 15 / issues on rootless JB",
+                                "markdown":"- rewritten from scratch",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.5",
+               "text":"1.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 28, 2023",
+               "text":"May 03, 2023",
                "class":"DepictionTableTextView"
             },
             {

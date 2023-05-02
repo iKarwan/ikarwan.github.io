@@ -1,20 +1,20 @@
 <package>
    <id>me.ikghd.ikset</id>
     <name>iKSettings</name>
-    <version>3.2.1</version>
+    <version>3.3</version>
     <compatibility>
         <firmware>
-            <miniOS>11.0</miniOS>
+            <miniOS>12.0</miniOS>
             <maxiOS>16.x</maxiOS>
         </firmware>
     </compatibility>
 
     <version2>
-      <version2>3.2.1</version2>
+      <version2>3.3</version2>
     </version2>
 
         <date>
-          <date>Apr 17, 2023</date>
+          <date>May 03, 2023</date>
         </date>
 
         <price>
@@ -22,16 +22,7 @@
         </price>
 
         <changelog>
-          <change>・fix preferences replaced by rootless prefs</change>
-          <change></change>
-          <change>・3.2 changelog:</change>
-          <change>・fixes editing text wasn't function</change>
-          <change>・fixes apply button for older ios version then 13</change>
-          <change>・add support for iOS 15/16 palera1n fugu15 rootless JB</change>
-          <change></change>
-          <change>・3.1.7 cahnges:</change>
-          <change>・add iOS 15/16 support palera1n only</change>
-          <change>・fixes a settings crash for iOS 11/12</change>
+          <change>・rewritten from scratch</change>
         </changelog>
 
 

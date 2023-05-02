@@ -166,7 +166,7 @@
                             },
 
                             {
-                                "markdown":"- a temporary workaround for downloading..\n- update iPA to YouTube_v18.16.2",
+                                "markdown":"- fix downloading.. and other stuff\n- update iPA to YouTube_v18.17.2",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -182,12 +182,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.9-1",
+               "text":"2.2.11",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 29, 2023",
+               "text":"May 03, 2023",
                "class":"DepictionTableTextView"
             },
             {

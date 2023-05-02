@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.4-1</version>
+    <version>1.5</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.4-1</version2>
+      <version2>1.5</version2>
     </version2>
 
         <date>
-          <date>Apr 29, 2023</date>
+          <date>May 03, 2023</date>
         </date>
 
         <price>
@@ -22,8 +22,7 @@
         </price>
 
         <changelog>
-          <change>・fixes video downloading..</change>
-          <change>・this update work on palera1n 15.x 16x and fugu 15.0 15.2.1! but still not fixing 15.3 fugu issue not working currently..</change>
+          <change>・rewritten from scratch</change>
         </changelog>
 
 

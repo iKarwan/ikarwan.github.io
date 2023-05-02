@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fixes video downloading..\n- this update work on palera1n 15.x 16x and fugu 15.0 15.2.1! but still not fixing 15.3 fugu issue not working currently..",
+                                "markdown":"- rewritten from scratch",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,13 +149,13 @@
             },
             {
                "title":"Version",
-               "text":"1.4-1",
+               "text":"1.5",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"Apr 29, 2023",
+               "text":"May 03, 2023",
                "class":"DepictionTableTextView"
             },
 
