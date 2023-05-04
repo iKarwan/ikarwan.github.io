@@ -130,7 +130,7 @@
                             },
 
                             {
-                                "markdown":"- rewritten from scratch\n- fix dowloading\n- add downloading by ling press (Download section)\n- supporting for (fugu 15 xina palera1n) rotless JB",
+                                "markdown":"- fully support for new dopamine JB\n- rewritten from scratch\n- fix dowloading\n- add downloading by ling press (Download section)\n- supporting for (fugu 15 xina palera1n) rotless JB",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -151,7 +151,7 @@
             },
             {
                "title":"Updated",
-               "text":"May 03, 2023",
+               "text":"May 05, 2023",
                "class":"DepictionTableTextView"
             },
             {
