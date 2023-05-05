@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fully support for new dopamine JB\n- rewritten from scratch",
+                                "markdown":"- organize settings & other improvements\n- fully support for new dopamine JB\n- rewritten from scratch",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -155,7 +155,7 @@
 
             {
                "title":"Updated",
-               "text":"May 05, 2023",
+               "text":"May 06, 2023",
                "class":"DepictionTableTextView"
             },
 

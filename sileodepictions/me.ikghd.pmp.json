@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- rewritten from scratch",
+                                "markdown":"- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -89,12 +89,12 @@
             },
             {
                "title":"Version",
-               "text":"1.5",
+               "text":"1.7-1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 03, 2023",
+               "text":"May 06, 2023",
                "class":"DepictionTableTextView"
             },
 

@@ -130,7 +130,7 @@
                             },
 
                             {
-                                "markdown":"- fully support for new dopamine JB\n- rewritten from scratch\n- fix dowloading\n- add downloading by ling press (Download section)\n- supporting for (fugu 15 xina palera1n) rotless JB",
+                                "markdown":"- organize settings\n- add back coulor option as alderis has been updated for rootless & improvements\n- fully support for new dopamine JB\n- rewritten from scratch\n- fix dowloading\n- add downloading by ling press (Download section)\n- supporting for (fugu 15 xina palera1n) rotless JB",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"1.7",
+               "text":"1.9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 05, 2023",
+               "text":"May 06, 2023",
                "class":"DepictionTableTextView"
             },
             {

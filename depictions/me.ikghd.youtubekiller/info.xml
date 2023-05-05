@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.8</version>
+    <version>1.9</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.8</version2>
+      <version2>1.9</version2>
     </version2>
 
     <date>
-      <date>May 05, 2023</date>
+      <date>May 06, 2023</date>
     </date>
 
     <price>
@@ -22,6 +22,9 @@
     </price>
 
     <changelog>
+      <change>・organize settings</change>
+      <change>・add back coulor option as alderis has been updated for rootless &amp; improvements</change>
+      <change></change>
       <change>・fully support for new dopamine JB</change>
       <change></change>
       <change>・rewritten from scratch</change>
