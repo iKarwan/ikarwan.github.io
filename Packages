@@ -315,14 +315,14 @@ Package: me.ikghd.packed
 Version: 1.0.0
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: firmware ( >= 15.0), me.ikghd.youtubekiller, pro.ikghd.ictmizxiv, me.ikghd.instakiller, me.ikghd.ol3dtube
+Depends: firmware ( >= 15.0), me.ikghd.youtubekiller, me.ikghd.instakiller, me.ikghd.ol3dtube
 Architecture: iphoneos-arm64
 Filename: .//debs/me.ikghd.packed_1.0.0_iphoneos-arm64.deb
-Size: 792
+Size: 778
 Installed-Size: 0
-MD5sum: 8c0aced4d0d5cf1ab258bae2ab79fa21
-SHA1: da771e944e58de4f709752c37c26a506855dd5ad
-SHA256: cda3c35e7b1e742e3e50bfc5460f9a786a8da95bc1d9f802874b62661492020c
+MD5sum: 617736f68b070c49e998a88cbbf5e409
+SHA1: ea7c55a4aa10b8831df6c83f785d84ef3c04e5a0
+SHA256: 2fed4e9268361c35e5b545d01a4fc9ac36bf3640d850ee4114fa65dffb8fe38d
 Description: YouTubeKiller, iCTMiZ XiV, iNstaKiller, OL3DTube.
 Name: iKGPacked
 Author: iKarwan <ikghd3@gmail.com>
