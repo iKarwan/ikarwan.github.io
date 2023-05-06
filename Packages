@@ -315,14 +315,33 @@ Package: me.ikghd.packed
 Version: 1.0.0
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: firmware ( >= 13.0), pro.ikghd.youtubekiller, pro.ikghd.ictmizxiv, pro.ikghd.instakiller, pro.ikghd.ol3dtube
+Depends: firmware ( >= 15.0), me.ikghd.youtubekiller, pro.ikghd.ictmizxiv, me.ikghd.instakiller, me.ikghd.ol3dtube
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.packed_1.0.0_iphoneos-arm64.deb
+Size: 792
+Installed-Size: 0
+MD5sum: 8c0aced4d0d5cf1ab258bae2ab79fa21
+SHA1: da771e944e58de4f709752c37c26a506855dd5ad
+SHA256: cda3c35e7b1e742e3e50bfc5460f9a786a8da95bc1d9f802874b62661492020c
+Description: YouTubeKiller, iCTMiZ XiV, iNstaKiller, OL3DTube.
+Name: iKGPacked
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.packed
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.packed.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.packed.png
+
+Package: me.ikghd.packed
+Version: 1.0.0
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: firmware ( >= 12.0), me.ikghd.youtubekiller, pro.ikghd.ictmizxiv, me.ikghd.instakiller, me.ikghd.ol3dtube
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.packed_1.0.0_iphoneos-arm.deb
-Size: 760
+Size: 762
 Installed-Size: 0
-MD5sum: 82da2788f3a1032b8ea513846e603030
-SHA1: c44775eda5f8e6b02ad15fab350c702fabe13679
-SHA256: 2bfe3e116c56fd6c9630a4ecd207d1cb3cca36ffa998b1b53a5cd2c1ce3bf95b
+MD5sum: 5eda602f455f48a564ce25d387660f77
+SHA1: 53c808731ae54af2c309ed2504eae1a8169ef287
+SHA256: 2b28de8a32b3df86a05ab3e874dfa734e457ff254fa3e0c708d7e0ec1aa61b30
 Description: YouTubeKiller, iCTMiZ XiV, iNstaKiller, OL3DTube.
 Name: iKGPacked
 Author: iKarwan <ikghd3@gmail.com>
