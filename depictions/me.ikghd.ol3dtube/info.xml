@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ol3dtube</id>
     <name>OL3DTube</name>
-    <version>1.8</version>
+    <version>1.8-1</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.8</version2>
+      <version2>1.8-1</version2>
     </version2>
 
         <date>
-          <date>May 06, 2023</date>
+          <date>May 08, 2023</date>
         </date>
 
         <price>
@@ -22,6 +22,8 @@
         </price>
 
         <changelog>
+          <change>・disable coulor option for now as alderis have an issue for some user rootless only</change>
+          <change></change>
           <change>・add back coulor option as alderis has been updated for rootless &amp; improvements</change>
           <change></change>
           <change>・fully support for new dopamine JB</change>

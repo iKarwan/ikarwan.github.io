@@ -249,6 +249,27 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ol3dtube.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ol3dtube.png
 
 Package: me.ikghd.ol3dtube
+Version: 1.8-1
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
+Conflicts: pro.ikghd.ol3dtube
+Replaces: pro.ikghd.ol3dtube
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.ol3dtube_1.8-1_iphoneos-arm64.deb
+Size: 108270
+Installed-Size: 732
+MD5sum: 1101c0bddd2b148b22c57ad98007b547
+SHA1: 573ab6d59dbc4c8504432db1a5545f5169ff100b
+SHA256: d591311cf746c6fbd26cafa04c3f3e75198b5b1787243a0020a03b8aba8e411c
+Description: Ol3d Dark Mode For YouTube!
+Name: OL3DTube
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ol3dtube.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ol3dtube.png
+
+Package: me.ikghd.ol3dtube
 Version: 1.7
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -467,6 +488,27 @@ Installed-Size: 4132
 MD5sum: 867c16384b7fa1396c57c543e0099d86
 SHA1: c0212ebbe727ea1c3684fa14b9fa38161c18f1de
 SHA256: 940d75b832b4c15158ff66996e0b881b4a01a542bb8f1ae7c7991533df641bf1
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
+
+Package: me.ikghd.youtubekiller
+Version: 1.9-1
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
+Conflicts: com.spicat.youpip, com.ps.youpip, me.ikghd.ytkplus, pro.ikghd.youtubekiller
+Replaces: pro.ikghd.youtubekiller, me.ikghd.ytkplus
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.youtubekiller_1.9-1_iphoneos-arm64.deb
+Size: 845660
+Installed-Size: 4116
+MD5sum: 6aeebe152f3fd40b5e844ca985f43418
+SHA1: 0b2414b8df22d9c6fb31f8ddd125d228723a84f2
+SHA256: ba15f0de43e201714602ebb43d022722c440048e7ca8add10b873fa0f851cb31
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikghd3@gmail.com>
