@@ -166,7 +166,7 @@
                             },
 
                             {
-                                "markdown":"- fix downloading.. and other stuff\n- update iPA to YouTube_v18.17.2",
+                                "markdown":"- fixes downloading.. use long pressing...\n- add an option to ask were save or share the downloaded item / configure in settings\n- update iPA to YouTube_v18.19.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -182,12 +182,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.11",
+               "text":"2.2.12",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 03, 2023",
+               "text":"May 19, 2023",
                "class":"DepictionTableTextView"
             },
             {

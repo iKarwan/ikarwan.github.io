@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- fix iPadOS settings layout issue iNKillerPlus settings shurtcut button\n- clean up and fixes\n- update ipa to Instagram v281.0",
+                                "markdown":"- fixes & improvements\n- update ipa to Instagram v283.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +173,12 @@
             },
             {
                "title":"Version",
-               "text":"2.1.6",
+               "text":"2.1.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 03, 2023",
+               "text":"May 19, 2023",
                "class":"DepictionTableTextView"
             },
             {

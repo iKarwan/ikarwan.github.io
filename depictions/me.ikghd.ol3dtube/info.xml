@@ -14,7 +14,7 @@
     </version2>
 
         <date>
-          <date>May 08, 2023</date>
+          <date>May 19, 2023</date>
         </date>
 
         <price>
@@ -22,6 +22,8 @@
         </price>
 
         <changelog>
+          <change>・fixes &amp; improvements</change>
+          <change></change>
           <change>・disable coulor option for now as alderis have an issue for some user rootless only</change>
           <change></change>
           <change>・add back coulor option as alderis has been updated for rootless &amp; improvements</change>
