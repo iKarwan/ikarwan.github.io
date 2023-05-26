@@ -120,7 +120,7 @@
                             },
 
                             {
-                                "markdown":"- fixess & improvements\n- disable coulor option for now as alderis have an issue for some user rootless only\n- add back coulor option as alderis has been updated for rootless & improvements\n-  fully support for new dopamine JB\n- rewritten from scratch",
+                                "markdown":"- re add coulor option as alderis has been updated and fixed the A12+ issue with dopamine JB\n- fixes hide + tab spaces\n- fixess & improvements\n- disable coulor option for now as alderis have an issue for some user rootless only\n- add back coulor option as alderis has been updated for rootless & improvements\n-  fully support for new dopamine JB\n- rewritten from scratch",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.8-1",
+               "text":"1.8-5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 19, 2023",
+               "text":"May 27, 2023",
                "class":"DepictionTableTextView"
             },
             {

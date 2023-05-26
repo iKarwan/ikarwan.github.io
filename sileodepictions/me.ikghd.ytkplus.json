@@ -166,7 +166,7 @@
                             },
 
                             {
-                                "markdown":"- fixes downloading.. use long pressing...\n- add an option to ask were save or share the downloaded item / configure in settings\n- update iPA to YouTube_v18.19.1",
+                                "markdown":"- fixes an issue with downloading when second time downloading and the ProgressHUD stucks in the middle\n- fixes a duplicated qualities apeears in some cases when long pressing for downloads\n- fixes an issue when a selected option in after download done! settings is selected other then always ask!\n- update iPA to YouTube_v18.20.3\n- fixes downloading.. use long pressing...\n- add an option to ask were save or share the downloaded item / configure in settings\n- update iPA to YouTube_v18.19.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -182,12 +182,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.12",
+               "text":"2.2.13",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 19, 2023",
+               "text":"May 27, 2023",
                "class":"DepictionTableTextView"
             },
             {

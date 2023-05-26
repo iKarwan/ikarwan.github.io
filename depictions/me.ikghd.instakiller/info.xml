@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.7-3</version>
+    <version>1.7-5</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>1.7-3</version2>
+      <version2>1.7-5</version2>
     </version2>
 
         <date>
-          <date>May 19, 2023</date>
+          <date>May 27, 2023</date>
         </date>
 
         <price>

@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- fixes & improvements\n- update ipa to Instagram v283.0",
+                                "markdown":"- fixes & improvements\n- update ipa to Instagram v284.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +173,12 @@
             },
             {
                "title":"Version",
-               "text":"2.1.7",
+               "text":"2.1.8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 19, 2023",
+               "text":"May 27, 2023",
                "class":"DepictionTableTextView"
             },
             {

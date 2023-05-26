@@ -149,13 +149,13 @@
             },
             {
                "title":"Version",
-               "text":"1.7-3",
+               "text":"1.7-5",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"May 19, 2023",
+               "text":"May 27, 2023",
                "class":"DepictionTableTextView"
             },
 

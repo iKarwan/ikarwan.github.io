@@ -130,7 +130,7 @@
                             },
 
                             {
-                                "markdown":"- fixess & improvements\n- disable coulor option for now as alderis have an issue for some user rootless only\n- organize settings\n- add back coulor option as alderis has been updated for rootless & improvements\n- fully support for new dopamine JB\n- rewritten from scratch\n- fix dowloading\n- add downloading by ling press (Download section)\n- supporting for (fugu 15 xina palera1n) rotless JB",
+                                "markdown":"- fixes an issue with downloading when second time downloading and the ProgressHUD stucks in the middle\n- fixes a duplicated qualities apeears in some cases when long pressing for downloads\n- re add coulor option as alderis has been updated and fixed the A12+ issue with dopamine JB\n- fixes & improvements\n- disable coulor option for now as alderis have an issue for some user rootless only\n- organize settings\n- add back coulor option as alderis has been updated for rootless & improvements\n- fully support for new dopamine JB\n- rewritten from scratch\n- fix dowloading\n- add downloading by ling press (Download section)\n- supporting for (fugu 15 xina palera1n) rotless JB",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"1.9-5",
+               "text":"1.9-9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 19, 2023",
+               "text":"May 27, 2023",
                "class":"DepictionTableTextView"
             },
             {
