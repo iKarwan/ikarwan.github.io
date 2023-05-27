@@ -163,7 +163,7 @@ Version: 1.7-5
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
-Conflicts: pro.ikghd.instakiller, me.ikghd.inkplus
+Conflicts: pro.ikghd.instakiller
 Replaces: pro.ikghd.instakiller
 Architecture: iphoneos-arm64
 Filename: .//debs/me.ikghd.instakiller_1.7-5_iphoneos-arm64.deb
@@ -268,7 +268,7 @@ Version: 1.7-5
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0)
-Conflicts: pro.ikghd.instakiller, me.ikghd.inkplus
+Conflicts: pro.ikghd.instakiller
 Replaces: pro.ikghd.instakiller
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.instakiller_1.7-5_iphoneos-arm.deb
@@ -766,7 +766,6 @@ Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 12.0)
 Replaces: pro.ikghd.youtubekiller, me.ikghd.ytkplus
-Conflicts: me.ikghd.ytkplus
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.youtubekiller_1.9-9_iphoneos-arm.deb
 Size: 888466
@@ -904,7 +903,6 @@ Version: 2.2.13
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
-Conflicts: pro.ikghd.youtubekiller
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.ytkplus_2.2.13_iphoneos-arm.deb
 Size: 1214072
@@ -958,3 +956,4 @@ Author: iKarwan <ikghd3@gmail.com>
 Depiction: https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmizxiv
 SileoDepiction: https://repo.ikghd.me/sileodepictions/pro.ikghd.ictmizxiv.json
 Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.ictmizxiv.png
+
