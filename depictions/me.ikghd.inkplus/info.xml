@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.1.8</version>
+    <version>2.1.9</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.1.8</version2>
+      <version2>2.1.9</version2>
     </version2>
 
     <date>
-      <date>May 27, 2023</date>
+      <date>Jun 01, 2023</date>
     </date>
 
     <price>
@@ -22,8 +22,11 @@
     </price>
 
     <changelog>
+      <change>· add an option to hide suggested content in feed | v285.0 broken it as Instagram one already also have same issue may they fixing it in v286</change>
+      <change>· removed show like count as Instagram already implement it as feature in the app settings it's turned off by defalut mean that likes R shown but u can hide the like if u want in the settings</change>
+      <change>· the hide suggests reel is already implement now on Instagram reel settings but it's hiding it for 30 days ! in reels mange suggest content - wierd things happen those days !!!</change>
       <change>· fixes &amp; improvements</change>
-      <change>· update ipa to newer Instagram v284.0</change>
+      <change>· update ipa to newer Instagram v285.0</change>
     </changelog>
 
 

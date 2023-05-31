@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- fixes & improvements\n- update ipa to Instagram v284.0",
+                                "markdown":"- add an option to hide suggested content in feed | v285.0 broken it as Instagram one already also have same issue may they fixing it in v286\n- the hide suggests reel is already implement now on Instagram reel settings but it's hiding it for 30 days ! in reels mange suggest content - wierd things happen those days !!!\n- removed show like count as Instagram already implement it as feature in the app settings it's turned off by defalut mean that likes R shown but u can hide the like if u want in the settings\n- fixes & improvements\n- update ipa to Instagram v285.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +173,12 @@
             },
             {
                "title":"Version",
-               "text":"2.1.8",
+               "text":"2.1.9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 27, 2023",
+               "text":"Jun 01, 2023",
                "class":"DepictionTableTextView"
             },
             {
