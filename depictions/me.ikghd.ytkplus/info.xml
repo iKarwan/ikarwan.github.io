@@ -23,7 +23,7 @@
 
     <changelog>
       <change>· speed up activation screen with more improvements</change>
-      <change>· update iPA to YouTube_v18.12.9</change>
+      <change>· update iPA to YouTube_v18.22.9</change>
       <change></change>
       <change>· fixes an issue with downloading when second time downloading and the ProgressHUD stucks in the middle</change>
       <change>· fixes a duplicated qualities apeears in some cases when long pressing for downloads</change>
