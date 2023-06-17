@@ -20,32 +20,32 @@ if (!isMobileDevice()) {
 <p>The code is: <span id="code"></span></p>
 <script>
 function generateCode() {
-  // AJAX request to fetch codes from the server
   var xhr = new XMLHttpRequest();
   xhr.onreadystatechange = function() {
     if (xhr.readyState === 4 && xhr.status === 200) {
-      var codes = xhr.responseText.split("-");
-      var usedCodes = JSON.parse(sessionStorage.getItem("usedCodes")) || [];
+      var responseText = xhr.responseText;
+      var codes = parseCodes(responseText);
 
-      // Filter out used codes
+      if (codes.length === 0) {
+        document.getElementById("code").innerHTML = "No codes available";
+        return;
+      }
+
+      var usedCodes = JSON.parse(sessionStorage.getItem("usedCodes")) || [];
       var availableCodes = codes.filter(function(code) {
         return !usedCodes.includes(code);
       });
 
-      // Check if all codes have been used
       if (availableCodes.length === 0) {
         document.getElementById("code").innerHTML = "No codes available";
         return;
       }
 
-      // Generate a random index to select a code
       var index = Math.floor(Math.random() * availableCodes.length);
       var code = availableCodes[index];
 
-      // Set the code in the span element
       document.getElementById("code").innerHTML = code;
 
-      // Add the code to the list of used codes
       usedCodes.push(code);
       sessionStorage.setItem("usedCodes", JSON.stringify(usedCodes));
     }
@@ -53,6 +53,20 @@ function generateCode() {
 
   xhr.open("GET", "https://ikghd.site/hhh/icodersf.txt", true);
   xhr.send();
+}
+
+// Parse the codes from the text file
+function parseCodes(text) {
+  var lines = text.split("\n");
+  var codes = [];
+  for (var i = 0; i < lines.length; i++) {
+    var line = lines[i].trim();
+    if (line !== "") {
+      var code = line.split("-")[1].trim();
+      codes.push(code);
+    }
+  }
+  return codes;
 }
 
 document.getElementById("generateCode").addEventListener("click", generateCode);
