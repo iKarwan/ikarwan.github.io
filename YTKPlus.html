@@ -44,30 +44,56 @@
             <li><a href="https://repo.ikghd.me/btc" target="_blank"><img src="assets/btc.png" alt="Bitcoin BTC"></a></li>
             <li><a href="https://repo.ikghd.me/usdtERC20" target="_blank"><img src="assets/usdtERC20.png" alt="Tether USDT ERC20"></a></li>
             <li><a href="https://repo.ikghd.me/FastPay" target="_blank"><img src="assets/fp.png" alt="FastPay FP"></a></li>
-            <li><a href="https://repo.ikghd.me/iNKPlus" target="_blank"><img src="assets/ink.png" alt="iNKPlus FP"></a></li>
+            <!-- <li><a href="https://repo.ikghd.me/iNKPlus" target="_blank"><img src="assets/ink.png" alt="iNKPlus FP"></a></li> -->
           </ul>
         </div>
         </div>
         </div>
 
+        <style>
+          .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+          }
 
+          .item {
+            flex: 1;
+            padding: 10px;
+            margin: 10px;
+            border: 1px solid black;
+          }
+        </style>
 
-    <hr>
-    <span id="display-name">$1.99 USD</span>
-    <hr>
+        <div class="container">
+          <div class="item">
+            <hr>
+            <span id="display-name">$1.99 USD</span>
+            <hr>
+            <center>
+              <script async src="https://js.stripe.com/v3/buy-button.js"></script>
+              <stripe-buy-button
+                buy-button-id="buy_btn_1NK6KqBQYRIwE3V3gomwDUSE"
+                publishable-key="pk_live_51Im7X8BQYRIwE3V3LXS6NBRbbLndUmiA3n9lGvWe4kcTcuzlTFh2NKaXhvFn5gWzT2jdWYfxvz8uQVSPZuLW5eSb009or7xL4c"
+              ></stripe-buy-button>
+            </center>
+          </div>
 
-    <center>
-    <script async
-      src="https://js.stripe.com/v3/buy-button.js">
-    </script>
+          <div class="item">
+            <hr>
+            <span id="display-name">$1.99 USD</span>
+            <hr>
+            <center>
+              <script async src="https://js.stripe.com/v3/buy-button.js"></script>
+              <stripe-buy-button
+                buy-button-id="buy_btn_1NL6JHBQYRIwE3V3LQHyArpY"
+                publishable-key="pk_live_51Im7X8BQYRIwE3V3LXS6NBRbbLndUmiA3n9lGvWe4kcTcuzlTFh2NKaXhvFn5gWzT2jdWYfxvz8uQVSPZuLW5eSb009or7xL4c"
+              ></stripe-buy-button>
+            </center>
+          </div>
+        </div>
+        <hr>
 
-    <stripe-buy-button
-      buy-button-id="buy_btn_1NK6KqBQYRIwE3V3gomwDUSE"
-      publishable-key="pk_live_51Im7X8BQYRIwE3V3LXS6NBRbbLndUmiA3n9lGvWe4kcTcuzlTFh2NKaXhvFn5gWzT2jdWYfxvz8uQVSPZuLW5eSb009or7xL4c"
-    >
-    </stripe-buy-button>
-    </center>
-    <hr>
 
     <div id="smart-button-container">
           <div style="text-align: center;">
