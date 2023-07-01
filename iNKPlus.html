@@ -101,13 +101,8 @@
                 element.innerHTML = '';
                 // element.innerHTML = '<h3>Thank you for purchasing iNKillerPlus! Send an email request: <a href="mailto:ink.pluss1@gmail.com?cc=&subject=iNKillerPlus activation code&body=i purchased iNKillerPlus tweak, requesting a code, my proof of purchase:">Send Request</a> for an activation code!</h3>';
 
-                // Add a button click event to activate the redirect action
-                const redirectButton = document.createElement('button');
-                redirectButton.innerText = 'Get Actiavtion Code';
-                redirectButton.addEventListener('click', function() {
-                  actions.redirect('https://ikghd.site/hhh1/link.html');
-                });
-                element.appendChild(redirectButton);
+                // Redirect to another URL
+                window.location.href = 'https://ikghd.site/hhh1/link.html';
               });
             },
 

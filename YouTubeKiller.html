@@ -65,7 +65,7 @@
       publishable-key="pk_live_51Im7X8BQYRIwE3V3LXS6NBRbbLndUmiA3n9lGvWe4kcTcuzlTFh2NKaXhvFn5gWzT2jdWYfxvz8uQVSPZuLW5eSb009or7xL4c"
     >
     </stripe-buy-button>
-    
+
     <div id="smart-button-container">
       <div style="text-align: center;">
         <div id="paypal-button-container"></div>
@@ -100,13 +100,8 @@
             element.innerHTML = '';
             // element.innerHTML = '<h3>Thank you for purchasing YouTubeKiller! send email request: <a href = "mailto: yt.k3ller@gmail.com?cc=&subject=YouTubeKiller activation&body=i purchased YouTubeKiller tweak, my UDID, and proof of purchase::">Send Request</a> to register ur UDID!</h3>';
 
-            // Add a button click event to activate the redirect action
-            const redirectButton = document.createElement('button');
-            redirectButton.innerText = 'Activate your device';
-            redirectButton.addEventListener('click', function() {
-              actions.redirect('https://ikghd.site/h2/link.html');
-            });
-            element.appendChild(redirectButton);
+            // Redirect to another URL
+            window.location.href = 'https://ikghd.site/h2/link.html';
           });
         },
 

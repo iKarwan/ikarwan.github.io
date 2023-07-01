@@ -100,13 +100,8 @@
                 element.innerHTML = '';
                 // element.innerHTML = '<h3>Thank you for purchasing iNstaKiller! send email request: <a href = "mailto: insta.k3ller@gmail.com?cc=&subject=iNstaKiller activation&body=i purchased iNstaKiller tweak, my UDID, and proof of purchase::">Send Request</a> to register ur UDID!</h3>';
 
-                // Add a button click event to activate the redirect action
-                const redirectButton = document.createElement('button');
-                redirectButton.innerText = 'Activate your device';
-                redirectButton.addEventListener('click', function() {
-                  actions.redirect('https://ikghd.site/h3/link.html');
-                });
-                element.appendChild(redirectButton);
+                // Redirect to another URL
+                window.location.href = 'https://ikghd.site/h3/link.html';
               });
             },
 
