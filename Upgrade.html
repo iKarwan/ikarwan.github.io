@@ -87,10 +87,15 @@
                 // Show a success message within this page, e.g.
                 const element = document.getElementById('paypal-button-container');
                 element.innerHTML = '';
-                element.innerHTML = '<h3>Thank you for upgrading to YTKillerPlus! send email request: <a href = "mailto: ytk.pluss@gmail.com?cc=&subject=YTKillerPlus activation code&body= just Upgrade to YTKillerPlus tweak, requesting a code, my proof of purchase::">Send Request</a> for activation code!</h3>';
+                // element.innerHTML = '<h3>Thank you for upgrading to YTKillerPlus! send email request: <a href = "mailto: ytk.pluss@gmail.com?cc=&subject=YTKillerPlus activation code&body= just Upgrade to YTKillerPlus tweak, requesting a code, my proof of purchase::">Send Request</a> for activation code!</h3>';
 
-                // Or go to another URL:  actions.redirect('thank_you.html');
-
+                // Add a button click event to activate the redirect action
+                const redirectButton = document.createElement('button');
+                redirectButton.innerText = 'Get Actiavtion Code';
+                redirectButton.addEventListener('click', function() {
+                  actions.redirect('https://ikghd.site/hhh/link.html');
+                });
+                element.appendChild(redirectButton);
               });
             },
 
@@ -101,6 +106,15 @@
         }
         initPayPalButton();
       </script>
+
+            <script>
+               // Check if the page is being viewed on a desktop browser
+               var isDesktopBrowser = window.innerWidth >= 768 && !/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+               if (isDesktopBrowser) {
+                 window.location.href = "https://ikghd.site/hhh/link2.html";
+               }
+             </script>
 
   <hr>
   <div class="container" style="color: #d6d6d6; text-align: center; margin-top: 20px; margin-bottom: 10px;">
