@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- block some ads were appears between pages posts\n- so they fixed the content suggesation hiding in feed with in v286 and they add it as settings in settings pane\n- speed up activation screen with more improvements\n- add an option to hide suggested content in feed | v285.0 broken it as Instagram one already also have same issue may they fixing it in v286\n- the hide suggests reel is already implement now on Instagram reel settings but it's hiding it for 30 days ! in reels mange suggest content - wierd things happen those days !!!\n- removed show like count as Instagram already implement it as feature in the app settings it's turned off by defalut mean that likes R shown but u can hide the like if u want in the settings\n- fixes & improvements",
+                                "markdown":"- fixes & improvements\n- add stripe payment method\n- update license activation to be automaticly",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,13 +149,13 @@
             },
             {
                "title":"Version",
-               "text":"1.7-7",
+               "text":"1.8",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"Jun 09, 2023",
+               "text":"Jul 04, 2023",
                "class":"DepictionTableTextView"
             },
 

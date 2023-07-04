@@ -166,7 +166,7 @@
                             },
 
                             {
-                                "markdown":"- fix activation issue\n- speed up activation screen with more improvements\n- update iPA to YouTube_v18.22.9\n\n\n- fixes an issue with downloading when second time downloading and the ProgressHUD stucks in the middle\n- fixes a duplicated qualities apeears in some cases when long pressing for downloads\n- fixes an issue when a selected option in after download done! settings is selected other then always ask!\n- update iPA to YouTube_v18.20.3\n- fixes downloading.. use long pressing...\n- add an option to ask were save or share the downloaded item / configure in settings\n- update iPA to YouTube_v18.19.1",
+                                "markdown":"- fixes & improvements\n- add stripe payment method\n- update license activation to be automaticly\n- update iPA to YouTube_v18.25.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -182,12 +182,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.16",
+               "text":"2.2.20",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 14, 2023",
+               "text":"Jul 04, 2023",
                "class":"DepictionTableTextView"
             },
             {
