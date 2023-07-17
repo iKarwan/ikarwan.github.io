@@ -60,6 +60,68 @@ Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
+Package: me.ikghd.inkplus
+Version: 2.1.14
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: me.ikghd.instakiller
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.inkplus_2.1.14_iphoneos-arm.deb
+Size: 906782
+Installed-Size: 2836
+MD5sum: ccbf6476f237dad6383e0839aca15866
+SHA1: d380e75531c06b2b8c8cc3ef26c733f8c4ad47ce
+SHA256: 92ca0784ed5a2bcc7896cc8b7b5382c1bcc89f11f02f04644282a023ac342fed
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.instakiller
+Version: 1.9
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
+Conflicts: pro.ikghd.instakiller, me.ikghd.inkplus
+Replaces: pro.ikghd.instakiller
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.instakiller_1.9_iphoneos-arm64.deb
+Size: 570014
+Installed-Size: 2712
+MD5sum: 81396b81f2152df291a49bd6c602e0fc
+SHA1: 0d0c28812dd7de86588d385ee226bf40453e0af6
+SHA256: d7f8e9f169f1cf0c3ff5092181680b2ce719f76577b8a6b756939851a21ba7fb
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
+
+Package: me.ikghd.instakiller
+Version: 1.9
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 12.0)
+Conflicts: pro.ikghd.instakiller, me.ikghd.inkplus
+Replaces: pro.ikghd.instakiller
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.instakiller_1.9_iphoneos-arm.deb
+Size: 581128
+Installed-Size: 2728
+MD5sum: 1100d4af5d3dcb9c23def33ee72d531f
+SHA1: dd7033a2e6f19b7ce1af3f295ac96eee441aa96c
+SHA256: 49a36239096c62b58e1771e8429cd20b8da7d649f8b87478ba4f6dd6c4518198
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
+
 Package: me.ikghd.instakiller
 Version: 1.8
 Section: Tweaks
@@ -204,6 +266,26 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
 
 Package: me.ikghd.youtubekiller
+Version: 1.11
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 15.0)
+Conflicts: pro.ikghd.youtubekiller, me.ikghd.ytkplus
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.youtubekiller_1.11_iphoneos-arm64.deb
+Size: 880198
+Installed-Size: 4244
+MD5sum: 38047e6dd57e6a7192b25911a77d00cc
+SHA1: 4420c3b91d7b8357c42b3353f2d3ded40f4cc295
+SHA256: bb4599d882c48a6b2809a546d6c248ca02bf8f16e51a02d07112a1da4efbfa8b
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
+
+Package: me.ikghd.youtubekiller
 Version: 1.10
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -243,6 +325,26 @@ Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.youtubekiller
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
 
+Package: me.ikghd.youtubekiller
+Version: 1.11
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 12.0)
+Conflicts: pro.ikghd.youtubekiller, me.ikghd.ytkplus
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.youtubekiller_1.11_iphoneos-arm.deb
+Size: 888394
+Installed-Size: 4288
+MD5sum: cef2152a2f744c4d17ccd41c9d0aad63
+SHA1: 879fc0d466dfd7c66587b7c12d7b82c948ac52fc
+SHA256: 3e138254361af4c226d2d6e5d14fe975fe4fd473ead7dbfb217b52d874958e0b
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
+
 Package: me.ikghd.ytkplus
 Version: 2.2.20
 Section: Tweaks
@@ -256,6 +358,26 @@ Installed-Size: 4524
 MD5sum: 0de9e644af1848d8a3616939c6fd743c
 SHA1: 2a1b2df559af53335dd099352c559e15c529fd3f
 SHA256: c39697a19f475c9b11a931863b5d3c2fd3524016c5a0160c6fad073ae0792926
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
+Package: me.ikghd.ytkplus
+Version: 2.2.22
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: me.ikghd.youtubekiller
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ytkplus_2.2.22_iphoneos-arm.deb
+Size: 1268296
+Installed-Size: 4548
+MD5sum: 6c7fe70d583ff27c12be9951848ec8fb
+SHA1: 5339f6ec104a264234be23f2fadae2f5678387f1
+SHA256: e61e474667e5230f7e59c20961268baa826361f8b53eeb8bfee0bb81965f5e5e
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>

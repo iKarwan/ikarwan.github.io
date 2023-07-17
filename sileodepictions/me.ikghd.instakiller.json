@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fixes & improvements\n- add stripe payment method\n- update license activation to be automaticly",
+                                "markdown":"- fix an issue with multiple video in one post not downloading only the first one is downloadable\n- fixes & improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,13 +149,13 @@
             },
             {
                "title":"Version",
-               "text":"1.8",
+               "text":"1.9",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"Jul 04, 2023",
+               "text":"Jul 18, 2023",
                "class":"DepictionTableTextView"
             },
 

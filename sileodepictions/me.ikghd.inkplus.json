@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- fixes & improvements\n- add stripe payment method\n- update license activation to be automaticly\n- update ipa to Instagram v289.1",
+                                "markdown":"- fix an issue with multiple video in one post not downloading only the first one is downloadable\n- update ipa to Instagram v291.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +173,12 @@
             },
             {
                "title":"Version",
-               "text":"2.1.13",
+               "text":"2.1.14",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 04, 2023",
+               "text":"Jul 18, 2023",
                "class":"DepictionTableTextView"
             },
             {

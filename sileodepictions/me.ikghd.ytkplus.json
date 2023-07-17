@@ -166,7 +166,7 @@
                             },
 
                             {
-                                "markdown":"- fixes & improvements\n- add stripe payment method\n- update license activation to be automaticly\n- update iPA to YouTube_v18.25.1",
+                                "markdown":"- fixes & improvements\n- add rename option for downloaded media in download manager\n- update iPA to YouTube_v18.28.3",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -182,12 +182,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.20",
+               "text":"2.2.22",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 04, 2023",
+               "text":"Jul 18, 2023",
                "class":"DepictionTableTextView"
             },
             {
