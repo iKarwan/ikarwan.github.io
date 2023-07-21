@@ -68,28 +68,36 @@
         <div class="container">
           <div class="item">
             <hr>
-            <span id="display-name">$1.99 USD</span>
+            <span id="display-name">$2.99 USD</span>
             <hr>
 
             <center>
-  <script async src="https://js.stripe.com/v3/buy-button.js"></script>
-  <stripe-buy-button
-    buy-button-id="buy_btn_1NK6KqBQYRIwE3V3gomwDUSE"
-    publishable-key="pk_live_51Im7X8BQYRIwE3V3LXS6NBRbbLndUmiA3n9lGvWe4kcTcuzlTFh2NKaXhvFn5gWzT2jdWYfxvz8uQVSPZuLW5eSb009or7xL4c"
-  ></stripe-buy-button>
+              <script async
+                src="https://js.stripe.com/v3/buy-button.js">
+              </script>
+
+              <stripe-buy-button
+                buy-button-id="buy_btn_1NWMxmBQYRIwE3V3ZCM02Utb"
+                publishable-key="pk_live_51Im7X8BQYRIwE3V3LXS6NBRbbLndUmiA3n9lGvWe4kcTcuzlTFh2NKaXhvFn5gWzT2jdWYfxvz8uQVSPZuLW5eSb009or7xL4c"
+              >
+              </stripe-buy-button>
 </center>
           </div>
 
           <div class="item">
             <hr>
-            <span id="display-name">$1.99 USD</span>
+            <span id="display-name">$2.99 USD</span>
             <hr>
             <center>
-              <script async src="https://js.stripe.com/v3/buy-button.js"></script>
+              <script async
+                src="https://js.stripe.com/v3/buy-button.js">
+              </script>
+
               <stripe-buy-button
-                buy-button-id="buy_btn_1NL6JHBQYRIwE3V3LQHyArpY"
+                buy-button-id="buy_btn_1NWN2UBQYRIwE3V3OPG9qcB4"
                 publishable-key="pk_live_51Im7X8BQYRIwE3V3LXS6NBRbbLndUmiA3n9lGvWe4kcTcuzlTFh2NKaXhvFn5gWzT2jdWYfxvz8uQVSPZuLW5eSb009or7xL4c"
-              ></stripe-buy-button>
+              >
+              </stripe-buy-button>
             </center>
           </div>
         </div>
@@ -115,7 +123,7 @@
 
             createOrder: function(data, actions) {
               return actions.order.create({
-                purchase_units: [{"description":"a whole new YouTube experience","amount":{"currency_code":"USD","value":1.99}}]
+                purchase_units: [{"description":"a whole new YouTube experience","amount":{"currency_code":"USD","value":2.99}}]
               });
             },
 

@@ -98,7 +98,7 @@
             },
 
             {
-              "title":"buy : $1.99",
+              "title":"buy : $2.99",
                "useBoldText": true,
                "action":"https://repo.ikghd.me/iNKPlus",
                "class":"DepictionTableButtonView"
@@ -183,7 +183,7 @@
             },
             {
                "title":"Price",
-               "text":"$1.99 USD",
+               "text":"$2.99 USD",
                "class":"DepictionTableTextView"
             },
             {
