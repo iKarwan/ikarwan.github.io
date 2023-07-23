@@ -109,13 +109,13 @@
             {
               "title":"buy : $2.99",
                "useBoldText": true,
-               "action":"https://repo.ikghd.me/YTKPlus",
+               "action":"https://ikghd.site/YTKPlus.html",
                "class":"DepictionTableButtonView"
             },
             {
               "title":"Upgrade from YouTubeKiller : $0.99",
                "useBoldText": true,
-               "action":"https://repo.ikghd.me/Upgrade",
+               "action":"https://ikghd.site/Upgrade.html",
                "class":"DepictionTableButtonView"
             },
             {
