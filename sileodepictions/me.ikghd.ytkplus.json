@@ -166,7 +166,7 @@
                             },
 
                             {
-                                "markdown":"- fixes & improvements\n- update iPA to YouTube_v18.29.1",
+                                "markdown":"- add korean language\n- fixes & improvements\n- update iPA to YouTube_v18.29.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
