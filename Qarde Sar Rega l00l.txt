@@ -9,7 +9,6 @@ paywando	ip6s screeen+battery :18K screen 6s+ new
 -------------------------------------
 bcdedit -set TESTSIGNING OFF
 
-
 mzori lams 5K
 
 paiwand dokan l00l
