@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- add rootless support dopamine palera1n and xina\n- fix an issue with multiple video in one post not downloading only the first one is downloadable\n- update ipa to Instagram v294.0",
+                                "markdown":"- speed up activation server\n- fixes & improvements\n- add rootless support dopamine palera1n and xina\n- fix an issue with multiple video in one post not downloading only the first one is downloadable\n- update ipa to Instagram v294.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +173,12 @@
             },
             {
                "title":"Version",
-               "text":"2.1.15",
+               "text":"2.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 01, 2023",
+               "text":"Aug 03, 2023",
                "class":"DepictionTableTextView"
             },
             {
