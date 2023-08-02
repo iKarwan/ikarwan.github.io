@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- speed up activation server\n- fixes & improvements\n- add rootless support dopamine palera1n and xina\n- fix an issue with multiple video in one post not downloading only the first one is downloadable\n- update ipa to Instagram v294.0",
+                                "markdown":"- speed up activation server\n- fixes & improvements\n- add rootless support dopamine palera1n and xina\n- if u have freez on launch on rootless pls use TrollStore version\n-  fix an issue with multiple video in one post not downloading only the first one is downloadable\n- update ipa to Instagram v294.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
