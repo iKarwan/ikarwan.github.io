@@ -166,7 +166,7 @@
                             },
 
                             {
-                                "markdown":"- fixes issues & squashed some bugs\n- speed up activation server\n- rootless support dopamine palera1n and xina \n- add korean language\n- fixes & improvements\n- update iPA to YouTube_v18.30.6",
+                                "markdown":"- fixes issues & squashed some bugs\n- speed up activation server\n- rootless support dopamine palera1n and xina \n- add korean language\n- fixes & improvements\n- update iPA to YouTube_v18.30.7",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
