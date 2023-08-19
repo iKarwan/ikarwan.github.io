@@ -16,9 +16,5 @@
 			<url>https://ikghd.site/faq.html</url>
 			<iconclass>fa fa-question-circle</iconclass>
 		</link>
-		<link>
-			<url>mailto:ikghd3@gmail.com</url>
-			<iconclass>fa fa-envelope</iconclass>
-		</link>
 	</footerlinks>
 </repo>
