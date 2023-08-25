@@ -157,7 +157,7 @@
                             },
 
                             {
-                                "markdown":"- speed up activation server\n- fixes & improvements\n- add rootless support dopamine palera1n and xina\n- if u have freez on launch on rootless pls use TrollStore version\n-  fix an issue with multiple video in one post not downloading only the first one is downloadable\n- update ipa to Instagram v294.0",
+                                "markdown":"- fix like confirm on feed on latest instagram version\n- add hide suggested post on feed it's on auto with hide ad's\n- if u have freez on launch on rootless pls use TrollStore version\n-  fix an issue with multiple video in one post not downloading only the first one is downloadable\n- update ipa to Instagram v297.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +173,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2",
+               "text":"2.2.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 03, 2023",
+               "text":"Aug 26, 2023",
                "class":"DepictionTableTextView"
             },
             {

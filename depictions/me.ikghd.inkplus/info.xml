@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.2</version>
+    <version>2.2.1</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -10,11 +10,11 @@
     </compatibility>
 
     <version2>
-      <version2>2.2</version2>
+      <version2>2.2.1</version2>
     </version2>
 
     <date>
-      <date>Aug 03, 2023</date>
+      <date>Aug 26, 2023</date>
     </date>
 
     <price>
@@ -22,14 +22,13 @@
     </price>
 
     <changelog>
-      <change>· speed up the activation server</change>
-      <change>· other fixes</change>
-      <change>· add rootless support dopamine palera1n and xina</change>
-      <change>· if u have freez on launch on rootless pls use TrollStore version</change>
+      <change>· fix like confirm on feed on latest instagram version</change>
+      <change>· add hide suggested post on feed it's on auto with hide ad's</change>
+      <change>· other fixes &amp; improvements</change>
       <change></change>
-      <change>· fixes &amp; improvements</change>
+      <change>· if u have freez on launch on rootless pls use TrollStore version</change>
       <change>· fix an issue with multiple video in one post not downloading only the first one is downloadable</change>
-      <change>· update ipa to newer Instagram v294.0</change>
+      <change>· update ipa to newer Instagram v297.0</change>
     </changelog>
 
 
@@ -41,6 +40,12 @@
 
             <li>
                 <a href="https://ikghd.site/iNKPlus.html">buy : $2.99</a>
+            </li>
+
+            <li>
+                <a href="https://ikghd.site/stor1.html">buy for stores  : 1/Month $4.99 YTKillerPlus included</a>
+                <a href="https://ikghd.site/stor6.html">buy for stores  : 6/Month $19.99 YTKillerPlus included</a>
+                <a href="https://ikghd.site/stor1y.html">buy for stores  : 1/Year $39.99 YTKillerPlus included</a>
             </li>
 
             <br>
