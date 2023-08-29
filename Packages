@@ -426,6 +426,26 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.jso
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
 
 Package: me.ikghd.youtubekiller
+Version: 1.13
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 13.0)
+Conflicts: pro.ikghd.youtubekiller, me.ikghd.ytkplus
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.youtubekiller_1.13_iphoneos-arm.deb
+Size: 880458
+Installed-Size: 4244
+MD5sum: b82dc7a0827c170669e24aa0251ba4e0
+SHA1: 6a08904fb65d6e9d5410e2f07d9e63cfa7de3341
+SHA256: d87a1ddccd740f6ce0b2288c6ad3927aeff364c0df4950d9248383c1394dd4c9
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
+
+Package: me.ikghd.youtubekiller
 Version: 1.11
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -438,6 +458,26 @@ Installed-Size: 4288
 MD5sum: cef2152a2f744c4d17ccd41c9d0aad63
 SHA1: 879fc0d466dfd7c66587b7c12d7b82c948ac52fc
 SHA256: 3e138254361af4c226d2d6e5d14fe975fe4fd473ead7dbfb217b52d874958e0b
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
+
+Package: me.ikghd.youtubekiller
+Version: 1.13
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 15.0)
+Conflicts: pro.ikghd.youtubekiller, me.ikghd.ytkplus
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.youtubekiller_1.13_iphoneos-arm64.deb
+Size: 880488
+Installed-Size: 4244
+MD5sum: 62ad57f744c4ca6bba273ec6c46736f5
+SHA1: 4b1d23ca5fb3bf9fbdfa30c77c0eb607dcd94dd3
+SHA256: 4dc23f1cd18d3ac6591828d0313991c48486d9080d693775094dbfe3c3110a27
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikghd3@gmail.com>
@@ -518,6 +558,46 @@ Installed-Size: 4596
 MD5sum: 8b3fd4f39d24a90db9c9e8699cd1b612
 SHA1: 70cda0594b43c35583fc89adfdf6dd7e22b50c6d
 SHA256: 2f18cf10bab584734987215ed7698cc7af141857c2a8ef1fde4312c76af3ea73
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
+Package: me.ikghd.ytkplus
+Version: 2.3.2
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Conflicts: me.ikghd.youtubekiller
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.ytkplus_2.3.2_iphoneos-arm64.deb
+Size: 1277612
+Installed-Size: 4596
+MD5sum: 56e10a8b4a235e1bb235e06fd29db945
+SHA1: 61a333e2fd087038b964bbad51fb2fdc731b6970
+SHA256: 3adea986f8a41ee9d7db10952e81a940cbdc3bed97402bf2028427437cf9d405
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
+Package: me.ikghd.ytkplus
+Version: 2.3.2
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.youtubekiller
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ytkplus_2.3.2_iphoneos-arm.deb
+Size: 1277660
+Installed-Size: 4596
+MD5sum: b71b07d86cba7b8f9bc0fdb944a05e87
+SHA1: f709136d8919fe9f5a8c68bea8c200d5b599bc13
+SHA256: 79a318c9767c1b36977f2f4703622b7591d63e279513536d973873fb1a55bfa5
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
