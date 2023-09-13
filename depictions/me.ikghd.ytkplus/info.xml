@@ -10,7 +10,7 @@
     </compatibility>
 
     <rootless>
-      <rootless>No</rootless>
+      <rootless>Yes</rootless>
     </rootless>
 
     <jailbreak>
@@ -18,7 +18,7 @@
     </jailbreak>
 
     <jailed>
-      <jailed>No</jailed>
+      <jailed>Yes</jailed>
     </jailed>
 
     <version2>

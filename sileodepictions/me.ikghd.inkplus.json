@@ -187,6 +187,21 @@
                "class":"DepictionTableTextView"
             },
             {
+               "title":"Jailbrek",
+               "text":"Yes",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Jailed Support",
+               "text":"Yes",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"Rootless Support",
+               "text":"Yes",
+               "class":"DepictionTableTextView"
+            },
+            {
                "title":"Compatibility",
                "text":"iOS 13.0 - 16.x",
                "class":"DepictionTableTextView"

@@ -9,6 +9,19 @@
         </firmware>
     </compatibility>
 
+    <rootless>
+      <rootless>No</rootless>
+    </rootless>
+
+    <jailbreak>
+      <jailbreak>Yes</jailbreak>
+    </jailbreak>
+
+    <jailed>
+      <jailed>No</jailed>
+    </jailed>
+
+
     <version2>
       <version2>1.2.4</version2>
     </version2>
