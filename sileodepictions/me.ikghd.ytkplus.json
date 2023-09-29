@@ -214,7 +214,7 @@
                "class":"DepictionHeaderView"
             },
             {
-               "title":"more info on FAQ",
+               "title":"FAQ page",
                "useBoldText": true,
                "action":"https://ikghd.site/faq.html",
                "class":"DepictionTableButtonView"

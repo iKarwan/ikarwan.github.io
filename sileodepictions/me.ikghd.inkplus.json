@@ -129,37 +129,26 @@
                 "useBottomMargin": false
             },
 
+
             {
                "class":"DepictionSeparatorView"
             },
 
+
             {
-               "title":"Demo Via YouTube",
-               "useBoldText": true,
-               "action":"https://www.Instagam.com/watch?v=haAaqU1zFFo&feature=youtu.be&ab_channel=iKarwan-ikghd",
-               "class":"DepictionTableButtonView"
+               "title":"What's New",
+               "class":"DepictionHeaderView"
             },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
+            {
+                "markdown":"- add confirm to follow n Reels tab (prevent accidentely)follow users\n- add hide suggested post on feed on by default with hide ad\n- fix saving pofile images on latest IG version\n- fix like confirm on feed posts on latest instagram version\n- some other fixes to the buttons and minor improvements\n- update ipa to Instagram v302.0",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+            },
 
-
-                            {
-                               "title":"What's New",
-                               "class":"DepictionHeaderView"
-                            },
-
-                            {
-                                "markdown":"- add confirm to follow n Reels tab (prevent accidentely)follow users\n- add hide suggested post on feed on by default with hide ad\n- fix saving pofile images on latest IG version\n- fix like confirm on feed posts on latest instagram version\n- some other fixes to the buttons and minor improvements\n- update ipa to Instagram v302.0",
-                                "useSpacing":true,
-                                "class":"DepictionMarkdownView"
-                            },
-
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
-
+            {
+               "class":"DepictionSeparatorView"
+            },
 
             {
                "title":"Information",
@@ -211,7 +200,7 @@
                "class":"DepictionHeaderView"
             },
             {
-               "title":"more info on FAQ",
+               "title":"FAQ page",
                "useBoldText": true,
                "action":"https://ikghd.site/faq.html",
                "class":"DepictionTableButtonView"
