@@ -213,7 +213,12 @@
                "title":"Support",
                "class":"DepictionHeaderView"
             },
-
+            {
+               "title":"more info on FAQ",
+               "useBoldText": true,
+               "action":"https://ikghd.site/faq.html",
+               "class":"DepictionTableButtonView"
+            },
             {
                "title":"Via PayPal",
                "useBoldText": true,
