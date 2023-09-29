@@ -151,7 +151,7 @@
                             },
 
                             {
-                                "markdown":"- fix saving pofile images on latest IG version\n- fix like confirm on feed posts on latest instagram version\n- add hide suggested post on feed on by default with hide ad\n- some other fixes to the buttons and minor improvements\n- add confirm to follow n Reels tab (prevent accidentely)follow users\n- update ipa to Instagram v302.0",
+                                "markdown":"- add confirm to follow n Reels tab (prevent accidentely)follow users\n- add hide suggested post on feed on by default with hide ad\n- fix saving pofile images on latest IG version\n- fix like confirm on feed posts on latest instagram version\n- some other fixes to the buttons and minor improvements\n- update ipa to Instagram v302.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },

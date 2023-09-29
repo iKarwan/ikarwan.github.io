@@ -35,11 +35,10 @@
     </price>
 
     <changelog>
-      <change>· fix saving pofile images on latest IG version</change>
-      <change>· fix like confirm on feed posts on latest instagram version</change>
-      <change>· some other fixes to the buttons and minor improvements</change>
       <change>· add confirm to follow n Reels tab (prevent accidentely)follow users</change>
       <change>· add hide suggested post on feed on by default with hide ad</change>
+      <change>· fix saving pofile images on latest IG version</change>
+      <change>· fix like confirm on feed posts on latest instagram version</change>
       <change>· some other fixes to the buttons and minor improvements</change>
       <change>· update ipa to newer Instagram v302.0</change>
     </changelog>
