@@ -113,31 +113,19 @@
             },
 
             {
-               "title":"Demo Via YouTube",
-               "useBoldText": true,
-               "action":"https://www.youtube.com/watch?v=haAaqU1zFFo&feature=youtu.be&ab_channel=iKarwan-ikghd",
-               "class":"DepictionTableButtonView"
+               "title":"What's New",
+               "class":"DepictionHeaderView"
             },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
+            {
+                "markdown":"- fixes & improvements\n- add stripe payment method\n- update license activation to be automaticly",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+            },
 
-
-                            {
-                               "title":"What's New",
-                               "class":"DepictionHeaderView"
-                            },
-
-                            {
-                                "markdown":"- fixes & improvements\n- add stripe payment method\n- update license activation to be automaticly",
-                                "useSpacing":true,
-                                "class":"DepictionMarkdownView"
-                            },
-
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
+            {
+               "class":"DepictionSeparatorView"
+            },
 
 
             {
@@ -160,7 +148,7 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Jailbrek",
+               "title":"Jailbreak",
                "text":"Yes",
                "class":"DepictionTableTextView"
             },
@@ -176,7 +164,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 13.0 - 16.x",
+               "text":"iOS 13.0 - 17.x",
                "class":"DepictionTableTextView"
             },
 

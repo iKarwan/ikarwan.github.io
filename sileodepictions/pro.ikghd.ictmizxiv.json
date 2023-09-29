@@ -255,37 +255,25 @@
                 "useBottomMargin": false
             },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
-
-                            {
-                               "title":"Demo Via YouTube",
-                               "useBoldText": true,
-                               "action":"https://youtu.be/0aGJi5a78lI",
-                               "class":"DepictionTableButtonView"
-                            },
-
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
+            {
+               "class":"DepictionSeparatorView"
+            },
 
 
-                            {
-                               "title":"What's New",
-                               "class":"DepictionHeaderView"
-                            },
+            {
+               "title":"What's New",
+               "class":"DepictionHeaderView"
+            },
 
-                            {
-                                "markdown":"- add option to disable right to left (systemwide)\n- fix RTL language for battery percentage\n- fixes & improvements",
-                                "useSpacing":true,
-                                "class":"DepictionMarkdownView"
-                            },
+            {
+                "markdown":"- add option to disable right to left (systemwide)\n- fix RTL language for battery percentage\n- fixes & improvements",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+            },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
-
+            {
+               "class":"DepictionSeparatorView"
+            },
 
             {
                "title":"Information",
@@ -308,7 +296,7 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Jailbrek",
+               "title":"Jailbreak",
                "text":"Yes",
                "class":"DepictionTableTextView"
             },

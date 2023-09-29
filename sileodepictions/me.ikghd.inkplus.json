@@ -104,12 +104,6 @@
                "class":"DepictionTableButtonView"
             },
             {
-              "title":"Upgrade from iNstaKiller : $0.99",
-               "useBoldText": true,
-               "action":"https://ikghd.site/UpgradeInk.html",
-               "class":"DepictionTableButtonView"
-            },
-            {
                "class":"DepictionSeparatorView"
             },
             {
@@ -157,7 +151,7 @@
                             },
 
                             {
-                                "markdown":"- fix like confirm on feed on latest instagram version\n- add hide suggested post on feed it's on auto with hide ad's\n- if u have freez on launch on rootless pls use TrollStore version\n-  fix an issue with multiple video in one post not downloading only the first one is downloadable\n- update ipa to Instagram v297.0",
+                                "markdown":"- fix saving pofile images on latest IG version\n- fix like confirm on feed posts on latest instagram version\n- add hide suggested post on feed on by default with hide ad\n- some other fixes to the buttons and minor improvements\n- add confirm to follow n Reels tab (prevent accidentely)follow users\n- update ipa to Instagram v302.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -173,12 +167,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.1",
+               "text":"2.2.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 26, 2023",
+               "text":"Sep 30, 2023",
                "class":"DepictionTableTextView"
             },
             {
@@ -187,7 +181,7 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Jailbrek",
+               "title":"Jailbreak",
                "text":"Yes",
                "class":"DepictionTableTextView"
             },
@@ -203,7 +197,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 13.0 - 16.x",
+               "text":"iOS 13.0 - 17.x",
                "class":"DepictionTableTextView"
             },
 

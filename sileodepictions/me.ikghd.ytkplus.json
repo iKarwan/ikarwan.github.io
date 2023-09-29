@@ -148,33 +148,21 @@
                "class":"DepictionSeparatorView"
             },
 
+
             {
-               "title":"Demo Via YouTube",
-               "useBoldText": true,
-               "action":"https://www.youtube.com/watch?v=haAaqU1zFFo&feature=youtu.be&ab_channel=iKarwan-ikghd",
-               "class":"DepictionTableButtonView"
+               "title":"What's New",
+               "class":"DepictionHeaderView"
             },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
+            {
+                "markdown":"- fixes issues & squashed some bugs\n- speed up activation server\n- rootless support dopamine palera1n and xina \n- add korean language\n- fixes & improvements\n- update iPA to YouTube_v18.33.2",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+            },
 
-
-                            {
-                               "title":"What's New",
-                               "class":"DepictionHeaderView"
-                            },
-
-                            {
-                                "markdown":"- fixes issues & squashed some bugs\n- speed up activation server\n- rootless support dopamine palera1n and xina \n- add korean language\n- fixes & improvements\n- update iPA to YouTube_v18.33.2",
-                                "useSpacing":true,
-                                "class":"DepictionMarkdownView"
-                            },
-
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
-
+            {
+               "class":"DepictionSeparatorView"
+            },
 
             {
                "title":"Information",
@@ -196,7 +184,7 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Jailbrek",
+               "title":"Jailbreak",
                "text":"Yes",
                "class":"DepictionTableTextView"
             },
@@ -212,7 +200,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS iPadOS 13.0 - 16.x",
+               "text":"iOS iPadOS 13.0 - 17.x",
                "class":"DepictionTableTextView"
             },
 

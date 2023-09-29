@@ -282,37 +282,24 @@
                 "useBottomMargin": false
             },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
+            {
+               "class":"DepictionSeparatorView"
+            },
 
-                            {
-                               "title":"Demo Via YouTube",
-                               "useBoldText": true,
-                               "action":"https://youtu.be/W7MDTnJ_SEE",
-                               "class":"DepictionTableButtonView"
-                            },
+            {
+               "title":"What's New",
+               "class":"DepictionHeaderView"
+            },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
+            {
+                "markdown":"- NOTE!!! update activation server u need to update to activate the license\n- fixes preferences error\n- update activation server\n- improve filter between apps and system hooks\n- add hide upload (+) tab (YouTube)",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+            },
 
-
-                            {
-                               "title":"What's New",
-                               "class":"DepictionHeaderView"
-                            },
-
-                            {
-                                "markdown":"- NOTE!!! update activation server u need to update to activate the license\n- fixes preferences error\n- update activation server\n- improve filter between apps and system hooks\n- add hide upload (+) tab (YouTube)",
-                                "useSpacing":true,
-                                "class":"DepictionMarkdownView"
-                            },
-
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
-
+            {
+               "class":"DepictionSeparatorView"
+            },
 
             {
                "title":"Information",
@@ -335,7 +322,7 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Jailbrek",
+               "title":"Jailbreak",
                "text":"Yes",
                "class":"DepictionTableTextView"
             },

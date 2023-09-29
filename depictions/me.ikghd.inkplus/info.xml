@@ -1,11 +1,11 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.2.1</version>
+    <version>2.2.2</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
-            <maxiOS>16.x</maxiOS>
+            <maxiOS>17.x</maxiOS>
         </firmware>
     </compatibility>
 
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>2.2.1</version2>
+      <version2>2.2.2</version2>
     </version2>
 
     <date>
-      <date>Aug 26, 2023</date>
+      <date>Sep 30, 2023</date>
     </date>
 
     <price>
@@ -35,13 +35,13 @@
     </price>
 
     <changelog>
-      <change>· fix like confirm on feed on latest instagram version</change>
-      <change>· add hide suggested post on feed it's on auto with hide ad's</change>
-      <change>· other fixes &amp; improvements</change>
-      <change></change>
-      <change>· if u have freez on launch on rootless pls use TrollStore version</change>
-      <change>· fix an issue with multiple video in one post not downloading only the first one is downloadable</change>
-      <change>· update ipa to newer Instagram v297.0</change>
+      <change>· fix saving pofile images on latest IG version</change>
+      <change>· fix like confirm on feed posts on latest instagram version</change>
+      <change>· some other fixes to the buttons and minor improvements</change>
+      <change>· add confirm to follow n Reels tab (prevent accidentely)follow users</change>
+      <change>· add hide suggested post on feed on by default with hide ad</change>
+      <change>· some other fixes to the buttons and minor improvements</change>
+      <change>· update ipa to newer Instagram v302.0</change>
     </changelog>
 
 
@@ -82,11 +82,6 @@
           <br>· and many more settings..
           <br> <br>
 
-          <li>
-              <a href="https://youtu.be/haAaqU1zFFo">Demo Via YouTube</a>
-          </li>
-          <br>
-
 
             <br>IPA & TrollStore Version?
               <li>
@@ -104,7 +99,7 @@
                       <br>
 
                         <br>Activation NOTICE!!:
-                        <br>· NOTE!! - the activation screen may appears sometimes when u rejailbreak or reboot the device, due to security & anti crack included | you just need to enter the code again and click on reset code then activate .
+                        <br>· NOTE!! - the activation screen may appears sometimes when u rejailbreak or reboot the device, due to security & anti crack included | you just need re enter the same code again and click on reset code then activate .
                         <br>
                         <br>
 
