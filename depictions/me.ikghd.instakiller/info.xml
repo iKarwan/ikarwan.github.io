@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.10</version>
+    <version>1.11</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>1.10</version2>
+      <version2>1.101</version2>
     </version2>
 
         <date>
-          <date>Aug 26, 2023</date>
+          <date>Oct 06, 2023</date>
         </date>
 
         <price>
@@ -35,11 +35,11 @@
         </price>
 
         <changelog>
-          <change>· fix like confirm on feed on latest instagram version</change>
-          <change>· add hide suggested post on feed it's on auto with hide ad's</change>
-          <change>· other fixes &amp; improvements</change>
-          <change></change>
-          <change>· fix an issue with multiple video in one post not downloading only the first one is downloadable</change>
+          <change>· add confirm to follow on Reels tab (prevent accidentely)follow users</change>
+          <change>· add hide suggested post on feed on by default with hide ad</change>
+          <change>· fix saving pofile images on latest IG version</change>
+          <change>· fix like confirm on feed posts on latest IG version</change>
+          <change>· some other fixes to the buttons and minor improvements</change>
         </changelog>
 
 
@@ -88,7 +88,14 @@
 
                           <br>Multiple Devices
                           <br>· 1 devices & for lifetime! not transferable ..
+                            <br>
                           <br>
+
+                            <br>refer to the FAQ page for more info:
+                            <li>
+                                <a href="https://ikghd.site/faq.html">FAQ page:</a>
+                            </li>
+                            <br>
 
         ]]></longdescription>
     </descriptionlist>
