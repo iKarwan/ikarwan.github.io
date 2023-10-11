@@ -4,42 +4,85 @@
    "tintColor":"#EB9694",
    "tabs":[
       {
-         "tabname":"SomeOtherTab",  // Change the tab name if needed
+         "tabname":"Details",
          "views":[
             {
+                "itemCornerRadius":8,
+                "itemSize":"{195, 385}",
+                "screenshots":[
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG"
+                    },
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG"
+                    }
+                ],
+                "ipad":{
+                    "itemCornerRadius":9,
+                    "itemSize":"{320, 550.8266666666667}",
+                    "screenshots":[
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG"
+                        },
+                        {
+                            "accessibilityText":"Screenshot",
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG"
+                        }
+                    ],
+                    "class":"DepictionScreenshotView"
+                },
+                "class":"DepictionScreenshotsView"
+            },
+            {
                "class":"DepictionSeparatorView"
             },
+
             {
-               "title":"Features",
-               "class":"DepictionHeaderView"
+                "title":"Features",
+                "class":"DepictionHeaderView"
             },
             {
-               "class": "DepictionMarkdownView",
-               "markdown": "\"PMP\" Protect My Photos",
-               "useSpacing": true
+                "class": "DepictionMarkdownView",
+                "markdown": "\"PMP\" Protect My Photos",
+                "useSpacing": true
             },
+
             {
-               "useBottomMargin": false,
-               "markdown": "sometimes when someone takes your phone\r\nmaybe by curiosity, they go around and check everything\r\nPMP will protect your photos with one click and bring them back with one click\r\nit even protects access to photos through the Camera app as well.",
-               "useBoldText": true,
-               "title": "markdown-description",
-               "class": "DepictionMarkdownView"
+                "useBottomMargin": false,
+                "markdown": "sometimes when someone take your phone\r\nmay by curiosity goes around and check everything\r\nPMP will punch him in his face :D\r\nPMP will hide all your photos with One click and bring it with 1One\r\nit even protected access to photos with Camera app also.",
+                "useBoldText": true,
+                "title": "markdown-description",
+                "class": "DepictionMarkdownView"
             },
-            {
-               "class":"DepictionSeparatorView"
-            },
-            {
-               "title":"What's New",
-               "class":"DepictionHeaderView"
-            },
-            {
-               "markdown":"- fixes killing the app when enabling the hide option\n- rewritten from scratch",
-               "useSpacing":true,
-               "class":"DepictionMarkdownView"
-            },
-            {
-               "class":"DepictionSeparatorView"
-            },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
+
+                            {
+                               "title":"What's New",
+                               "class":"DepictionHeaderView"
+                            },
+
+                            {
+                                "markdown":"- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
+                                "useSpacing":true,
+                                "class":"DepictionMarkdownView"
+                            },
+
+                            {
+                               "class":"DepictionSeparatorView"
+                            },
+
+
             {
                "title":"Information",
                "class":"DepictionHeaderView"
@@ -54,6 +97,7 @@
                "text":"May 06, 2023",
                "class":"DepictionTableTextView"
             },
+
             {
                "title":"Price",
                "text":"Free",
@@ -79,9 +123,13 @@
                "text":"iOS 12.0 - 16.x",
                "class":"DepictionTableTextView"
             },
+
+
             {
                "class":"DepictionSeparatorView"
             },
+
+
             {
                "title":"Support",
                "class":"DepictionHeaderView"
@@ -92,22 +140,26 @@
                "action":"https://www.paypal.com/paypalme/hiwajaf",
                "class":"DepictionTableButtonView"
             },
+
             {
                "title":"Follow @iKarwan",
                "useBoldText": true,
                "action":"https://twitter.com/ikg_hd",
                "class":"DepictionTableButtonView"
             },
+
             {
                "title":"YouTube Channel",
                "useBoldText": true,
                "action":"https://youtube.com/c/ikghd",
                "class":"DepictionTableButtonView"
             },
+
             {
                "spacing":10,
                "class":"DepictionSpacerView"
             }
+
          ],
          "class":"DepictionStackView"
       }
