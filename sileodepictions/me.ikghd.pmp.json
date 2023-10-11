@@ -35,7 +35,7 @@
                             "url":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG",
                             "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG"
                         }
-                    ],
+                    },
                     "class":"DepictionScreenshotView"
                 },
                 "class":"DepictionScreenshotsView"
@@ -43,17 +43,15 @@
             {
                "class":"DepictionSeparatorView"
             },
-
             {
-                "title":"Features",
-                "class":"DepictionHeaderView"
+               "title":"Features",
+               "class":"DepictionHeaderView"
             },
             {
                 "class": "DepictionMarkdownView",
                 "markdown": "\"PMP\" Protect My Photos",
                 "useSpacing": true
             },
-
             {
                 "useBottomMargin": false,
                 "markdown": "sometimes when someone take your phone\r\nmay by curiosity goes around and check everything\r\nPMP will punch him in his face :D\r\nPMP will hide all your photos with One click and bring it with 1One\r\nit even protected access to photos with Camera app also.",
@@ -61,28 +59,21 @@
                 "title": "markdown-description",
                 "class": "DepictionMarkdownView"
             },
-
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
-
-
-                            {
-                               "title":"What's New",
-                               "class":"DepictionHeaderView"
-                            },
-
-                            {
-                                "markdown":"- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
-                                "useSpacing":true,
-                                "class":"DepictionMarkdownView"
-                            },
-
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
-
-
+            {
+               "class":"DepictionSeparatorView"
+            },
+            {
+               "title":"What's New",
+               "class":"DepictionHeaderView"
+            },
+            {
+                "markdown":"- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
+                "useSpacing":true,
+                "class":"DepictionMarkdownView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
             {
                "title":"Information",
                "class":"DepictionHeaderView"
@@ -97,7 +88,6 @@
                "text":"May 06, 2023",
                "class":"DepictionTableTextView"
             },
-
             {
                "title":"Price",
                "text":"Free",
@@ -123,13 +113,9 @@
                "text":"iOS 12.0 - 16.x",
                "class":"DepictionTableTextView"
             },
-
-
             {
                "class":"DepictionSeparatorView"
             },
-
-
             {
                "title":"Support",
                "class":"DepictionHeaderView"
@@ -140,26 +126,22 @@
                "action":"https://www.paypal.com/paypalme/hiwajaf",
                "class":"DepictionTableButtonView"
             },
-
             {
                "title":"Follow @iKarwan",
                "useBoldText": true,
                "action":"https://twitter.com/ikg_hd",
                "class":"DepictionTableButtonView"
             },
-
             {
                "title":"YouTube Channel",
                "useBoldText": true,
                "action":"https://youtube.com/c/ikghd",
                "class":"DepictionTableButtonView"
             },
-
             {
                "spacing":10,
                "class":"DepictionSpacerView"
             }
-
          ],
          "class":"DepictionStackView"
       }
