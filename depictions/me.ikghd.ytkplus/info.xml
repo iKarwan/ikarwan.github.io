@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.3.3</version>
+    <version>2.3.4</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>2.3.3</version2>
+      <version2>2.3.4</version2>
     </version2>
 
     <date>
-      <date>Oct 20, 2023</date>
+      <date>Nov 07, 2023</date>
     </date>
 
     <price>
@@ -35,7 +35,7 @@
 
     <changelog>
       <change>· fixes issues &amp; squashed some bugs</change>
-      <change>· update iPA to YouTube_v18.41.3</change>
+      <change>· update iPA to YouTube_v18.44.3</change>
     </changelog>
 
 
