@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- add confirm to follow on Reels tab (prevent accidentely)follow users\n- add hide suggested post on feed on by default with hide ad\n- fix saving pofile images on latest IG version\n- fix like confirm on feed posts on latest IG version\n- some other fixes to the buttons and minor improvements",
+                                "markdown":"- fixes and minor improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,13 +149,13 @@
             },
             {
                "title":"Version",
-               "text":"1.11",
+               "text":"1.12",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"Oct 06, 2023",
+               "text":"Dec 18, 2023",
                "class":"DepictionTableTextView"
             },
 
@@ -181,7 +181,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 13.0 - 17.x",
+               "text":"iOS 14.0 - 17.x",
                "class":"DepictionTableTextView"
             },
 

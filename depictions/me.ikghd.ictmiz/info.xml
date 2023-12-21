@@ -1,11 +1,11 @@
 <package>
-   <id>pro.ikghd.ictmizxiv</id>
-    <name>iCTMiZ XiV</name>
-    <version>2.1</version>
+   <id>me.ikghd.ictmiz</id>
+    <name>iCTMiZ Pro</name>
+    <version>1.2.5</version>
     <compatibility>
         <firmware>
-            <miniOS>14.0</miniOS>
-            <maxiOS>14.8</maxiOS>
+            <miniOS>12.0</miniOS>
+            <maxiOS>13.7</maxiOS>
         </firmware>
     </compatibility>
 
@@ -23,46 +23,46 @@
 
 
     <version2>
-      <version2>2.1</version2>
+      <version2>1.2.5</version2>
     </version2>
 
         <date>
-          <date>Jan 30, 2023</date>
+          <date>Dec 22, 2023</date>
         </date>
 
         <price>
           <price>$1.99 USD</price>
         </price>
 
-        <changelog>
-          <change>・add option to disable right to left (systemwide)</change>
-          <change>・fix RTL language for battery percentage</change>
-          <change>・fixes &amp; improvements</change>
-        </changelog>
+    <changelog>
+      <change>・improvements</change>
+    </changelog>
 
 
     <descriptionlist>
-      <description>Contain Over 250+ features!</description>
+       <description>Contain Over 250+ features!</description>
 
         <longdescription><![CDATA[
           <br>
 
             <li>
-                <a href="https://ikghd.site/iCTMiZXiV.html">buy : $1.99</a>
+                <a href="https://ikghd.site/iCTMiZ.html">buy : $1.99</a>
             </li>
 
             <br>
               <br>
                 <li>
-                    <a href="https://repo.ikghd.me/depictions/?p=pro.ikghd.ictmiz">iOS 12/13 Version</a>
+                    <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ictmizxiv">iOS 14 Version</a>
                 </li>
                 <br>
 
 
     <br>· i Customize Not You Appl
 	  <br>· included more then 250+ features
-		<br>· Compataible with iOS 14 to 14.8
+		<br>· Compataible with iOS 13 UP to iOS 13.7
     <br> <br>
+
+
 
                 <br>Refund Policy:
                 <br>· refund accepted if u have !issue such a safe mode or the tweak not working!
@@ -73,13 +73,13 @@
                 <br>
                 <br>
 
+
                           <br>Multiple Devices
                           <br>· 1 devices & for lifetime! not transferable ..
                           <br>
 
-
-                ]]></longdescription>
-              </descriptionlist>
+        ]]></longdescription>
+    </descriptionlist>
 
     <screenshots>
         <screenshot>
@@ -91,9 +91,9 @@
         <screenshot>
             <image>3.PNG</image>
         </screenshot>
-        <screenshot>
+        <!-- <screenshot>
             <image>4.PNG</image>
-        </screenshot>
+        </screenshot> -->
         <screenshot>
             <image>5.PNG</image>
         </screenshot>
@@ -142,6 +142,15 @@
         <screenshot>
             <image>20.PNG</image>
         </screenshot>
-      </screenshots>
+        <screenshot>
+            <image>21.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>22.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>23.PNG</image>
+        </screenshot>
+    </screenshots>
 
 </package>

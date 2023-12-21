@@ -1,11 +1,11 @@
 <package>
    <id>me.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.13</version>
+    <version>1.14</version>
     <compatibility>
         <firmware>
-            <miniOS>13.0</miniOS>
-            <maxiOS>16.x</maxiOS>
+            <miniOS>14.0</miniOS>
+            <maxiOS>17.x</maxiOS>
         </firmware>
     </compatibility>
 
@@ -22,11 +22,11 @@
         </jailed>
 
     <version2>
-      <version2>1.13</version2>
+      <version2>1.14</version2>
     </version2>
 
     <date>
-      <date>Aug 29, 2023</date>
+      <date>Dec 18, 2023</date>
     </date>
 
     <price>
@@ -76,10 +76,6 @@
               </li>
             <br>
 
-
-              <br>iOS 12 / 12.5.5 ?
-              <br>· downgrade to version 1.2.0
-              <br>
 
                       <br>Refund Policy:
                       <br>· refund accepted if u have !issue such a safe mode or the tweak not working!

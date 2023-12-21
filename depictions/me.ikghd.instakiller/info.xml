@@ -1,11 +1,11 @@
 <package>
    <id>me.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.11</version>
+    <version>1.12</version>
     <compatibility>
         <firmware>
-            <miniOS>13.0</miniOS>
-            <maxiOS>16.x</maxiOS>
+            <miniOS>14.0</miniOS>
+            <maxiOS>17.x</maxiOS>
         </firmware>
     </compatibility>
 
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>1.11</version2>
+      <version2>1.12</version2>
     </version2>
 
         <date>
-          <date>Oct 06, 2023</date>
+          <date>Dec 18, 2023</date>
         </date>
 
         <price>
@@ -35,11 +35,7 @@
         </price>
 
         <changelog>
-          <change>· add confirm to follow on Reels tab (prevent accidentely)follow users</change>
-          <change>· add hide suggested post on feed on by default with hide ad</change>
-          <change>· fix saving pofile images on latest IG version</change>
-          <change>· fix like confirm on feed posts on latest IG version</change>
-          <change>· some other fixes to the buttons and minor improvements</change>
+          <change>· fixes and minor improvements</change>
         </changelog>
 
 

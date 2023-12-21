@@ -118,7 +118,7 @@
             },
 
             {
-                "markdown":"- fixes & improvements\n- add stripe payment method\n- update license activation to be automaticly",
+                "markdown":"- fixes & improvements",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -134,12 +134,12 @@
             },
             {
                "title":"Version",
-               "text":"1.13",
+               "text":"1.14",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 29, 2023",
+               "text":"Dec 18, 2023",
                "class":"DepictionTableTextView"
             },
             {

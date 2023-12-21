@@ -138,7 +138,7 @@
             },
 
             {
-                "markdown":"- add confirm to follow on Reels tab (prevent accidentely)follow users\n- add hide suggested post on feed on by default with hide ad\n- fix saving pofile images on latest IG version\n- fix like confirm on feed posts on latest IG version\n- some other fixes to the buttons and minor improvements\n- update ipa to Instagram v302.0",
+                "markdown":"- fixes and minor improvements\n- update ipa to Instagram v311.0.2",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -153,12 +153,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.2",
+               "text":"2.2.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 30, 2023",
+               "text":"Dec 18, 2023",
                "class":"DepictionTableTextView"
             },
             {
@@ -172,7 +172,7 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Jailed Support (iPA)",
+               "title":"Jailed Support",
                "text":"Yes",
                "class":"DepictionTableTextView"
             },
