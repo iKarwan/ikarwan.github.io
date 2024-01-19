@@ -147,7 +147,7 @@
             },
 
             {
-                "markdown":"- fixes issues & squashed some bugs\n- update iPA to YouTube_v18.49.3",
+                "markdown":"- fixes issues & squashed some bugs\n- special thanks to BanderHilal @BandarHl\n- update iPA to YouTube_v19.02.1",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -162,12 +162,12 @@
             },
             {
                "title":"Version",
-               "text":"2.3.5",
+               "text":"2.3.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Dec 18, 2023",
+               "text":"Jan 20, 2024",
                "class":"DepictionTableTextView"
             },
             {
