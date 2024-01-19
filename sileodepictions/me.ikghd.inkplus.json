@@ -138,7 +138,7 @@
             },
 
             {
-                "markdown":"- add dhide suggested post in feed\n- fixes and  improvements\n- add direct message section\n- add keep Unsend messages\n- fixing seen dm with instagram v305 and later\n- other minor fixes and improvements\n- update ipa to Instagram v313.0.2",
+                "markdown":"- add dhide suggested post in feed\n- fixes and  improvements\n- add direct message section\n- add keep Unsend messages\n- fixing seen dm with instagram v305 and later\n- other minor fixes and improvements\n- update ipa to Instagram v314.0.6",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
