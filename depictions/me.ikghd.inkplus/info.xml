@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.2.4</version>
+    <version>2.2.5</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>2.2.4</version2>
+      <version2>2.2.5</version2>
     </version2>
 
     <date>
-      <date>Jan 10, 2024</date>
+      <date>Jan 19, 2024</date>
     </date>
 
     <price>
@@ -35,6 +35,9 @@
     </price>
 
     <changelog>
+      <change>· add hide suggested post (Feed)</change>
+      <change>· fixes and improvements</change>
+      <change></change>
       <change>· add direct message section</change>
       <change>· add keep Unsend messages</change>
       <change>· fixing seen dm with instagram v305 and later</change>
@@ -74,6 +77,7 @@
           <br>· Save Image from post Stories & profile
           <br>· block all promo ads
           <br>· Quick seen/unseen stories/DM's Button
+          <br>· keep unsend message
           <br>· copy various text like comments description bio ext...
           <br>· variuos confirmation on like double tap..
           <br>· lock the app
