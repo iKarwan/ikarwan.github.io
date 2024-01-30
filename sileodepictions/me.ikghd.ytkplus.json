@@ -129,7 +129,7 @@
                "class":"DepictionHeaderView"
             },
             {
-                "markdown": "- Download Video/Audio/Shorts & Image\r\n- Download Manager for manging downloaded Items\r\n- Import Videos To Photos\r\n- block all advertisment\r\n- play in background\r\n- stream HD videos over 3G/4G/5G\r\n- stream 4K videos \r\n- PiP feature Picture in Picture\r\n- oled mode better experiance dark mode\r\n- Customize tab bar layout\r\n- AppLock Settings\r\n- and many more settings\n- supporting iPadOS ..",
+                "markdown": "- Download Video/Audio/Shorts & Image\r\n- full speed 🚀 download and background support\r\n- Download Manager for manging downloaded Items\r\n- Import Videos To Photos\r\n- block all advertisment\r\n- play in background\r\n- stream HD videos over 3G/4G/5G \r\n- PiP feature Picture in Picture\r\n- Customize tab bar layout\r\n- and many more settings\n- supporting iPadOS ..",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
