@@ -4,7 +4,7 @@
     <version>2.3.8</version>
     <compatibility>
         <firmware>
-            <miniOS>13.0</miniOS>
+            <miniOS>14.0</miniOS>
             <maxiOS>17.x</maxiOS>
         </firmware>
     </compatibility>
@@ -128,15 +128,15 @@
       <screenshot>
           <image>4.PNG</image>
       </screenshot>
-      <screenshot>
-          <image>5.PNG</image>
-      </screenshot>
+      <!-- <screenshot> -->
+          <!-- <image>5.PNG</image> -->
+      <!-- </screenshot> -->
       <screenshot>
           <image>6.PNG</image>
       </screenshot>
-      <screenshot>
-          <image>7.PNG</image>
-      </screenshot>
+      <!-- <screenshot> -->
+          <!-- <image>7.PNG</image> -->
+      <!-- </screenshot> -->
       <screenshot>
           <image>8.PNG</image>
       </screenshot>
