@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.12</version>
+    <version>1.13</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>1.12</version2>
+      <version2>1.13</version2>
     </version2>
 
         <date>
-          <date>Dec 18, 2023</date>
+          <date>Feb 18, 2024</date>
         </date>
 
         <price>
@@ -35,7 +35,13 @@
         </price>
 
         <changelog>
-          <change>· fixes and minor improvements</change>
+          <change>· add hide suggested post in feed</change>
+          <change>· add direct meassage section</change>
+          <change>· fixes seen dm with Instagram v305 and above</change>
+          <change>· add keep unsend message</change>
+          <change>· add tabs section</change>
+          <change>· other fixes and minor improvements</change>
+          <change>· add support latest Instagram version 319.0.2</change>
         </changelog>
 
 
@@ -59,7 +65,8 @@
           <br>· Download Reel Videos
             <br>· Download Story Videos & Photos
               <br>· Download Photos
-          <br>· block all advertisment
+                <br>· block all advertisment
+                  <br>· keep unsend message
             <br>· focus Mode | focus on what's new only
               <br>· Quick see/unsee stories/DM's Button
                 <br>· copy various text like comments description ext...

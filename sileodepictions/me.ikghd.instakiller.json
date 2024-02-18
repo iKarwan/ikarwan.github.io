@@ -118,7 +118,7 @@
                 "title": "markdown-description",
                 "useBoldText": true,
                 "useBottomMargin": false,
-                "markdown": "          Main Options:\r\n          \u00b7 Download Videos\r\n          \u00b7 Download IGTV Videos\r\n          \u00b7 Download Reel Videos\r\n          \u00b7 Download Story Videos & Photos\r\n          \u00b7 Download Photos\r\n          \u00b7 block all advertisment\r\n          \u00b7 and many more settings",
+                "markdown": "          Main Options:\r\n          \u00b7 Download Videos\r\n          \u00b7 Download IGTV Videos\r\n          \u00b7 Download Reel Videos\r\n          \u00b7 Download Story Videos & Photos\r\n          \u00b7 Download Photos\r\n          \u00b7 block all advertisment\r\n  \u00b7 keep unsend message\r\n          \u00b7 and many more settings",
                 "class": "DepictionMarkdownView"
             },
 
@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- fixes and minor improvements",
+                                "markdown":"- add hide suggested post in feed\n- add direct meassage section\n- fixes seen dm with Instagram v305 and above\n- add keep unsend message\n- add tabs section\n- other fixes and minor improvements\n- add support latest Instagram version 319.0.2",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,13 +149,13 @@
             },
             {
                "title":"Version",
-               "text":"1.12",
+               "text":"1.13",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"Dec 18, 2023",
+               "text":"Feb 18, 2024",
                "class":"DepictionTableTextView"
             },
 
