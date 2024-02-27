@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.pmp</id>
     <name>PMP</name>
-    <version>1.7-1</version>
+    <version>1.8</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -10,7 +10,7 @@
     </compatibility>
 
     <rootless>
-      <rootless>No</rootless>
+      <rootless>Yes</rootless>
     </rootless>
 
     <jailbreak>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>1.7-1</version2>
+      <version2>1.8</version2>
     </version2>
 
         <date>
-          <date>May 06, 2023</date>
+          <date>Feb 28, 2024</date>
         </date>
 
         <price>
@@ -35,7 +35,7 @@
         </price>
 
         <changelog>
-          <change>・fixes kiling the app when enabling the hide option</change>
+          <change>・add support fo Rootless JB dopamine</change>
           <change></change>
           <change>・rewritten from scratch</change>
         </changelog>

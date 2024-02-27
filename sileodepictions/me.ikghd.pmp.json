@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
+                                "markdown":"- add support fo Rootless JB dopamine/- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -89,12 +89,12 @@
             },
             {
                "title":"Version",
-               "text":"1.7-1",
+               "text":"1.8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 06, 2023",
+               "text":"Feb 28, 2024",
                "class":"DepictionTableTextView"
             },
 
@@ -115,7 +115,7 @@
             },
             {
                "title":"Rootless Support",
-               "text":"No",
+               "text":"Yes",
                "class":"DepictionTableTextView"
             },
             {

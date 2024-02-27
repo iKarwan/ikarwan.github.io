@@ -365,6 +365,27 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.packed.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.packed.png
 
 Package: me.ikghd.pmp
+Version: 1.8
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, firmware(>= 12.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.pmp_1.8_iphoneos-arm.deb
+Size: 55408
+Installed-Size: 792
+MD5sum: 7b6c8eb590e36c27ab4d232860f80354
+SHA1: a60572ec1a189fafd754d694156dde30603b5fae
+SHA256: f2ba4c048c1f32d3d825f4e3fde125f91fea403d591c3e53aa34ce64c61653ab
+Description: PMP Protect My Photos!
+Name: PMP
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.pmp
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+
+Package: me.ikghd.pmp
 Version: 1.7-1
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -378,6 +399,27 @@ Installed-Size: 776
 MD5sum: a4841bfd83246d3a9f92b97c2f62ef0b
 SHA1: 4f8887f980f5ae1f352800e29d47bc763c409822
 SHA256: 28f4f1fe828fa74fbce133787e4183f6b65946778520a27407464d813d77186c
+Description: PMP Protect My Photos!
+Name: PMP
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.pmp
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+
+Package: me.ikghd.pmp
+Version: 1.8
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, firmware(>= 15.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.pmp_1.8_iphoneos-arm64.deb
+Size: 55484
+Installed-Size: 792
+MD5sum: 892c61e8ff1a1be8ca7cf45b487b9833
+SHA1: 3380e45b88f921d84955ddc5dfa03c1049e43ef6
+SHA256: abe85c589c8cfc426437c3ba1c4b58540f25b52608a2f5a397fe6f51479fb5f2
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikghd3@gmail.com>
