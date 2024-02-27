@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.pmp</id>
     <name>PMP</name>
-    <version>1.8</version>
+    <version>1.9</version>
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
@@ -23,7 +23,7 @@
 
 
     <version2>
-      <version2>1.8</version2>
+      <version2>1.9</version2>
     </version2>
 
         <date>
@@ -35,6 +35,8 @@
         </price>
 
         <changelog>
+          <change>・ensures notification is posted after reading preferences</change>
+          <change></change>
           <change>・add support fo Rootless JB dopamine</change>
           <change></change>
           <change>・rewritten from scratch</change>

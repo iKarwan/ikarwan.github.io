@@ -73,7 +73,7 @@
                             },
 
                             {
-                                "markdown":"- add support fo Rootless JB dopamine/- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
+                                "markdown":"- ensures notification is posted after reading preferences\n- add support fo Rootless JB dopamine\n- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -89,7 +89,7 @@
             },
             {
                "title":"Version",
-               "text":"1.8",
+               "text":"1.9",
                "class":"DepictionTableTextView"
             },
             {

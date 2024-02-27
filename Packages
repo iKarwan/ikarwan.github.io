@@ -365,6 +365,48 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.packed.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.packed.png
 
 Package: me.ikghd.pmp
+Version: 1.9
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, firmware(>= 12.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.pmp_1.9_iphoneos-arm.deb
+Size: 55432
+Installed-Size: 792
+MD5sum: 5e0fc579e576443b1824c642eb3cbdc7
+SHA1: 92bf334ee6ce8c884dad21ea74ca6c6cc0537e2a
+SHA256: 1dee4cf99aaebe7f5fe94f9c732e7395c6a157ce3bfb7b49bd5d0ee693164111
+Description: PMP Protect My Photos!
+Name: PMP
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.pmp
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+
+Package: me.ikghd.pmp
+Version: 1.9
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, firmware(>= 15.0), com.opa334.ccsupport
+Conflicts: pro.ikghd.pmp
+Replaces: pro.ikghd.pmp
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.pmp_1.9_iphoneos-arm64.deb
+Size: 55500
+Installed-Size: 792
+MD5sum: e02c35febe42a949ef323e72dd6131b6
+SHA1: cbcc0d99401b54de5eb6f0f4a025a79b12ae76b8
+SHA256: 83453e4eb0c895f50dcdd149f4cd69c639e4ff2d511f49431e0c167c3077d371
+Description: PMP Protect My Photos!
+Name: PMP
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.pmp
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
+
+Package: me.ikghd.pmp
 Version: 1.8
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
