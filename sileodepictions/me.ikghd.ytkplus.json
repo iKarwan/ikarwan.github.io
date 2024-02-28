@@ -139,7 +139,7 @@
             },
 
             {
-                "markdown":"- fixes issues & squashed some bugs\n- update iPA to YouTube_v19.07.5\n- if u need help! always pls contact the support on X/@ikg_support",
+                "markdown":"- fixes issues & squashed some bugs\n- update iPA to YouTube_v19.08.2\n- if u need help! always pls contact the support on X/@ikg_support",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -154,12 +154,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.0",
+               "text":"2.4.1",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Feb 24, 2024",
+               "text":"Feb 29, 2024",
                "class":"DepictionTableTextView"
             },
             {

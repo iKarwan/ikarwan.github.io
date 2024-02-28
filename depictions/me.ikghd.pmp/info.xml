@@ -37,7 +37,7 @@
         <changelog>
           <change>・ensures notification is posted after reading preferences</change>
           <change></change>
-          <change>・add support fo Rootless JB dopamine</change>
+          <change>・add support for Rootless JB dopamine</change>
           <change></change>
           <change>・rewritten from scratch</change>
         </changelog>
@@ -50,6 +50,13 @@
             <br>· control center module to hide hidden & recent delete photos
               <br>· control center module to hide camera recent picture access
       		<br>
+
+
+            <br>NOTICE!!:
+            <br>· U need to have faceID/touchID or password to be enabled in order to use this tweak .
+            <br>· On ios 15/16.x u need to respring after adding the madule to controll center section .
+            <br>
+
         ]]></longdescription>
     </descriptionlist>
 
