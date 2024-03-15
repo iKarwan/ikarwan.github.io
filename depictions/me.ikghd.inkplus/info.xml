@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.2.5</version>
+    <version>2.2.6</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>2.2.5</version2>
+      <version2>2.2.6</version2>
     </version2>
 
     <date>
-      <date>Jan 20, 2024</date>
+      <date>Mar 16, 2024</date>
     </date>
 
     <price>
@@ -35,14 +35,8 @@
     </price>
 
     <changelog>
-      <change>· add hide suggested post (Feed)</change>
-      <change>· fixes and improvements</change>
-      <change></change>
-      <change>· add direct message section</change>
-      <change>· add keep Unsend messages</change>
-      <change>· fixing seen dm with instagram v305 and later</change>
-      <change>· other minor fixes and improvements</change>
-      <change>· update ipa to newer Instagram v314.0.6</change>
+      <change>· minor fixes and improvements</change>
+      <change>· update ipa to newer Instagram v323.0</change>
     </changelog>
 
 

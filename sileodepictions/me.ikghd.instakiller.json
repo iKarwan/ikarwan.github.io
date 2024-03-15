@@ -133,7 +133,7 @@
                             },
 
                             {
-                                "markdown":"- add hide suggested post in feed\n- add direct meassage section\n- fixes seen dm with Instagram v305 and above\n- add keep unsend message\n- add tabs section\n- other fixes and minor improvements\n- add support latest Instagram version 319.0.2",
+                                "markdown":"- fixes and minor improvements\n- add support latest Instagram version 323.0",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -149,13 +149,13 @@
             },
             {
                "title":"Version",
-               "text":"1.13",
+               "text":"1.14",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"Feb 18, 2024",
+               "text":"Mar 16, 2024",
                "class":"DepictionTableTextView"
             },
 
