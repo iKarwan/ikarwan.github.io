@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.4.5</version>
+    <version>2.4.6</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>2.4.5</version2>
+      <version2>2.4.6</version2>
     </version2>
 
     <date>
-      <date>Mar 18, 2024</date>
+      <date>Mar 21, 2024</date>
     </date>
 
     <price>
@@ -34,8 +34,8 @@
     </price>
 
     <changelog>
-      <change>· fixes issues &amp; squashed some bugs</change>
-      <change>· update iPA to YouTube_v19.10.5</change>
+      <change>· fixes api issue with latest YouTube versions</change>
+      <change>· update iPA to YouTube_v19.10.6</change>
       <change>· contact support on x.com/@ikg_support for help and support</change>
     </changelog>
 
