@@ -120,6 +120,48 @@ Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
+Package: me.ikghd.instakiller
+Version: 1.15
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0)
+Conflicts: pro.ikghd.instakiller, me.ikghd.inkplus
+Replaces: pro.ikghd.instakiller
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.instakiller_1.15_iphoneos-arm.deb
+Size: 522362
+Installed-Size: 2264
+MD5sum: 3e5c25585cf4b491b6b90cdabd6a7944
+SHA1: 2acd39511118158367476f5a6ceee32cc669f168
+SHA256: b9f21f427da38f891e96cb2b08772a7185c0b60a0acf40f8b0c005d08d94bce4
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
+
+Package: me.ikghd.instakiller
+Version: 1.15
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
+Conflicts: pro.ikghd.instakiller, me.ikghd.inkplus
+Replaces: pro.ikghd.instakiller
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.instakiller_1.15_iphoneos-arm64.deb
+Size: 522532
+Installed-Size: 2264
+MD5sum: ffd5a87cac7f3d78d36db6fd5fc54187
+SHA1: ce6bccb20bd1c2a6801ae728310ec6343eb9c5e3
+SHA256: 495b85b5047a37c848f2e317a6512efbd4f158269a35685c962fd9a58f2bc185
+Description: iNstagram app no ad’s Media Downloads and much more...
+Name: iNstaKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.instakiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
+
 Package: me.ikghd.ol3dtube
 Version: 1.9
 Section: Tweaks
