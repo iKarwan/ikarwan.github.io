@@ -118,7 +118,7 @@
             },
 
             {
-                "markdown":"- fixes api issue with newer YouTube versions\n- other fixes & improvements",
+                "markdown":"- fixes api issue with newer YouTube versions PiP+Downloads\n- other fixes & improvements",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
