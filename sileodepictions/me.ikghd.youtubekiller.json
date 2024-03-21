@@ -118,7 +118,7 @@
             },
 
             {
-                "markdown":"- fixes & improvements",
+                "markdown":"- fixes api issue with newer YouTube versions\n- other fixes & improvements",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -134,12 +134,12 @@
             },
             {
                "title":"Version",
-               "text":"1.15",
+               "text":"1.16",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Mar 10, 2024",
+               "text":"Mar 21, 2024",
                "class":"DepictionTableTextView"
             },
             {
