@@ -121,19 +121,19 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
 Package: me.ikghd.instakiller
-Version: 1.13
+Version: 1.16
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0)
 Conflicts: pro.ikghd.instakiller, me.ikghd.inkplus
 Replaces: pro.ikghd.instakiller
 Architecture: iphoneos-arm
-Filename: .//debs/me.ikghd.instakiller_1.13_iphoneos-arm.deb
-Size: 611156
-Installed-Size: 2840
-MD5sum: e4deeed67109a8c2b20e375880c7ab67
-SHA1: 7f2a7b3c43816b2c516bb3ccaff6e6c8b6380348
-SHA256: 072b2ab417665b6e7005847f01bcf9885c8076eb00a6b8d1794763a404c449e9
+Filename: .//debs/me.ikghd.instakiller_1.16_iphoneos-arm.deb
+Size: 613566
+Installed-Size: 2844
+MD5sum: 181eed210a34d28aa1f0b248e727e852
+SHA1: e847968624a06de8de4c841ba5ac027bf7b6fa07
+SHA256: 1a8e47cbb35d6f1a40eb85d5c67e3566c37c4ad38138412a5587005826fd7687
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikghd3@gmail.com>
@@ -142,19 +142,19 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
 
 Package: me.ikghd.instakiller
-Version: 1.13
+Version: 1.15
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware ( >= 15.0)
+Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0)
 Conflicts: pro.ikghd.instakiller, me.ikghd.inkplus
 Replaces: pro.ikghd.instakiller
-Architecture: iphoneos-arm64
-Filename: .//debs/me.ikghd.instakiller_1.13_iphoneos-arm64.deb
-Size: 611328
-Installed-Size: 2840
-MD5sum: 7e557f881ad2e015f6505508a9716b5a
-SHA1: 13c74b78dcef436b775c50b9bfeafb88016213e8
-SHA256: 79380b7f0eb8a069ec1276e0092210ce4978efd6eed786ddf5498f3a09f156e3
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.instakiller_1.15_iphoneos-arm.deb
+Size: 613548
+Installed-Size: 2844
+MD5sum: 6aefe93e262779815a97b484acbbcba6
+SHA1: c6d70f154b78c5d28e6c499e398de7b98d59038c
+SHA256: b5cafdc4b5d8c16bff24b8823d1809cb4f99e14e7c65d37fd7ecf9ea327ce519
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikghd3@gmail.com>

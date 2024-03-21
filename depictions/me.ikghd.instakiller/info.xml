@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.13</version>
+    <version>1.16</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -23,7 +23,7 @@
 
 
     <version2>
-      <version2>1.13</version2>
+      <version2>1.16</version2>
     </version2>
 
         <date>
