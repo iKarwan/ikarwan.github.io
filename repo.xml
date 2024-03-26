@@ -1,8 +1,12 @@
 <repo>
 	<footerlinks>
 		<link>
-	    <url>https://paypal.me/hiwajaf</url>
+	    <url>https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW</url>
 			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+	    <url>https://www.buymeacoffee.com/ikghd</url>
+			<iconclass>fa fa-coffee</iconclass>
 		</link>
 		<link>
 			<url>https://twitter.com/ikg_hd</url>
