@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>2.4.6</version>
+    <version>3.0.0</version>
     <compatibility>
         <firmware>
             <miniOS>13.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>2.4.6</version2>
+      <version2>3.0.0</version2>
     </version2>
 
     <date>
-      <date>Mar 21, 2024</date>
+      <date>Apr 17, 2024</date>
     </date>
 
     <price>
@@ -34,8 +34,44 @@
     </price>
 
     <changelog>
-      <change>· fixes api issue with latest YouTube versions</change>
-      <change>· update iPA to YouTube_v19.10.6</change>
+      <change>· NEW:</change>
+      <change></change>
+      <change>· a whole new download</change>
+      <change>· all new context menus using native YouTube class</change>
+      <change>· add new section contain all nesscacery button for (Overlay)</change>
+      <change>· a whole new PiP Implementation in (Beta)</change>
+      <change>· add new Playback speed icon to overlay</change>
+      <change>· add new select default quality on Wifi/Cellular</change>
+      <change>· add new to show all qality up to 1080p</change>
+      <change>· moved download icon and pip to new pisition in overlay</change>
+      <change>· add save image with in dwn button option</change>
+      <change>· add cppy info using dwn button (title/description)</change>
+      <change>· add copy post description</change>
+      <change>· add save channel profile image</change>
+      <change>· add copy comments</change>
+      <change>· add use premium logo in (NavBar)</change>
+      <change>· add new shoert icon to expand/unexpand the player</change>
+      <change>· add new auto skip short to next clip when end</change>
+      <change>· add show the current name and artwork for playieng video and audio on download manager</change>
+      <change></change>
+      <change>· FIXES:</change>
+      <change></change>
+      <change>· optimize the download manager completely</change>
+      <change>· fixes all layout issues for Plus and max screen devices</change>
+      <change>· fixes hanlde video pip mode to restore to fullscreen insted of closing when playieng it on download manager</change>
+      <change>· fixes custom double tap timer not handling currect times</change>
+      <change></change>
+      <change>· SPECIAL THANKS:</change>
+      <change>· this update wasn't possible without those great ppl:</change>
+      <change></change>
+      <change>· Dayanch96</change>
+      <change>· PoomSmart</change>
+      <change>· Bandar Helal</change>
+      <change>· Nasser Alharbe</change>
+      <change></change>
+      <change>· OTHER:</change>
+      <change></change>
+      <change>· update iPA to YouTube_v19.15.1</change>
       <change>· contact support on x.com/@ikg_support for help and support</change>
     </changelog>
 
@@ -76,6 +112,7 @@
           <br>· play in background
       		<br>· stream HD videos over 3G/4G/5G
           <br>· PiP feature Picture in Picture
+          <br>· select deafault quality on Wifi/Cellular
           <br>· Customize tab bar layout
           <br>· and many more settings..
           <br>· supporting iPadOS ..
@@ -128,15 +165,15 @@
       <screenshot>
           <image>4.PNG</image>
       </screenshot>
-      <!-- <screenshot> -->
-          <!-- <image>5.PNG</image> -->
-      <!-- </screenshot> -->
+      <screenshot>
+          <image>5.PNG</image>
+      </screenshot>
       <screenshot>
           <image>6.PNG</image>
       </screenshot>
-      <!-- <screenshot> -->
-          <!-- <image>7.PNG</image> -->
-      <!-- </screenshot> -->
+      <screenshot>
+          <image>7.PNG</image>
+      </screenshot>
       <screenshot>
           <image>8.PNG</image>
       </screenshot>

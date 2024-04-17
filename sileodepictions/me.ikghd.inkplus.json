@@ -138,7 +138,7 @@
             },
 
             {
-                "markdown":"- long press on instagram text logo to access the tweak settings\n- minor fixes and improvements\n- update ipa to Instagram v322.1",
+                "markdown":"- long press on instagram text logo to access the tweak settings\n- minor fixes and improvements\n- update ipa to Instagram v327.1",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -153,12 +153,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.8",
+               "text":"2.2.9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Mar 21, 2024",
+               "text":"Apr 17, 2024",
                "class":"DepictionTableTextView"
             },
             {
