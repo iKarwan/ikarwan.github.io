@@ -149,7 +149,7 @@
             },
 
             {
-                "markdown":"- fix default playback speed rate\n- other fixes and improvements\n \n\n- NEW:\n- a whole new download\n- all new context menus using native YouTube class\n- add new section contain all nesscacery button for (Overlay)\n- a whole new PiP Implementation in (Beta)\n- add new Playback speed icon to overlay\n- add new select default quality on Wifi/Cellular\n- add new to show all qality up to 1080p\n- moved download icon and pip to new pisition in overlay\n- add save image with in dwn button option\n- add cppy info using dwn button (title/description)\n- add copy post description\n- add save channel profile image\n- add copy comments\n- add use premium logo in (NavBar)\n- add new shoert icon to expand/unexpand the player\n- add new auto skip short to next clip when end\n- add show the current name and artwork for playieng video and audio on download manager\n- FIXES:\n- optimize the download manager completely\n- fixes all layout issues for Plus and max screen devices\n- fixes hanlde video pip mode to restore to fullscreen insted of closing when playieng it on download manager\n- fixes custom double tap timer not handling currect times\n- SPECIAL THANKS:\n- this update wasn't possible without those great ppl:\n- Dayanch96\n- PoomSmart\n- Bandar Helal\n- Nasser Alharbe\n- OTHER: \n- update iPA to YouTube_v19.18.2\n- contact support on x.com/@ikg_support for help and support",
+                "markdown":"- fixes and improvements\n- fix default playback speed rate\n- other fixes and improvements\n \n\n- NEW:\n- a whole new download\n- all new context menus using native YouTube class\n- add new section contain all nesscacery button for (Overlay)\n- a whole new PiP Implementation in (Beta)\n- add new Playback speed icon to overlay\n- add new select default quality on Wifi/Cellular\n- add new to show all qality up to 1080p\n- moved download icon and pip to new pisition in overlay\n- add save image with in dwn button option\n- add cppy info using dwn button (title/description)\n- add copy post description\n- add save channel profile image\n- add copy comments\n- add use premium logo in (NavBar)\n- add new shoert icon to expand/unexpand the player\n- add new auto skip short to next clip when end\n- add show the current name and artwork for playieng video and audio on download manager\n- FIXES:\n- optimize the download manager completely\n- fixes all layout issues for Plus and max screen devices\n- fixes hanlde video pip mode to restore to fullscreen insted of closing when playieng it on download manager\n- fixes custom double tap timer not handling currect times\n- SPECIAL THANKS:\n- this update wasn't possible without those great ppl:\n- Dayanch96\n- PoomSmart\n- Bandar Helal\n- Nasser Alharbe\n- OTHER: \n- update iPA to YouTube_v19.18.2\n- contact support on x.com/@ikg_support for help and support",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -164,12 +164,12 @@
             },
             {
                "title":"Version",
-               "text":"3.0.2",
+               "text":"3.0.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"May 08, 2024",
+               "text":"May 10, 2024",
                "class":"DepictionTableTextView"
             },
             {
