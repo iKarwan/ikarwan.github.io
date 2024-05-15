@@ -138,7 +138,7 @@
             },
 
             {
-                "markdown":"- long press on instagram text logo to access the tweak settings\n- minor fixes and improvements\n- update ipa to Instagram v327.1",
+                "markdown":"- fix story download icon not showing on v330 and later\n- update ipa to Instagram v322.1",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -153,12 +153,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.9",
+               "text":"2.3.0",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Apr 17, 2024",
+               "text":"May 15, 2024",
                "class":"DepictionTableTextView"
             },
             {
