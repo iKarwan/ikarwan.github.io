@@ -406,6 +406,46 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.jso
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
 
 Package: me.ikghd.youtubekiller
+Version: 1.17
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 14.0)
+Conflicts: pro.ikghd.youtubekiller, me.ikghd.ytkplus
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.youtubekiller_1.17_iphoneos-arm.deb
+Size: 811156
+Installed-Size: 4000
+MD5sum: 26107cf2a6e71385a105cd6c07d52b8a
+SHA1: 0f67b3fae9ece90eba7a1d51f71b10fd8f789d6e
+SHA256: 6936fcf006c1c40d1aeaac030b5757762166de813f24cd6ec8b04d972e11f2c2
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
+
+Package: me.ikghd.youtubekiller
+Version: 1.17
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 14.0)
+Conflicts: pro.ikghd.youtubekiller, me.ikghd.ytkplus
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.youtubekiller_1.17_iphoneos-arm64.deb
+Size: 811768
+Installed-Size: 4000
+MD5sum: 15b33ff55812811ca4cec3353f69cb65
+SHA1: fca5f6db28b77ce3fbf4d65415e38beaea97e5f3
+SHA256: 219def25907ef35241d02ef8568fb5a88cde79d1e51c171814a8bb15d516d812
+Description: Youtube app no ad’s background playback iPad UI style and much more !
+Name: YouTubeKiller
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.youtubekiller
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
+
+Package: me.ikghd.youtubekiller
 Version: 1.16
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>

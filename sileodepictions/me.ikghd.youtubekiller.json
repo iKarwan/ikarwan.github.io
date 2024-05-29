@@ -118,7 +118,7 @@
             },
 
             {
-                "markdown":"- fixes api issue with newer YouTube versions PiP+Downloads\n- other fixes & improvements",
+                "markdown":"- fixes and improvements\n- fixes api issue with newer YouTube versions PiP+Downloads",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -134,12 +134,12 @@
             },
             {
                "title":"Version",
-               "text":"1.16",
+               "text":"1.17",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Mar 21, 2024",
+               "text":"May 30, 2024",
                "class":"DepictionTableTextView"
             },
             {
