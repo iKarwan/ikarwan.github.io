@@ -304,6 +304,48 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.instakiller.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.instakiller.png
 
 Package: me.ikghd.ol3dtube
+Version: 2.0
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 14.0)
+Conflicts: pro.ikghd.ol3dtube
+Replaces: pro.ikghd.ol3dtube
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ol3dtube_2.0_iphoneos-arm.deb
+Size: 122766
+Installed-Size: 796
+MD5sum: 267d491b8a12de3f9c5e5003c9e6cfc2
+SHA1: 4ede05d140af63ba7f0f7cd326f55592f326e7e2
+SHA256: a21e2199918e7843b60ff0a8a1fb5d910d4e03535c845301a826e06093ba14c3
+Description: Ol3d Dark Mode For YouTube!
+Name: OL3DTube
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ol3dtube.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ol3dtube.png
+
+Package: me.ikghd.ol3dtube
+Version: 2.0
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 14.0)
+Conflicts: pro.ikghd.ol3dtube
+Replaces: pro.ikghd.ol3dtube
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.ol3dtube_2.0_iphoneos-arm64.deb
+Size: 123006
+Installed-Size: 780
+MD5sum: 3cf785a4c862a9c69186da070190523c
+SHA1: d38303ea4f3f97df266fc267a519927933ca5c37
+SHA256: 14deec29d7410b7b7036c96e7ca750f1ffbfeaab314705f9a9b36e94c0648d5c
+Description: Ol3d Dark Mode For YouTube!
+Name: OL3DTube
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ol3dtube.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ol3dtube.png
+
+Package: me.ikghd.ol3dtube
 Version: 1.9
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
