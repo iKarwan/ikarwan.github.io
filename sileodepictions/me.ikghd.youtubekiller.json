@@ -2,9 +2,6 @@
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/assets/banners/ytk.png",
    "tintColor":"#DB3E00",
-   "tabs":[
-      {
-         "tabname":"Details",
          "views":[
             {
                 "itemCornerRadius":8,
@@ -207,6 +204,3 @@
          ],
          "class":"DepictionStackView"
       }
-   ],
-   "class":"DepictionTabView"
-}

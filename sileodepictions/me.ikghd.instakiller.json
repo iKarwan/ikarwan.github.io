@@ -2,9 +2,6 @@
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/assets/banners/instak.png",
    "tintColor":"#ff7c9f",
-   "tabs":[
-      {
-         "tabname":"Details",
          "views":[
             {
                 "itemCornerRadius":8,
@@ -229,6 +226,3 @@
          ],
          "class":"DepictionStackView"
       }
-   ],
-   "class":"DepictionTabView"
-}

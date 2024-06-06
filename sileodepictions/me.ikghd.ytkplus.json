@@ -2,7 +2,7 @@
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/assets/banners/YTKBanner.png",
    "tintColor":"#fa2942",
-     "views":[
+      "views":[
             {
                 "itemCornerRadius":8,
                 "itemSize":"{195, 385}",
