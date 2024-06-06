@@ -3,6 +3,76 @@
    "headerImage": "https://repo.ikghd.me/assets/banners/ikgpack.png",
    "tintColor": "#C1E1C5",
    "views": [
+     {
+         "itemCornerRadius":9,
+         "itemSize":"{200, 377}",
+         "screenshots":[
+             {
+                 "accessibilityText":"Screenshot",
+                 "url":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/1.PNG",
+                 "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/1.PNG"
+             },
+             {
+                 "accessibilityText":"Screenshot",
+                 "url":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/2.PNG",
+                 "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/2.PNG"
+             },
+             {
+                 "accessibilityText":"Screenshot",
+                 "url":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/3.PNG",
+                 "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/3.PNG"
+             },
+             {
+                 "accessibilityText":"Screenshot",
+                 "url":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/4.PNG",
+                 "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/4.PNG"
+             }
+
+         ],
+         "ipad":{
+             "itemCornerRadius":9,
+             "itemSize":"{320, 550.8266666666667}",
+             "screenshots":[
+                 {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/1.PNG",
+                     "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/1.PNG"
+                 },
+                 {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/2.PNG",
+                     "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/2.PNG"
+                 },
+                 {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/3.PNG",
+                     "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/3.PNG"
+                 },
+                 {
+                     "accessibilityText":"Screenshot",
+                     "url":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/4.PNG",
+                     "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.packed/screenshots/4.PNG"
+                 }
+
+             ],
+             "class":"DepictionScreenshotView"
+         },
+         "class":"DepictionScreenshotsView"
+     },
+     {
+        "class":"DepictionSeparatorView"
+     },
+
+     {
+       "title":"buy : $4.99",
+        "useBoldText": true,
+        "action":"https://ikghd.site/iKGPack.html",
+        "class":"DepictionTableButtonView"
+     },
+     {
+        "class":"DepictionSeparatorView"
+     },
+
       {
          "title": "Features",
          "class": "DepictionHeaderView"
