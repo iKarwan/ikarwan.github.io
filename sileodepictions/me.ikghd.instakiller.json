@@ -130,7 +130,7 @@
                             },
 
                             {
-                                "markdown":"- fixes an issue were the tweak not function on rootless JB\n- add support latest Instagram version 322.1",
+                                "markdown":"- fixes an issue were the tweak not function on rootless JB\n- add support latest Instagram v322.1",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -146,13 +146,13 @@
             },
             {
                "title":"Version",
-               "text":"1.17",
+               "text":"1.18",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"Jun 21, 2024",
+               "text":"Jul 03, 2024",
                "class":"DepictionTableTextView"
             },
 

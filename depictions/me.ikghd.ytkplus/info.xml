@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.1.2</version>
+    <version>3.1.3</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.1.2</version2>
+      <version2>3.1.3</version2>
     </version2>
 
     <date>
-      <date>Jul 01, 2024</date>
+      <date>Jul 03, 2024</date>
     </date>
 
     <price>
@@ -34,7 +34,8 @@
     </price>
 
     <changelog>
-      <change>· fixes &amp; improvements</change>
+      <change>· correct history date when hide shorts enabled</change>
+      <change>· other fixes</change>
       <change>· update iPA to YouTube_v19.26.5</change>
     </changelog>
 

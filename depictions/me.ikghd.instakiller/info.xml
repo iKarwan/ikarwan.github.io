@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.17</version>
+    <version>1.18</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>1.17</version2>
+      <version2>1.18</version2>
     </version2>
 
         <date>
-          <date>Jun 21, 2024</date>
+          <date>Jul 03, 2024</date>
         </date>
 
         <price>
@@ -36,7 +36,7 @@
 
         <changelog>
           <change>· fixes an issue were the tweak not function on rootless JB</change>
-          <change>· add support latest Instagram version 322.1</change>
+          <change>· add support latest Instagram v322.1</change>
         </changelog>
 
 

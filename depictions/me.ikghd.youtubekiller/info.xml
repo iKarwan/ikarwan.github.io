@@ -1,10 +1,10 @@
 <package>
    <id>me.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.17</version>
+    <version>1.18</version>
     <compatibility>
         <firmware>
-            <miniOS>13.0</miniOS>
+            <miniOS>14.0</miniOS>
             <maxiOS>17.x</maxiOS>
         </firmware>
     </compatibility>
@@ -22,11 +22,11 @@
         </jailed>
 
     <version2>
-      <version2>1.17</version2>
+      <version2>1.18</version2>
     </version2>
 
     <date>
-      <date>May 30, 2024</date>
+      <date>Jul 03, 2024</date>
     </date>
 
     <price>
