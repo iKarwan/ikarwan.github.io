@@ -35,7 +35,7 @@
 
     <changelog>
       <change>· fixed audio player in download manager not playing exact audio file</change>
-      <change>· extend the player to video player also || however u have to long prerss to play the video in a video player for gNoExpirityDownloaded</change>
+      <change>· extend the player to video player also || however u have to long prerss to play the video in a video player for now</change>
       <change>· this also fixes the player to handle repeat all looping endlessly in the download manager video/audio || click on repeat button for endless looping another click for single loop</change>
       <change>· also handle ending if u reach the end the player will stop playieng unless u have shuffle or repeat all enabled</change>
       <change>· other fixes and enhancments to the player slider for smother sliding</change>
