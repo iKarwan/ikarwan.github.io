@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.1.3</version>
+    <version>3.1.4</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.1.3</version2>
+      <version2>3.1.4</version2>
     </version2>
 
     <date>
-      <date>Jul 03, 2024</date>
+      <date>Jul 06, 2024</date>
     </date>
 
     <price>
@@ -34,6 +34,13 @@
     </price>
 
     <changelog>
+      <change>· fixed audio player in download manager not playieng exact audio file</change>
+      <change>· extend the player to video player also || however u can still long prerss to play the video in a video player</change>
+      <change>· this also fixes the player to handle repeat all looping endlessly in the download manager video/audio || click on repeat button for endless looping another click for single loop</change>
+      <change>· also handle ending if u reach the end the player will stop playieng unless u have shuffle or repeat all enabled</change>
+      <change>· other fixes and enhancments to the player slider for smother sliding</change>
+      <change>· add long press on you tab to go to incognito mode || enabled by default</change>
+      <change>· and more</change>
       <change>· correct history date when hide shorts enabled</change>
       <change>· other fixes</change>
       <change>· update iPA to YouTube_v19.26.5</change>
