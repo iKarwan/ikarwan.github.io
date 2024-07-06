@@ -146,7 +146,7 @@
             },
 
             {
-                "markdown":"- fixed audio player in download manager not playieng exact audio file \n- extend the player to video player also || however u can still long prerss to play the video in a video player\n- this also fixes the player to handle repeat all looping endlessly in the download manager video/audio || click on repeat button for endless looping another click for single loop\n- also handle ending if u reach the end the player will stop playieng unless u have shuffle or repeat all enabled\n- other fixes and enhancments to the player slider for smother sliding\n- add long press on you tab to go to incognito mode || enabled by default\n- correct history date when hide shorts enabled\n- other fixes\n- update iPA to YouTube_v19.26.5",
+                "markdown":"- fixed audio player in download manager not playing exact audio file \n- extend the player to video player also || however have to long prerss to play the video in a video player for now\n- this also fixes the player to handle repeat all looping endlessly in the download manager video/audio || click on repeat button for endless looping another click for single loop\n- also handle ending if u reach the end the player will stop playieng unless u have shuffle or repeat all enabled\n- other fixes and enhancments to the player slider for smother sliding\n- add long press on you tab to go to incognito mode || enabled by default\n- correct history date when hide shorts enabled\n- other fixes\n- update iPA to YouTube_v19.26.5",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
