@@ -146,7 +146,7 @@
             },
 
             {
-                "markdown":"- fixed audio player in download manager not playing exact audio file \n- extend the player to video player also || however have to long prerss to play the video in a video player for now\n- this also fixes the player to handle repeat all looping endlessly in the download manager video/audio || click on repeat button for endless looping another click for single loop\n- also handle ending if u reach the end the player will stop playing unless u have shuffle or repeat all enabled\n- other fixes and enhancments to the player slider for smother sliding\n- add long press on you tab to go to incognito mode || enabled by default\n- correct history date when hide shorts enabled\n- other fixes\n- update iPA to YouTube_v19.26.5",
+                "markdown":"- add play the video in the video player to the new player|| landscape to go to fullscreen\n- fixes related issues with last implementation of the new player for audio/video\n- other enhancments to the download Manager\n- overall fixes and removed unused codes for more smother experiance\n- re uploaded the ipa's for iOS 14.x up to iOS 18\n- chack the telegram channel or github fro the ipa details\n- fixed audio player in download manager not playing exact audio file \n- extend the player to video player also || however have to long prerss to play the video in a video player for now\n- this also fixes the player to handle repeat all looping endlessly in the download manager video/audio || click on repeat button for endless looping another click for single loop\n- also handle ending if u reach the end the player will stop playing unless u have shuffle or repeat all enabled\n- other fixes and enhancments to the player slider for smother sliding\n- add long press on you tab to go to incognito mode || enabled by default\n- correct history date when hide shorts enabled\n- other fixes\n- update iPA to YouTube_v19.26.5",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -161,12 +161,12 @@
             },
             {
                "title":"Version",
-               "text":"3.1.4",
+               "text":"3.1.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 06, 2024",
+               "text":"Jul 10, 2024",
                "class":"DepictionTableTextView"
             },
             {
