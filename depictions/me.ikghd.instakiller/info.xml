@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.instakiller</id>
     <name>iNstaKiller</name>
-    <version>1.18</version>
+    <version>1.19</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>1.18</version2>
+      <version2>1.19</version2>
     </version2>
 
         <date>
-          <date>Jul 03, 2024</date>
+          <date>Jul 16, 2024</date>
         </date>
 
         <price>
@@ -35,8 +35,11 @@
         </price>
 
         <changelog>
-          <change>· fixes an issue were the tweak not function on rootless JB</change>
-          <change>· add support latest Instagram v322.1</change>
+          <change>· fix story download icon not showing for v330 and above</change>
+          <change>· fix confirm to follow</change>
+          <change>· fix reel icon sometimes not show the menu context</change>
+          <change>· add compatibility for Instagram v330 and above</change>
+          <change>· update ipa to newer Instagram v339.0</change>
         </changelog>
 
 

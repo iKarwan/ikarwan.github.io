@@ -135,7 +135,7 @@
             },
 
             {
-                "markdown":"- fix story download icon not showing on v330 and later\n- update ipa to Instagram v322.1",
+                "markdown":"- fix story download icon not showing for v330 and above\n- fix confirm to follow\n- fix reel icon sometimes not show the menu context\n- add compatibility for Instagram v330 and above\n- update ipa to newer Instagram v339.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -150,12 +150,12 @@
             },
             {
                "title":"Version",
-               "text":"2.3.2",
+               "text":"2.3.2-2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jun 21, 2024",
+               "text":"Jul 16, 2024",
                "class":"DepictionTableTextView"
             },
             {
