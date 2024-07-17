@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.1.6</version>
+    <version>3.1.7</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.1.6</version2>
+      <version2>3.1.7</version2>
     </version2>
 
     <date>
-      <date>Jul 16, 2024</date>
+      <date>Jul 17, 2024</date>
     </date>
 
     <price>
@@ -34,6 +34,9 @@
     </price>
 
     <changelog>
+      <change>· revert and coorrect some changes to default for latest build</change>
+      <change>· fixes serveral feature and enhancment with cleaning up the code for smoother experiance</change>
+      <change></change>
       <change>· add play the video in the video player to the new player|| landscape to go to fullscreen</change>
       <change>· fixes related issues with last implementation of the new player for audio/video</change>
       <change>· other enhancments to the download Manager</change>
@@ -133,6 +136,9 @@
     <screenshots>
       <screenshot>
           <image>1.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>9.PNG</image>
       </screenshot>
       <screenshot>
           <image>2.PNG</image>

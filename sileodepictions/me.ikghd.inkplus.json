@@ -135,7 +135,7 @@
             },
 
             {
-                "markdown":"- fix story download icon not showing for v330 and above\n- fix confirm to follow\n- fix reel icon sometimes not show the menu context\n- add compatibility for Instagram v330 and above\n- update ipa to newer Instagram v339.0",
+                "markdown":"- fix confirm to follow for reels & call on DM v330 and later\n- add download and share the video FEED/REELS\n- fixe expand button not load the video\n- expand hide suggesation to hide for you reels user to follow and threads on feed\n- over all fixes and enhancment\n- fix story download icon not showing for v330 and above\n- fix confirm to follow\n- fix reel icon sometimes not show the menu context\n- add compatibility for Instagram v330 and above\n- update ipa to newer Instagram v340.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -150,12 +150,12 @@
             },
             {
                "title":"Version",
-               "text":"2.3.2-2",
+               "text":"2.3.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 16, 2024",
+               "text":"Jul 17, 2024",
                "class":"DepictionTableTextView"
             },
             {
