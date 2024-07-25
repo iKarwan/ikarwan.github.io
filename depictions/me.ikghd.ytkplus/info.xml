@@ -1,11 +1,11 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.1.7</version>
+    <version>3.1.8</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
-            <maxiOS>17.x</maxiOS>
+            <maxiOS>18.x</maxiOS>
         </firmware>
     </compatibility>
 
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.1.7</version2>
+      <version2>3.1.8</version2>
     </version2>
 
     <date>
-      <date>Jul 17, 2024</date>
+      <date>Jul 25, 2024</date>
     </date>
 
     <price>
@@ -34,26 +34,8 @@
     </price>
 
     <changelog>
-      <change>· revert and coorrect some changes to default for latest build</change>
-      <change>· fixes serveral feature and enhancment with cleaning up the code for smoother experiance</change>
-      <change></change>
-      <change>· add play the video in the video player to the new player|| landscape to go to fullscreen</change>
-      <change>· fixes related issues with last implementation of the new player for audio/video</change>
-      <change>· other enhancments to the download Manager</change>
-      <change>· overall fixes and removed unused codes for more smother experiance</change>
-      <change>· re uploaded the ipa's for iOS 14.x up to iOS 18</change>
-      <change>· chack the telegram channel or github fro the ipa details</change>
-      <change></change>
-      <change>· fixed audio player in download manager not playing exact audio file</change>
-      <change>· extend the player to video player also || however u have to long prerss to play the video in a video player for now</change>
-      <change>· this also fixes the player to handle repeat all looping endlessly in the download manager video/audio || click on repeat button for endless looping another click for single loop</change>
-      <change>· also handle ending if u reach the end the player will stop playing unless u have shuffle or repeat all enabled</change>
-      <change>· other fixes and enhancments to the player slider for smother sliding</change>
-      <change>· add long press on you tab to go to incognito mode || enabled by default</change>
-      <change>· and more</change>
-      <change>· correct history date when hide shorts enabled</change>
-      <change>· other fixes</change>
-      <change>· update iPA to YouTube_v19.28.1</change>
+      <change>· minor fixes and improvements</change>
+      <change>· update iPA to YouTube_v19.29.1</change>
     </changelog>
 
 
