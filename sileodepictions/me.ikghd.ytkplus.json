@@ -111,7 +111,11 @@
                 },
                 "class":"DepictionScreenshotsView"
             },
-
+            {
+              "title":"In App Purchase: $2.99",
+               "useBoldText": true,
+               "class":"DepictionTableButtonView"
+            },
 
             {
               "title":"IPA & TrollStore Version?",
