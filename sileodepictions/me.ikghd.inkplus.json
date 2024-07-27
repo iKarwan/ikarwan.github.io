@@ -91,15 +91,7 @@
                 "class":"DepictionScreenshotsView"
             },
 
-            {
-              "title":"buy : $2.99",
-               "useBoldText": true,
-               "action":"https://ikghd.site/iNKPlus.html",
-               "class":"DepictionTableButtonView"
-            },
-            {
-               "class":"DepictionSeparatorView"
-            },
+
             {
               "title":"IPA & TrollStore Version?",
                "useBoldText": true,
@@ -135,7 +127,7 @@
             },
 
             {
-                "markdown":"- fix confirm to follow for reels & call on DM v330 and later\n- add download and share the video FEED/REELS\n- fixe expand button not load the video\n- expand hide suggesation to hide for you reels user to follow and threads on feed\n- over all fixes and enhancment\n- fix story download icon not showing for v330 and above\n- fix confirm to follow\n- fix reel icon sometimes not show the menu context\n- add compatibility for Instagram v330 and above\n- update ipa to newer Instagram v340.0",
+                "markdown":"- add compatibility for Instagram v340 and above\n- update ipa to newer Instagram v341.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -150,12 +142,12 @@
             },
             {
                "title":"Version",
-               "text":"2.3.3",
+               "text":"2.3.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 17, 2024",
+               "text":"Jul 27, 2024",
                "class":"DepictionTableTextView"
             },
             {
@@ -180,7 +172,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 14.0 - 17.x",
+               "text":"iOS 14.0 - 18.x",
                "class":"DepictionTableTextView"
             },
 
@@ -202,7 +194,7 @@
             {
                "title":"Via PayPal",
                "useBoldText": true,
-               "action":"https://www.paypal.com/paypalme/hiwajaf",
+               "action":"https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW",
                "class":"DepictionTableButtonView"
             },
 

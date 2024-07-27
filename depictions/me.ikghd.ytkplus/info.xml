@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.1.8</version>
+    <version>3.1.9</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.1.8</version2>
+      <version2>3.1.9</version2>
     </version2>
 
     <date>
-      <date>Jul 25, 2024</date>
+      <date>Jul 27, 2024</date>
     </date>
 
     <price>
@@ -34,10 +34,7 @@
     </price>
 
     <changelog>
-      <change></change>
-      <change>· if u have an exist key and can't activate pls contact @ikg_support on X or email ikghd3@gmail com</change>
-      <change></change>
-      <change>· minor fixes and improvements</change>
+      <change>· minor fixes to the tab bar</change>
       <change>· update iPA to YouTube_v19.29.1</change>
     </changelog>
 
@@ -48,11 +45,6 @@
         <longdescription><![CDATA[
           <br>
 
-            <li>
-                <a href="https://ikghd.site/YTKPlus.html">buy : $2.99</a>
-            </li>
-
-            <br>
 
             <li>
                 <a href="https://ikghd.site/stor1.html">buy for stores  : 1/Month $7.99 iNstaKillerPlus included</a>
