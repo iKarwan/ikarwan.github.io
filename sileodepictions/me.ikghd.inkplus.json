@@ -92,9 +92,8 @@
             },
 
             {
-              "title":"In App Purchase: $2.99",
-               "useBoldText": true,
-               "class":"DepictionTableButtonView"
+               "title":"In App Purchase: $2.99",
+               "class":"DepictionHeaderView"
             },
             {
                "class":"DepictionSeparatorView"
