@@ -90,6 +90,9 @@
                 },
                 "class":"DepictionScreenshotsView"
             },
+            {
+               "class":"DepictionSeparatorView"
+            },
 
             {
                "title":"In App Purchase: $2.99",
