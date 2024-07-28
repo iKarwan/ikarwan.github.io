@@ -113,12 +113,11 @@
             },
 
             {
-               "class":"DepictionSeparatorView"
-            },
-
-            {
                "title":"In App Purchase: $2.99",
                "class":"DepictionHeaderView"
+            },
+            {
+               "class":"DepictionSeparatorView"
             },
             {
               "title":"IPA & TrollStore Version?",
