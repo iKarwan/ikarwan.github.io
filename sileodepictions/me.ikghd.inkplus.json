@@ -189,23 +189,6 @@
 
 
             {
-               "title":"Subscription | key & Devices:",
-               "class":"DepictionHeaderView"
-            },
-            {
-               "title":"1 year subscription 364 days ",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"the key is for 1 device with 1 email not transsferable  ",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "class":"DepictionSeparatorView"
-            },
-
-
-            {
                "title":"Support",
                "class":"DepictionHeaderView"
             },
