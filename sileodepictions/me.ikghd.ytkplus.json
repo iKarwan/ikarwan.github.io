@@ -182,6 +182,16 @@
                "class":"DepictionTableTextView"
             },
             {
+               "title":"Subscription",
+               "text":"1 year 364 days",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"key & Devices",
+               "text":"for 1 device",
+               "class":"DepictionTableTextView"
+            },
+            {
                "title":"Jailbreak",
                "text":"Yes",
                "class":"DepictionTableTextView"
