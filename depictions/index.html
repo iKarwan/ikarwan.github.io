@@ -1,258 +1,225 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>PackageName</title>
-  <link rel="shortcut icon" type="image/ico" href="assets/favicon.ico">
-
-  <link rel="manifest" href="/site.webmanifest">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <link rel="stylesheet" href="style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <script type="text/javascript" src="js/jquery.querystring.js"></script>
-  <script type="text/javascript" src="js/data-loader-engine.js"></script>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123752025-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-123752025-1');
-  </script>
+  <title>PackageName</title>
+  <link rel="shortcut icon" href="assets/favicon.ico">
+  <link rel="manifest" href="/site.webmanifest">
   <style>
-	@media (max-width: 767px) {
-	body{
-		margin:0;
-		padding:0;
-		border:0;
-		outline:0;
-		box-sizing:border-box;
-	}
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+      background-color: #f8f9fa;
+      color: #212529;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-	.alert{
-		margin-top: 15px !important;
-		margin-bottom: 15px !important;
-		padding-top: 5px !important;
-		padding-bottom: 5px !important;
-		text-align: center;
-	}
+    .container {
+      max-width: 800px;
+      margin: auto;
+      padding: 15px;
+    }
+
+    .list-group-item {
+      border: 0;
+      background-color: transparent;
+      padding: 15px;
+      margin-bottom: 10px;
+    }
+
+    .badge {
+      background-color: #007bff;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 5px;
+    }
+
+    .alert {
+      margin-top: 15px;
+      margin-bottom: 15px;
+      padding: 10px;
+      text-align: center;
+      background-color: #f8d7da;
+      color: #721c24;
+      border-radius: 5px;
+    }
+
+    .scrollview {
+      overflow-x: scroll;
+      white-space: nowrap;
+      display: flex;
+      padding-bottom: 10px;
+    }
+
+    .screenshotCardFrame {
+      margin: 4px;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+
+    .screenshotCard {
+      width: 295px;
+      border-radius: 10px;
+    }
+
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .info {
+      font-size: 18px;
+    }
+
+    .panel-heading {
+      font-size: 1.2em;
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+
+    .panel-body {
+      display: block;
+    }
+
+    .subtitle {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    @media (max-width: 767px) {
+      .scrollview {
+        width: 100%;
+      }
+
+      .container {
+        padding: 10px;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #121212;
+        color: #e0e0e0;
+      }
+
+      .badge {
+        background-color: #444;
+      }
+
+      .alert {
+        background-color: #272c34;
+        color: #e0e0e0;
+      }
+
+      .screenshotCardFrame {
+        border: 1px solid #444;
+      }
+    }
   </style>
-  <script type="text/javascript">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script>
+    $(document).ready(function () {
+      var bundleid = $.QueryString['p'];
 
-	bundleid = $.QueryString['p'];
-
-    var contentBlocks = 	{
-    	"#packageName" :
-			{"type":"text","source":"package>name"}
-		,"#packageHeader" :
-			{"type":"custom"
-				,"source":"package>name"
-				,"render":function(element,source){
-					if (navigator.userAgent.search(/Cydia/) == -1) {
-						$(element).show();
-					}
-				}
-			}
-		,"#packageVersion" :
-			{"type":"text","source":"package>version"}
-		,"#packageShortDesc" :
-			{"type":"text","source":"package>descriptionlist>description"}
-		,"#packageLongDesc" :
-			{"type":"text","source":"package>descriptionlist>longdescription"}
-        ,"#descriptionList"	:
-			{"type":"list"
-				,"source" :"package>descriptionlist>description"
-				,"paragraphElement"	: "<li class='list-group-item'>"
-				,"emptyListCallback":function(e){$("#descriptionPanel").hide()}
-			}
-		,"#tweakScreenshots" :
-		  {"type":"custom"
-			  ,"source" :"package>screenshots>screenshot"
-			  ,"render" : function(element,source){
-			  console.log($(source).size());
-				  if ($(source).size()==0) {
-					  $(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") );
-					  return;
-				  }
-				  $.each(source, function(index,data) {
-					  var th = $("<div class='screenshotCardFrame'>");
-					  th.append($("<img class='screenshotCard'>")
-						  .attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
-					  )
-					  $(element).append(th);
-				  });
-
-			  }
-		  }
-		,"#miniOS" : {"type":"text","source":"package>compatibility>firmware>miniOS"}
-		,"#maxiOS" : {"type":"text","source":"package>compatibility>firmware>maxiOS"}
-    ,"#versionBadge" : {"type":"text","source":"package>version"}
-    ,"#version2Badge" : {"type":"text","source":"package>version2"}
-    ,"#priceBadge" : {"type":"text","source":"package>price"}
-    ,"#dateBadge" : {"type":"text","source":"package>date"}
-    ,"#rootless" : {"type":"text","source":"package>rootless"}
-    ,"#jailbreak" : {"type":"text","source":"package>jailbreak"}
-    ,"#jailed" : {"type":"text","source":"package>jailed"}
-        ,"#changesList"	:
-			{"type":"list"
-				,"source" :"package>changelog>change"
-				,"reverseRender"    : true
-				,"paragraphElement"	: "<li class='list-group-item'>"
-				,"emptyListCallback":function(e){$("#changesList").hide()}
-			}
-
-	}
-    $( document ).ready(function() {
-        $.ajax({
-            type    : "GET",
-            dataType: "xml",
-            url     : (bundleid+"/info.xml"),
-            success : function(xml){
-				document.title = $(xml).find("package>name").text();
-            	data_loader_engine(contentBlocks,xml)
-
-            },
-			cache   : false,
-            error: function() {
-                $("#packageError").show();
-				$("#packageInformation").hide();
+      var contentBlocks = {
+        "#packageName": { "type": "text", "source": "package>name" },
+        "#packageShortDesc": { "type": "text", "source": "package>descriptionlist>description" },
+        "#packageLongDesc": { "type": "text", "source": "package>descriptionlist>longdescription" },
+        "#tweakScreenshots": {
+          "type": "custom", "source": "package>screenshots>screenshot", "render": function (element, source) {
+            if ($(source).length === 0) {
+              $(element).append($("<div class='alert'>No screenshots available for this package.</div>"));
+              return;
             }
-        }); //ajax
+            $.each(source, function (index, data) {
+              var th = $("<div class='screenshotCardFrame'>");
+              th.append($("<img class='screenshotCard'>").attr("src", bundleid + '/screenshots/' + $(data).find('image').text()));
+              $(element).append(th);
+            });
+          }
+        },
+        "#versionBadge": { "type": "text", "source": "package>version" },
+        "#dateBadge": { "type": "text", "source": "package>date" },
+        "#priceBadge": { "type": "text", "source": "package>price" },
+        "#jailbreak": { "type": "text", "source": "package>jailbreak" },
+        "#jailed": { "type": "text", "source": "package>jailed" },
+        "#rootless": { "type": "text", "source": "package>rootless" },
+        "#miniOS": { "type": "text", "source": "package>compatibility>firmware>miniOS" },
+        "#maxiOS": { "type": "text", "source": "package>compatibility>firmware>maxiOS" },
+        "#version2Badge": { "type": "text", "source": "package>version2" },
+        "#changesList": {
+          "type": "list", "source": "package>changelog>change", "paragraphElement": "<li class='list-group-item'>",
+          "emptyListCallback": function () { $("#changesList").hide(); }
+        }
+      };
 
-    }); // ready
+      $.ajax({
+        type: "GET", dataType: "xml", url: bundleid + "/info.xml", success: function (xml) {
+          document.title = $(xml).find("package>name").text();
+          data_loader_engine(contentBlocks, xml);
+        }, cache: false, error: function () {
+          $("#packageError").show();
+          $("#packageInformation").hide();
+        }
+      });
+    });
   </script>
 </head>
 <body>
-
-
-<div id="packageInformation">
-
-	<div class="container" margin-top: 15px;">
-		<div id="tweakScreenshots" class="scrollview"></div>
-	</div>
-
-	<div class="container" id="packageHeader" style="background-color: rgba(0, 0, 255, 0);">
-		<h1 id="packageName"></h1>
-		<h4 id="packageShortDesc" style="margin-bottom: -5px; color:orange;"></h4>
-		<p id="packageLongDesc"></p>
-	</div>
-
-
-  <div class="container" style="margin-bottom: 15px;">
-    <h4>Version </h4>
-    <h4><span id="versionBadge" class="badge" /></h4>
+  <div id="packageInformation">
+    <div class="container">
+      <div id="tweakScreenshots" class="scrollview"></div>
+    </div>
+    <div class="container" id="packageHeader">
+      <h1 id="packageName"></h1>
+      <h4 id="packageShortDesc" class="subtitle"></h4>
+      <p id="packageLongDesc"></p>
+    </div>
+    <div class="container">
+      <h4>Version <span id="versionBadge" class="badge"></span></h4>
+    </div>
+    <div class="container">
+      <h4>Updated <span id="dateBadge" class="badge"></span></h4>
+    </div>
+    <div class="container">
+      <h4>Price <span id="priceBadge" class="badge"></span></h4>
+    </div>
+    <div class="container">
+      <h4>Jailbreak <span id="jailbreak" class="badge"></span></h4>
+    </div>
+    <div class="container">
+      <h4>Jailed Support (iPA) <span id="jailed" class="badge"></span></h4>
+    </div>
+    <div class="container">
+      <h4>Rootless Support <span id="rootless" class="badge"></span></h4>
+    </div>
+    <div class="container">
+      <h4>Compatibility</h4>
+      iOS <span id="miniOS" class="info"></span> - <span id="maxiOS" class="info"></span>
+    </div>
+    <div class="container">
+      <h4>What's New <span id="version2Badge" class="badge"></span></h4>
+      <ul id="changesList" class="list-group"></ul>
+    </div>
   </div>
-
-  <div class="container" style="margin-bottom: 15px;">
-    <h4>Updated </h4>
-    <h4><span id="dateBadge" class="badge" /></h4>
+  <div id="packageError" style="display:none">
+    <div class="container">
+      <div class="alert">
+        <strong>Oops!</strong> The package you're trying to view is not available on this repository.
+      </div>
+    </div>
   </div>
-
-  <div class="container" style="margin-bottom: 15px;">
-    <h4>Price </h4>
-    <h4><span id="priceBadge" class="badge" /></h4>
+  <div id="contactInfo" style="text-align: center;">
+    <div class="container">
+      <ul class="list-group" id="repoFooterLinks"></ul>
+    </div>
   </div>
-
-
-  <div class="container" style="margin-bottom: 15px;">
-    <h4>Jailbreak </h4>
-    <h4><span id="jailbreak" class="badge" /></h4>
-  </div>
-
-
-  <div class="container" style="margin-bottom: 15px;">
-    <h4>Jailed Support (iPA) </h4>
-    <h4><span id="jailed" class="badge" /></h4>
-  </div>
-
-
-  <div class="container" style="margin-bottom: 15px;">
-    <h4>Rootless Support </h4>
-    <h4><span id="rootless" class="badge" /></h4>
-  </div>
-
-
-
-  <div class="container" style="margin-bottom: 15px;">
-		<h4>Compatibility</h4>
-		iOS <span id="miniOS" class="info" style="font-size: 16px; color:coral;"></span> - <span id="maxiOS" class="info" style="font-size: 16px; color:coral;"></span>
-	</div>
-
-
-  <div class="container" style="margin-bottom: 15px;">
-		<h4>What's New <span id="version2Badge" class="badge" /></h4>
-		<ul id="changesList" class="list-group">
-	</div>
-
-
-</div>
-
-
-<div id="packageError" style="display:none">
-	<div class="container">
-	  <div class="alert alert-danger">
-		<strong>Houston, we have a problem!</strong> The package you are tying to view is not currentyly hosted on this repo.
-	  </div>
-	</div>
-</div>
-
-
-<script type="text/javascript">
-   function setAnchorTargets() {
-     // if on Cydia, set link targets to _blank
-     if (navigator.userAgent.search(/Cydia/) != -1) {
-       $("a").each(function() {
-         $(this).attr("target","_blank");
-       });
-     }
-   }
-
-    var repoContents =  {
-        "#repoFooterLinks" :
-            {"type":"custom"
-                ,"source":"repo>footerlinks>link"
-                ,"render":function(element,source) {
-                    $.each(source, function(index,data) {
-                        var a = $("<a class='link-item list-group-item'>");
-                        a.attr("href",$(data).find('url').text());
-                        if ($(data).find('iconclass')) {
-                            var i =  $("<span>")
-                            i.attr("class",$(data).find('iconclass').text());
-                            console.log(i);
-                            $(a).append(i);
-                        }
-                        $(a).append($(data).find('name').text());
-                        $(element).append(a);
-                    }); //each
-                } //render
-            }
-    }
-    $( document ).ready(function() {
-        $.ajax({type: "GET", dataType: "xml",url : ("../repo.xml"),cache: false,
-            success : function(xml){
-				      data_loader_engine(repoContents,xml);
-              setAnchorTargets();
-			      },
-            error: function() {
-              $("#contactInfo").hide();
-              setAnchorTargets();
-            }
-        }); //ajax
-
-
-    }); // ready
-
-</script>
-
-	<div id="contactInfo" style="text-align: center;">
-		<div class="container">
-			<ul class="list-group" id="repoFooterLinks"></ul>
-		</div>
-	</div>
-
-  <div class="container" style="margin-bottom: 10px; color: gray; text-align: center;">© 2020 - 2024 | iKarwan</div>
-
+  <div class="container" style="text-align: center; margin-bottom: 10px; color: gray;">© 2020 - 2024 | iKarwan</div>
 </body>
 </html>
