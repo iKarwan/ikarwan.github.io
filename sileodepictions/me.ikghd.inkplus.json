@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- fully integrating new activation screen\n- add support for store certificates\n- add in app purchase and renew key\n- fixes an improtant issue leading to unregister the device after uninstall\n- add compatibility for Instagram v340 and above\n- update ipa to newer Instagram v341.0",
+                "markdown":"- fixes an improtant issue leading to unregister the device after uninstall\n- add compatibility for Instagram v340 and above\n- update ipa to newer Instagram v341.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.3.7",
+               "text":"2.3.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 02, 2024",
+               "text":"Jul 28, 2024",
                "class":"DepictionTableTextView"
             },
             {
