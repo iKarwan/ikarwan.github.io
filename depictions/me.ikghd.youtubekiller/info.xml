@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.18</version>
+    <version>1.19</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
         </jailed>
 
     <version2>
-      <version2>1.18</version2>
+      <version2>1.19</version2>
     </version2>
 
     <date>
-      <date>Jul 03, 2024</date>
+      <date>Aug 05, 2024</date>
     </date>
 
     <price>
@@ -34,7 +34,7 @@
     </price>
 
     <changelog>
-      <change>· fixes &amp; improvements</change>
+      <change>· fixes settings issue</change>
       <change>· fixes api issue with newer YouTube versions PiP + Downloads</change>
     </changelog>
 

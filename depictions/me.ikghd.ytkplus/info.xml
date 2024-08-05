@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.1</version>
+    <version>3.2.2</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>3.2.1</version2>
+      <version2>3.2.2</version2>
     </version2>
 
     <date>
@@ -34,6 +34,7 @@
     </price>
 
     <changelog>
+      <change>· minor improvements</change>
       <change>· fully integrating new activation screen</change>
       <change>· add support for store certificates</change>
       <change>· add in app purchase and renew key</change>
