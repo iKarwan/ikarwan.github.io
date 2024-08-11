@@ -153,7 +153,7 @@
             },
 
             {
-                "markdown":"- minor improvements\n- fully integrating new activation screen\n- add support for store certificates\n- add in app purchase and renew key\n- fixes an improtant issue leading to unregister the device after uninstall\n- minor fixes to the tab bar\n- update iPA to YouTube_v19.29.1",
+                "markdown":"- minor improvements\n- fully integrating new activation screen\n- add support for store certificates\n- add in app purchase and renew key\n- fixes an improtant issue leading to unregister the device after uninstall\n- minor fixes to the tab bar\n- update iPA to YouTube_v19.30.2",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
