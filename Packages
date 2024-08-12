@@ -101,18 +101,38 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
 Package: me.ikghd.inkplus
-Version: 2.3.9
+Version: 2.4.1
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.instakiller
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.inkplus_2.4.1_iphoneos-arm.deb
+Size: 257580
+Installed-Size: 892
+MD5sum: e94f29f11a2c9f644629514d543cc3cf
+SHA1: f96f9d1d066ee10553c1efa3bdf528be795a10db
+SHA256: ccde4804c8576022236cf9325a16933a6ab55caa50913cbec7aa5a386f9a18a2
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.inkplus
+Version: 2.4.1
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: me.ikghd.instakiller
 Architecture: iphoneos-arm64
-Filename: .//debs/me.ikghd.inkplus_2.3.9_iphoneos-arm64.deb
-Size: 257438
+Filename: .//debs/me.ikghd.inkplus_2.4.1_iphoneos-arm64.deb
+Size: 257788
 Installed-Size: 892
-MD5sum: 922d4f753ef1796d06fa1e6abadef341
-SHA1: ffdf8464b3e7d5791748bf3ac578a1cc2f514580
-SHA256: e0a4200a65cbf1e7afc43a3574548b3c0d98e18bf40fd05911d6699e0bca04f1
+MD5sum: 2a98726365e23811b5d0658609855405
+SHA1: 7e9df6f9de07ac611627c80307f53d368a2aa78c
+SHA256: 9787d893ed41c421d6060824fbe54f50147a2775fb8abfa36f1a89df192970a6
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -133,26 +153,6 @@ Installed-Size: 892
 MD5sum: b1765985a45c08c906272e6835603c30
 SHA1: f83de2483b7bd36292af7a3ac48c3756dc367ccb
 SHA256: cfe280ec7f23ba531e8475112cb80b2464f0c87cba6028df8f8fb46bcc6e58fc
-Description: a whole new Instagram Experience!
-Name: iNKillerPlus
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
-
-Package: me.ikghd.inkplus
-Version: 2.3.9
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: me.ikghd.instakiller
-Architecture: iphoneos-arm
-Filename: .//debs/me.ikghd.inkplus_2.3.9_iphoneos-arm.deb
-Size: 257398
-Installed-Size: 892
-MD5sum: 2ebe81aacc29d56930f8b3103eeaa51d
-SHA1: 71ec94e90e5277a26eb72275a96c69703ec5cd20
-SHA256: 7b251f4e1976a287212be500e1e991696a498f17412c25d260b5c60f5c481525
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -445,38 +445,18 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.youtubekiller.jso
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.youtubekiller.png
 
 Package: me.ikghd.ytkplus
-Version: 3.2.2
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: me.ikghd.youtubekiller
-Architecture: iphoneos-arm
-Filename: .//debs/me.ikghd.ytkplus_3.2.2_iphoneos-arm.deb
-Size: 433270
-Installed-Size: 1764
-MD5sum: f9c01b975042d5f883deff415df3d2d8
-SHA1: 809aa29f05bafa0147dc1d00930a53eb8343696a
-SHA256: 3cadfc4ddcf36276dde48113eabd8f2cca8ae6cdcd7ade8f2d3bcfffc53a185b
-Description: a whole new YouTube Experience!
-Name: YTKillerPlus
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
-
-Package: me.ikghd.ytkplus
-Version: 3.2.2
+Version: 3.2.4
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: me.ikghd.youtubekiller
 Architecture: iphoneos-arm64
-Filename: .//debs/me.ikghd.ytkplus_3.2.2_iphoneos-arm64.deb
-Size: 433770
+Filename: .//debs/me.ikghd.ytkplus_3.2.4_iphoneos-arm64.deb
+Size: 433956
 Installed-Size: 1764
-MD5sum: c13266fc5c39e0b60b9db31aa8ba1ce5
-SHA1: 55a02fb9c31428bda7a8c9f63f3f0895d3f6e5ab
-SHA256: ee3435e01f61679f1754386ef3a3495740157017ee69c4e6b55c843c53fdc8d5
+MD5sum: 99f7bbcc059fe86236127ecf775dd8c4
+SHA1: 0f102d9efd7cc59fd2706ad09aeebc12e797bafb
+SHA256: 0eebd6d20237475744270ce6625011e3fb2008b9a37424fd1a6d46eb0cc9fd6b
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -497,6 +477,26 @@ Installed-Size: 1764
 MD5sum: 6020e317b010a1f5118e99a37e3da142
 SHA1: 0d53210200f1f9a14d379307efc1363c2cccd99b
 SHA256: b956fc808d9fc5aaa26615d39b63437f684c7f995844b94d4cf9f34cca6c3c9c
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
+Package: me.ikghd.ytkplus
+Version: 3.2.4
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.youtubekiller
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.ytkplus_3.2.4_iphoneos-arm.deb
+Size: 433196
+Installed-Size: 1764
+MD5sum: f663fa5457e96844e98eea452143f60b
+SHA1: 278d0b527d6057740cd5ef0d3aff70244604fb9b
+SHA256: 4d21e7eb64c3564a9b8eec3774b333d3842dd3b559eab31a7c0384d30d52aac6
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
