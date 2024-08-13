@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- add chinese languages\n- minor improvements\n- fully integrating new activation screen\n- add support for store certificates\n- add in app purchase and renew key\n- fixes an improtant issue leading to unregister the device after uninstall\n- add compatibility for Instagram v340 and above\n- update ipa to newer Instagram v344.0",
+                "markdown":"- fix an important issue with previous build\n- update ipa to newer Instagram v344.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.1",
+               "text":"2.4.2",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 13, 2024",
+               "text":"Aug 14, 2024",
                "class":"DepictionTableTextView"
             },
             {
@@ -170,6 +170,11 @@
             {
                "title":"key & Devices",
                "text":"1 for 1 device",
+               "class":"DepictionTableTextView"
+            },
+            {
+               "title":"transsferable",
+               "text":"YES",
                "class":"DepictionTableTextView"
             },
             {

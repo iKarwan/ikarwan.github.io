@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.4</version>
+    <version>3.2.5</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.4</version2>
+      <version2>3.2.5</version2>
     </version2>
 
     <date>
-      <date>Aug 13, 2024</date>
+      <date>Aug 14, 2024</date>
     </date>
 
     <price>
@@ -34,13 +34,8 @@
     </price>
 
     <changelog>
-      <change>· minor improvements</change>
-      <change>· fully integrating new activation screen</change>
-      <change>· add support for store certificates</change>
-      <change>· add in app purchase and renew key</change>
-      <change>· fixes an improtant issue leading to unregister the device after uninstall</change>
-      <change>· minor fixes to the tab bar</change>
-      <change>· update iPA to YouTube_v19.31.4</change>
+      <change>· fix an important issue with previous build</change>
+      <change>· update iPA to YouTube_v19.32.6</change>
     </changelog>
 
 
@@ -90,7 +85,7 @@
 
                         <br>Subscription | key & Devices:
                           <br>· 1 year subscription 364 days ..
-                            <br>· the key is for 1 device with 1 email not transsferable ..
+                            <br>· the key is for 1 device with 1 email transsferable ..
                         <br><br>
 
                           <br>refer to the FAQ page for more info:
