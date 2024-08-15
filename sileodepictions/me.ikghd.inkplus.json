@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- fix an important issue with previous build\n- update ipa to newer Instagram v344.0",
+                "markdown":"- minor fixes\n- fix an important issue with previous build\n- update ipa to newer Instagram v344.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.2",
+               "text":"2.4.3",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 14, 2024",
+               "text":"Aug 16, 2024",
                "class":"DepictionTableTextView"
             },
             {

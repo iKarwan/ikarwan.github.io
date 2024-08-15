@@ -83,12 +83,8 @@
             {
                "class":"DepictionSeparatorView"
             },
-            {
-              "title":"buy : $0.99",
-               "useBoldText": true,
-               "action":"https://ikghd.site/OL3DTube.html",
-               "class":"DepictionTableButtonView"
-            },
+
+
             {
                "class":"DepictionSeparatorView"
             },
@@ -133,19 +129,15 @@
             },
             {
                "title":"Version",
-               "text":"2.2.3",
+               "text":"2.2.4",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Jul 16, 2024",
+               "text":"Aug 16, 2024",
                "class":"DepictionTableTextView"
             },
-            {
-               "title":"Price",
-               "text":"$0.99 USD",
-               "class":"DepictionTableTextView"
-            },
+
             {
                "title":"Jailbreak",
                "text":"Yes",

@@ -1,11 +1,11 @@
 <package>
    <id>me.ikghd.youtubekiller</id>
     <name>YouTubeKiller</name>
-    <version>1.19</version>
+    <version>1.20</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
-            <maxiOS>17.x</maxiOS>
+            <maxiOS>16.x</maxiOS>
         </firmware>
     </compatibility>
 
@@ -22,16 +22,13 @@
         </jailed>
 
     <version2>
-      <version2>1.19</version2>
+      <version2>1.20</version2>
     </version2>
 
     <date>
-      <date>Aug 05, 2024</date>
+      <date>Aug 16, 2024</date>
     </date>
 
-    <price>
-      <price>$1.99 USD</price>
-    </price>
 
     <changelog>
       <change>· fixes settings issue</change>
@@ -46,7 +43,7 @@
           <br>
 
             <li>
-                <a href="https://ikghd.site/YouTubeKiller.html">buy : $1.99</a>
+                <!-- <a href="https://ikghd.site/YouTubeKiller.html">buy : $1.99</a> -->
             </li>
 
             <br>

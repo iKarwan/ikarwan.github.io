@@ -153,7 +153,7 @@
             },
 
             {
-                "markdown":"- fix an important issue with previous build\n- update iPA to YouTube_v19.32.6",
+                "markdown":"- minor fixes\n- fix an important issue with previous build\n- update iPA to YouTube_v19.32.8",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -168,12 +168,12 @@
             },
             {
                "title":"Version",
-               "text":"3.2.5",
+               "text":"3.2.6",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 14, 2024",
+               "text":"Aug 16, 2024",
                "class":"DepictionTableTextView"
             },
             {

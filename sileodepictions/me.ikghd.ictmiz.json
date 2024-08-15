@@ -250,12 +250,6 @@
 
 
             {
-              "title":"buy : $1.99",
-               "useBoldText": true,
-               "action":"https://ikghd.site/iCTMiZ.html",
-               "class":"DepictionTableButtonView"
-            },
-            {
                "class":"DepictionSeparatorView"
             },
             {
@@ -313,11 +307,7 @@
                "class":"DepictionTableTextView"
             },
 
-            {
-               "title":"Price",
-               "text":"$1.99 USD",
-               "class":"DepictionTableTextView"
-            },
+
             {
                "title":"Jailbreak",
                "text":"Yes",

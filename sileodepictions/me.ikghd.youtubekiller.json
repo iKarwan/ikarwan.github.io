@@ -83,12 +83,7 @@
                "class":"DepictionSeparatorView"
             },
 
-            {
-              "title":"buy : $1.99",
-               "useBoldText": true,
-               "action":"https://ikghd.site/YouTubeKiller.html",
-               "class":"DepictionTableButtonView"
-            },
+
             {
                "class":"DepictionSeparatorView"
             },
@@ -131,19 +126,15 @@
             },
             {
                "title":"Version",
-               "text":"1.19",
+               "text":"1.20",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 05, 2024",
+               "text":"Aug 16, 2024",
                "class":"DepictionTableTextView"
             },
-            {
-               "title":"Price",
-               "text":"$1.99 USD",
-               "class":"DepictionTableTextView"
-            },
+
             {
                "title":"Jailbreak",
                "text":"Yes",

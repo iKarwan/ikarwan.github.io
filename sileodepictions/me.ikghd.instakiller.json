@@ -92,12 +92,6 @@
             },
 
             {
-              "title":"buy : $1.99",
-               "useBoldText": true,
-               "action":"https://ikghd.site/iNstaKiller.html",
-               "class":"DepictionTableButtonView"
-            },
-            {
                "class":"DepictionSeparatorView"
             },
 
@@ -146,21 +140,17 @@
             },
             {
                "title":"Version",
-               "text":"1.20",
+               "text":"1.21",
                "class":"DepictionTableTextView"
             },
 
             {
                "title":"Updated",
-               "text":"Jul 18, 2024",
+               "text":"Aug 16, 2024",
                "class":"DepictionTableTextView"
             },
 
-            {
-               "title":"Price",
-               "text":"$1.99 USD",
-               "class":"DepictionTableTextView"
-            },
+
             {
                "title":"Jailbreak",
                "text":"Yes",

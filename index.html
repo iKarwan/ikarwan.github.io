@@ -3,17 +3,13 @@
 <head>
   <title>iKarwan Repo</title>
   <link rel="shortcut icon" type="image/ico" href="assets/favicon.ico">
-
   <link rel="manifest" href="/site.webmanifest">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <link rel="stylesheet" href="depictions/style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script type="text/javascript" src="depictions/js/data-loader-engine.js"></script>
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123752025-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -22,144 +18,283 @@
     gtag('config', 'UA-123752025-1');
   </script>
   <style>
-  @media screen and (max-width:650px) {
-	#packageHeader {
-	  text-align: center;
-	}
-  }
+    body {
+      font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+      display: grid;
+      align-content: center;
+    }
+    .disable-hover {
+      pointer-events: none;
+    }
+    .link-item {
+      list-style-type: none;
+      padding: 17px 15px;
+      display: inline-block;
+      color: #111 !important;
+      text-align: left;
+    }
+    .list-group-item {
+      border: 0px;
+      background-color: transparent;
+    }
+    .fa {
+      font-size: 30px;
+      padding-right: 7px;
+    }
+    .accent {
+      color: #6d7c9b !important;
+    }
+    .info {
+      font-size: 18px;
+    }
+    .btn-default:hover {
+      background-color: rgba(0, 0, 255, 0);
+      border-color: rgba(0, 0, 255, 0);
+    }
+    a.list-group-item:hover {
+      background-color: rgba(0, 0, 255, 0);
+    }
+    .reposhortcut {
+      width: 422px;
+      display: flex;
+    }
+    @media screen and (min-width:900px) {
+      .packages {
+        grid-template-columns:33.3% 33.3% 33.3%
+      }
+      .package {
+        width: 373px;
+      }
+      #repoFooterLinks {
+        text-align: left;
+      }
+      .scrollview {
+        width: 100%;
+      }
+    }
+    @media screen and (max-width:650px) {
+      .packages {
+        grid-template-columns:100%
+      }
+      .package {
+        width: 382px;
+      }
+      #repoFooterLinks {
+        text-align: center;
+      }
+      .scrollview {
+        width: 90vw;
+      }
+      #packageHeader {
+        text-align: center;
+      }
+    }
+    a:hover {
+      opacity: .9;
+    }
+    .package {
+      box-shadow: 0 10px 15px -3px rgba(0,0,0,.1),0 4px 6px -2px rgba(0,0,0,.05);
+      height: 78px;
+      margin: 5px;
+      padding: .75rem;
+      border-radius: 13px;
+      text-decoration: none;
+      position: relative;
+      word-break: break-word;
+      border-color: transparent;
+      background-color: white;
+    }
+    .panel-default > .panel-heading {
+      background-color: transparent;
+      border-color: transparent;
+    }
+    .packageHeader {
+      margin-bottom: 0px !important;
+      margin-left: 0px !important;
+    }
+    #packageHeader {
+      background-color: #212529;
+    }
+    .page-header {
+      margin-bottom: 20px !important;
+      margin-top: 20px;
+    }
+    .panel-heading {
+      font-size: 1.2em;
+      font-weight: 700;
+      margin: 0 5px;
+      color: black;
+      padding: 4px 0 0;
+    }
+    .panel-body {
+      display: ruby-base-container;
+    }
+    .subtitle {
+      font-size: 16px !important;
+      width: 102px;
+      height: 30px;
+    }
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: black;
+        color: white;
+      }
+      #packageHeader {
+        background-color: #151515;
+      }
+      .package {
+        background-color: #151515;
+        border-color: #151515;
+      }
+      .panel-heading {
+        color: #e6e6e6;
+      }
+      .btn-default {
+        background-color: #151515;
+        border-color: #151515;
+      }
+      .link-item {
+        color: #d6d6d6;
+      }
+      .fa {
+        color: #d6d6d6;
+      }
+    }
   </style>
 </head>
-<body style="display: grid; align-content: center;">
+<body>
 
 <div class="container" style="padding-right: 0px; padding-left: 0px; margin-top: 20px; text-align: center; display: inline-grid;">
   <div class="social-icon">
     <object data="assets/lpoto.svg" type="image/svg+xml"></object>
   </div>
-	<ul style="text-align: center;" class="list-group" id="repoFooterLinks"></ul>
+  <ul style="text-align: center;" class="list-group" id="repoFooterLinks"></ul>
 </div>
 
 <div class="container" style="width: auto; display: inline-grid;">
-	<div style="width: auto;" class="reposhortcut">
+  <div style="width: auto;" class="reposhortcut">
     <p style="width: auto; margin-right: 25px;" class="subtitle"><a class="btn btn-sm btn-default accent" href="sileo://source/https://repo.ikghd.me/"><strong>+Sileo</strong></a></p>
-		<p style="width: auto; margin-right: 25px;" class="subtitle"><a class="btn btn-sm btn-default accent" href="zbra://sources/add/https://repo.ikghd.me/"><strong>+Zebra</strong></a></p>
+    <p style="width: auto; margin-right: 25px;" class="subtitle"><a class="btn btn-sm btn-default accent" href="zbra://sources/add/https://repo.ikghd.me/"><strong>+Zebra</strong></a></p>
     <p style="width: auto; margin-right: 25px;" class="subtitle"><a class="btn btn-sm btn-default accent" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.ikghd.me/"><strong>+Cydia</strong></a></p>
-		<p style="width: auto; margin-right: 25px;" class="subtitle"><a class="btn btn-sm btn-default accent" href="installer://add/https://repo.ikghd.me/"><strong>+Installer</strong></a></p>
-	</div>
+    <p style="width: auto; margin-right: 25px;" class="subtitle"><a class="btn btn-sm btn-default accent" href="installer://add/https://repo.ikghd.me/"><strong>+Installer</strong></a></p>
+  </div>
 </div>
 
 <div class="container">
-	<h2 id="wells" class="page-header" style="font-size: 24px; font-weight: 600;">Projects:</h2>
-<div class="packages" style="display: grid; margin: 0 -5px;">
+  <h2 id="wells" class="page-header" style="font-size: 24px; font-weight: 600;">Projects:</h2>
+  <div class="packages" style="display: grid; margin: 0 -5px;">
+    <!-- Package items here -->
+    <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus" target= "_blank">
+  		<div class="panel-heading">
+  			<img src=assets/ytkplus.png style="width: 58px; margin-right: 10px;" />
+  			<div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
+  				<span class="name">YTKillerPlus</span>
+  				<span class="accent" style="font-weight: initial;">a whole new YouTube experiance</span>
+  			</div>
+  		</div>
+  	</a>
 
-	<a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus" target= "_blank">
-		<div class="panel-heading">
-			<img src=assets/ytkplus.png style="width: 58px; margin-right: 10px;" />
-			<div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
-				<span class="name">YTKillerPlus</span>
-				<span class="accent" style="font-weight: initial;">a whole new YouTube experiance</span>
-			</div>
-		</div>
-	</a>
-
-  <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus" target= "_blank">
-    <div class="panel-heading">
-      <img src=assets/inkplus.png style="width: 58px; margin-right: 10px;" />
-      <div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
-        <span class="name">iNKillerPlus</span>
-        <span class="accent" style="font-weight: initial;">a whole new Instagam experiance</span>
-      </div>
-    </div>
-  </a>
-
-    <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ictmizxiv" target= "_blank">
+    <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus" target= "_blank">
       <div class="panel-heading">
-        <img src=assets/ictxiv.png style="width: 58px; margin-right: 10px;" />
+        <img src=assets/inkplus.png style="width: 58px; margin-right: 10px;" />
         <div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
-          <span class="name">iCTMiZ XiV</span>
-          <span class="accent" style="font-weight: initial;">Contain Over 250+ features!</span>
+          <span class="name">iNKillerPlus</span>
+          <span class="accent" style="font-weight: initial;">a whole new Instagam experiance</span>
         </div>
       </div>
     </a>
 
-  <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube" target= "_blank">
-    <div class="panel-heading">
-      <img src=css_ico/ol3d.png style="width: 58px; margin-right: 10px;" />
-      <div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
-        <span class="name">OL3DTube</span>
-        <span class="accent" style="font-weight: initial;">oled mode for youtube!</span>
-      </div>
-    </div>
-  </a>
+      <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ictmizxiv" target= "_blank">
+        <div class="panel-heading">
+          <img src=assets/ictxiv.png style="width: 58px; margin-right: 10px;" />
+          <div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
+            <span class="name">iCTMiZ XiV</span>
+            <span class="accent" style="font-weight: initial;">Contain Over 250+ features!</span>
+          </div>
+        </div>
+      </a>
 
-  <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ikset" target= "_blank">
-    <div class="panel-heading">
-      <img src=assets/iksettings.png style="width: 58px; margin-right: 10px;" />
-      <div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
-        <span class="name">iKSettings</span>
-        <span class="accent" style="font-weight: initial;">Redefind settings app!</span>
+    <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube" target= "_blank">
+      <div class="panel-heading">
+        <img src=css_ico/ol3d.png style="width: 58px; margin-right: 10px;" />
+        <div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
+          <span class="name">OL3DTube</span>
+          <span class="accent" style="font-weight: initial;">oled mode for youtube!</span>
+        </div>
       </div>
-    </div>
-  </a>
+    </a>
 
-  <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.pmp" target= "_blank">
-    <div class="panel-heading">
-      <img src=assets/pmp.png style="width: 58px; margin-right: 10px;" />
-      <div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
-        <span class="name">PMP</span>
-        <span class="accent" style="font-weight: initial;">"PMP" Protect My Photos!</span>
+    <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ikset" target= "_blank">
+      <div class="panel-heading">
+        <img src=assets/iksettings.png style="width: 58px; margin-right: 10px;" />
+        <div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
+          <span class="name">iKSettings</span>
+          <span class="accent" style="font-weight: initial;">Redefind settings app!</span>
+        </div>
       </div>
-    </div>
-  </a>
-</a>
+    </a>
 
-<div class="container" style="color: #d6d6d6; text-align: center; margin-top: 20px; margin-bottom: 10px;">
-	<span style="font-size: 15px; font-weight: 300;">&copy; 2020 - 2024 | iKarwan</span>
+    <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.pmp" target= "_blank">
+      <div class="panel-heading">
+        <img src=assets/pmp.png style="width: 58px; margin-right: 10px;" />
+        <div class="textView" style="display: inline-grid; position: absolute; top: 16px;">
+          <span class="name">PMP</span>
+          <span class="accent" style="font-weight: initial;">"PMP" Protect My Photos!</span>
+        </div>
+      </div>
+    </a>
+  </a>
+  </div>
 </div>
 
-	<script type="text/javascript">
-	   function setAnchorTargets() {
-		 // if on Cydia, set link targets to _blank
-		 if (navigator.userAgent.search(/Cydia/) != -1) {
-		   $("a").each(function() {
-			 $(this).attr("target","_blank");
-		   });
-		 }
-	   }
+<div class="container" style="color: #d6d6d6; text-align: center; margin-top: 20px; margin-bottom: 10px;">
+  <span style="font-size: 15px; font-weight: 300;">&copy; 2020 - 2024 | iKarwan</span>
+</div>
 
-		var repoContents =  {
-			"#repoFooterLinks" :
-				{"type":"custom"
-					,"source":"repo>footerlinks>link"
-					,"render":function(element,source) {
-						$.each(source, function(index,data) {
-							var a = $("<a class='link-item list-group-item'>");
-							a.attr("href",$(data).find('url').text());
-							if ($(data).find('iconclass')) {
-								var i =  $("<span>")
-								i.attr("class",$(data).find('iconclass').text());
-								console.log(i);
-								$(a).append(i);
-							}
-							$(a).append($(data).find('name').text());
-							$(element).append(a);
-						}); //each
-					} //render
-				}
-		}
-		$( document ).ready(function() {
-			$.ajax({type: "GET", dataType: "xml",url : ("../repo.xml"),cache: false,
-				success : function(xml){
-						  data_loader_engine(repoContents,xml);
-				  setAnchorTargets();
-					  },
-				error: function() {
-				  $("#contactInfo").hide();
-				  setAnchorTargets();
-				}
-			}); //ajax
+<script type="text/javascript">
+   function setAnchorTargets() {
+   // if on Cydia, set link targets to _blank
+   if (navigator.userAgent.search(/Cydia/) != -1) {
+     $("a").each(function() {
+     $(this).attr("target","_blank");
+     });
+   }
+   }
 
-		}); // ready
+  var repoContents =  {
+    "#repoFooterLinks" :
+      {"type":"custom"
+        ,"source":"repo>footerlinks>link"
+        ,"render":function(element,source) {
+          $.each(source, function(index,data) {
+            var a = $("<a class='link-item list-group-item'>");
+            a.attr("href",$(data).find('url').text());
+            if ($(data).find('iconclass')) {
+              var i =  $("<span>")
+              i.attr("class",$(data).find('iconclass').text());
+              console.log(i);
+              $(a).append(i);
+            }
+            $(a).append($(data).find('name').text());
+            $(element).append(a);
+          }); //each
+        } //render
+      }
+  }
+  $( document ).ready(function() {
+    $.ajax({type: "GET", dataType: "xml",url : ("../repo.xml"),cache: false,
+      success : function(xml){
+            data_loader_engine(repoContents,xml);
+        setAnchorTargets();
+          },
+      error: function() {
+        $("#contactInfo").hide();
+        setAnchorTargets();
+      }
+    }); //ajax
 
-	</script>
+  }); // ready
+
+</script>
 </body>
 </html>
