@@ -168,11 +168,11 @@ Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0)
 Conflicts: pro.ikghd.instakiller, me.ikghd.inkplus
 Architecture: iphoneos-arm64
 Filename: .//debs/me.ikghd.instakiller_1.21_iphoneos-arm64.deb
-Size: 646340
+Size: 645490
 Installed-Size: 3000
-MD5sum: f08bcd7ee55de435bf3d05b7268484d2
-SHA1: 92342f94eac0ab4065ad6e89327cce0d2c315d2c
-SHA256: acaa4107e3f58f01d2316fdda3560ec13e394c22d2ac9bdb7899bb5253ab29fa
+MD5sum: 5991ad8a16a319dd0e93d3c871b3efdb
+SHA1: 7c38ab82aaa09349f9f372075966101ea090712d
+SHA256: 89a91757d41202f9d78ad4bd724a3df79e538b0c5d9f5df8085e68aa99f845fa
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikghd3@gmail.com>
@@ -188,11 +188,11 @@ Depends: mobilesubstrate, preferenceloader, firmware ( >= 14.0)
 Conflicts: pro.ikghd.instakiller, me.ikghd.inkplus
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.instakiller_1.21_iphoneos-arm.deb
-Size: 645510
+Size: 645118
 Installed-Size: 3000
-MD5sum: d9612b7d3fc99df69326c43131ceda68
-SHA1: 9e44c7bfb1cb74f16d72193564317facb30ed739
-SHA256: 7420a8da5154d4ed88aca1c7d44fddc2961f7c1f7bd6c67dbbcbf7b99e489437
+MD5sum: f44eacc25b5ec42803ca1e3e67084384
+SHA1: 84762ab508d50dfa4d03dad7f1c7650ed557c6d7
+SHA256: 5ff67bc347878676094b80a2d6f82bd0cca8ba248cbb976e0831416e2537204d
 Description: iNstagram app no ad’s Media Downloads and much more...
 Name: iNstaKiller
 Author: iKarwan <ikghd3@gmail.com>
@@ -209,11 +209,11 @@ Conflicts: pro.ikghd.ol3dtube
 Replaces: pro.ikghd.ol3dtube
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.ol3dtube_2.2.4_iphoneos-arm.deb
-Size: 100764
+Size: 100302
 Installed-Size: 552
-MD5sum: 5878ba4af3b44e472a4231dff92d1212
-SHA1: e2909a3546e96af6800bedc45cf4529a677353e7
-SHA256: 6bb43d094667c6f27904f66158c825347ada3cdfbbd5031fe1d2b5a1bb968efd
+MD5sum: cf1dc2dba45c47d3baeda92a4beb3859
+SHA1: f37e518c97fc972d9df29b0acc8fd000231e173a
+SHA256: 99579620fbf51f589ec6c1fd423011547a3ab71af4f26a07e9664058b049ddc7
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikghd3@gmail.com>
@@ -230,11 +230,11 @@ Conflicts: pro.ikghd.ol3dtube
 Replaces: pro.ikghd.ol3dtube
 Architecture: iphoneos-arm64
 Filename: .//debs/me.ikghd.ol3dtube_2.2.4_iphoneos-arm64.deb
-Size: 100864
+Size: 100250
 Installed-Size: 552
-MD5sum: 0037ba6c109276b1cf67b4a9069b3be1
-SHA1: 5ad9a88455ca92c4d522ae5aa2da6c36e4891bab
-SHA256: f890ccf959bc8f163393b07963454d3d2506e93c1b421a2916432d7037a5aa5b
+MD5sum: 2a32a26ddb586454ec458a45f983634e
+SHA1: f3c5824a2e3530b99a111e7e26aa9a30217ef0f6
+SHA256: f95caa4cab906272306371af903af62fd8b00886d56324100a32e46db879a450
 Description: Ol3d Dark Mode For YouTube!
 Name: OL3DTube
 Author: iKarwan <ikghd3@gmail.com>
@@ -292,11 +292,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 14.0
 Conflicts: pro.ikghd.youtubekiller, me.ikghd.ytkplus
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.youtubekiller_1.20_iphoneos-arm.deb
-Size: 819008
+Size: 817846
 Installed-Size: 4032
-MD5sum: c8259cec28b5cb56b9982e31a664e6e7
-SHA1: e1957d07aeac41b7ee2e078e2c8367c7006ab54f
-SHA256: 27a547b8047b94b3ffd0c494e6f8ecb580935714d0025e328934159c2d9718b5
+MD5sum: 3498a55cb688d0bdb89b797408fa850d
+SHA1: 6e51f810b3622f652b82b3544f9a7ebccab7057e
+SHA256: 1fca8e1fe5c87bddc5c9d8e06145210463be954b470329f42d8abb3c7e1895c5
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikghd3@gmail.com>
@@ -312,11 +312,11 @@ Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis, firmware ( >= 14.0
 Conflicts: pro.ikghd.youtubekiller, me.ikghd.ytkplus
 Architecture: iphoneos-arm64
 Filename: .//debs/me.ikghd.youtubekiller_1.20_iphoneos-arm64.deb
-Size: 819240
+Size: 817968
 Installed-Size: 4032
-MD5sum: 0f2315e98bd0f21a73cb7b78e3b93287
-SHA1: 07c98ca78304ae2b295d189c83d0f8ae6bac18e5
-SHA256: fd21c08cce06195f847a691d64dbc68092c32943f55ad5ea53686bd755081058
+MD5sum: 383e62a6ad814dcb25f3c2c500f7ae8e
+SHA1: c23361e9f7d2b69b842a532b2e9dbe49139b33b5
+SHA256: 739574ed39edeba1ea9f53cb2efaf5b9ee8f3595a08e6b9774b2c2a60f69ef0d
 Description: Youtube app no ad’s background playback iPad UI style and much more !
 Name: YouTubeKiller
 Author: iKarwan <ikghd3@gmail.com>
