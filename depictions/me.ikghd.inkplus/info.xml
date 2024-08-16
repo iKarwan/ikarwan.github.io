@@ -35,6 +35,7 @@
     </price>
 
     <changelog>
+      <change>· add turkish language</change>
       <change>· minor fixes</change>
       <change>· fix an important issue with previous build</change>
       <change>· update ipa to newer Instagram v344.0</change>

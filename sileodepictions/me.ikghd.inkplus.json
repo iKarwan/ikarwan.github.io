@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- minor fixes\n- fix an important issue with previous build\n- update ipa to newer Instagram v344.0",
+                "markdown":"- add turkish language\n- minor fixes\n- fix an important issue with previous build\n- update ipa to newer Instagram v344.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
