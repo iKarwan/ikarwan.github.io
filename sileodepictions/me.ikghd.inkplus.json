@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- add turkish language\n- minor fixes\n- fix an important issue with previous build\n- update ipa to newer Instagram v344.0",
+                "markdown":"- minor fixes\n- add turkish language\n- fix an important issue with previous build\n- update ipa to newer Instagram v344.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.6",
+               "text":"2.4.7",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 19, 2024",
+               "text":"Aug 22, 2024",
                "class":"DepictionTableTextView"
             },
             {
