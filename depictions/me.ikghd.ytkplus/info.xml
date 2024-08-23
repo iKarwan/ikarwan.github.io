@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.10</version>
+    <version>3.2.11</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>3.2.10</version2>
+      <version2>3.2.11</version2>
     </version2>
 
     <date>
@@ -34,8 +34,8 @@
     </price>
 
     <changelog>
-      <change>· minor fixes</change>
-      <change>· fix an important issue with previous build</change>
+      <change>· use IKG30 coupon using stripe get 30% off</change>
+      <change>· minor enhancemets</change>
       <change>· update iPA to YouTube_v19.33.2</change>
     </changelog>
 

@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- minor fixes\n- add turkish language\n- fix an important issue with previous build\n- update ipa to newer Instagram v344.0",
+                "markdown":"- use IKG30 coupon using stripe get 30% off\n- minor enhancemets\n- update ipa to newer Instagram v345.3",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.7",
+               "text":"2.4.8",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 22, 2024",
+               "text":"Aug 24, 2024",
                "class":"DepictionTableTextView"
             },
             {
