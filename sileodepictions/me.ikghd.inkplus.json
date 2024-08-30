@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- use IKG30 coupon using stripe get 30% off\n- minor enhancemets\n- update ipa to newer Instagram v345.3",
+                "markdown":"- use IKG30 coupon using stripe get 30% off\n- minor enhancemets\n- this coupon is valid for all purchases YTKillerPlus iNKillerPlus and store subscription with renewing the license Key\n- overall enhancemets\n- update ipa to newer Instagram v346.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.8",
+               "text":"2.4.9",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 24, 2024",
+               "text":"Sep 01, 2024",
                "class":"DepictionTableTextView"
             },
             {

@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.11</version>
+    <version>3.2.13</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.11</version2>
+      <version2>3.2.13</version2>
     </version2>
 
     <date>
-      <date>Aug 22, 2024</date>
+      <date>Sep 01, 2024</date>
     </date>
 
     <price>
@@ -35,8 +35,15 @@
 
     <changelog>
       <change>· use IKG30 coupon using stripe get 30% off</change>
-      <change>· minor enhancemets</change>
-      <change>· update iPA to YouTube_v19.33.2</change>
+      <change>· this coupon is valid for all purchases YTKillerPlus iNKillerPlus and store subscription with renewing the license Key</change>
+      <change>· add backup option backup your downloaded media and restore them anytime</change>
+      <change>· add import media to YTKPlus library Video and Audio</change>
+      <change>· over all fixes and enhancemets</change>
+      <change>· update so many parts to enhance and improve the user experiance</change>
+      <change>· we now use our activation for team/certificates you can now purchase or renew directly from the app</change>
+      <change>· special thanks to crazyMind90 and dayanch for there assistance</change>
+      <change>· some features delayed for next releases sorry..</change>
+      <change>· update iPA to YouTube_v19.34.2</change>
     </changelog>
 
 
@@ -73,27 +80,27 @@
               </li>
               <br>
 
-                      <br>Refund Policy:
-                      <br>· refund accepted if u have !issue such a safe mode or the tweak not working!
-                      <br>· must provide full details about the !issue photo & crash log>
-                      <br>· change in mind not accepted !u can see details with photos & video before buying,
-                      <br>· if refund was accepted will processing with in 3 to 7 days:
-                      <br>· thank you 🤗 & Enjoy:
-                      <br>
-                      <br>
+                <br>Refund Policy:
+                <br>· refund accepted if u have !issue such a safe mode or the tweak not working!
+                <br>· must provide full details about the !issue photo & crash log>
+                <br>· change in mind not accepted !u can see details with photos & video before buying,
+                <br>· if refund was accepted will processing with in 3 to 7 days:
+                <br>· thank you 🤗 & Enjoy:
+                <br>
+                <br>
 
 
 
-                        <br>Subscription | key & Devices:
-                          <br>· 1 year subscription 364 days ..
-                            <br>· the key is for 1 device. transsferable ..
-                        <br><br>
+                  <br>Subscription | key & Devices:
+                    <br>· 1 year subscription 364 days ..
+                      <br>· the key is for 1 device. transsferable ..
+                  <br><br>
 
-                          <br>refer to the FAQ page for more info:
-                          <li>
-                              <a href="https://ikghd.site/faq.html">FAQ page:</a>
-                          </li>
-                          <br>
+                    <br>refer to the FAQ page for more info:
+                    <li>
+                        <a href="https://ikghd.site/faq.html">FAQ page:</a>
+                    </li>
+                    <br>
 
         ]]></longdescription>
     </descriptionlist>
