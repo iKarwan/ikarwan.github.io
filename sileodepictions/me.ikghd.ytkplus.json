@@ -153,7 +153,7 @@
             },
 
             {
-                "markdown":"- use IKG30 coupon using stripe get 30% off\n- minor enhancemets\n- this coupon is valid for all purchases YTKillerPlus iNKillerPlus and store subscription with renewing the license Key\n- add backup option backup your downloaded media and restore them anytime\n- add import media to YTKPlus library Video and Audio\n- over all fixes and enhancemets\n- update so many parts to enhance and improve the user experiance\n- we now use our activation for team/certificates you can now purchase or renew directly from the app\n- special thanks to crazyMind90 and dayanch for there assistance\n- some features delayed for next releases sorry..  update iPA to YouTube_v19.34.2",
+                "markdown":"- use IKG30 coupon using stripe get 30% off\n- minor enhancemets\n- this coupon is valid for all purchases YTKillerPlus iNKillerPlus and store subscription with renewing the license Key\n- save playback speed rate state toggles on overlay  to countinusly use on all video\n- add backup option backup your downloaded media and restore them anytime\n- add import media to YTKPlus library Video and Audio\n- over all fixes and enhancemets\n- update so many parts to enhance and improve the user experiance\n- we now use our activation for team/certificates you can now purchase or renew directly from the app\n- special thanks to crazyMind90 and dayanch for there assistance\n- some features delayed for next releases sorry..  update iPA to YouTube_v19.35.3",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -168,12 +168,12 @@
             },
             {
                "title":"Version",
-               "text":"3.2.13",
+               "text":"3.2.14",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Sep 01, 2024",
+               "text":"Sep 04, 2024",
                "class":"DepictionTableTextView"
             },
             {
