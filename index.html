@@ -130,7 +130,7 @@
         #repoFooterLinks {
             display: flex;
             justify-content: center;
-            gap: 25px;
+            gap: 15px;
             margin-top: 20px;
         }
 
@@ -224,7 +224,7 @@
         }
 
         var repoContents = {
-            "#logo" : {
+            "#repoFooterLinks" : {
                 "type":"custom",
                 "source":"repo>footerlinks>link",
                 "render":function(element,source) {
@@ -254,7 +254,7 @@
                 },
                 error: function(jqXHR, textStatus, errorThrown) {
                     console.error("Error loading repo.xml:", textStatus, errorThrown);
-                    $("#logo").hide();
+                    $("#repoFooterLinks").hide();
                     setAnchorTargets();
                 }
             });
