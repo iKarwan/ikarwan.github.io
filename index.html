@@ -51,6 +51,7 @@
 
         .logo {
             width: 400px;
+            max-width: 100%;
             margin-bottom: 20px;
         }
 
@@ -75,13 +76,6 @@
         .repo-button:hover {
             background-color: var(--primary-color);
             color: var(--secondary-color);
-        }
-
-        h2 {
-            font-size: 28px;
-            text-align: center;
-            margin-bottom: 30px;
-            color: var(--primary-color);
         }
 
         .projects {
@@ -138,9 +132,14 @@
                 grid-template-columns: 1fr;
             }
 
-            .logo {
+            .repo-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .repo-button {
                 width: 100%;
-                max-width: 400px;
+                max-width: 200px;
             }
         }
     </style>
@@ -151,10 +150,10 @@
             <img src="assets/lpoto.svg" alt="iKarwan Logo" class="logo">
             <div class="repo-buttons">
                 <a href="sileo://source/https://repo.ikghd.me/" class="repo-button">
-                    <i class="fas fa-plus"></i> Sileo
+                    <i class="fas fa-plus"></i> Add to Sileo
                 </a>
                 <a href="zbra://sources/add/https://repo.ikghd.me/" class="repo-button">
-                    <i class="fas fa-plus"></i> Zebra
+                    <i class="fas fa-plus"></i> Add to Zebra
                 </a>
             </div>
         </header>
@@ -198,27 +197,47 @@
         </footer>
     </div>
 
-    <script src="depictions/js/data-loader-engine.js"></script>
-    <script>
+    <script type="text/javascript">
         function setAnchorTargets() {
             if (navigator.userAgent.search(/Cydia/) != -1) {
-                $("a").each(function () {
-                    $(this).attr("target", "_blank");
+                $("a").each(function() {
+                    $(this).attr("target","_blank");
                 });
             }
         }
 
-        $(document).ready(function () {
+        var repoContents =  {
+            "#repoFooterLinks" : {
+                "type":"custom",
+                "source":"repo>footerlinks>link",
+                "render":function(element,source) {
+                    $.each(source, function(index,data) {
+                        var a = $("<a class='link-item list-group-item'>");
+                        a.attr("href",$(data).find('url').text());
+                        if ($(data).find('iconclass')) {
+                            var i =  $("<span>")
+                            i.attr("class",$(data).find('iconclass').text());
+                            console.log(i);
+                            $(a).append(i);
+                        }
+                        $(a).append($(data).find('name').text());
+                        $(element).append(a);
+                    });
+                }
+            }
+        }
+
+        $(document).ready(function() {
             $.ajax({
                 type: "GET",
                 dataType: "xml",
-                url: "repo.xml",
+                url : ("../repo.xml"),
                 cache: false,
-                success: function (xml) {
-                    data_loader_engine(repoContents, xml);
+                success : function(xml){
+                    data_loader_engine(repoContents,xml);
                     setAnchorTargets();
                 },
-                error: function () {
+                error: function() {
                     $("#contactInfo").hide();
                     setAnchorTargets();
                 }
