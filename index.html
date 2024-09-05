@@ -127,19 +127,35 @@
             color: var(--text-color);
         }
 
+        #repoFooterLinks {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        #repoFooterLinks a {
+            color: var(--primary-color);
+            font-size: 24px;
+            transition: color 0.3s ease;
+        }
+
+        #repoFooterLinks a:hover {
+            color: var(--secondary-color);
+        }
+
         @media (max-width: 768px) {
             .projects {
                 grid-template-columns: 1fr;
             }
 
             .repo-buttons {
-                flex-direction: column;
-                align-items: center;
+                flex-wrap: wrap;
             }
 
             .repo-button {
-                width: 100%;
-                max-width: 200px;
+                flex: 1 1 40%;
+                min-width: 120px;
             }
         }
     </style>
@@ -150,10 +166,10 @@
             <img src="assets/lpoto.svg" alt="iKarwan Logo" class="logo">
             <div class="repo-buttons">
                 <a href="sileo://source/https://repo.ikghd.me/" class="repo-button">
-                    <i class="fas fa-plus"></i> Add to Sileo
+                    <i class="fas fa-plus"></i> Sileo
                 </a>
                 <a href="zbra://sources/add/https://repo.ikghd.me/" class="repo-button">
-                    <i class="fas fa-plus"></i> Add to Zebra
+                    <i class="fas fa-plus"></i> Zebra
                 </a>
             </div>
         </header>
@@ -193,6 +209,7 @@
         </div>
 
         <footer>
+            <div id="repoFooterLinks"></div>
             &copy; 2020 - 2024 | iKarwan
         </footer>
     </div>
@@ -206,21 +223,19 @@
             }
         }
 
-        var repoContents =  {
+        var repoContents = {
             "#repoFooterLinks" : {
                 "type":"custom",
                 "source":"repo>footerlinks>link",
                 "render":function(element,source) {
                     $.each(source, function(index,data) {
-                        var a = $("<a class='link-item list-group-item'>");
+                        var a = $("<a>");
                         a.attr("href",$(data).find('url').text());
-                        if ($(data).find('iconclass')) {
-                            var i =  $("<span>")
-                            i.attr("class",$(data).find('iconclass').text());
-                            console.log(i);
-                            $(a).append(i);
+                        if ($(data).find('iconclass').length) {
+                            var i = $("<i>");
+                            i.attr("class", $(data).find('iconclass').text());
+                            a.append(i);
                         }
-                        $(a).append($(data).find('name').text());
                         $(element).append(a);
                     });
                 }
@@ -231,18 +246,28 @@
             $.ajax({
                 type: "GET",
                 dataType: "xml",
-                url : ("repo.xml"),
+                url: "repo.xml",
                 cache: false,
-                success : function(xml){
-                    data_loader_engine(repoContents,xml);
+                success: function(xml) {
+                    data_loader_engine(repoContents, xml);
                     setAnchorTargets();
                 },
-                error: function() {
-                    $("#contactInfo").hide();
+                error: function(jqXHR, textStatus, errorThrown) {
+                    console.error("Error loading repo.xml:", textStatus, errorThrown);
+                    $("#repoFooterLinks").hide();
                     setAnchorTargets();
                 }
             });
         });
+
+        function data_loader_engine(repoContents, xml) {
+            $.each(repoContents, function(key, value) {
+                var content_url = jQuery(xml).find(value.source).text();
+                if (value.type == "custom") {
+                    value.render($(key), jQuery(xml).find(value.source));
+                }
+            });
+        }
     </script>
 </body>
 </html>
