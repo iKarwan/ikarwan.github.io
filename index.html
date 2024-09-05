@@ -1,218 +1,245 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>iKarwan Repo</title>
-  <link rel="shortcut icon" type="image/ico" href="assets/favicon.ico">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <script type="text/javascript" src="depictions/js/data-loader-engine.js"></script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123752025-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-    gtag('config', 'UA-123752025-1');
-  </script>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    .social-icon img {
-      width: 350px;
-      margin-bottom: 20px;
-    }
-    .reposhortcut {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      margin-bottom: 20px;
-    }
-    .reposhortcut a {
-      margin: 10px;
-      padding: 10px 20px;
-      font-size: 16px;
-      font-weight: bold;
-      text-decoration: none;
-      color: #6d7c9b;
-      background-color: #eaeaea;
-      border-radius: 8px;
-      transition: background-color 0.3s ease;
-    }
-    .reposhortcut a:hover {
-      background-color: #d0d0d0;
-    }
-    h2 {
-      font-size: 28px;
-      font-weight: bold;
-      color: #333;
-      text-align: center;
-      margin-bottom: 30px;
-    }
-    .packages {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 20px;
-      width: 100%;
-    }
-    .package {
-      display: flex;
-      align-items: center;
-      padding: 20px;
-      background-color: white;
-      border-radius: 12px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      transition: transform 0.3s ease;
-    }
-    .package img {
-      width: 60px;
-      margin-right: 20px;
-    }
-    .package .textView {
-      flex-grow: 1;
-    }
-    .package .name {
-      font-size: 18px;
-      font-weight: bold;
-      color: #999;
-    }
-    .package .accent {
-      font-size: 14px;
-      color: #6d7c9b;
-    }
-    .package:hover {
-      transform: translateY(-5px);
-    }
-    .footer {
-      text-align: center;
-      margin-top: 40px;
-      font-size: 14px;
-      color: #888;
-    }
-    /* Dark Mode */
-    @media (prefers-color-scheme: dark) {
-      body {
-        background-color: #121212;
-        color: #eaeaea;
-      }
-      .package {
-        background-color: #1e1e1e;
-      }
-      .footer {
-        color: #888;
-      }
-    }
-  </style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>iKarwan Repo</title>
+    <link rel="shortcut icon" type="image/ico" href="assets/favicon.ico">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        :root {
+            --primary-color: #6d7c9b;
+            --secondary-color: #eaeaea;
+            --text-color: #333;
+            --bg-color: #f9f9f9;
+            --card-bg: #ffffff;
+            --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary-color: #8c9eba;
+                --secondary-color: #2a2a2a;
+                --text-color: #eaeaea;
+                --bg-color: #121212;
+                --card-bg: #1e1e1e;
+                --shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
+            }
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .logo {
+            width: 400px;
+            margin-bottom: 20px;
+        }
+
+        .repo-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .repo-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            font-weight: bold;
+            text-decoration: none;
+            color: var(--primary-color);
+            background-color: var(--secondary-color);
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .repo-button:hover {
+            background-color: var(--primary-color);
+            color: var(--secondary-color);
+        }
+
+        h2 {
+            font-size: 28px;
+            text-align: center;
+            margin-bottom: 30px;
+            color: var(--primary-color);
+        }
+
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+        }
+
+        .project {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: var(--shadow);
+            transition: transform 0.3s ease;
+            text-decoration: none;
+            color: var(--text-color);
+        }
+
+        .project:hover {
+            transform: translateY(-5px);
+        }
+
+        .project img {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+        }
+
+        .project-info {
+            padding: 20px;
+        }
+
+        .project-name {
+            font-size: 20px;
+            font-weight: bold;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+
+        .project-description {
+            font-size: 14px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px 0;
+            font-size: 14px;
+            color: var(--text-color);
+        }
+
+        @media (max-width: 768px) {
+            .projects {
+                grid-template-columns: 1fr;
+            }
+
+            .logo {
+                width: 100%;
+                max-width: 400px;
+            }
+        }
+    </style>
 </head>
 <body>
+    <div class="container">
+        <header>
+            <img src="assets/lpoto.svg" alt="iKarwan Logo" class="logo">
+            <div class="repo-buttons">
+                <a href="sileo://source/https://repo.ikghd.me/" class="repo-button">
+                    <i class="fas fa-plus"></i> Sileo
+                </a>
+                <a href="zbra://sources/add/https://repo.ikghd.me/" class="repo-button">
+                    <i class="fas fa-plus"></i> Zebra
+                </a>
+            </div>
+        </header>
 
-  <div class="container">
-    <div class="social-icon">
-      <img src="assets/lpoto.svg" alt="iKarwan Logo">
+        <div class="projects">
+            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus" class="project">
+                <img src="assets/ytkplus.png" alt="YTKillerPlus">
+                <div class="project-info">
+                    <div class="project-name">YTKillerPlus</div>
+                    <div class="project-description">A whole new YouTube experience</div>
+                </div>
+            </a>
+
+            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus" class="project">
+                <img src="assets/inkplus.png" alt="iNKillerPlus">
+                <div class="project-info">
+                    <div class="project-name">iNKillerPlus</div>
+                    <div class="project-description">A whole new Instagram experience</div>
+                </div>
+            </a>
+
+            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ictmizxiv" class="project">
+                <img src="assets/ictxiv.png" alt="iCTMiZ XiV">
+                <div class="project-info">
+                    <div class="project-name">iCTMiZ XiV</div>
+                    <div class="project-description">Contains over 250+ features!</div>
+                </div>
+            </a>
+
+            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube" class="project">
+                <img src="css_ico/ol3d.png" alt="OL3DTube">
+                <div class="project-info">
+                    <div class="project-name">OL3DTube</div>
+                    <div class="project-description">OLED mode for YouTube!</div>
+                </div>
+            </a>
+
+            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ikset" class="project">
+                <img src="assets/iksettings.png" alt="iKSettings">
+                <div class="project-info">
+                    <div class="project-name">iKSettings</div>
+                    <div class="project-description">Redefined settings app!</div>
+                </div>
+            </a>
+
+            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.pmp" class="project">
+                <img src="assets/pmp.png" alt="PMP">
+                <div class="project-info">
+                    <div class="project-name">PMP</div>
+                    <div class="project-description">"PMP" Protect My Photos!</div>
+                </div>
+            </a>
+        </div>
+
+        <footer>
+            &copy; 2020 - 2024 | iKarwan
+        </footer>
     </div>
 
-    <div class="reposhortcut">
-      <a href="sileo://source/https://repo.ikghd.me/">+Sileo</a>
-      <a href="zbra://sources/add/https://repo.ikghd.me/">+Zebra</a>
-    </div>
-
-    <h2>Projects:</h2>
-
-    <div class="packages">
-      <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus" target="_blank">
-        <img src="assets/ytkplus.png" alt="YTKillerPlus">
-        <div class="textView">
-          <span class="name">YTKillerPlus</span>
-          <span class="accent">a whole new YouTube experience</span>
-        </div>
-      </a>
-
-      <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus" target="_blank">
-        <img src="assets/inkplus.png" alt="iNKillerPlus">
-        <div class="textView">
-          <span class="name">iNKillerPlus</span>
-          <span class="accent">a whole new Instagram experience</span>
-        </div>
-      </a>
-
-      <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ictmizxiv" target="_blank">
-        <img src="assets/ictxiv.png" alt="iCTMiZ XiV">
-        <div class="textView">
-          <span class="name">iCTMiZ XiV</span>
-          <span class="accent">Contains over 250+ features!</span>
-        </div>
-      </a>
-
-      <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ol3dtube" target="_blank">
-        <img src="css_ico/ol3d.png" alt="OL3DTube">
-        <div class="textView">
-          <span class="name">OL3DTube</span>
-          <span class="accent">OLED mode for YouTube!</span>
-        </div>
-      </a>
-
-      <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.ikset" target="_blank">
-        <img src="assets/iksettings.png" alt="iKSettings">
-        <div class="textView">
-          <span class="name">iKSettings</span>
-          <span class="accent">Redefined settings app!</span>
-        </div>
-      </a>
-
-      <a class="package" href="https://repo.ikghd.me/depictions/?p=me.ikghd.pmp" target="_blank">
-        <img src="assets/pmp.png" alt="PMP">
-        <div class="textView">
-          <span class="name">PMP</span>
-          <span class="accent">"PMP" Protect My Photos!</span>
-        </div>
-      </a>
-    </div>
-
-    <div class="footer">
-      &copy; 2020 - 2024 | iKarwan
-    </div>
-  </div>
-
-  <script>
-    function setAnchorTargets() {
-      if (navigator.userAgent.search(/Cydia/) != -1) {
-        $("a").each(function () {
-          $(this).attr("target", "_blank");
-        });
-      }
-    }
-    $(document).ready(function () {
-      $.ajax({
-        type: "GET",
-        dataType: "xml",
-        url: "repo.xml",
-        cache: false,
-        success: function (xml) {
-          data_loader_engine(repoContents, xml);
-          setAnchorTargets();
-        },
-        error: function () {
-          $("#contactInfo").hide();
-          setAnchorTargets();
+    <script src="depictions/js/data-loader-engine.js"></script>
+    <script>
+        function setAnchorTargets() {
+            if (navigator.userAgent.search(/Cydia/) != -1) {
+                $("a").each(function () {
+                    $(this).attr("target", "_blank");
+                });
+            }
         }
-      });
-    });
-  </script>
 
+        $(document).ready(function () {
+            $.ajax({
+                type: "GET",
+                dataType: "xml",
+                url: "repo.xml",
+                cache: false,
+                success: function (xml) {
+                    data_loader_engine(repoContents, xml);
+                    setAnchorTargets();
+                },
+                error: function () {
+                    $("#contactInfo").hide();
+                    setAnchorTargets();
+                }
+            });
+        });
+    </script>
 </body>
 </html>
