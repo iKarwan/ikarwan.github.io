@@ -58,7 +58,7 @@
         .repo-buttons {
             display: flex;
             justify-content: center;
-            gap: 15px;
+            gap: 10px;
             margin-bottom: 30px;
         }
 
@@ -67,64 +67,14 @@
             font-size: 16px;
             font-weight: bold;
             text-decoration: none;
-            color: var(--primary-color);
-            background-color: var(--secondary-color);
+            color: #fff;
+            background-color: #333;
             border-radius: 8px;
             transition: all 0.3s ease;
         }
 
         .repo-button:hover {
-            background-color: var(--primary-color);
-            color: var(--secondary-color);
-        }
-
-        .projects {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 25px;
-        }
-
-        .project {
-            background-color: var(--card-bg);
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: var(--shadow);
-            transition: transform 0.3s ease;
-            text-decoration: none;
-            color: var(--text-color);
-        }
-
-        .project:hover {
-            transform: translateY(-5px);
-        }
-
-        .project img {
-            width: 100%;
-            height: 180px;
-            object-fit: cover;
-        }
-
-        .project-info {
-            padding: 20px;
-        }
-
-        .project-name {
-            font-size: 20px;
-            font-weight: bold;
-            color: var(--primary-color);
-            margin-bottom: 10px;
-        }
-
-        .project-description {
-            font-size: 14px;
-        }
-
-        footer {
-            text-align: center;
-            margin-top: 40px;
-            padding: 20px 0;
-            font-size: 14px;
-            color: var(--text-color);
+            background-color: #555;
         }
 
         #repoFooterLinks {
@@ -135,43 +85,47 @@
         }
 
         #repoFooterLinks a {
-            color: var(--primary-color);
+            color: #fff;
             font-size: 24px;
-            transition: color 0.3s ease;
+            text-decoration: none;
         }
 
         #repoFooterLinks a:hover {
-            color: var(--secondary-color);
+            color: #ccc;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px 0;
+            font-size: 14px;
+            color: #fff;
         }
 
         @media (max-width: 768px) {
-            .projects {
-                grid-template-columns: 1fr;
-            }
-
             .repo-buttons {
-                flex-wrap: wrap;
+                flex-wrap: nowrap;
             }
 
             .repo-button {
-                flex: 1 1 40%;
-                min-width: 120px;
+                flex: 0 1 auto;
+                min-width: 100px;
             }
         }
     </style>
-</head>
-<body>
+
     <div class="container">
         <header>
             <img src="assets/lpoto.svg" alt="iKarwan Logo" class="logo">
             <div class="repo-buttons">
                 <a href="sileo://source/https://repo.ikghd.me/" class="repo-button">
-                    <i class="fas fa-plus"></i> Sileo
+                    + Sileo
                 </a>
                 <a href="zbra://sources/add/https://repo.ikghd.me/" class="repo-button">
-                    <i class="fas fa-plus"></i> Zebra
+                    + Zebra
                 </a>
             </div>
+            <div id="repoFooterLinks"></div>
         </header>
 
         <div class="projects">
@@ -259,15 +213,6 @@
                 }
             });
         });
-
-        function data_loader_engine(repoContents, xml) {
-            $.each(repoContents, function(key, value) {
-                var content_url = jQuery(xml).find(value.source).text();
-                if (value.type == "custom") {
-                    value.render($(key), jQuery(xml).find(value.source));
-                }
-            });
-        }
     </script>
 </body>
 </html>
