@@ -2,7 +2,7 @@
 	<footerlinks>
 		<link>
 	    <url>https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW</url>
-			<iconclass>fa fa-paypal</iconclass>
+			<iconclass>fa-brands fa-paypal</iconclass>
 		</link>
 		<link>
 	    <url>https://www.buymeacoffee.com/ikghd</url>
@@ -10,11 +10,11 @@
 		</link>
 		<link>
 			<url>https://twitter.com/ikg_hd</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<iconclass>fa-brands fa-x-twitter</iconclass>
 		</link>
 		<link>
 			<url>https://youtube.com/c/ikghd</url>
-			<iconclass>fa fa-youtube</iconclass>
+			<iconclass>fa-brands fa-youtube</iconclass>
 		</link>
 		<link>
 			<url>https://ikghd.site/faq.html</url>
