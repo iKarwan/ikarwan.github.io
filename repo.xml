@@ -6,11 +6,11 @@
 		</link>
 		<link>
 	    <url>https://www.buymeacoffee.com/ikghd</url>
-			<i class="fas fa-coffee"></i>
+			<iconclass>fa fa-coffee</iconclass>
 		</link>
 		<link>
 			<url>https://twitter.com/ikg_hd</url>
-			<iconclass>fa-brands fa-square-x-twitter</iconclass>
+			<iconclass>fa-brands fa-twitter</iconclass>
 		</link>
 		<link>
 			<url>https://youtube.com/c/ikghd</url>
