@@ -129,8 +129,6 @@
     <div class="reposhortcut">
       <a href="sileo://source/https://repo.ikghd.me/">+Sileo</a>
       <a href="zbra://sources/add/https://repo.ikghd.me/">+Zebra</a>
-      <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.ikghd.me/">+Cydia</a>
-      <a href="installer://add/https://repo.ikghd.me/">+Installer</a>
     </div>
 
     <h2>Projects:</h2>
@@ -202,7 +200,7 @@
       $.ajax({
         type: "GET",
         dataType: "xml",
-        url: "../repo.xml",
+        url: "repo.xml",
         cache: false,
         success: function (xml) {
           data_loader_engine(repoContents, xml);
