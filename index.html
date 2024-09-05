@@ -224,9 +224,9 @@
         }
 
         var repoContents = {
-            "#repoFooterLinks" : {
+            "#logo" : {
                 "type":"custom",
-                "source":"repo>logo>link",
+                "source":"repo>footerlinks>link",
                 "render":function(element,source) {
                     $.each(source, function(index,data) {
                         var a = $("<a>");
@@ -254,7 +254,7 @@
                 },
                 error: function(jqXHR, textStatus, errorThrown) {
                     console.error("Error loading repo.xml:", textStatus, errorThrown);
-                    $("#repoFooterLinks").hide();
+                    $("#logo").hide();
                     setAnchorTargets();
                 }
             });
