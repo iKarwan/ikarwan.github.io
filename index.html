@@ -45,9 +45,8 @@
         }
 
         header {
-          display: flex;
-          flex-direction: column;
-          align-items: center;
+            text-align: center;
+            margin-bottom: 40px;
         }
 
         .logo {
@@ -129,8 +128,10 @@
         }
 
         #repoFooterLinks {
-          margin-top: 10px;
-          margin-bottom: 100px;
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
         }
 
         #repoFooterLinks a {
@@ -145,11 +146,8 @@
 
         @media (max-width: 768px) {
           #repoFooterLinks {
-            gap: 10px; /* Reduce from 15px */
+            gap: 20px; /* Reduce from 15px */
           }
-        }
-
-        @media (max-width: 768px) {
             .projects {
                 grid-template-columns: 1fr;
             }
