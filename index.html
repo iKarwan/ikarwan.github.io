@@ -45,8 +45,9 @@
         }
 
         header {
-            text-align: center;
-            margin-bottom: 40px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
         }
 
         .logo {
@@ -128,10 +129,8 @@
         }
 
         #repoFooterLinks {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin-top: 20px;
+          margin-top: 10px;
+          margin-bottom: 100px;
         }
 
         #repoFooterLinks a {
@@ -142,6 +141,12 @@
 
         #repoFooterLinks a:hover {
             color: var(--secondary-color);
+        }
+
+        @media (max-width: 768px) {
+          #repoFooterLinks {
+            gap: 10px; /* Reduce from 15px */
+          }
         }
 
         @media (max-width: 768px) {
@@ -164,7 +169,7 @@
     <div class="container">
         <header>
             <img src="assets/lpoto.svg" alt="iKarwan Logo" class="logo">
-            <div class="repo-buttons">
+            <div id="repoFooterLinks"></div>
                 <a href="sileo://source/https://repo.ikghd.me/" class="repo-button">
                     <i class="fas fa-plus"></i> Sileo
                 </a>
