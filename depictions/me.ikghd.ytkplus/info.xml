@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.16</version>
+    <version>3.2.17</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.16</version2>
+      <version2>3.2.17</version2>
     </version2>
 
     <date>
-      <date>Sep 07, 2024</date>
+      <date>Sep 10, 2024</date>
     </date>
 
     <price>
@@ -47,7 +47,7 @@
       <change>· we now use our activation for team/certificates you can now purchase or renew directly from the app</change>
       <change>· special thanks to crazyMind90 and dayanch for there assistance</change>
       <change>· some features delayed for next releases sorry..</change>
-      <change>· update iPA to YouTube_v19.35.3</change>
+      <change>· update iPA to YouTube_v19.36.1</change>
     </changelog>
 
 
