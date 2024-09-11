@@ -68,7 +68,6 @@
             font-weight: bold;
             text-decoration: none;
             color: var(--primary-color);
-            /* background-color: var(--secondary-color); */
             border-radius: 8px;
             transition: all 0.3s ease;
         }
@@ -156,6 +155,27 @@
             .repo-button {
                 flex: 1 1 40%;
                 min-width: 120px;
+            }
+
+            #repoFooterLinks a {
+                margin-right: 10px;
+                font-size: 20px;
+            }
+
+            #repoFooterLinks a:last-child {
+                margin-right: 0;
+            }
+        }
+
+        @media (max-width: 480px) {
+            #repoFooterLinks {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            #repoFooterLinks a {
+                margin: 5px;
             }
         }
     </style>
