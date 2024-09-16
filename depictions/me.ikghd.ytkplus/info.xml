@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.17</version>
+    <version>3.2.18</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.17</version2>
+      <version2>3.2.18</version2>
     </version2>
 
     <date>
-      <date>Sep 10, 2024</date>
+      <date>Sep 16, 2024</date>
     </date>
 
     <price>
@@ -37,17 +37,9 @@
       <change>· use IKG30 coupon using stripe get 30% off</change>
       <change>· this coupon is valid for all purchases YTKillerPlus iNKillerPlus and store subscription with renewing the license Key</change>
       <change></change>
-      <change>· save playback speed rate state toggles on overlay  to countinusly use on all video</change>
-      <change>· minor fixes and improvements</change>
       <change></change>
-      <change>· add backup option backup your downloaded media and restore them anytime</change>
-      <change>· add import media to YTKPlus library Video and Audio</change>
-      <change>· over all fixes and enhancemets</change>
-      <change>· update so many parts to enhance and improve the user experiance</change>
-      <change>· we now use our activation for team/certificates you can now purchase or renew directly from the app</change>
-      <change>· special thanks to crazyMind90 and dayanch for there assistance</change>
-      <change>· some features delayed for next releases sorry..</change>
-      <change>· update iPA to YouTube_v19.36.1</change>
+      <change>· fixes and improvements</change>
+      <change>· update iPA to YouTube_v19.37.2</change>
     </changelog>
 
 
