@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.4.13</version>
+    <version>2.4.14</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>2.4.13</version2>
+      <version2>2.4.14</version2>
     </version2>
 
     <date>
-      <date>Sep 16, 2024</date>
+      <date>Sep 19, 2024</date>
     </date>
 
     <price>
@@ -35,9 +35,12 @@
     </price>
 
     <changelog>
-      <change>· use IKG30 coupon using stripe get 30% off</change>
+      <change>· use IKG30 coupon with stripe to get 30% off limited time end in 3 days 72 hours</change>
       <change>· this coupon is valid for all purchases YTKillerPlus iNKillerPlus and store subscription with renewing the license Key</change>
-      <change>· fix copy comment for v345 and aove tap to copy comment</change>
+      <change>· fix missing icon</change>
+      <change>· fixes and update downloads</change>
+      <change>· fix copy comment for v345 and above</change>
+      <change>· redesign and enhance settings</change>
       <change>· other minor improvements</change>
       <change>· update ipa to newer Instagram v349.0</change>
     </changelog>
