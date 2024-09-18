@@ -39,6 +39,9 @@
       <change></change>
       <change>· enabled download up to 4k and HDR videos this for JB only</change>
       <change>· enabled handle both format M4A and MP3 downloading</change>
+      <change>· add handle 4k video and HDR player for download manager</change>
+      <change>· add handle MP3 player and badge for download manager</change>
+      <change>· fix airplay icon need permission</change>
       <change>· enhance audio and video player layout constraint</change>
       <change>· enhance download manager</change>
       <change>· fix import media artwork that is PNG file not imported in some cases</change>
@@ -51,7 +54,7 @@
       <change>· update and fixes some localize missing</change>
       <change>· more improvements to speed playback controllers in overlay to handle saving status</change>
       <change>· other fixes and improvements</change>
-      <change>· pls always for purchase guidlines and answer and question visit the faq page. ikghd.site/faq.html</change>
+      <change>· pls always for purchase guidlines. answer and question visit the faq page. ikghd.site/faq.html</change>
       <change>· update iPA to YouTube_v19.37.2</change>
     </changelog>
 
