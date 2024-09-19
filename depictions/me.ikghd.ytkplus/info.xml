@@ -34,28 +34,26 @@
     </price>
 
     <changelog>
-      <change>· use IKG30 coupon with stripe to get 30% off limited time end in 3 days 72 hours</change>
-      <change>· this coupon is valid for all purchases YTKillerPlus iNKillerPlus and store subscription with renewing the license Key</change>
-      <change></change>
-      <change>· enabled download up to 4k and HDR videos this for JB only</change>
-      <change>· enabled handle both format M4A and MP3 downloading</change>
-      <change>· add handle 4k video and HDR player for download manager</change>
-      <change>· add handle MP3 player and badge for download manager</change>
-      <change>· fix airplay icon need permission</change>
-      <change>· enhance audio and video player layout constraint</change>
-      <change>· enhance download manager</change>
-      <change>· fix import media artwork that is PNG file not imported in some cases</change>
-      <change>· fix backing up loading and faster backing up</change>
-      <change>· compressing the backup file more for less size by 20%</change>
-      <change>· fix icon layout for shorts download and Fullscreen</change>
-      <change>· fix over all layout constraint for smaller Devices</change>
-      <change>· improve long pressing on downloaded item delay time</change>
-      <change>· enhance and make the download manager handle more downloaded item smoothly</change>
-      <change>· update and fixes some localize missing</change>
-      <change>· more improvements to speed playback controllers in overlay to handle saving status</change>
-      <change>· other fixes and improvements</change>
-      <change>· pls always for purchase guidlines. answer and question visit the faq page. ikghd.site/faq.html</change>
-      <change>· update iPA to YouTube_v19.37.2</change>
+      <change>· Use code IKG30 at checkout with Stripe to get 30% off. Limited time offer, ends in 72 hours.</change>
+      <change>· Coupon valid for all purchases: YTKillerPlus, iNKillerPlus, and store subscriptions (license key renewals).</change>
+      <change>· Download up to 4K and HDR videos (Jailbreak only).</change>
+      <change>· Support for M4A and MP3 downloads added.</change>
+      <change>· Added 4K video and HDR support in the download manager.</change>
+      <change>· Added MP3 player and badge to download manager.</change>
+      <change>· Fixed AirPlay icon permission issue.</change>
+      <change>· Improved audio and video player layout constraints.</change>
+      <change>· Enhanced download manager performance.</change>
+      <change>· Fixed PNG artwork import issues in some cases.</change>
+      <change>· Faster backup loading and improved backup compression (20% smaller).</change>
+      <change>· Fixed icon layout for Shorts downloads and fullscreen mode.</change>
+      <change>· Improved layout constraints for smaller devices.</change>
+      <change>· Reduced delay time when long-pressing downloaded items.</change>
+      <change>· Enhanced download manager to handle more items smoothly.</change>
+      <change>· Updated and fixed missing localizations.</change>
+      <change>· Improved speed and playback controllers for overlay, with save status handling.</change>
+      <change>· Other fixes and improvements.</change>
+      <change>· For purchase guidelines and FAQs, visit: ikghd.site/faq.html</change>
+      <change>· Updated iPA to YouTube_v19.37.2.</change>
     </changelog>
 
 
