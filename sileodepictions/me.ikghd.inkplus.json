@@ -153,44 +153,44 @@
                "class":"DepictionTableTextView"
             },
             {
-               "title":"Updated",
-               "text":"Sep 19, 2024",
-               "class":"DepictionTableTextView"
+                "title": "Updated",
+                "text": "Sep 19, 2024",
+                "class": "DepictionTableTextView"
             },
             {
-               "title":"Price",
-               "text":"$2.99 USD",
-               "class":"DepictionTableTextView"
+                "title": "Price",
+                "text": "$2.99 USD",
+                "class": "DepictionTableTextView"
             },
             {
-               "title":"Subscription",
-               "text":"1 year 364 days",
-               "class":"DepictionTableTextView"
+                "title": "Subscription",
+                "text": "1 year, 364 days",
+                "class": "DepictionTableTextView"
             },
             {
-               "title":"key & Devices",
-               "text":"1 for 1 device",
-               "class":"DepictionTableTextView"
+                "title": "Key & Devices",
+                "text": "1 key for 1 device",
+                "class": "DepictionTableTextView"
             },
             {
-               "title":"Transferable",
-               "text":"Yes",
-               "class":"DepictionTableTextView"
+                "title": "Transferable",
+                "text": "Yes",
+                "class": "DepictionTableTextView"
             },
             {
-               "title":"Jailbreak",
-               "text":"Yes",
-               "class":"DepictionTableTextView"
+                "title": "Jailbreak",
+                "text": "Yes",
+                "class": "DepictionTableTextView"
             },
             {
-               "title":"Jailed Support (iPA)",
-               "text":"Yes",
-               "class":"DepictionTableTextView"
+                "title": "Jailed Support (iPA)",
+                "text": "Yes",
+                "class": "DepictionTableTextView"
             },
             {
-               "title":"Rootless Support",
-               "text":"Yes",
-               "class":"DepictionTableTextView"
+                "title": "Rootless Support",
+                "text": "Yes",
+                "class": "DepictionTableTextView"
             },
             {
                "title":"Compatibility",
