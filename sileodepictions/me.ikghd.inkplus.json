@@ -111,11 +111,11 @@
             },
 
             {
-               "title":"In App Settings:",
-               "class":"DepictionHeaderView"
+                "title": "In-App Settings",
+                "class": "DepictionHeaderView"
             },
             {
-                "markdown": "- long press on instagram text logo to access the tweak settings\r\n\r\n-  Download Video from post iGTV Reels ext.. HD | SD\r\n- Save Image from post Stories & profile\r\n- block all promo ads\r\n- Quick seen/unseen stories/DM's Button\r\n- keep unsend message\r\n- copy various text like comments description bio ext...\r\n- variuos confirmation on like double tap..\r\n- lock the app\r\n- and many more settings",
+                "markdown": "- Long press on Instagram text logo to access the tweak settings\r\n\r\n- Download videos from posts, IGTV, Reels, etc. (HD | SD)\r\n- Save images from posts, stories, and profiles\r\n- Block all promo ads\r\n- Quick seen/unseen stories/DM's button\r\n- Keep unsent messages\r\n- Copy various text like comments, descriptions, bios, etc.\r\n- Various confirmations on like double tap...\r\n- Lock the app\r\n- And many more settings",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
