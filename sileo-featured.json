@@ -5,14 +5,14 @@
   "banners": [
 
       {
-          "url": "https://repo.ikghd.me/assets/banners/YTKBanner.png",
+          "url": "https://repo.ikghd.me/assets/banners/YTKBanner.jpg",
           "title": "YTKillerPlus",
           "package": "me.ikghd.ytkplus",
           "hideShadow": false
       },
 
       {
-          "url": "https://repo.ikghd.me/assets/banners/iNKBanner.png",
+          "url": "https://repo.ikghd.me/assets/banners/iNKBanner.jpg",
           "title": "iNKillerPlus",
           "package": "me.ikghd.inkplus",
           "hideShadow": false
