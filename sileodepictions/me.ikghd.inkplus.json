@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.15",
+               "text":"2.4.16",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 26, 2024",
+                "text": "Sep 27, 2024",
                 "class": "DepictionTableTextView"
             },
             {
