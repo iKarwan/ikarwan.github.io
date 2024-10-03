@@ -153,7 +153,7 @@
             },
 
             {
-                "markdown": "- Use code IKG30 at checkout with Stripe to get 30% off. Limited time offer, ends in 72 hours.\n- Coupon valid for all purchases: YTKillerPlus, iNKillerPlus, and store subscriptions (license key renewals).\n- fixes duplicate mini player when a video in mini player and playieng an audio and enter mini player and vice versa\n- fixe a crash when backup complete and invoke share sheet on ipad\n- v3.2.23\n- add mini player for download manager video and audio\n- over all fixes and enhancements\n- Updated iPA to YouTube_v19.39.1\n- fix an issue with progress percentage not updating and stuck on 0% in some cases.\n- add media info video/audio full media item infos downloaded item.\n- add handle to import mp3 files to YTKPlus library.\n- over all fixes and enhancements to the video and audio player.\n- v3.2.20\n- Download up to 4K and HDR videos (Jailbreak only).\n- Support for M4A and MP3 downloads added.\n- Added 4K video and HDR support in the download manager.\n- Added MP3 player and badge to the download manager.\n- Fixed AirPlay icon permission issue.\n- Improved audio and video player layout constraints.\n- Enhanced download manager performance.\n- Fixed PNG artwork import issues in some cases.\n- Faster backup loading and improved backup compression (20% smaller).\n- Fixed icon layout for Shorts downloads and fullscreen mode.\n- Improved layout constraints for smaller devices.\n- Reduced delay time when long-pressing downloaded items.\n- Enhanced download manager to handle more items smoothly.\n- Updated and fixed missing localizations.\n- Improved speed and playback controllers in the overlay with save status handling.\n- Other fixes and improvements.\n- For purchase guidelines and FAQs, visit: ikghd.site/faq.html\n- Updated iPA to YouTube_v19.38.2",
+                "markdown": "- Use code IKG30 at checkout with Stripe to get 30% off. Limited time offer, ends in 72 hours.\n- Coupon valid for all purchases: YTKillerPlus, iNKillerPlus, and store subscriptions (license key renewals).\n- minor improvements\n- v3.2.24\n- fixes duplicate mini player when a video in mini player and playieng an audio and enter mini player and vice versa\n- fixes a crash when backup complete and invoke share sheet on ipad\n- v3.2.23\n- add mini player for download manager video and audio\n- over all fixes and enhancements\n- Updated iPA to YouTube_v19.39.1\n- fix an issue with progress percentage not updating and stuck on 0% in some cases.\n- add media info video/audio full media item infos downloaded item.\n- add handle to import mp3 files to YTKPlus library.\n- over all fixes and enhancements to the video and audio player.\n- v3.2.20\n- Download up to 4K and HDR videos (Jailbreak only).\n- Support for M4A and MP3 downloads added.\n- Added 4K video and HDR support in the download manager.\n- Added MP3 player and badge to the download manager.\n- Fixed AirPlay icon permission issue.\n- Improved audio and video player layout constraints.\n- Enhanced download manager performance.\n- Fixed PNG artwork import issues in some cases.\n- Faster backup loading and improved backup compression (20% smaller).\n- Fixed icon layout for Shorts downloads and fullscreen mode.\n- Improved layout constraints for smaller devices.\n- Reduced delay time when long-pressing downloaded items.\n- Enhanced download manager to handle more items smoothly.\n- Updated and fixed missing localizations.\n- Improved speed and playback controllers in the overlay with save status handling.\n- Other fixes and improvements.\n- For purchase guidelines and FAQs, visit: ikghd.site/faq.html\n- Updated iPA to YouTube_v19.38.2",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -168,12 +168,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.24",
+                "text": "3.2.25",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 03, 2024",
+                "text": "Oct 04, 2024",
                 "class": "DepictionTableTextView"
             },
             {
