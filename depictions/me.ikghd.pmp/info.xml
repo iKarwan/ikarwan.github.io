@@ -36,9 +36,7 @@
 
         <changelog>
           <change>・ensures notification is posted after reading preferences</change>
-          <change></change>
           <change>・add support for Rootless JB dopamine</change>
-          <change></change>
           <change>・rewritten from scratch</change>
         </changelog>
 

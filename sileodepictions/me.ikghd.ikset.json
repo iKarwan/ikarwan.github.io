@@ -30,8 +30,8 @@
                         },
                         {
                             "accessibilityText":"Screenshot",
-                            "url":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/2.jpg",
-                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/2.jpg"
+                            "url":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/2.PNG",
+                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ikset/screenshots/2.PNG"
                         }
                     ],
                     "class":"DepictionScreenshotView"
