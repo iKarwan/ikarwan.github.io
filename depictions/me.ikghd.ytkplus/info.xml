@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.27</version>
+    <version>3.2.28</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.27</version2>
+      <version2>3.2.28</version2>
     </version2>
 
     <date>
-      <date>Oct 06, 2024</date>
+      <date>Oct 08, 2024</date>
     </date>
 
     <price>
@@ -34,11 +34,12 @@
     </price>
 
     <changelog>
-      <change>· Use code IKG30 at checkout with Stripe to get 30% off. Limited time offer, ends in 72 hours.</change>
+      <change>· Use code IKG30 at checkout with Stripe to get 30% off. Limited time offer.</change>
       <change>· Coupon valid for all purchases: YTKillerPlus, iNKillerPlus, and store subscriptions (license key renewals).</change>
-      <change>· fixing slow downloads for some videos in some cases</change>
+      <change>· fixing slow downloads for some video qualties in some cases</change>
       <change>· fixing premium logo for v 19.30 and above</change>
       <change>· other fixes and style translate matching</change>
+      <change>· Updated iPA to YouTube_v19.40.4</change>
       <change></change>
       <change>· v3.2.26</change>
       <change>· matching the styles and enhancements</change>
