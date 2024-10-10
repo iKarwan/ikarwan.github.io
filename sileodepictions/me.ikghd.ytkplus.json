@@ -14,6 +14,11 @@
                       },
                       {
                           "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG"
                       },
@@ -64,6 +69,11 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG"
                       },
                       {
                           "accessibilityText":"Screenshot",
@@ -135,7 +145,7 @@
                 "class": "DepictionHeaderView"
             },
             {
-                "markdown": "- Download Video/Audio/Shorts & Images\r\n- Full-speed 🚀 downloads with background support\r\n- Download Manager for managing downloaded items\r\n- Import videos to Photos\r\n- Block all advertisements\r\n- Play in background\r\n- Stream HD videos over 3G/4G/5G\r\n- Picture-in-Picture (PiP) feature\r\n- Customize tab bar layout\r\n- And many more settings...\n- Supports iPadOS",
+                "markdown": "- Download Video/Audio/Shorts & Images\r\n- Full-speed 🚀 downloads\r\n- Download Manager for managing downloaded items\r\n- Import videos to Photos\r\n- Import videos/audio to YTKPlus library\n- Block all advertisements\r\n- Play in background\r\n- Stream HD videos over 3G/4G/5G\r\n- Picture-in-Picture (PiP) feature\r\n- Customize tab bar layout\r\n- And many more settings...\n- Supports iPadOS",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -153,7 +163,7 @@
             },
 
             {
-                "markdown": "- Use code IKG30 at checkout with Stripe to get 30% off. Limited time offer.\n- Coupon valid for all purchases: YTKillerPlus, iNKillerPlus, and store subscriptions (license key renewals).\n- fixing slow downloads for some video qualties in some cases\n- fixing premium logo for v 19.30 and above\n- other fixes and style translate matching\n- Updated iPA to YouTube_v19.40.4\n- v3.2.26\n-  matching the styles and enhancements\n- other minor improvements\n- v3.2.24\n- fixes duplicate mini player when a video in mini player and playieng an audio and enter mini player and vice versa\n- fixes a crash when backup complete and invoke share sheet on ipad\n- v3.2.23\n- add mini player for download manager video and audio\n- over all fixes and enhancements\n- Updated iPA to YouTube_v19.39.1\n- fix an issue with progress percentage not updating and stuck on 0% in some cases.\n- add media info video/audio full media item infos downloaded item.\n- add handle to import mp3 files to YTKPlus library.\n- over all fixes and enhancements to the video and audio player.\n- v3.2.20\n- Download up to 4K and HDR videos (Jailbreak only).\n- Support for M4A and MP3 downloads added.\n- Added 4K video and HDR support in the download manager.\n- Added MP3 player and badge to the download manager.\n- Fixed AirPlay icon permission issue.\n- Improved audio and video player layout constraints.\n- Enhanced download manager performance.\n- Fixed PNG artwork import issues in some cases.\n- Faster backup loading and improved backup compression (20% smaller).\n- Fixed icon layout for Shorts downloads and fullscreen mode.\n- Improved layout constraints for smaller devices.\n- Reduced delay time when long-pressing downloaded items.\n- Enhanced download manager to handle more items smoothly.\n- Updated and fixed missing localizations.\n- Improved speed and playback controllers in the overlay with save status handling.\n- Other fixes and improvements.\n- For purchase guidelines and FAQs, visit: ikghd.site/faq.html\n- Updated iPA to YouTube_v19.38.2",
+                "markdown": "- a whole new video player\n- minor enhancements\n- fixing premium logo for v 19.30 and above\n- Updated iPA to YouTube_v19.40.4\n- v3.2.20\n- add mini player for download manager video and audio\n- add media info video/audio full media item infos downloaded item.\n- add handle to import mp3 files to YTKPlus library.\n- Download up to 4K and HDR videos (Jailbreak only).\n- Support for M4A and MP3 downloads added.\n- Added 4K video and HDR support in the download manager.\n- Added MP3 player and badge to the download manager.\n- Fixed AirPlay icon permission issue.\n- Improved audio and video player layout constraints.\n- Enhanced download manager performance.\n- Fixed PNG artwork import issues in some cases.\n- Faster backup loading and improved backup compression (20% smaller).\n- Fixed icon layout for Shorts downloads and fullscreen mode.\n- Improved layout constraints for smaller devices.\n- Reduced delay time when long-pressing downloaded items.\n- Enhanced download manager to handle more items smoothly.\n- Updated and fixed missing localizations.\n- Improved speed and playback controllers in the overlay with save status handling.\n- Other fixes and improvements.\n- For purchase guidelines and FAQs, visit: ikghd.site/faq.html\n- Updated iPA to YouTube_v19.39.1",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -168,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.28",
+                "text": "3.2.31",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 08, 2024",
+                "text": "Oct 10, 2024",
                 "class": "DepictionTableTextView"
             },
             {

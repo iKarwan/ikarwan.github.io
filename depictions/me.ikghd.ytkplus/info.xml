@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.28</version>
+    <version>3.2.31</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.28</version2>
+      <version2>3.2.31</version2>
     </version2>
 
     <date>
-      <date>Oct 08, 2024</date>
+      <date>Oct 10, 2024</date>
     </date>
 
     <price>
@@ -34,33 +34,14 @@
     </price>
 
     <changelog>
-      <change>· Use code IKG30 at checkout with Stripe to get 30% off. Limited time offer.</change>
-      <change>· Coupon valid for all purchases: YTKillerPlus, iNKillerPlus, and store subscriptions (license key renewals).</change>
-      <change>· fixing slow downloads for some video qualties in some cases</change>
+      <change>· a whole new video player</change>
+      <change>· minor enhancements</change>
       <change>· fixing premium logo for v 19.30 and above</change>
-      <change>· other fixes and style translate matching</change>
       <change>· Updated iPA to YouTube_v19.40.4</change>
       <change></change>
-      <change>· v3.2.26</change>
-      <change>· matching the styles and enhancements</change>
-      <change>· other minor improvements</change>
-      <change></change>
-      <change>· v3.2.24</change>
-      <change>· fixes duplicate mini player when a video in mini player and playieng an audio and enter mini player and vice versa</change>
-      <change>· fixes a crash when backup complete and invoke share sheet on ipad</change>
-      <change></change>
-      <change>· v3.2.23</change>
-      <change>· add mini player for download manager video and audio</change>
-      <change>· over all fixes and enhancements</change>
-      <change>· Updated iPA to YouTube_v19.39.1</change>
-      <change></change>
-      <change>· v3.2.22</change>
-      <change>· fix an issue with progress percentage not updating and stuck on 0% in some cases.</change>
-      <change>· add media info video/audio full media item infos downloaded item.</change>
-      <change>· add handle to import mp3 files to YTKPlus library.</change>
-      <change>· over all fixes and enhancements to the video and audio player.</change>
-      <change></change>
       <change>· v3.2.20</change>
+      <change>· add mini player for download manager video and audio</change>
+      <change>· add handle to import mp3 files to YTKPlus library.</change>
       <change>· Added 4K video and HDR support in the download manager.</change>
       <change>· Support for M4A and MP3 downloads added.</change>
       <change>· Added MP3 player and badge to download manager.</change>
@@ -76,8 +57,8 @@
       <change>· Updated and fixed missing localizations.</change>
       <change>· Improved speed and playback controllers for overlay, with save status handling.</change>
       <change>· Other fixes and improvements.</change>
-      <change>· For purchase guidelines and FAQs, visit: ikghd.site/faq.html</change>
-      <change>· Updated iPA to YouTube_v19.38.2</change>
+      <change>· For purchase guidelines and FAQs, visit: https://ikghd.site/faq.html</change>
+      <change>· Updated iPA to YouTube_v19.39.1</change>
     </changelog>
 
 
@@ -90,9 +71,10 @@
       <br>
       <br>In-App Settings:
       <br>· Download Video/Audio/Shorts & Images
-      <br>· Full-speed 🚀 downloads with background support
+      <br>· Full-speed 🚀 download
       <br>· Download Manager for managing downloaded items
       <br>· Import videos to Photos
+      <br>· Import videos/audio to YTKPlus library
       <br>· Block all advertisements
       <br>· Play in background
       <br>· Stream HD videos over 3G/4G/5G
@@ -130,6 +112,9 @@
     <screenshots>
       <screenshot>
           <image>1.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>10.PNG</image>
       </screenshot>
       <screenshot>
           <image>9.PNG</image>
