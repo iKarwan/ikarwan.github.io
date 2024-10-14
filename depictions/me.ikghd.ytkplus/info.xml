@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.31</version>
+    <version>3.2.32</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.31</version2>
+      <version2>3.2.32</version2>
     </version2>
 
     <date>
-      <date>Oct 10, 2024</date>
+      <date>Oct 14, 2024</date>
     </date>
 
     <price>
@@ -35,9 +35,8 @@
 
     <changelog>
       <change>· a whole new video player</change>
-      <change>· minor enhancements</change>
-      <change>· fixing premium logo for v 19.30 and above</change>
-      <change>· Updated iPA to YouTube_v19.40.4</change>
+      <change>· minor improvements</change>
+      <change>· Updated iPA to YouTube_v19.41.3</change>
       <change></change>
       <change>· v3.2.20</change>
       <change>· add mini player for download manager video and audio</change>
