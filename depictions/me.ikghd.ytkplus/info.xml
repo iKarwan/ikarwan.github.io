@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.32</version>
+    <version>3.2.32.1</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.32</version2>
+      <version2>3.2.32.1</version2>
     </version2>
 
     <date>
-      <date>Oct 14, 2024</date>
+      <date>Oct 18, 2024</date>
     </date>
 
     <price>
@@ -34,12 +34,17 @@
     </price>
 
     <changelog>
-      <change>· a whole new video player</change>
-      <change>· minor improvements</change>
-      <change>· Updated iPA to YouTube_v19.41.3</change>
+      <change>· Reverted mini player to the old style, activated by default. If you prefer the floating mini player, you can re-enable it in the overlay controls section.</change>
+      <change>· Fixed issues with playing in external player apps.</change>
+      <change>· Added HD icons for the overlay and other parts where icons are used.</change>
+      <change>· Fixed an issue in the custom mini player within the download manager where audio wouldn't stop when switching to video playback.</change>
+      <change>· Resolved mini player layout issues for RTL languages.</change>
+      <change>· Added audio interruption handling for both audio and video players.</change>
+      <change>· Implemented various enhancements and improvements for a smoother overall experience.</change>
       <change></change>
-      <change>· v3.2.20</change>
-      <change>· add mini player for download manager video and audio</change>
+      <change>· v3.2.32</change>
+      <change>· Introduced an entirely new video player.</change>
+      <change>· Added a mini player for both video and audio in the download manager.</change>
       <change>· add handle to import mp3 files to YTKPlus library.</change>
       <change>· Added 4K video and HDR support in the download manager.</change>
       <change>· Support for M4A and MP3 downloads added.</change>
@@ -57,7 +62,7 @@
       <change>· Improved speed and playback controllers for overlay, with save status handling.</change>
       <change>· Other fixes and improvements.</change>
       <change>· For purchase guidelines and FAQs, visit: https://ikghd.site/faq.html</change>
-      <change>· Updated iPA to YouTube_v19.39.1</change>
+      <change>· Updated iPA to YouTube_v19.41.3</change>
     </changelog>
 
 
