@@ -9,8 +9,12 @@
 			<iconclass>fa fa-coffee</iconclass>
 		</link>
 		<link>
-			<url>https://twitter.com/ikg_hd</url>
-			<iconclass>fa-brands fa-twitter</iconclass>
+			<url>https://x.com/ikg_hd</url>
+			<iconclass>fa-brands fa-x</iconclass>
+		</link>
+		<link>
+			<url>https://github.com/iKarwan</url>
+			<iconclass>fa-brands fa-github</iconclass>
 		</link>
 		<link>
 			<url>https://youtube.com/c/ikghd</url>
