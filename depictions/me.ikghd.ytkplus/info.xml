@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.32.6</version>
+    <version>3.2.33</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.32.6</version2>
+      <version2>3.2.33</version2>
     </version2>
 
     <date>
-      <date>Oct 19, 2024</date>
+      <date>Oct 22, 2024</date>
     </date>
 
     <price>
@@ -34,6 +34,7 @@
     </price>
 
     <changelog>
+      <change>· add update availability checker</change>
       <change>· Reverted mini player to the old style, activated by default. If you prefer the floating mini player, you can re-enable it in the overlay controls section.</change>
       <change>· Fixed issues with playing in external player apps.</change>
       <change>· Added HD icons for the overlay and other parts where icons are used.</change>
@@ -41,6 +42,7 @@
       <change>· Resolved mini player layout issues for RTL languages.</change>
       <change>· Added audio interruption handling for both audio and video players.</change>
       <change>· Implemented various enhancements and improvements for a smoother overall experience.</change>
+      <change>· Updated iPA to YouTube_v19.42.1</change>
       <change></change>
       <change>· v3.2.32</change>
       <change>· Introduced an entirely new video player.</change>
