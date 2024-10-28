@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- add update availability checker\n- fix copy comment for v345 and above\n- redesign and enhance settings\n- other minor improvements\n- \n- update ipa to newer Instagram v354.0",
+                "markdown":"- add update availability checker\n- overall fixes and enhancements\n- update ipa to newer Instagram v355.0\n- v2.4.22\n- fix copy comment for v345 and above - one tap to copy comment instead of long press\n- redesign and enhance settings\n- other minor improvements\n- \n- update ipa to newer Instagram v354.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.22",
+               "text":"2.4.22.2",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 22, 2024",
+                "text": "Oct 29, 2024",
                 "class": "DepictionTableTextView"
             },
             {
