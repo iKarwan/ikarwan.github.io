@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.33</version>
+    <version>3.2.33.3</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.33</version2>
+      <version2>3.2.33.1</version2>
     </version2>
 
     <date>
-      <date>Oct 22, 2024</date>
+      <date>Oct 28, 2024</date>
     </date>
 
     <price>
@@ -34,6 +34,11 @@
     </price>
 
     <changelog>
+      <change>· add swipe down to close mini player</change>
+      <change>· overall fixes and enhancements</change>
+      <change>· Updated iPA to YouTube_v19.43.2</change>
+      <change></change>
+      <change>· v3.2.33</change>
       <change>· add update availability checker</change>
       <change>· Reverted mini player to the old style, activated by default. If you prefer the floating mini player, you can re-enable it in the overlay controls section.</change>
       <change>· Fixed issues with playing in external player apps.</change>
