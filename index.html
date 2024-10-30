@@ -146,6 +146,28 @@
         #repoFooterLinks a:hover {
             color: var(--secondary-color);
         }
+        .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.logo {
+    display: block;
+    width: 100px;
+    height:100px;
+    margin: 20px auto 10px;
+    border-radius: 50%;
+    background-size: cover;
+    background-image: url('https://avatars.githubusercontent.com/u/4871622?v=4');
+}
+
+.repo-title {
+    color: #ff0000;
+    margin: 10px 0;
+    font-size: 24px;
+}
 
         @media (max-width: 768px) {
             .projects {
@@ -186,21 +208,21 @@
 </head>
 <body>
     <div class="container">
-        <header>
-            <img src="assets/lpoto.svg" alt="iKarwan Logo" class="logo">
-            <div id="repoFooterLinks"></div>
-            <div class="repo-buttons">
-                <a href="sileo://source/https://repo.ikghd.me/" class="repo-button">
-                    <i class="fas fa-plus"></i> Sileo
-                </a>
-                <a href="zbra://sources/add/https://repo.ikghd.me/" class="repo-button">
-                    <i class="fas fa-plus"></i> Zebra
-                </a>
-                <!-- <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://repo.ikghd.me/" class="repo-button">
-                    <i class="fas fa-plus"></i> Cydia
-                </a> -->
-            </div>
-        </header>
+      <header>
+          <div class="header">
+              <div class="logo"></div>
+              <h1 class="repo-title">iKarwan Repo</h1>
+          </div>
+          <div id="repoFooterLinks"></div>
+          <div class="repo-buttons">
+              <a href="sileo://source/https://repo.ikghd.me/" class="repo-button">
+                  <i class="fas fa-plus"></i> Sileo
+              </a>
+              <a href="zbra://sources/add/https://repo.ikghd.me/" class="repo-button">
+                  <i class="fas fa-plus"></i> Zebra
+              </a>
+          </div>
+      </header>
 
         <div class="projects">
             <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus" class="project">
