@@ -130,6 +130,11 @@
                "class":"DepictionTableTextView"
             },
             {
+               "title":"Released",
+               "text":"Mar 21, 2020",
+               "class":"DepictionTableTextView"
+            },
+            {
                "title":"Updated",
                "text":"Aug 16, 2024",
                "class":"DepictionTableTextView"

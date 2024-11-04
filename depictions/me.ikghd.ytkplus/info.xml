@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.33.3</version>
+    <version>3.2.34</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.33.3</version2>
+      <version2>3.2.34</version2>
     </version2>
 
     <date>
-      <date>Oct 28, 2024</date>
+      <date>Nov 04, 2024</date>
     </date>
 
     <price>
@@ -34,9 +34,14 @@
     </price>
 
     <changelog>
-      <change>· add swipe down to close mini player</change>
-      <change>· overall fixes and enhancements</change>
-      <change>· Updated iPA to YouTube_v19.43.2</change>
+      <change>· Added 4K support for IPA versions, enabling streaming and downloading in up to 2160p. Enabled by default.</change>
+      <change>· Added the ability to swipe down anywhere on the video/audio player to minimize to the mini player.</change>
+      <change>· Added swipe down gesture to close the mini player.</change>
+      <change>· Fixed an issue where backups could fail in specific cases if any YTKPlus folder is empty.</change>
+      <change>· Fixed an issue affecting MP3 audio and thumbnail handling during import to YTKPlus in some cases.</change>
+      <change>· Improved code structure for a smoother and more responsive user experience.</change>
+      <change>· Additional fixes and overall enhancements.</change>
+      <change>· Updated iPA to YouTube_v19.44.4</change>
       <change></change>
       <change>· v3.2.33</change>
       <change>· add update availability checker</change>

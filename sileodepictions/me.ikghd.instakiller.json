@@ -145,6 +145,11 @@
             },
 
             {
+               "title":"Released",
+               "text":"Aug 16, 2021",
+               "class":"DepictionTableTextView"
+            },
+            {
                "title":"Updated",
                "text":"Aug 16, 2024",
                "class":"DepictionTableTextView"
