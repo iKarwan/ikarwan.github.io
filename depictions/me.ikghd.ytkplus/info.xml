@@ -34,7 +34,7 @@
     </price>
 
     <changelog>
-      <change>· Added 4K support for IPA versions, enabling streaming and downloading in up to 2160p. Enabled by default.</change>
+      <change>· Added 4K support for IPA versions, enabling streaming and downloading in up to 2160p, including on devices that do not natively support 4K.</change>
       <change>· Added the ability to swipe down anywhere on the video/audio player to minimize to the mini player.</change>
       <change>· Added swipe down gesture to close the mini player.</change>
       <change>· Fixed an issue where backups could fail in specific cases if any YTKPlus folder is empty.</change>
