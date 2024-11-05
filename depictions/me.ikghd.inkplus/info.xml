@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.4.22.2</version>
+    <version>2.4.23</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>2.4.22.2</version2>
+      <version2>2.4.23</version2>
     </version2>
 
     <date>
-      <date>Oct 29, 2024</date>
+      <date>Nov 05, 2024</date>
     </date>
 
     <price>
@@ -35,9 +35,10 @@
     </price>
 
     <changelog>
+      <change>· add long pressing hoe tab to enter iNKillerPlus settings.</change>
       <change>· add update availability checker</change>
       <change>· overall fixes and enhancements</change>
-      <change>· update ipa to newer Instagram v355.0</change>
+      <change>· update ipa to newer Instagram v356.0</change>
       <change></change>
       <change>· v2.4.22</change>
       <change>· fix copy comment for v345 and above - one tap to copy comment instead of long press</change>
@@ -55,7 +56,7 @@
             <br>In App Purchase: $2.99
             <br>
             <br>In App Settings:
-            <br>· Long press on Instagram text logo to access the tweak settings
+            <br>· To enter the settings, either long press on home button in tabbar or Instagram text logo.
             <br>· Download Video from posts, IGTV, Reels, etc. (HD | SD)
             <br>· Save Images from posts, Stories, & profiles
             <br>· Block all promo ads

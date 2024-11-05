@@ -1,4 +1,4 @@
-{
+f{
    "minVersion":"0.1",
    "headerImage":"https://repo.ikghd.me/assets/banners/iNKBanner.jpg",
    "tintColor":"#ff7c9f",
@@ -115,7 +115,7 @@
                 "class": "DepictionHeaderView"
             },
             {
-                "markdown": "- Long press on Instagram text logo to access the tweak settings\r\n\r\n- Download videos from posts, IGTV, Reels, etc. (HD | SD)\r\n- Save images from posts, stories, and profiles\r\n- Block all promo ads\r\n- Quick seen/unseen stories/DM's button\r\n- Keep unsent messages\r\n- Copy various text like comments, descriptions, bios, etc.\r\n- Various confirmations on like double tap...\r\n- Lock the app\r\n- And many more settings",
+                "markdown": "- To enter the settings, either long press on home button in tabbar or Instagram text logo.\r\n\r\n- Download videos from posts, IGTV, Reels, etc. (HD | SD)\r\n- Save images from posts, stories, and profiles\r\n- Block all promo ads\r\n- Quick seen/unseen stories/DM's button\r\n- Keep unsent messages\r\n- Copy various text like comments, descriptions, bios, etc.\r\n- Various confirmations on like double tap...\r\n- Lock the app\r\n- And many more settings",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- add update availability checker\n- overall fixes and enhancements\n- update ipa to newer Instagram v355.0\n- v2.4.22\n- fix copy comment for v345 and above - one tap to copy comment instead of long press\n- redesign and enhance settings\n- other minor improvements\n- \n- update ipa to newer Instagram v354.0",
+                "markdown":"- add long pressing hoe tab to enter iNKillerPlus settings.\n- add update availability checker\n- overall fixes and enhancements\n- update ipa to newer Instagram v356.0\n- v2.4.22\n- fix copy comment for v345 and above - one tap to copy comment instead of long press\n- redesign and enhance settings\n- other minor improvements\n- \n- update ipa to newer Instagram v354.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.22.2",
+               "text":"2.4.23",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 29, 2024",
+                "text": "Nov 05, 2024",
                 "class": "DepictionTableTextView"
             },
             {
