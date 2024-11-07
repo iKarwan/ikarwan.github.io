@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.34</version>
+    <version>3.2.35</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.34</version2>
+      <version2>3.2.35</version2>
     </version2>
 
     <date>
-      <date>Nov 04, 2024</date>
+      <date>Nov 08, 2024</date>
     </date>
 
     <price>
@@ -159,20 +159,3 @@
     </screenshots>
 
 </package>
-
-<!--
-<li>
-    <a href="https://ikghd.site/stor1.html">buy for stores  : 1/Month $7.99 iNstaKillerPlus included</a>
-  </li>
-
-    <li>
-    <a href="https://ikghd.site/stor6.html">buy for stores  : 6/Month $19.99 iNstaKillerPlus included</a>
-  </li>
-
-    <li>
-    <a href="https://ikghd.site/stor1y.html">buy for stores  : 1/Year $39.99 iNstaKillerPlus included</a>
-</li>
-
-<br>
-
- -->

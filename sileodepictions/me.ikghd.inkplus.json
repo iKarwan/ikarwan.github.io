@@ -149,12 +149,12 @@ f{
             },
             {
                "title":"Version",
-               "text":"2.4.23",
+               "text":"2.4.24",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 05, 2024",
+                "text": "Nov 08, 2024",
                 "class": "DepictionTableTextView"
             },
             {
