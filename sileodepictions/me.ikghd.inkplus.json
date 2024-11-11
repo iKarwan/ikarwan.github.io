@@ -134,7 +134,7 @@ f{
             },
 
             {
-                "markdown":"- add long pressing hoe tab to enter iNKillerPlus settings.\n- add update availability checker\n- overall fixes and enhancements\n- update ipa to newer Instagram v356.0\n- v2.4.22\n- fix copy comment for v345 and above - one tap to copy comment instead of long press\n- redesign and enhance settings\n- other minor improvements\n- \n- update ipa to newer Instagram v354.0",
+                "markdown":"- add long pressing on home tab to enter iNKillerPlus settings.\n- add update availability checker\n- overall fixes and enhancements\n- update ipa to newer Instagram v356.0\n- v2.4.22\n- fix copy comment for v345 and above - one tap to copy comment instead of long press\n- redesign and enhance settings\n- other minor improvements\n- \n- update ipa to newer Instagram v354.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@ f{
             },
             {
                "title":"Version",
-               "text":"2.4.24",
+               "text":"2.4.25",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 08, 2024",
+                "text": "Nov 11, 2024",
                 "class": "DepictionTableTextView"
             },
             {

@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.4.24</version>
+    <version>2.4.25</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>2.4.24</version2>
+      <version2>2.4.25</version2>
     </version2>
 
     <date>
-      <date>Nov 08, 2024</date>
+      <date>Nov 11, 2024</date>
     </date>
 
     <price>
@@ -35,12 +35,12 @@
     </price>
 
     <changelog>
-      <change>· add long pressing hoe tab to enter iNKillerPlus settings.</change>
+      <change>· add long pressing home tab to enter iNKillerPlus settings.</change>
       <change>· add update availability checker</change>
       <change>· overall fixes and enhancements</change>
       <change>· update ipa to newer Instagram v356.0</change>
       <change></change>
-      <change>· v2.4.22</change>
+      <change>· v2.4.24</change>
       <change>· fix copy comment for v345 and above - one tap to copy comment instead of long press</change>
       <change>· redesign and enhance settings</change>
       <change>· other minor improvements</change>

@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.35</version>
+    <version>3.2.36</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.35</version2>
+      <version2>3.2.36</version2>
     </version2>
 
     <date>
-      <date>Nov 08, 2024</date>
+      <date>Nov 11, 2024</date>
     </date>
 
     <price>
@@ -34,6 +34,11 @@
     </price>
 
     <changelog>
+      <change>· add initial support for sponsor Block (overlay controllers)</change>
+      <change>· fixes and enhancements</change>
+      <change>· Updated iPA to YouTube_v19.45.4</change>
+      <change></change>
+      <change>· v3.2.35</change>
       <change>· Added 4K support for IPA versions, enabling streaming and downloading in up to 2160p, including on devices that do not natively support 4K.</change>
       <change>· Added the ability to swipe down anywhere on the video/audio player to minimize to the mini player.</change>
       <change>· Added swipe down gesture to close the mini player.</change>
@@ -43,7 +48,7 @@
       <change>· Additional fixes and overall enhancements.</change>
       <change>· Updated iPA to YouTube_v19.44.4</change>
       <change></change>
-      <change>· v3.2.33</change>
+      <change>· v3.2.34</change>
       <change>· add update availability checker</change>
       <change>· Reverted mini player to the old style, activated by default. If you prefer the floating mini player, you can re-enable it in the overlay controls section.</change>
       <change>· Fixed issues with playing in external player apps.</change>
@@ -54,7 +59,7 @@
       <change>· Implemented various enhancements and improvements for a smoother overall experience.</change>
       <change>· Updated iPA to YouTube_v19.42.1</change>
       <change></change>
-      <change>· v3.2.32</change>
+      <change>· v3.2.33</change>
       <change>· Introduced an entirely new video player.</change>
       <change>· Added a mini player for both video and audio in the download manager.</change>
       <change>· add handle to import mp3 files to YTKPlus library.</change>
