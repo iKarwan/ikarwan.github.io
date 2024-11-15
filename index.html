@@ -254,9 +254,44 @@
         </div>
 
         <footer>
-            <div id="repoFooterLinks"></div>
-            &copy; 2024 iKarwan
+            <div class="footer-content">
+                <a href="https://repo.ikghd.me" class="icon-link">
+                    <img src="assets/favicon.ico" alt="Icon" class="icon">
+                </a>
+                <span class="footer-text">&copy; 2024 iKarwan.</span>
+                <a href="https://ikghd.site/terms.html" class="footer-link">Terms</a>
+                <a href="https://ikghd.site/privacy.html" class="footer-link">Privacy</a>
+            </div>
         </footer>
+
+        <style>
+        .footer-content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            font-family: Arial, sans-serif;
+            font-size: 15px;
+            color: #6c757d;
+        }
+
+        .icon {
+            width: 20px;
+            height: 20px;
+            vertical-align: middle; /* Add this line */
+        }
+
+        .footer-link {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .footer-link:hover {
+            text-decoration: underline;
+        }
+        </style>
+
+
     </div>
 
     <script type="text/javascript">
