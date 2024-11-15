@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.37</version>
+    <version>3.2.38</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.37</version2>
+      <version2>3.2.38</version2>
     </version2>
 
     <date>
-      <date>Nov 13, 2024</date>
+      <date>Nov 15, 2024</date>
     </date>
 
     <price>
@@ -34,11 +34,19 @@
     </price>
 
     <changelog>
+      <change>· 30% off coupon is back using stripe checkout</change>
+      <change>· add play back speed for media audio/video in YTKPlus library click on ( more ) icon speed playback select rates between 0.25 up to 2.0 like YouTube does</change>
+      <change>· improve handling backup YTKPlus library with the sub folders</change>
+      <change>· improve importing mp3 to YTKPlus library when the audio folder is empty</change>
+      <change>· add icons for some section wasnt loaded properly</change>
+      <change>· minor improve and enhancements to the code</change>
+      <change></change>
+      <change>· v3.2.37</change>
       <change>· fixes a possible issue on iOS 17/18 may cause showing message multi donwload not supported preventing downloading video in some cases</change>
-      <change>· fixes anissue for loading PNG file if its more then a MB large when importing media to YTKPlus library</change>
+      <change>· fixes an issue for loading PNG file if its more then a MB large when importing media to YTKPlus library</change>
       <change>· fixes selecting quality on wifi/celluar for YT v19.44 and newer</change>
       <change>· improve handling sponsor skip more properly</change>
-      <change>· other ixes and enhancements</change>
+      <change>· other fixes and enhancements</change>
       <change>· Updated iPA to YouTube_v19.45.4</change>
       <change></change>
       <change>· v3.2.36</change>
