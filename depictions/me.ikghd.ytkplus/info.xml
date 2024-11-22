@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.39</version>
+    <version>3.2.40</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.39</version2>
+      <version2>3.2.40</version2>
     </version2>
 
     <date>
-      <date>Nov 19, 2024</date>
+      <date>Nov 22, 2024</date>
     </date>
 
     <price>
@@ -34,6 +34,13 @@
     </price>
 
     <changelog>
+      <change>· add clear chaches overlay section</change>
+      <change>· fixing shorts downloading handler</change>
+      <change>· improving sponsor block logic</change>
+      <change>· many imrovements and enhancements to thee overall code</change>
+      <change>· add compatibility for v19.46 and later</change>
+      <change></change>
+      <change>· v3.2.39</change>
       <change>· 30% off coupon (IKG30) is back using stripe checkout</change>
       <change>· enhance selecting quality options on v19.43 and later</change>
       <change>· add compatibility for v19.44 and later</change>
