@@ -34,14 +34,14 @@
     </price>
 
     <changelog>
-      <change>· add clear chaches overlay section</change>
+      <change>· 30% off coupon (IKG30) is back using stripe checkout</change>
+      <change>· add clear caches overlay section</change>
       <change>· fixing shorts downloading handler</change>
       <change>· improving sponsor block logic</change>
       <change>· many imrovements and enhancements to the code</change>
       <change>· add compatibility for v19.46 and later</change>
       <change></change>
       <change>· v3.2.39</change>
-      <change>· 30% off coupon (IKG30) is back using stripe checkout</change>
       <change>· enhance selecting quality options on v19.43 and later</change>
       <change>· add compatibility for v19.44 and later</change>
       <change>· minor improve and enhancements</change>
