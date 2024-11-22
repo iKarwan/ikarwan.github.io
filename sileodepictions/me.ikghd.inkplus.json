@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- add clear caches in contribute section\n- many imrovements and enhancements to thee overall code\n- update ipa to newer Instagram v358.0",
+                "markdown":"- 30% off coupon (IKG30) is back using stripe checkout\n- add clear caches in contribute section\n- many imrovements and enhancements to the code\n- update ipa to newer Instagram v358.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },

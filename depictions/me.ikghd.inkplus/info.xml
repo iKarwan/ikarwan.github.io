@@ -35,8 +35,9 @@
     </price>
 
     <changelog>
+      <change>· 30% off coupon (IKG30) is back using stripe checkout</change>
       <change>· add clear caches in contribute section</change>
-      <change>· many imrovements and enhancements to thee overall code</change>
+      <change>· many imrovements and enhancements to the code</change>
       <change></change>
       <change>· v2.4.27</change>
       <change>· add long pressing home tab to enter iNKillerPlus settings.</change>
