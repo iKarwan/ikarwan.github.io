@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- 30% off coupon (IKG30) is back using stripe checkout\n- add clear caches in contribute section\n- many imrovements and enhancements to the code\n- update ipa to newer Instagram v358.0",
+                "markdown":"- 30% off coupon (IKG30) is back using stripe checkout\n- add clearing the temp folder along with caches when clearing the caches\n- fixes hide all tabs with newer insta v354 and later\n- add clear caches in contribute section\n- many imrovements and enhancements to the code\n- overall improvements and enhancements\n- update ipa to newer Instagram v359.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.28",
+               "text":"2.4.29",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 22, 2024",
+                "text": "Nov 27, 2024",
                 "class": "DepictionTableTextView"
             },
             {
