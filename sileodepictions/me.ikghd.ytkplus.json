@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- 30% off coupon (IKG30) is back using stripe checkout\n- fixing YTKPlus library tabs error not showing containts on v19.47 and newer\n- improves backuping proccess\n- add clearing the temp folder along with caches when clearing the caches\n- improves importing files to YTKPlus library on v19.44 an newer\n- overall improvements and enhancements\n- add compatibility for v19.47 and later\n- Updated iPA to YouTube_v19.47.7",
+                "markdown": "- creted a repo for altstore esign etc.. (https://ikghd.site/repo.json) \n- minor fixes and improvements\n- fixing YTKPlus library tabs error not showing containts on v19.47 and newer\n- improves backuping proccess\n- add clearing the temp folder along with caches when clearing the caches\n- improves importing files to YTKPlus library on v19.44 an newer\n- overall improvements and enhancements\n- add compatibility for v19.47 and later\n- Updated iPA to YouTube_v19.47.7",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.42",
+                "text": "3.2.44",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 27, 2024",
+                "text": "Dec 07, 2024",
                 "class": "DepictionTableTextView"
             },
             {
