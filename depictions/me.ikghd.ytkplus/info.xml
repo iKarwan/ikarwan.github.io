@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.44</version>
+    <version>3.2.45</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.44</version2>
+      <version2>3.2.45</version2>
     </version2>
 
     <date>
-      <date>Dec 07, 2024</date>
+      <date>Dec 10, 2024</date>
     </date>
 
     <price>
@@ -34,8 +34,12 @@
     </price>
 
     <changelog>
-      <change>· creted a repo for altstore esign etc.. (https://ikghd.site/repo.json)</change>
-      <change>· minor fix and improvements</change>
+      <change>· you can install the ipa throgh altstore esign etc.. via this repo. (https://ikghd.site/repo.json)</change>
+      <change>· minor improvements to the settings</change>
+      <change>· enhance the oled mode for some missing part</change>
+      <change>· enhance and improve tabbar tweaks</change>
+      <change>· enhance and imrpove overlay controller part</change>
+      <change>· other minor and enhance to the code overall</change>
       <change></change>
       <change>· v3.2.42</change>
       <change>· fixing YTKPlus library tabs error not showing containts on v19.47 and newer</change>
@@ -151,7 +155,7 @@
           <br>· OR copy this source and add it to ur source list on Altstore, Esign etc..
           <br>· https://ikghd.site/repo.json
       <br>
-        
+
       <br>Refund Policy:
       <br>· Refunds accepted for issues like Safe Mode or if the tweak doesn't work
       <br>· Must provide full details about the issue, including photos & crash logs
