@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- creted a repo for altstore esign etc.. (https://ikghd.site/repo.json) \n- add clearing the temp folder along with caches when clearing the caches\n- fixes hide all tabs with newer insta v354 and later\n- add clear caches in contribute section\n- many imrovements and enhancements to the code\n- overall improvements and enhancements\n- update ipa to newer Instagram v359.0",
+                "markdown":"- add clearing the temp folder along with caches when clearing the caches\n- fixes hide all tabs with newer insta v354 and later\n- add clear caches in contribute section\n- many imrovements and enhancements to the code\n- overall improvements and enhancements\n- update ipa to newer Instagram v360.1",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.31",
+               "text":"2.4.32",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Dec 07, 2024",
+                "text": "Dec 12, 2024",
                 "class": "DepictionTableTextView"
             },
             {
