@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- you can install the ipa throgh altstore esign etc.. via this repo. (https://ikghd.site/repo.json)\n- minor improvements to the settings\n- enhance the oled mode for some missing part\n- enhance and improve tabbar tweaks\n- enhance and imrpove overlay controller part\n- other minor and enhance to the code overall\n- Updated iPA to YouTube_v19.49.5",
+                "markdown": "- fix speedplayback for newer YouTube v19.44\n- minor improvements\n- Updated iPA to YouTube_v19.49.7",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.46",
+                "text": "3.2.47",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Dec 12, 2024",
+                "text": "Dec 17, 2024",
                 "class": "DepictionTableTextView"
             },
             {

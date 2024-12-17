@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.46</version>
+    <version>3.2.47</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.46</version2>
+      <version2>3.2.47</version2>
     </version2>
 
     <date>
-      <date>Dec 12, 2024</date>
+      <date>Dec 17, 2024</date>
     </date>
 
     <price>
@@ -34,6 +34,11 @@
     </price>
 
     <changelog>
+      <change>· fix speedplayback for newer YouTube v19.44</change>
+      <change>· minor improvements</change>
+      <change>· Updated iPA to YouTube_v19.49.7</change>
+      <change></change>
+      <change>· v3.2.46</change>
       <change>· you can install the ipa throgh altstore esign etc.. via this repo. (https://ikghd.site/repo.json)</change>
       <change>· minor improvements to the settings</change>
       <change>· enhance the oled mode for some missing part</change>
