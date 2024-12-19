@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.4.32</version>
+    <version>2.4.33</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>2.4.32</version2>
+      <version2>2.4.33</version2>
     </version2>
 
     <date>
-      <date>Dec 12, 2024</date>
+      <date>Dec 20, 2024</date>
     </date>
 
     <price>
@@ -35,6 +35,7 @@
     </price>
 
     <changelog>
+      <change>· minor fixes</change>
       <change>· add clearing the temp folder along with caches when clearing the caches</change>
       <change>· fixes hide all tabs with newer insta v354 and later</change>
       <change>· add clear caches in contribute section</change>
