@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- minor fixes\n- add clearing the temp folder along with caches when clearing the caches\n- fixes hide all tabs with newer insta v354 and later\n- add clear caches in contribute section\n- many imrovements and enhancements to the code\n- overall improvements and enhancements\n- update ipa to newer Instagram v359.0",
+                "markdown":"- fixes buy via crypto link\n- minor fixes\n- add clearing the temp folder along with caches when clearing the caches\n- fixes hide all tabs with newer insta v354 and later\n- add clear caches in contribute section\n- many imrovements and enhancements to the code\n- overall improvements and enhancements\n- update ipa to newer Instagram v359.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },

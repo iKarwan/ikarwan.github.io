@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- fix a possible issue with imported files to YTKPlus library when files in uppercase format\n- fix speedplayback for newer YouTube v19.44\n- minor improvements\n- Updated iPA to YouTube_v19.49.7",
+                "markdown": "- fixes buy via crypto link\n- fix a possible issue with imported files to YTKPlus library when files in uppercase format\n- fix speedplayback for newer YouTube v19.44\n- minor improvements\n- Updated iPA to YouTube_v19.49.7",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },

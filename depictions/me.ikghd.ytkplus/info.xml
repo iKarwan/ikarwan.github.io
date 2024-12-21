@@ -34,6 +34,7 @@
     </price>
 
     <changelog>
+      <change>· fixes buy via crypto link</change>
       <change>· fix a possible issue with imported files to YTKPlus library when files in uppercase format</change>
       <change>· fix speedplayback for newer YouTube v19.44</change>
       <change>· minor improvements</change>

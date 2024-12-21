@@ -35,6 +35,7 @@
     </price>
 
     <changelog>
+      <change>· fixes buy via crypto link</change>
       <change>· minor fixes</change>
       <change>· add clearing the temp folder along with caches when clearing the caches</change>
       <change>· fixes hide all tabs with newer insta v354 and later</change>
