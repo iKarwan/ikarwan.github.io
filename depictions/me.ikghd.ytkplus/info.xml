@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.47</version>
+    <version>3.2.48</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.47</version2>
+      <version2>3.2.48</version2>
     </version2>
 
     <date>
-      <date>Dec 17, 2024</date>
+      <date>Dec 22, 2024</date>
     </date>
 
     <price>
@@ -34,6 +34,7 @@
     </price>
 
     <changelog>
+      <change>· fix a possible issue with imported files to YTKPlus library when files in uppercase format</change>
       <change>· fix speedplayback for newer YouTube v19.44</change>
       <change>· minor improvements</change>
       <change>· Updated iPA to YouTube_v19.49.7</change>

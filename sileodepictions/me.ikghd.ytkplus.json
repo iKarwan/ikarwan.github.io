@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- fix speedplayback for newer YouTube v19.44\n- minor improvements\n- Updated iPA to YouTube_v19.49.7",
+                "markdown": "- fix a possible issue with imported files to YTKPlus library when files in uppercase format\n- fix speedplayback for newer YouTube v19.44\n- minor improvements\n- Updated iPA to YouTube_v19.49.7",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.47",
+                "text": "3.2.48",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Dec 17, 2024",
+                "text": "Dec 22, 2024",
                 "class": "DepictionTableTextView"
             },
             {
