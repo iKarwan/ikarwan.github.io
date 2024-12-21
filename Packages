@@ -208,11 +208,11 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: me.ikghd.instakiller
 Architecture: iphoneos-arm64
 Filename: .//debs/me.ikghd.inkplus_2.4.34_iphoneos-arm64.deb
-Size: 281296
+Size: 281374
 Installed-Size: 944
-MD5sum: 8f409b9010cf703bff2f0fef0cc6bcb8
-SHA1: fc02b6eea3997f31adad40b09cdb237247e7e9ad
-SHA256: 97c28e4b6f2fe6a16d2f97665659e8084e88e56e9ea81ec6ce117cbc72407c23
+MD5sum: 773270cb0c15a0939bb9496dee9acd20
+SHA1: b25e6b0bade0718702b439ebc3621ba0b3674361
+SHA256: fc4098b025fcbf71e779cf6c54c3768a8713d796f8063fe21097fc93541cfd6c
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -228,11 +228,11 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: me.ikghd.instakiller
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.inkplus_2.4.34_iphoneos-arm.deb
-Size: 281330
+Size: 281346
 Installed-Size: 944
-MD5sum: 90b2b4918e0b26e3c07b3bac9fb13d87
-SHA1: 7bd13e98bf330cd766347d163a1de24f08051eeb
-SHA256: 87447962a4b894e5d537071522b12917bf232f2325cb93be9e4e9a06acbc190c
+MD5sum: ee2d0d5d94fd4db537d4c4d013fdfe10
+SHA1: e333576922ee9655e26e599dc136bc5b35b17a6e
+SHA256: 72d54a1f4da711c4f116d5514520465b12e00c5a3ca0873d69d3ac805dab8e50
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -472,11 +472,11 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: me.ikghd.youtubekiller
 Architecture: iphoneos-arm
 Filename: .//debs/me.ikghd.ytkplus_3.2.48_iphoneos-arm.deb
-Size: 10181110
+Size: 10181018
 Installed-Size: 25676
-MD5sum: 3cee2be2190d9e673fe9f0015d477f60
-SHA1: 77c92597be9fb1eb419fb477802d5fa183e9ce80
-SHA256: 13786942333d575ee4275afc3eb57d2b1dfbdd8e8b1e98e34e3a81acb3ccbff4
+MD5sum: 0b733d3dd6a068dbaad3b9ed03bd9ee1
+SHA1: 445282a6ce821c37de0fbda3bb894ad1d0a510cd
+SHA256: a0400376c7b1e3f30f84eabe62c3c52a50f97235650f39b01a34f13c8b4b1b82
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -532,11 +532,11 @@ Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
 Conflicts: me.ikghd.youtubekiller
 Architecture: iphoneos-arm64
 Filename: .//debs/me.ikghd.ytkplus_3.2.48_iphoneos-arm64.deb
-Size: 10180898
+Size: 10181126
 Installed-Size: 25676
-MD5sum: 7e6d804e58e6f5b4147a6284ee8bb45c
-SHA1: 57fa9ecad16c9987f0e9df0ca6bff9dab655fa51
-SHA256: b5eb116552173d19f69626d2d1ed24a5bbb2456737c5e46136d6d2d18770d168
+MD5sum: c151f0967012094398d0b97452351e08
+SHA1: c7bbd30a35854778e7f78c0c34af013277d34832
+SHA256: 48a3c4594d09a43ddb43bc9e0c256e462130f28f2e7987787b3f3ce5f9e25115
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
