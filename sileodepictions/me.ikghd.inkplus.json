@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- fixes long pressing reels on dm to show origin context menu\n- add more compatibility for Instagam v359.0\n- fixes buy via crypto link\n- minor fixes\n- add clearing the temp folder along with caches when clearing the caches\n- fixes hide all tabs with newer insta v354 and later\n- add clear caches in contribute section\n- many imrovements and enhancements to the code\n- overall improvements and enhancements\n- update ipa to newer Instagram v359.0",
+                "markdown":"- fixes long pressing reels on dm to show origin context menu\n- add more compatibility for Instagam v358.0\n- fixes buy via crypto link\n- minor fixes\n- add clearing the temp folder along with caches when clearing the caches\n- fixes hide all tabs with newer insta v354 and later\n- add clear caches in contribute section\n- many imrovements and enhancements to the code\n- overall improvements and enhancements\n- update ipa to newer Instagram v358.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.35",
+               "text":"2.4.36",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Dec 26, 2024",
+                "text": "Jan 02, 2025",
                 "class": "DepictionTableTextView"
             },
             {
