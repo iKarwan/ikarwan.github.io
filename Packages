@@ -81,26 +81,6 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ikset.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ikset.png
 
 Package: me.ikghd.inkplus
-Version: 2.4.37
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: me.ikghd.instakiller
-Architecture: iphoneos-arm
-Filename: .//debs/me.ikghd.inkplus_2.4.37_iphoneos-arm.deb
-Size: 289328
-Installed-Size: 980
-MD5sum: e9734e86e078975e3e932feda563551c
-SHA1: 1ae10910ce1799b987bc3dc8b893c67a5de44a21
-SHA256: 8fc635526c622ef47fa3dc02d7cbf320cba83197837a5e45c438aed98a8d9c5a
-Description: a whole new Instagram Experience!
-Name: iNKillerPlus
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
-
-Package: me.ikghd.inkplus
 Version: 2.4.36
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -121,6 +101,46 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
 Package: me.ikghd.inkplus
+Version: 2.4.38
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.instakiller
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.inkplus_2.4.38_iphoneos-arm.deb
+Size: 290832
+Installed-Size: 996
+MD5sum: 805025c9b972be09de957ef82a5834ff
+SHA1: 3153fc8a952ec497b3011d7f2e92dfd89069174f
+SHA256: bd55e89737de246b631e3f799e3a691dc7f4b9aa3ff408578284f96b46365e17
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.inkplus
+Version: 2.4.38
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.instakiller
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.inkplus_2.4.38_iphoneos-arm64.deb
+Size: 290994
+Installed-Size: 996
+MD5sum: bb4fb9c4641c4759fdcea63004a88fc2
+SHA1: f608c97deedbc05158ba504197701e120b3b0b0e
+SHA256: 7d3c6f82884a6829f1b13e98bf1295be874585846a55c886b9dd055c4c27edd1
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.inkplus
 Version: 2.4.36
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -133,26 +153,6 @@ Installed-Size: 960
 MD5sum: a6d5edd83ecff82d9405eb3dc5c00429
 SHA1: db3e079d16d5cdce6d175568ac24be3e14d832d6
 SHA256: 294dd062a57a4bcde1f5e1da0d1a0bb9b16ae2dc67206f3b36c4b6cab04decd9
-Description: a whole new Instagram Experience!
-Name: iNKillerPlus
-Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
-SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
-Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
-
-Package: me.ikghd.inkplus
-Version: 2.4.37
-Section: Tweaks
-Maintainer: iKarwan <ikghd3@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: me.ikghd.instakiller
-Architecture: iphoneos-arm64
-Filename: .//debs/me.ikghd.inkplus_2.4.37_iphoneos-arm64.deb
-Size: 289110
-Installed-Size: 980
-MD5sum: 873079b5f6cdaa8cd168e45c44667492
-SHA1: bfc48bb6dad23e373523731a587da1bfed934423
-SHA256: 9652051ae5b800008bf4ad277ab2c64c685ccf6b9873f8fc7447986cf4272c89
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
