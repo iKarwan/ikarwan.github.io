@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- add compatibility for v354 and later\n- fixes a possible issue with caches clearing on v359 and later\n- fixes reels showing ads on v359 and later\n- reduce long pressing on home icon to open settings\n- other minor fixes\n- update ipa to newer Instagram v362.1",
+                "markdown":"- add compatibility for v354 and later\n- fixes a possible issue with caches clearing on v359 and later\n- fixes reels showing ads on v359 and later\n- reduce long pressing on home icon to open settings\n- other minor fixes\n- update ipa to newer Instagram v363.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.39",
+               "text":"2.4.40",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 12, 2025",
+                "text": "Jan 16, 2025",
                 "class": "DepictionTableTextView"
             },
             {
