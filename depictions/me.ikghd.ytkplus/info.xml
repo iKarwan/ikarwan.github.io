@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.52</version>
+    <version>3.2.53</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.52</version2>
+      <version2>3.2.53</version2>
     </version2>
 
     <date>
-      <date>Jan 16, 2025</date>
+      <date>Jan 19, 2025</date>
     </date>
 
     <price>
@@ -34,9 +34,6 @@
     </price>
 
     <changelog>
-      <change>· fixes a possible issue with shorts downloading and fullscreen button. preventing from invoking</change>
-      <change>· fix a possible issue with imported files to YTKPlus library when files in uppercase format</change>
-      <change>· fix playback speed for newer YouTube v19.44</change>
       <change>· minor improvements</change>
       <change>· Updated iPA to YouTube_v20.02.3</change>
       <change></change>
