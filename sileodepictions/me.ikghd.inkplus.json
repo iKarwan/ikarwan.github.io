@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- add compatibility for v354 and later\n- fixes a possible issue with caches clearing on v359 and later\n- fixes reels showing ads on v359 and later\n- reduce long pressing on home icon to open settings\n- other minor fixes\n- update ipa to newer Instagram v363.0",
+                "markdown":"- buy via crypto is now %33 off $1.99 only for limited time\n- fix animportant issue related to the activation on JB\n- add compatibility for v361 and later",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.40",
+               "text":"2.4.41",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 16, 2025",
+                "text": "Jan 21, 2025",
                 "class": "DepictionTableTextView"
             },
             {

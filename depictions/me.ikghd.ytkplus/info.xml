@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.53</version>
+    <version>3.2.54</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.53</version2>
+      <version2>3.2.54</version2>
     </version2>
 
     <date>
-      <date>Jan 19, 2025</date>
+      <date>Jan 21, 2025</date>
     </date>
 
     <price>
@@ -34,8 +34,9 @@
     </price>
 
     <changelog>
-      <change>· minor improvements</change>
-      <change>· Updated iPA to YouTube_v20.02.3</change>
+      <change>· buy via crypto is now %33 off $1.99 only for limited time</change>
+      <change>· fix animportant issue related to the activation on JB</change>
+      <change>· add compatibility for v19.47 and later</change>
       <change></change>
       <change>· v3.2.34</change>
       <change>· Introduced an entirely new video player.</change>
