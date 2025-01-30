@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- buy via crypto is now %33 off $1.99 only for limited time\n- fix animportant issue related to the activation on JB\n- add compatibility for v19.47 and later\n- update ipa to newer YouTube v20.030.2",
+                "markdown": "- fixes buy crypto link\n- buy via crypto is now %33 off $1.99 only for limited time\n- fix animportant issue related to the activation on JB\n- add compatibility for v19.47 and later\n- update ipa to newer YouTube v20.04.1",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.55",
+                "text": "3.2.56",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 26, 2025",
+                "text": "Jan 30, 2025",
                 "class": "DepictionTableTextView"
             },
             {
