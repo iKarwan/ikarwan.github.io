@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- fixes buy crypto link\n- buy via crypto is now %33 off $1.99 only for limited time\n- fix animportant issue related to the activation on JB\n- add compatibility for v19.47 and later\n- update ipa to newer YouTube v20.04.1",
+                "markdown": "- fixes crypto buy link\n- buy via crypto is now %33 off $1.99 only for limited time\n- add speedPlayback up to 4.x like YouTube premium does now\n- add speedPlayback 4.x to seetings and download manager vide/audio also\n- fixes shorts were not hiden in some feed section whn scrolling too much to buttom\n- fixes need play in background alert shows prevent playing in external player\n- some section in the settings now applied immediately without restarting the app\n- enhance downlaods controller and managing stuff\n- enhance backing up YTKPlus library and make it much faster\n- enhance importing mp4 and mp3 to YTKPlus library much more smoother\n- other fixes and enhancements to over all the codes\n- update ipa to newer YouTube v20.05.4",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.56",
+                "text": "3.2.57",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 30, 2025",
+                "text": "Feb 04, 2025",
                 "class": "DepictionTableTextView"
             },
             {
