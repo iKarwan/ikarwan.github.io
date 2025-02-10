@@ -101,6 +101,26 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
 Package: me.ikghd.inkplus
+Version: 2.4.45
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.instakiller
+Architecture: iphoneos-arm64
+Filename: .//debs/me.ikghd.inkplus_2.4.45_iphoneos-arm64.deb
+Size: 291306
+Installed-Size: 996
+MD5sum: 1c6fb1da5d507e8647ea1f35057a5124
+SHA1: 633b4c541caa88a66a5811aef22dad3f4f1ec197
+SHA256: d684f926c5e7af39aeafcc1e33ceefe1b4587f3b92e81d33ef2bbec6b3c8e4a0
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.inkplus
 Version: 2.4.42
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -353,6 +373,26 @@ Installed-Size: 996
 MD5sum: cb7d2fe3f35ea21b3ba470dbf8067459
 SHA1: a967474203912f8f74595b665f3717d11beef701
 SHA256: c47272f022205cb0cd67dd7a85d64a1bbd3751e0572d3bc3c0f2f5f980309d87
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.inkplus
+Version: 2.4.45
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: me.ikghd.instakiller
+Architecture: iphoneos-arm
+Filename: .//debs/me.ikghd.inkplus_2.4.45_iphoneos-arm.deb
+Size: 291272
+Installed-Size: 996
+MD5sum: 03ab3a27ba7ad33bd1e8421dbf0c5718
+SHA1: 59bf85228a34d8491daa484ae7e3c2d436cd7542
+SHA256: bfe0172421dbef31665109703ed24be83fb9c2c2cdd7a8b427b65dd7801ccda8
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>

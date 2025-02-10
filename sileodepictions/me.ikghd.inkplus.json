@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- fixes buy crypto link\n- buy via crypto is now %33 off $1.99 only for limited time\n- fix an important issue related to the activation on JB\n- add compatibility for v361 and later\n- update ipa to newer Instagam v365.0",
+                "markdown":"- fixes buy crypto link\n- buy via crypto is now %33 off $1.99 only for limited time\n- fixes story download and seen stories button\n- fix an important issue related to the activation on JB\n- add compatibility for v361 and later\n- update ipa to newer Instagam v365.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.44",
+               "text":"2.4.45",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Feb 04, 2025",
+                "text": "Feb 10, 2025",
                 "class": "DepictionTableTextView"
             },
             {
