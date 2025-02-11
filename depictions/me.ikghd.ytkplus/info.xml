@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.57</version>
+    <version>3.2.58</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.57</version2>
+      <version2>3.2.58</version2>
     </version2>
 
     <date>
-      <date>Feb 04, 2025</date>
+      <date>Feb 12, 2025</date>
     </date>
 
     <price>
@@ -45,7 +45,7 @@
       <change>· enhance backing up YTKPlus library and make it much faster</change>
       <change>· enhance importing mp4 and mp3 to YTKPlus library much more smoother</change>
       <change>· other fixes and enhancements to over all the codes</change>
-      <change>· Updated iPA to YouTube_v20.05.4</change>
+      <change>· Updated iPA to YouTube_v20.06.3</change>
       <change></change>
       <change>· v3.2.34</change>
       <change>· Introduced an entirely new video player.</change>
