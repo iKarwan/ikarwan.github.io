@@ -113,7 +113,7 @@
                             },
 
                             {
-                                "markdown":"- fixes and improvements",
+                                "markdown":"- latest update before termenation\n- fixes and improvements",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -129,12 +129,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.4",
+               "text":"2.2.5",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Aug 16, 2024",
+               "text":"Feb 16, 2025",
                "class":"DepictionTableTextView"
             },
 

@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.59</version>
+    <version>3.2.60</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.59</version2>
+      <version2>3.2.60</version2>
     </version2>
 
     <date>
-      <date>Feb 13, 2025</date>
+      <date>Feb 16, 2025</date>
     </date>
 
     <price>
@@ -34,9 +34,6 @@
     </price>
 
     <changelog>
-      <change>· fixes an importand issue with previous build prevent activation in some cases</change>
-      <change>· other refinement</change>
-      <change>·</change>
       <change>· buy via crypto is now %33 off $1.99 only for limited time</change>
       <change>· add speedPlayback up to 4.x like YouTube premium does now</change>
       <change>· add speedPlayback 4.x to seetings and download manager vide/audio also</change>

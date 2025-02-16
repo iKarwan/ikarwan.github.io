@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.4.46</version>
+    <version>2.4.47</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -23,11 +23,11 @@
 
 
     <version2>
-      <version2>2.4.46</version2>
+      <version2>2.4.47</version2>
     </version2>
 
     <date>
-      <date>Feb 11, 2025</date>
+      <date>Feb 16, 2025</date>
     </date>
 
     <price>
@@ -40,7 +40,6 @@
       <change>· fix an important issue related to the activation on JB</change>
       <change>· fixes story download and seen stories button</change>
       <change>· add Netherland language</change>
-      <change>· correct and organize english syntax language by Hamish thanks</change>
       <change>· add compatibility for v361 and later</change>
       <change>· update ipa to newer Instagram v367.0</change>
       <change></change>
