@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.61</version>
+    <version>3.2.62</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.61</version2>
+      <version2>3.2.62</version2>
     </version2>
 
     <date>
-      <date>Feb 16, 2025</date>
+      <date>Feb 19, 2025</date>
     </date>
 
     <price>
@@ -34,17 +34,10 @@
     </price>
 
     <changelog>
-      <change>· buy via crypto is now %33 off $1.99 only for limited time</change>
+      <change>· IKG30 coupons is back use it via strip to get 30% off</change>
       <change>· add speedPlayback up to 4.x like YouTube premium does now</change>
       <change>· add speedPlayback 4.x to seetings and download manager vide/audio also</change>
-      <change>· fixes shorts were not hiden in some feed section whn scrolling too much to buttom</change>
-      <change>· fixes need play in background alert shows prevent playing in external player</change>
-      <change>· some section in the settings now applied immediately without restarting the app</change>
-      <change>· enhance downlaods controller and managing stuff</change>
-      <change>· enhance backing up YTKPlus library and make it much faster</change>
-      <change>· enhance importing mp4 and mp3 to YTKPlus library much more smoother</change>
-      <change>· other fixes and enhancements to over all the codes</change>
-      <change>· Updated iPA to YouTube_v20.06.3</change>
+      <change>· Updated iPA to YouTube_v20.07.4</change>
       <change></change>
       <change>· v3.2.34</change>
       <change>· Introduced an entirely new video player.</change>
