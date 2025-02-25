@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- IKG30 coupons is back use it via strip to get 30% off\n- other fixes and enhancements to over all the codes\n- update ipa to newer YouTube v20.07.4",
+                "markdown": "- IKG30 coupons is back use it via strip to get 30% off\n- other fixes and enhancements to over all the codes\n- update ipa to newer YouTube v20.08.3",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.62",
+                "text": "3.2.63",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Feb 19, 2025",
+                "text": "Feb 26, 2025",
                 "class": "DepictionTableTextView"
             },
             {
