@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- minor fixes and improvements\n- IKG30 coupons is back use it via strip to get 30% off\n- fixes hide stories quick reaction for newer instagram v355 and later\n- add compatibility for v365 and later\n- update ipa to newer Instagam v370.0",
+                "markdown":"- minor fixes and improvements\n- IKG30 coupons is back use it via strip to get 30% off\n- fixes hide stories quick reaction for newer instagram v355 and later\n- add compatibility for v365 and later\n- update ipa to newer Instagam v371.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.50",
+               "text":"2.4.51",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Mar 04, 2025",
+                "text": "Mar 11, 2025",
                 "class": "DepictionTableTextView"
             },
             {
