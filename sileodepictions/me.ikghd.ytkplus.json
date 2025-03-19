@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- IKG30 coupons is back use it via strip to get 30% off\n-fixing a possible issue with importing mp4 media to YTKPlus library in certain cases were mp4 extension is in upper case format\n- fixing a possible issue with backing up were shares invoke shows 0 KB in some cases\n- fixes playback normal in video player YTKPlus library\n- other fixes and enhancements to over all the codes\n- update ipa to newer YouTube v20.10.3",
+                "markdown": "- IKG30 coupons is back use it via strip to get 30% off until end of the eid\n-fixing a possible issue with importing mp4 media to YTKPlus library in certain cases were mp4 extension is in upper case format\n- fixing a possible issue with backing up were shares invoke shows 0 KB in some cases\n- fixes playback normal in video player YTKPlus library\n- other fixes and enhancements to over all the codes\n- update ipa to newer YouTube v20.11.6",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.65",
+                "text": "3.2.66",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Mar 11, 2025",
+                "text": "Mar 19, 2025",
                 "class": "DepictionTableTextView"
             },
             {
