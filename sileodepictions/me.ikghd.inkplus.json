@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- minor fixes and improvements\n- fixes hide stories quick reaction for newer instagram v355 and later\n- add compatibility for v365 and later\n- update ipa to newer Instagam v374.0",
+                "markdown":"- minor fixes and improvements\n- update ipa to newer Instagam v374.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.55",
+               "text":"2.4.56",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Apr 02, 2025",
+                "text": "Apr 07, 2025",
                 "class": "DepictionTableTextView"
             },
             {

@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.68</version>
+    <version>3.2.69</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.68</version2>
+      <version2>3.2.69</version2>
     </version2>
 
     <date>
-      <date>Apr 02, 2025</date>
+      <date>Apr 07, 2025</date>
     </date>
 
     <price>
@@ -34,11 +34,7 @@
     </price>
 
     <changelog>
-      <change>· fixing a possible issue with importing mp4 media to YTKPlus library in certain cases were mp4 extension is in upper case format</change>
-      <change>· fixing a possible issue with backing up were shares invoke shows 0 KB in some cases</change>
-      <change>· fixes playback normal in video player YTKPlus library</change>
-      <change>· add speedPlayback up to 4.x like YouTube premium does now</change>
-      <change>· add speedPlayback 4.x to settings and download manager vide/audio also</change>
+      <change>· improvements</change>
       <change>· Updated iPA to YouTube_v20.13.5</change>
       <change></change>
       <change>· v3.2.34</change>

@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- fixing a possible issue with importing mp4 media to YTKPlus library in certain cases were mp4 extension is in upper case format\n- fixing a possible issue with backing up were shares invoke shows 0 KB in some cases\n- fixes playback normal in video player YTKPlus library\n- other fixes and enhancements to over all the codes\n- update ipa to newer YouTube v20.13.5",
+                "markdown": "- improvements\n- update ipa to newer YouTube v20.13.5",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.68",
+                "text": "3.2.69",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Apr 02, 2025",
+                "text": "Apr 07, 2025",
                 "class": "DepictionTableTextView"
             },
             {
