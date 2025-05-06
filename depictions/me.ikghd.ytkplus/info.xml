@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.73</version>
+    <version>3.2.74</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.73</version2>
+      <version2>3.2.74</version2>
     </version2>
 
     <date>
-      <date>Apr 29, 2025</date>
+      <date>May 06, 2025</date>
     </date>
 
     <price>
@@ -35,7 +35,7 @@
 
     <changelog>
       <change>· fixes and improvements</change>
-      <change>· Updated iPA to YouTube_v20.16.7</change>
+      <change>· Updated iPA to YouTube_v20.18.4</change>
       <change></change>
       <change>· v3.2.34</change>
       <change>· Introduced an entirely new video player.</change>
