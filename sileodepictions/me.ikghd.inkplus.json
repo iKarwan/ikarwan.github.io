@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- fixes and improvements\n- update ipa to newer Instagam v380.0",
+                "markdown":"- fixes and improvements\n- update ipa to newer Instagam v381.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.62",
+               "text":"2.4.63",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "May 15, 2025",
+                "text": "May 21, 2025",
                 "class": "DepictionTableTextView"
             },
             {
