@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- fixes and improvements\n- update ipa to newer YouTube v20.20.5",
+                "markdown": "- fixes and improvements\n- update ipa to newer YouTube v20.20.7",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.76",
+                "text": "3.2.77",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "May 21, 2025",
+                "text": "May 25, 2025",
                 "class": "DepictionTableTextView"
             },
             {
