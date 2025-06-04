@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- fixes and improvements\n- update ipa to newer YouTube v20.22.1",
+                "markdown": "- YT v20.22 dropped iOS 15.x support the minimum v is iOS 16.x\n- fixes and improvements\n- update ipa to newer YouTube v20.22.1",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },

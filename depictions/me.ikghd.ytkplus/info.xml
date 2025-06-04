@@ -34,6 +34,7 @@
     </price>
 
     <changelog>
+      <change>· YT v20.22 dropped iOS 15.x support the minimum v is iOS 16.x</change>
       <change>· fixes and improvements</change>
       <change>· Updated iPA to YouTube_v20.22.1</change>
       <change></change>
