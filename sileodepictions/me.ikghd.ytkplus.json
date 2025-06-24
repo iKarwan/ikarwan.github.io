@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- YT v20.22 dropped iOS 15.x support the minimum v is iOS 16.x\n- fixes and improvements\n- update ipa to newer YouTube v20.22.1",
+                "markdown": "- YT v20.22 dropped iOS 15.x support the minimum v is iOS 16.x\n- fixes and improvements\n- update ipa to newer YouTube v20.25.4",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.78",
+                "text": "3.2.79",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jun 04, 2025",
+                "text": "Jun 24, 2025",
                 "class": "DepictionTableTextView"
             },
             {

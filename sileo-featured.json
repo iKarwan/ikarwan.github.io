@@ -16,13 +16,7 @@
           "title": "iNKillerPlus",
           "package": "me.ikghd.inkplus",
           "hideShadow": false
-      },
-
-      {
-        "url": "https://repo.ikghd.me/assets/banners/iCTXiVBanner.png",
-        "title": "iCTMiZ XiV",
-        "package": "me.ikghd.ictmizxiv",
-        "hideShadow": false
       }
+
     ]
 }
