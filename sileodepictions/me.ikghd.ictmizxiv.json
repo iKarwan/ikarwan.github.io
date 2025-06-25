@@ -230,12 +230,6 @@
             {
                "class":"DepictionSeparatorView"
             },
-            {
-              "title":"iOS 12/13 Version",
-               "useBoldText": true,
-               "action":"https://repo.ikghd.me/depictions/?p=me.ikghd.ictmiz",
-               "class":"DepictionTableButtonView"
-            },
 
             {
                "title":"Features",
