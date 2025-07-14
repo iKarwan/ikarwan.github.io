@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- YT v20.22 dropped iOS 15.x support the minimum v is iOS 16.x\n- fixes and improvements\n- update ipa to newer YouTube v20.25.4",
+                "markdown": "- improve handling import multiple media at once to YTKPlus library\n- improve backuping YTKPlus library with multiple files in folder somw times it was crashes before completion\n- improve skipping segment for large duration videos\n- other fixes and improvements\n- YT v20.22 dropped iOS 15.x support the minimum v is iOS 16.x\n- update ipa to newer YouTube v20.28.2",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.79",
+                "text": "3.2.80",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jun 24, 2025",
+                "text": "Jul 14, 2025",
                 "class": "DepictionTableTextView"
             },
             {
