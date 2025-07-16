@@ -153,11 +153,6 @@
                "class":"DepictionTableTextView"
             },
             {
-                "title": "app Compatibility",
-                "text": "iN v313.0 - v386.0",
-                "class": "DepictionTableTextView"
-            },
-            {
                 "title": "Updated",
                 "text": "Jul 14, 2025",
                 "class": "DepictionTableTextView"
@@ -195,6 +190,11 @@
             {
                 "title": "Rootless Support",
                 "text": "Yes",
+                "class": "DepictionTableTextView"
+            },
+            {
+                "title": "app Compatibility",
+                "text": " v313.0 - v386.0",
                 "class": "DepictionTableTextView"
             },
             {

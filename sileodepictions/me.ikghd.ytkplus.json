@@ -182,11 +182,6 @@
                 "class": "DepictionTableTextView"
             },
             {
-                "title": "app Compatibility",
-                "text": "YT v19.20 - v20.28.2",
-                "class": "DepictionTableTextView"
-            },
-            {
                 "title": "Updated",
                 "text": "Jul 14, 2025",
                 "class": "DepictionTableTextView"
@@ -224,6 +219,11 @@
             {
                 "title": "Rootless Support",
                 "text": "Yes",
+                "class": "DepictionTableTextView"
+            },
+            {
+                "title": "app Compatibility",
+                "text": " v19.20 - v20.28.2",
                 "class": "DepictionTableTextView"
             },
             {
