@@ -153,6 +153,11 @@
                "class":"DepictionTableTextView"
             },
             {
+                "title": "app Compatibility",
+                "text": "iNv 313.0 - 386.0",
+                "class": "DepictionTableTextView"
+            },
+            {
                 "title": "Updated",
                 "text": "Jul 14, 2025",
                 "class": "DepictionTableTextView"

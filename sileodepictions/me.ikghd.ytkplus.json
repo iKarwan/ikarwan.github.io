@@ -182,6 +182,11 @@
                 "class": "DepictionTableTextView"
             },
             {
+                "title": "app Compatibility",
+                "text": "YTv 19.20 - 28.28.2",
+                "class": "DepictionTableTextView"
+            },
+            {
                 "title": "Updated",
                 "text": "Jul 14, 2025",
                 "class": "DepictionTableTextView"
