@@ -40,7 +40,7 @@
     <changelog>
       <change>· improve handling import multiple media at once to YTKPlus library</change>
       <change>· improve backuping YTKPlus library with multiple files in folder somw times it was crashes before completion</change>
-      <change>· improve skipping segment for large duration videos</change>
+      <change>· improve skipping segment for long duration videos</change>
       <change>· other fixes and improvements</change>
       <change>· YT v20.22 dropped iOS 15.x support the minimum v is iOS 16.x</change>
       <change>· Updated iPA to YouTube_v20.28.2</change>
