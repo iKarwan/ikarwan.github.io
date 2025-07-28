@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.80</version>
+    <version>3.2.81</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.80</version2>
+      <version2>3.2.81</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v19.20 - v20.28.2</appcomp>
+      <appcomp> v19.20 - v20.30</appcomp>
     </appcomp>
 
     <date>
@@ -38,12 +38,10 @@
     </price>
 
     <changelog>
-      <change>· improve handling import multiple media at once to YTKPlus library</change>
-      <change>· improve backuping YTKPlus library with multiple files in folder somw times it was crashes before completion</change>
-      <change>· improve skipping segment for long duration videos</change>
+      <change>· add multi download support</change>
+      <change>· add support for selecting prefer audio track language</change>
       <change>· other fixes and improvements</change>
-      <change>· YT v20.22 dropped iOS 15.x support the minimum v is iOS 16.x</change>
-      <change>· Updated iPA to YouTube_v20.28.2</change>
+      <change>· Updated iPA to YouTube_v20.30</change>
       <change></change>
       <change>· v3.2.34</change>
       <change>· Introduced an entirely new video player.</change>
