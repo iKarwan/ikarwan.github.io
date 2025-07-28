@@ -38,7 +38,7 @@
     </price>
 
     <changelog>
-      <change>· add multi download support</change>
+      <change>· implemented a queue system to support multi downloading, plus with signifying audio download speed boost for long audio durations . And more!</change>
       <change>· add support for selecting prefer audio track language</change>
       <change>· other fixes and improvements</change>
       <change>· Updated iPA to YouTube_v20.30</change>

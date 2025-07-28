@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- add multi download support\n- add support for selecting prefer audio track language\n- other fixes and improvements\n- update ipa to newer YouTube v20.30",
+                "markdown": "- implemented a queue system to support multi downloading, plus with signifying audio download speed boost for long audio durations . And more!\n- add support for selecting prefer audio track language\n- other fixes and improvements\n- update ipa to newer YouTube v20.30",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
