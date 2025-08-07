@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.81</version>
+    <version>3.2.83</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.2.81</version2>
+      <version2>3.2.83</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v19.20 - v20.30</appcomp>
+      <appcomp> v19.20 - v20.31</appcomp>
     </appcomp>
 
     <date>
-      <date>Jul 14, 2025</date>
+      <date>Aug 07, 2025</date>
     </date>
 
     <price>
@@ -38,10 +38,17 @@
     </price>
 
     <changelog>
+      <change>· add sleep timer for media video-audio in the YTKPlus library</change>
+      <change>· add color for sponsorblock segments in the video player</change>
       <change>· implemented a queue system to support multi downloading, plus with signifying audio download speed boost for long audio durations . And more!</change>
       <change>· add support for selecting prefer audio track language</change>
+      <change>· add support short for queue system</change>
+      <change>· fix short audio downloading to handle correct audio file</change>
+      <change>· fix short fullscreen</change>
+      <change>· fix shorts auto-skip</change>
+      <change>· many enhancement and fixes for smother experiance</change>
       <change>· other fixes and improvements</change>
-      <change>· Updated iPA to YouTube_v20.30</change>
+      <change>· Updated iPA to YouTube_v20.31</change>
       <change></change>
       <change>· v3.2.34</change>
       <change>· Introduced an entirely new video player.</change>

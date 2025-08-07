@@ -1,10 +1,10 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.4.67</version>
+    <version>2.4.73</version>
     <compatibility>
         <firmware>
-            <miniOS>14.0</miniOS>
+            <miniOS>15.1</miniOS>
             <maxiOS>18.x</maxiOS>
         </firmware>
     </compatibility>
@@ -23,15 +23,15 @@
 
 
     <version2>
-      <version2>2.4.67</version2>
+      <version2>2.4.73</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v313.0 - v386.0</appcomp>
+      <appcomp> v350.0 - v392.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Jul 14, 2025</date>
+      <date>Aug 07, 2025</date>
     </date>
 
     <price>
@@ -39,8 +39,20 @@
     </price>
 
     <changelog>
-      <change>· fixes and improvements</change>
-      <change>· update ipa to newer Instagram v386.0</change>
+      <change>· add downloading high quality video (if availble)up to 4k story and reels</change>
+      <change>· add more ad's removing for explore and other reels section</change>
+      <change>· add no create to hide creation button</change>
+      <change>· fixes hide reels on iG v388 and later</change>
+      <change>· fixes hide explore on iG v388 and later</change>
+      <change>· fixes following determint iG v388 and later</change>
+      <change>· fixes downloading from stories on iG v388 and later</change>
+      <change>· fixes disable auto advance to next stories on iG v380 and later</change>
+      <change>· fixes show confirm to call video-audio on dm iG v385 and later</change>
+      <change>· fixes reels Icon to match instagram style on iG v380 and later</change>
+      <change>· other fixes and improvements</change>
+      <change>· this version is supporting ios 15.1 and above</change>
+      <change>· add fully compatibility for iG v392.0 and later</change>
+      <change>· update ipa to newer Instagram v391.0</change>
     </changelog>
 
 
