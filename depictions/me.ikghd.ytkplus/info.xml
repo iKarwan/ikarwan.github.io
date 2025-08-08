@@ -40,13 +40,14 @@
     <changelog>
       <change>· add sleep timer for media video-audio in the YTKPlus library</change>
       <change>· add color for sponsorblock segments in the video player</change>
-      <change>· implemented a queue system to support multi downloading, plus with signifying audio download speed boost for long audio durations . And more!</change>
+      <change>· implemented a queue system to support multi downloading, plus with signifying audio download speed boost for long audio durations .</change>
       <change>· add support for selecting prefer audio track language</change>
       <change>· add support short for queue system</change>
       <change>· fix short audio downloading to handle correct audio file</change>
+      <change>· fix fullscreen Icon for video in YTKPlus library on iOS 15x and later</change>
       <change>· fix short fullscreen</change>
       <change>· fix shorts auto-skip</change>
-      <change>· many enhancement and fixes for smother experiance</change>
+      <change>· many enhancement and fixes for smoother experiance</change>
       <change>· other fixes and improvements</change>
       <change>· Updated iPA to YouTube_v20.31</change>
       <change></change>

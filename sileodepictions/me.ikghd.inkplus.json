@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- add downloading high quality video (if availble)up to 4k story and reels\n- add more ad's removing for explore and other reels section\n- add no create to hide creation button\n- fixes hide reels on iG v388 and later\n- fixes hide explore on iG v388 and later\n- fixes following determint iG v388 and later\n- fixes downloading from stories on iG v388 and later\n- fixes disable auto advance to next stories on iG v380 and later\n- fixes show confirm to call video-audio on dm iG v385 and later\n- fixes reels Icon to match instagram style on iG v380 and later\n- other fixes and improvements\n- this version is supporting ios 15.1 and above\n- add fully compatibility for iG v392.0 and later\n- update ipa to newer Instagam v391.0",
+                "markdown":"- add downloading high quality video (if availble)up to 4k story and reels\n- add more ad's removing for explore and other reels section\n- add no create to hide creation button\n- fixes hide reels on iG v388 and later\n- fixes hide explore on iG v388 and later\n- fixes following determint iG v388 and later\n- fixes downloading from stories on iG v388 and later\n- fixes disable auto advance to next stories on iG v380 and later\n- fixes show confirm to call video-audio on dm iG v385 and later\n- fixes reels Icon to match instagram style on iG v380 and later\n- other fixes and improvements\n- this version is supporting ios 15.1 and above\n- add fully compatibility for iG v392.0 and later\n- update ipa to newer Instagam v392.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -194,7 +194,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v313.0 - v392.0",
+                "text": " v350.0 - v392.0",
                 "class": "DepictionTableTextView"
             },
             {
