@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.4.73.3</version>
+    <version>2.4.73.4</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -23,7 +23,7 @@
 
 
     <version2>
-      <version2>2.4.73.3</version2>
+      <version2>2.4.73.4</version2>
     </version2>
 
     <appcomp>
@@ -31,7 +31,7 @@
     </appcomp>
 
     <date>
-      <date>Aug 08, 2025</date>
+      <date>Aug 11, 2025</date>
     </date>
 
     <price>
@@ -39,6 +39,7 @@
     </price>
 
     <changelog>
+      <change>· more support and clean up for v390 and above</change>
       <change>· fixes follow status in v392.0 and later</change>
       <change>·</change>
       <change>· add downloading high quality video (if availble)up to 4k story and reels</change>
@@ -74,7 +75,6 @@
             <br>· Keep unsent messages
             <br>· Copy various text like comments, descriptions, bios, etc.
             <br>· Various confirmation prompts on double tap likes
-            <br>· Lock the app
             <br>· And many more settings...
             <br> <br>
 
