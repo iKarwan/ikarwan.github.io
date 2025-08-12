@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- add loop icon to the video player enable it in controllers &amp; shurtcut\n- fix set YouTube premium logo\n- clean up and more speed to audio downloading\n- add sleep timer for media video-audio in the YTKPlus library\n- add color for sponsorblock segments in the video player\n- implemented a queue system to support multi downloading, plus with signifying audio download speed boost for long audio durations .\n- add support for selecting prefer audio track language\n- add support short for queue system\n- fix fullscreen Icon for video in YTKPlus library on iOS 15x and later\n- fix short audio downloading to handle correct audio file\n- fix short fullscreen\n- fix shorts auto-skip\n- many enhancement and fixes for smoother experiance\n- other fixes and improvements\n- update ipa to newer YouTube v20.31",
+                "markdown": "- now audio selection only shows if multiple languages availble. else downloads directly\n- add loop icon to the video player enable it in controllers &amp; shurtcut\n- fix set YouTube premium logo\n- clean up and more speed to audio downloading\n- add sleep timer for media video-audio in the YTKPlus library\n- add color for sponsorblock segments in the video player\n- implemented a queue system to support multi downloading, plus with signifying audio download speed boost for long audio durations .\n- add support for selecting prefer audio track language\n- add support short for queue system\n- fix fullscreen Icon for video in YTKPlus library on iOS 15x and later\n- fix short audio downloading to handle correct audio file\n- fix short fullscreen\n- fix shorts auto-skip\n- many enhancement and fixes for smoother experiance\n- other fixes and improvements\n- update ipa to newer YouTube v20.32",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.83.3",
+                "text": "3.2.88",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Aug 11, 2025",
+                "text": "Aug 13, 2025",
                 "class": "DepictionTableTextView"
             },
             {
