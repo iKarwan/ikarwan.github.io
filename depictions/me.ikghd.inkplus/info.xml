@@ -27,7 +27,7 @@
     </version2>
 
     <appcomp>
-      <appcomp> v350.0 - v393.0</appcomp>
+      <appcomp> v350.0 - v392.0</appcomp>
     </appcomp>
 
     <date>
@@ -41,7 +41,7 @@
     <changelog>
       <change>· more support and clean up for v390 and above</change>
       <change>· fixes follow status in v392.0 and later</change>
-      <change>· update ipa to newer Instagram v393.0</change>
+      <change>· update ipa to newer Instagram v392.0</change>
       <change>·</change>
       <change>· add downloading high quality video (if availble)up to 4k story and reels</change>
       <change>· add more ad's removing for explore and other reels section</change>
