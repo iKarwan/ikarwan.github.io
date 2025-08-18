@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.88</version>
+    <version>3.2.88.2</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>3.2.88</version2>
+      <version2>3.2.88.2</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Aug 13, 2025</date>
+      <date>Aug 18, 2025</date>
     </date>
 
     <price>
@@ -38,7 +38,10 @@
     </price>
 
     <changelog>
-      <change>· now audio selection only shows if multiple languages availble. else downloads directly</change>
+      <change>· fixes a crash with youtube animated logo if premium logo set</change>
+      <change>· if u pn ipa pls disable wifi then disable the button and re enable wifi again until a new ipa get released</change>
+      <change>· fix sorting alphabiticly audio when downloading video</change>
+      <change></change>
       <change>· fix sleeptimer for 30 and 1 hour sometimes not activated</change>
       <change>· add loop icon to the video player enable it in controllers &amp; shurtcut</change>
       <change>· fix set YouTube premium logo</change>
