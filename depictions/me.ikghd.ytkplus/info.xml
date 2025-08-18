@@ -39,7 +39,7 @@
 
     <changelog>
       <change>· fixes a crash with youtube animated logo if premium logo set</change>
-      <change>· if u pn ipa pls disable wifi then disable the button and re enable wifi again until a new ipa get released</change>
+      <change>· if u on ipa pls disable wifi then disable the button and re enable wifi again until a new ipa get released</change>
       <change>· fix sorting alphabiticly audio when downloading video</change>
       <change></change>
       <change>· fix sleeptimer for 30 and 1 hour sometimes not activated</change>
