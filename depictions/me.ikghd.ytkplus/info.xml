@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.88.2</version>
+    <version>3.2.89</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.2.88.2</version2>
+      <version2>3.2.89</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v19.20 - v20.32</appcomp>
+      <appcomp> v19.20 - v20.33</appcomp>
     </appcomp>
 
     <date>
@@ -41,6 +41,7 @@
       <change>· fixes a crash with youtube animated logo if premium logo set</change>
       <change>· if u on ipa pls disable wifi then disable the button and re enable wifi again until a new ipa get released</change>
       <change>· fix sorting alphabiticly audio when downloading video</change>
+      <change>· Updated iPA to YouTube_v20.33</change>
       <change></change>
       <change>· fix sleeptimer for 30 and 1 hour sometimes not activated</change>
       <change>· add loop icon to the video player enable it in controllers &amp; shurtcut</change>
