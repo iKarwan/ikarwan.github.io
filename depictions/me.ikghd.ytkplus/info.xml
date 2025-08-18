@@ -39,7 +39,6 @@
 
     <changelog>
       <change>· fixes a crash with youtube animated logo if premium logo set</change>
-      <change>· if u on ipa pls disable wifi then disable the button and re enable wifi again until a new ipa get released</change>
       <change>· fix sorting alphabiticly audio when downloading video</change>
       <change>· Updated iPA to YouTube_v20.33</change>
       <change></change>
