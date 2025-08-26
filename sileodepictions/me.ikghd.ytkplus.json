@@ -123,7 +123,7 @@
             },
 
             {
-               "title":"In App Purchase: $2.99",
+               "title":"In App Purchase: $4.99",
                "class":"DepictionHeaderView"
             },
             {
@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- fixes a crash with youtube animated logo if premium logo set\n- fix sorting alphabiticly audio when downloading video\n- update ipa to newer YouTube v20.33\n-\r now audio selection only shows if multiple languages availble. else downloads directly\n- add loop icon to the video player enable it in controllers &amp; shurtcut\n- fix set YouTube premium logo\n- clean up and more speed to audio downloading\n- add sleep timer for media video-audio in the YTKPlus library\n- add color for sponsorblock segments in the video player\n- implemented a queue system to support multi downloading, plus with signifying audio download speed boost for long audio durations .\n- add support for selecting prefer audio track language\n- add support short for queue system\n- fix fullscreen Icon for video in YTKPlus library on iOS 15x and later\n- fix short audio downloading to handle correct audio file\n- fix short fullscreen\n- fix shorts auto-skip\n- many enhancement and fixes for smoother experiance\n- other fixes and improvements\n- update ipa to newer YouTube v20.32",
+                "markdown": "- fixes a crash with youtube animated logo if premium logo set\n- fix sorting alphabiticly audio when downloading video\n- now audio selection only shows if multiple languages availble. else downloads directly\n- add loop icon to the video player enable it in controllers &amp; shurtcut\n- fix set YouTube premium logo\n- clean up and more speed to audio downloading\n- add sleep timer for media video-audio in the YTKPlus library\n- add color for sponsorblock segments in the video player\n- implemented a queue system to support multi downloading, plus with signifying audio download speed boost for long audio durations .\n- add support for selecting prefer audio track language\n- add support short for queue system\n- fix fullscreen Icon for video in YTKPlus library on iOS 15x and later\n- fix short audio downloading to handle correct audio file\n- fix short fullscreen\n- fix shorts auto-skip\n- many enhancement and fixes for smoother experiance\n- other fixes and improvements\n- update ipa to newer YouTube v20.34",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,17 +178,17 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.89",
+                "text": "3.2.90",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Aug 18, 2025",
+                "text": "Aug 26, 2025",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Price",
-                "text": "$2.99 USD",
+                "text": "$4.99 USD",
                 "class": "DepictionTableTextView"
             },
             {
@@ -223,12 +223,12 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v19.20 - v20.32",
+                "text": " v19.20 - v20.34",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Compatibility",
-                "text": "iOS & iPadOS 14.0 - 18.x",
+                "text": "iOS & iPadOS 14.0 - 26.x",
                 "class": "DepictionTableTextView"
             },
 

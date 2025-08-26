@@ -1,11 +1,11 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.4.77</version>
+    <version>2.4.80</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
-            <maxiOS>18.x</maxiOS>
+            <maxiOS>26.x</maxiOS>
         </firmware>
     </compatibility>
 
@@ -23,7 +23,7 @@
 
 
     <version2>
-      <version2>2.4.77</version2>
+      <version2>2.4.80</version2>
     </version2>
 
     <appcomp>
@@ -31,18 +31,16 @@
     </appcomp>
 
     <date>
-      <date>Aug 13, 2025</date>
+      <date>Aug 26, 2025</date>
     </date>
 
     <price>
-      <price>$2.99 USD</price>
+      <price>$3.99 USD</price>
     </price>
 
     <changelog>
       <change>· more support and clean up for v390 and above</change>
       <change>· fixes follow status in v392.0 and later</change>
-      <change>· update ipa to newer Instagram v392.0</change>
-      <change>·</change>
       <change>· add downloading high quality video (if availble)up to 4k story and reels</change>
       <change>· add more ad's removing for explore and other reels section</change>
       <change>· add no create to hide creation button</change>
@@ -65,7 +63,7 @@
 
         <longdescription><![CDATA[
             <br>
-            <br>In App Purchase: $2.99
+            <br>In App Purchase: $3.99
             <br>
             <br>In App Settings:
             <br>· To enter the settings, either long press on home button in tabbar or Instagram text logo.

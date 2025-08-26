@@ -92,7 +92,7 @@
             },
 
             {
-               "title":"In App Purchase: $2.99",
+               "title":"In App Purchase: $3.99",
                "class":"DepictionHeaderView"
             },
             {
@@ -149,17 +149,17 @@
             },
             {
                "title":"Version",
-               "text":"2.4.77",
+               "text":"2.4.80",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Aug 13, 2025",
+                "text": "Aug 26, 2025",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Price",
-                "text": "$2.99 USD",
+                "text": "$3.99 USD",
                 "class": "DepictionTableTextView"
             },
             {
@@ -199,7 +199,7 @@
             },
             {
                "title":"Compatibility",
-               "text":"iOS 15.1 - 18.x",
+               "text":"iOS 15.1 - 26.x",
                "class":"DepictionTableTextView"
             },
 
