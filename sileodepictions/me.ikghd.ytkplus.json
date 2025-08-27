@@ -123,7 +123,7 @@
             },
 
             {
-               "title":"In App Purchase: $4.99",
+               "title":"In App Purchase: $3.99",
                "class":"DepictionHeaderView"
             },
             {
@@ -178,17 +178,17 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.90",
+                "text": "3.2.91",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Aug 26, 2025",
+                "text": "Aug 27, 2025",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Price",
-                "text": "$4.99 USD",
+                "text": "$3.99 USD",
                 "class": "DepictionTableTextView"
             },
             {
