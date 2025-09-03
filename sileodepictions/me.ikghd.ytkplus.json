@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.92",
+                "text": "3.2.93",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Aug 28, 2025",
+                "text": "Sep 03, 2025",
                 "class": "DepictionTableTextView"
             },
             {
@@ -223,7 +223,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v19.20 - v20.34",
+                "text": " v19.20 - v20.35",
                 "class": "DepictionTableTextView"
             },
             {
