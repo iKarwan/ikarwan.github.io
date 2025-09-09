@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.93</version>
+    <version>3.2.94</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.2.93</version2>
+      <version2>3.2.94</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v19.20 - v20.35</appcomp>
+      <appcomp> v19.20 - v20.36</appcomp>
     </appcomp>
 
     <date>
-      <date>Sep 03, 2025</date>
+      <date>Sep 09, 2025</date>
     </date>
 
     <price>
@@ -39,7 +39,9 @@
 
     <changelog>
       <change>· Fixes the annoying issue of local network permission being required even though it’s enabled.</change>
+      <change>· fixes copy comment</change>
       <change>· other fixes and improvmenets</change>
+      <change>· Updated iPA to YouTube_v20.36</change>
       <change>·</change>
       <change>· fix sorting alphabiticly audio when downloading video</change>
       <change>· fix sleeptimer for 30 and 1 hour sometimes not activated</change>

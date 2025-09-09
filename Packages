@@ -19,18 +19,18 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ictmizxiv.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ictmizxiv.png
 
 Package: me.ikghd.inkplus
-Version: 2.4.80
+Version: 2.4.82
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Conflicts: me.ikghd.instakiller
-Architecture: iphoneos-arm64
-Filename: ./debs/me.ikghd.inkplus_2.4.80_iphoneos-arm64.deb
-Size: 264786
-Installed-Size: 960
-MD5sum: 689fa1c03fc35b27826b2685e728f6de
-SHA1: a37985fbc923090c50556b19b9edd05633b672bc
-SHA256: d052b244bdaaf21c350a0483deaef878df9281d2f2e342712d2c93829c679835
+Architecture: iphoneos-arm
+Filename: ./debs/me.ikghd.inkplus_2.4.82_iphoneos-arm.deb
+Size: 271848
+Installed-Size: 988
+MD5sum: 2351b8ead1bf5089b1308ae9c1256613
+SHA1: de8f28c3fbe03505cbe65e940426900a88d43749
+SHA256: f09c749fa0fd1f4d833cb466e0cb92cd14f2590c3226b3ce74dd59397f714451
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -39,18 +39,18 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
 Package: me.ikghd.inkplus
-Version: 2.4.80
+Version: 2.4.82
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Conflicts: me.ikghd.instakiller
-Architecture: iphoneos-arm
-Filename: ./debs/me.ikghd.inkplus_2.4.80_iphoneos-arm.deb
-Size: 264738
-Installed-Size: 960
-MD5sum: 30a4f2d12d48a91d0f39a875e3022030
-SHA1: c96b8a8066ef2b71d19ebae84e257f9b3c3b4e37
-SHA256: 6d359a98b62273fc4b7ca117db85649e9259088dca40c68337e0c3ec8d315663
+Architecture: iphoneos-arm64
+Filename: ./debs/me.ikghd.inkplus_2.4.82_iphoneos-arm64.deb
+Size: 271730
+Installed-Size: 988
+MD5sum: ce8606ad01e9a631adb0a63e39653794
+SHA1: cbfd6c5f88b5e2cc5b43f43a424b292afacdcbbb
+SHA256: 99a56474ded920d61053b8de7c77580846a0ce480faa1b13e8fd0b16f45f6596
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -101,18 +101,18 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
 
 Package: me.ikghd.ytkplus
-Version: 3.2.93
+Version: 3.2.94
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.3)
 Conflicts: me.ikghd.youtubekiller
 Architecture: iphoneos-arm64
-Filename: ./debs/me.ikghd.ytkplus_3.2.93_iphoneos-arm64.deb
-Size: 10203602
+Filename: ./debs/me.ikghd.ytkplus_3.2.94_iphoneos-arm64.deb
+Size: 10203066
 Installed-Size: 25656
-MD5sum: 94f7d302950f0e3ac80464e17497986d
-SHA1: ca3e808c59d724bb93b6ce369284eb6a7bf54db2
-SHA256: 76d3e41ba8b2362cf404aac02101fd16bcd62de9683b682d469be9e57382f2b7
+MD5sum: a6c935a9951765c734adf521098ef01c
+SHA1: a0c4a1cb5653a6fba2208b7708cc6acf5dddef14
+SHA256: b758b508ec5c0f831f03f9fd811af35bc2696720b103a07796e3c38ce48267e6
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -121,18 +121,18 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
 
 Package: me.ikghd.ytkplus
-Version: 3.2.93
+Version: 3.2.94
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.3)
 Conflicts: me.ikghd.youtubekiller
 Architecture: iphoneos-arm
-Filename: ./debs/me.ikghd.ytkplus_3.2.93_iphoneos-arm.deb
-Size: 10203810
+Filename: ./debs/me.ikghd.ytkplus_3.2.94_iphoneos-arm.deb
+Size: 10203056
 Installed-Size: 25656
-MD5sum: 6102876e825649fdf415c5c5ca318b6c
-SHA1: 45319133466ec1b8838cd4748fee5a557fc94194
-SHA256: c05d2ac575314e436831881ee622920380941857dd87d43b580d73ed3b320b27
+MD5sum: 19b92904b6fe1225cdd98ee15d5acf5f
+SHA1: 8d8244d8d2b113fb4d09541e6a55562f5932976d
+SHA256: bc656c587a5667dd80fffc7c48491761450c4ecb09d8ad550e72d0b40ead9e01
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
