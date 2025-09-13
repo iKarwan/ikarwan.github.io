@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- fixes unsent message on iG v392 and later\n- ipad now supporting natively - the iOS ipa is the same for iPad\n- add arabic language if ur language is set to arabic\n- more support and better compatibility for v397\n- update ipa to newer Instagram v396.0\n- more support and clean up for v390 and above\n- fixes follow status in v392.0 and later\n- fixes follow status in v392.0 and later\r\n- add downloading high quality video (if availble)up to 4k story and reels\n- add more ad's removing for explore and other reels section\n- add no create to hide creation button\n- fixes hide reels on iG v388 and later\n- fixes hide explore on iG v388 and later\n- fixes following determint iG v388 and later\n- fixes downloading from stories on iG v388 and later\n- fixes disable auto advance to next stories on iG v380 and later\n- fixes show confirm to call video-audio on dm iG v385 and later\n- fixes reels Icon to match instagram style on iG v380 and later\n- other fixes and improvements\n- this version is supporting ios 15.1 and above\n- add fully compatibility for iG v392.0 and later\n- update ipa to newer Instagam v392.0",
+                "markdown":"- Added hide when entering a live broadcast\n- Fixed confirmation dialog for video/audio calls in direct messages\n Fixed confirmation for double tap on comments and heart button\n- Added confirmation for repost feed and reels\n- Fixed confirmation when following a user\n- Separated all confirmations - each one acts differently\n- Fixed unsent messages on Instagram v392 and later\n- iPad now supported natively - the same iOS IPA works for iPad\n- Added Arabic language support when device language is set to Arabic\n- Improved support and better compatibility for v397\n- Updated IPA to newer Instagram v397.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.83",
+               "text":"2.4.84",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 11, 2025",
+                "text": "Sep 13, 2025",
                 "class": "DepictionTableTextView"
             },
             {
