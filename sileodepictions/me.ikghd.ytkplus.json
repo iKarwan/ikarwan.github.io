@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- fixes copy comment\n- Updated iPA to YouTube_v20.36\n- Fixes the annoying issue of local network permission being required even though it’s enabled.\n\r- fixes a crash with youtube animated logo if premium logo set\n- fix sorting alphabiticly audio when downloading video\n- now audio selection only shows if multiple languages availble. else downloads directly\n- add loop icon to the video player enable it in controllers &amp; shurtcut\n- fix set YouTube premium logo\n- clean up and more speed to audio downloading\n- add sleep timer for media video-audio in the YTKPlus library\n- add color for sponsorblock segments in the video player\n- implemented a queue system to support multi downloading, plus with signifying audio download speed boost for long audio durations .\n- add support for selecting prefer audio track language\n- add support short for queue system\n- fix fullscreen Icon for video in YTKPlus library on iOS 15x and later\n- fix short audio downloading to handle correct audio file\n- fix short fullscreen\n- fix shorts auto-skip\n- many enhancement and fixes for smoother experiance\n- other fixes and improvements\n- update ipa to newer YouTube v20.34",
+                "markdown": "- Improved iPad context menu\n- Improved backing up - much faster and smaller file sizes\n- Improvements to importing media with multiple thumbnail format support\n- Fix a possible issue with importing M4A format when it has capitalized characters\n- Fixes saving thumbnail from download context menu\n- More improvements to auto-skip short icon\n- More refinements\n- Fixes the annoying issue of local network permission being required even though it's enabled\n- Fixes copy comment\n- Other fixes and improvements\n- Updated iPA to YouTube_v20.36",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.94",
+                "text": "3.2.94.4",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 09, 2025",
+                "text": "Sep 13, 2025",
                 "class": "DepictionTableTextView"
             },
             {
