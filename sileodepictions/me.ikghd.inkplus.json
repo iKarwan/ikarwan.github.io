@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- Added hide when entering a live broadcast\n- Fixed confirmation dialog for video/audio calls in direct messages\n Fixed confirmation for double tap on comments and heart button\n- Added confirmation for repost feed and reels\n- Fixed confirmation when following a user\n- Separated all confirmations - each one acts differently\n- Fixed unsent messages on Instagram v392 and later\n- iPad now supported natively - the same iOS IPA works for iPad\n- Added Arabic language support when device language is set to Arabic\n- Improved support and better compatibility for v397\n- Updated IPA to newer Instagram v397.0",
+                "markdown":"- pls make sure u'r on v395 and later best is v397\n- Added hide when entering a live broadcast\n- Fixed confirmation dialog for video/audio calls in direct messages\n Fixed confirmation for double tap on comments and heart button\n- Added confirmation for repost feed and reels\n- Fixed confirmation when following a user\n- Separated all confirmations - each one acts differently\n- Fixed unsent messages on Instagram v392 and later\n- iPad now supported natively - the same iOS IPA works for iPad\n- Added Arabic language support when device language is set to Arabic\n- Improved support and better compatibility for v397\n- Updated IPA to newer Instagram v397.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.84",
+               "text":"2.4.84.4",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 13, 2025",
+                "text": "Sep 14, 2025",
                 "class": "DepictionTableTextView"
             },
             {
