@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.96</version>
+    <version>3.2.97</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.2.96</version2>
+      <version2>3.2.97</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v19.20 - v20.38</appcomp>
+      <appcomp> v19.20 - v20.39</appcomp>
     </appcomp>
 
     <date>
-      <date>Sep 24, 2025</date>
+      <date>Sep 30, 2025</date>
     </date>
 
     <price>
@@ -38,17 +38,10 @@
     </price>
 
     <changelog>
+      <change>· imprve and make the sleeptimer more intelgince</change>
       <change>· Improved iPad context menu</change>
-      <change>· Improved backing up - much faster and smaller file sizes</change>
-      <change>· Improvements to importing media with multiple thumbnail format support</change>
-      <change>· Fix a possible issue with importing M4A format when it has capitalized characters</change>
-      <change>· Fixes saving thumbnail from download context menu</change>
-      <change>· More improvements to auto-skip short icon</change>
-      <change>· More refinements</change>
-      <change>· Fixes the annoying issue of local network permission being required even though it's enabled</change>
-      <change>· Fixes copy comment</change>
-      <change>· Other fixes and improvements</change>
-      <change>· Updated iPA to YouTube_v20.38</change>
+      <change>· more clean up and improvements</change>
+      <change>· Updated iPA to YouTube_v20.39</change>
     </changelog>
 
 
