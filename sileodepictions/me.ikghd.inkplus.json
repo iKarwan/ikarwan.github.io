@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- fix no scroll reels\n- fixes hide suggested reels and thread and other stuff on feed- but suggested post still visible\n- fixes hide creted tab also may nil reels tab and not loading any content\n- fixes arabic languages on jailbroken devices\n- many improve and cleaning up to the code overall\n- Updated IPA to newer Instagram v400.0",
+                "markdown":"- fixes hide suggested reels posts - threads -Ai and other stuff on feed\n- add hide on live toggle as it was missing in misc\n- fix no scroll reels\n- fixes hide creted tab also may nil reels tab and not loading any content\n- fixes arabic languages on jailbroken devices\n- many improve and cleaning up to the code overall\n- Updated IPA to newer Instagram v400.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.87",
+               "text":"2.4.87.7",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 30, 2025",
+                "text": "Oct 03, 2025",
                 "class": "DepictionTableTextView"
             },
             {
