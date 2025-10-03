@@ -41,7 +41,7 @@
       <change>· fixes hide suggested reels posts - threads -Ai and other stuff on feed</change>
       <change>· add hide on live toggle as it was missing in misc</change>
       <change>· fix no scroll reels</change>
-      <change>· fixes hide creted tab also may nil reels tab and not loading any content</change>
+      <change>· fixes hide creted tab as it may nil reels tab and not loading any content</change>
       <change>· fixes arabic languages on jailbroken devices</change>
       <change>· many improve and cleaning up to the code overall</change>
       <change>· Updated IPA to newer Instagram v400.0</change>
