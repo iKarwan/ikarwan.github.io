@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- Improved backup and restore and making it more smother and less sizes\n- Improved importing media to YTKPlus for audio and video\n- Improved short downloading\n- Improved audio language selection\n- Improved skip-short icons\n- Improved and add more hooks for localnetwork-Casting\n- Improve and make the sleeptimer more intelgince\n- Improved iPad context menu\n- Updated iPA to YouTube_v20.40",
+                "markdown": "- Improved backup and restore and making it more smother and less sizes\n- Improved importing media to YTKPlus for audio and video\n- Improved short downloading\n- Improved audio language selection\n- Improved skip-short icons\n- Improved and add more hooks for localnetwork-Airplay-Casting\n- Improve and make the sleeptimer more intelgince\n- Improved iPad context menu\n- Updated iPA to YouTube_v20.41",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.2.98",
+                "text": "3.2.99",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 07, 2025",
+                "text": "Oct 13, 2025",
                 "class": "DepictionTableTextView"
             },
             {
@@ -223,7 +223,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v19.20 - v20.40",
+                "text": " v19.20 - v20.41",
                 "class": "DepictionTableTextView"
             },
             {
