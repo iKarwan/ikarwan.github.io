@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.2.99</version>
+    <version>3.3.0</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.2.99</version2>
+      <version2>3.3.0</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v19.20 - v20.41</appcomp>
+      <appcomp> v19.20 - v20.42</appcomp>
     </appcomp>
 
     <date>
-      <date>Oct 13, 2025</date>
+      <date>Oct 20, 2025</date>
     </date>
 
     <price>
@@ -38,6 +38,10 @@
     </price>
 
     <changelog>
+      <change>· add gesture control section in settings</change>
+      <change>· add gesture controll for volume</change>
+      <change>· add gesture controll for brightness</change>
+      <change>· add hold to seek</change>
       <change>· Improved backup and restore and making it more smother and less sizes</change>
       <change>· Improved importing media to YTKPlus for audio and video</change>
       <change>· Improved short downloading</change>
@@ -46,7 +50,7 @@
       <change>· Improved and add more hooks for localnetwork-Airplay-Casting</change>
       <change>· Improve and make the sleeptimer more intelgince</change>
       <change>· Improved iPad context menu</change>
-      <change>· Updated iPA to YouTube_v20.41</change>
+      <change>· Updated iPA to YouTube_v20.42</change>
     </changelog>
 
 

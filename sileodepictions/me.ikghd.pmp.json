@@ -70,7 +70,7 @@
                             },
 
                             {
-                                "markdown":"- ensures notification is posted after reading preferences\n- add support for Rootless JB dopamine\n- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
+                                "markdown":"- fixes deb was hidden for rootless version\n- ensures notification is posted after reading preferences\n- add support for Rootless JB dopamine\n- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },

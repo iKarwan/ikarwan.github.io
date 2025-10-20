@@ -35,6 +35,7 @@
         </price>
 
         <changelog>
+          <change>・fixes deb was hidden for rootless version</change>
           <change>・ensures notification is posted after reading preferences</change>
           <change>・add support for Rootless JB dopamine</change>
           <change>・rewritten from scratch</change>

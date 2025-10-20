@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- fixes hide suggested reels posts - threads -Ai and other stuff on feed\n- add hide on live toggle as it was missing in misc\n- fix no scroll reels\n- fixes hide creted tab as it may nil reels tab and not loading any content\n- fixes arabic languages on jailbroken devices\n- many improve and cleaning up to the code overall\n- Updated IPA to newer Instagram v401.0",
+                "markdown":"- add language picker inside the iNKillerPlus settings\n- add a settings Icon to open iNKillerPlus settings in profile tab\n- correct keep deleted message icon position\n- fix copy text in profile and under posts on feed\n- fix eye align icon for stories\n- add more hook to hide suggested reels posts - threads -Ai and other stuff on feed\n- fix no scroll reels\n- fixes hide creted tab as it may nil reels tab and not loading any content\n- fixes arabic languages on jailbroken devices\n- many improve and cleaning up to the code overall\n- Updated IPA to newer Instagram v402.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.89",
+               "text":"2.4.90",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 13, 2025",
+                "text": "Oct 20, 2025",
                 "class": "DepictionTableTextView"
             },
             {
@@ -194,7 +194,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v350.0 - v401.0",
+                "text": " v350.0 - v402.0",
                 "class": "DepictionTableTextView"
             },
             {
