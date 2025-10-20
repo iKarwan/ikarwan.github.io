@@ -43,6 +43,8 @@
       <change>· add gesture controll for volume</change>
       <change>· add gesture controll for brightness</change>
       <change>· add hold to seek</change>
+      <change>· fix save speed playback status</change>
+      <change>· fix save loop toggle status</change>
       <change>· Improved backup and restore and making it more smother and less sizes</change>
       <change>· Improved importing media to YTKPlus for audio and video</change>
       <change>· Improved short downloading</change>
