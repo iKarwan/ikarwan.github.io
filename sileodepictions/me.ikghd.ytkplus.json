@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- add gesture control section in settings\n- add gesture controll for volume\-n add gesture controll for brightness\n- add hold to seek\n- Improved backup and restore and making it more smother and less sizes\n- Improved importing media to YTKPlus for audio and video\n- Improved short downloading\n- Improved audio language selection\n- Improved skip-short icons\n- Improved and add more hooks for localnetwork-Airplay-Casting\n- Improve and make the sleeptimer more intelgince\n- Improved iPad context menu\n- Updated iPA to YouTube_v20.42",
+                "markdown": "- add language picker inside the YTKillerPlus settings\n- add gesture control section in settings\n- add gesture controll for volume\-n add gesture controll for brightness\n- add hold to seek\n- Improved backup and restore and making it more smother and less sizes\n- Improved importing media to YTKPlus for audio and video\n- Improved short downloading\n- Improved audio language selection\n- Improved skip-short icons\n- Improved and add more hooks for localnetwork-Airplay-Casting\n- Improve and make the sleeptimer more intelgince\n- Improved iPad context menu\n- Updated iPA to YouTube_v20.42",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },

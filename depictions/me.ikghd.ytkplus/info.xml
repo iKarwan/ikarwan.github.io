@@ -38,6 +38,7 @@
     </price>
 
     <changelog>
+      <change>· add language picker inside the YTKillerPlus settings</change>
       <change>· add gesture control section in settings</change>
       <change>· add gesture controll for volume</change>
       <change>· add gesture controll for brightness</change>
