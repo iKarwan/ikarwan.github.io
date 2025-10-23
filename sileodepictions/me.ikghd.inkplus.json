@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- add language picker inside the iNKillerPlus settings\n- add a settings Icon to open iNKillerPlus settings in profile tab\n- correct keep deleted message icon position\n- fix copy text in profile and under posts on feed\n- fix eye align icon for stories\n- add more hook to hide suggested reels posts - threads -Ai and other stuff on feed\n- fix no scroll reels\n- fixes hide creted tab as it may nil reels tab and not loading any content\n- fixes arabic languages on jailbroken devices\n- many improve and cleaning up to the code overall\n- Updated IPA to newer Instagram v402.0",
+                "markdown":"- Performance enhancements and bug fixes\n- Modernized buy dashboard with improved user experience\n- add language picker inside the iNKillerPlus settings\n- add a settings Icon to open iNKillerPlus settings in profile tab\n- correct keep deleted message icon position\n- fix copy text in profile and under posts on feed\n- fix eye align icon for stories\n- add more hook to hide suggested reels posts - threads -Ai and other stuff on feed\n- fix no scroll reels\n- fixes hide creted tab as it may nil reels tab and not loading any content\n- fixes arabic languages on jailbroken devices\n- many improve and cleaning up to the code overall\n- Updated IPA to newer Instagram v402.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.90",
+               "text":"2.4.91",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 20, 2025",
+                "text": "Oct 24, 2025",
                 "class": "DepictionTableTextView"
             },
             {
