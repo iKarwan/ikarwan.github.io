@@ -163,7 +163,7 @@
             },
 
             {
-                "markdown": "- add language picker inside the YTKillerPlus settings\n- add gesture control section in settings\n- add gesture controll for volume\-n add gesture controll for brightness\n- add hold to seek\n- fix save speed playback status\n- fix save loop toggle status\n- Improved backup and restore and making it more smother and less sizes\n- Improved importing media to YTKPlus for audio and video\n- Improved short downloading\n- Improved audio language selection\n- Improved skip-short icons\n- Improved and add more hooks for localnetwork-Airplay-Casting\n- Improve and make the sleeptimer more intelgince\n- Improved iPad context menu\n- Updated iPA to YouTube_v20.42",
+                "markdown": "- Introduced modernized logic throughout the codebase for better efficiency and reliability\n- Performance enhancements and bug fixes\n- Optimized YTKPlus library for smooth handling of large media collections\n- Refactored code structure for better maintainability\n- Modernized buy dashboard with improved user experience\n- add language picker inside the YTKillerPlus settings\n- add gesture control section in settings\n- add gesture controll for volume\-n add gesture controll for brightness\n- add hold to seek\n- fix save speed playback status\n- fix save loop toggle status\n- Improved backup and restore and making it more smother and less sizes\n- Improved importing media to YTKPlus for audio and video\n- Improved short downloading\n- Improved audio language selection\n- Improved skip-short icons\n- Improved and add more hooks for localnetwork-Airplay-Casting\n- Improve and make the sleeptimer more intelgince\n- Improved iPad context menu\n- Updated iPA to YouTube_v20.42",
                 "useSpacing": true,
                 "class": "DepictionMarkdownView"
             },
@@ -178,12 +178,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.3.0",
+                "text": "3.3.0.3",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 20, 2025",
+                "text": "Oct 24, 2025",
                 "class": "DepictionTableTextView"
             },
             {
