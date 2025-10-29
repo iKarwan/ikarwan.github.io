@@ -19,18 +19,18 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ictmizxiv.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ictmizxiv.png
 
 Package: me.ikghd.inkplus
-Version: 2.4.92
+Version: 2.4.93
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Conflicts: me.ikghd.instakiller
-Architecture: iphoneos-arm
-Filename: ./debs/me.ikghd.inkplus_2.4.92_iphoneos-arm.deb
-Size: 302566
+Architecture: iphoneos-arm64
+Filename: ./debs/me.ikghd.inkplus_2.4.93_iphoneos-arm64.deb
+Size: 302170
 Installed-Size: 1112
-MD5sum: 0d3aa4a6f1328f1614f91f206b2be994
-SHA1: 7f3a60ebbb44520cef6b83c63f100145ba0fd299
-SHA256: 06b99e36c0bf9e79518b8de48aa82645a3581b7dc395aa4f5cc1ba23c232d898
+MD5sum: 3d66a266e4efd4150f52943f34dc1e67
+SHA1: e96267e2a86a9d20a0db1e56ee9ef92279ef7f8b
+SHA256: 7344d506436390b5b5c1e79f5d10f211ce918270f6e8a677cb9e7e0067d7461e
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -39,18 +39,18 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
 Package: me.ikghd.inkplus
-Version: 2.4.92
+Version: 2.4.93
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Conflicts: me.ikghd.instakiller
-Architecture: iphoneos-arm64
-Filename: ./debs/me.ikghd.inkplus_2.4.92_iphoneos-arm64.deb
-Size: 302452
+Architecture: iphoneos-arm
+Filename: ./debs/me.ikghd.inkplus_2.4.93_iphoneos-arm.deb
+Size: 302262
 Installed-Size: 1112
-MD5sum: 8475c963368b5a58994dabb53521875c
-SHA1: a53fdf8f57d30bc3d8733ae76c8f19d072d76452
-SHA256: 70081868ea819a1108a2d20024b724186f08df023fb361f20a898258401dbb86
+MD5sum: 172ebeace54434514b66ee8c43cfe645
+SHA1: 56e63b5366a9640a1433fa12e302a10f6449c397
+SHA256: fbf54c0a70f7f8d35831fb09f5b11aa93844e7357629b922b1148f00165b3b85
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
