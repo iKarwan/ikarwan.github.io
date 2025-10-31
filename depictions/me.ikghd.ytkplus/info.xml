@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.3.1</version>
+    <version>3.3.2</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.3.1</version2>
+      <version2>3.3.2</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v19.20 - v20.42</appcomp>
+      <appcomp> v19.20 - v20.43</appcomp>
     </appcomp>
 
     <date>
-      <date>Oct 28, 2025</date>
+      <date>Oct 31, 2025</date>
     </date>
 
     <price>
@@ -38,6 +38,8 @@
     </price>
 
     <changelog>
+      <change>· fix shorts icon and fullscreen issue</change>
+      <change>· other fixes and improvements</change>
       <change>· Introduced modernized logic throughout the codebase for better efficiency and reliability</change>
       <change>· Performance enhancements and bug fixes</change>
       <change>· Optimized YTKPlus library for smooth handling of large media collections</change>
@@ -45,7 +47,7 @@
       <change>· Modernized buy dashboard with improved user experience</change>
       <change>· Updated iPA to YouTube_v19.20 for ios 14 with latest tweak version its (RECOMMENDED) to update</change>
       <change>· Updated iPA to YouTube_v20.21 for ios 15 with latest tweak version its (RECOMMENDED) to update</change>
-      <change>· Updated iPA to YouTube_v20.42 for ios 16x with latest tweak version its (RECOMMENDED) to Reinstall again</change>
+      <change>· Updated iPA to YouTube_v20.43 for ios 16x with latest tweak version its (RECOMMENDED) to Reinstall again</change>
       <change></change>
       <change>· add language picker inside the YTKillerPlus settings</change>
       <change>· add gesture control section in settings</change>
