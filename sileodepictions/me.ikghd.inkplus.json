@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- Performance enhancements and bug fixes\n- Modernized buy dashboard with improved user experience\n- add language picker inside the iNKillerPlus settings\n- add a settings Icon to open iNKillerPlus settings in profile tab\n- correct keep deleted message icon position\n- fix copy text in profile and under posts on feed\n- fix eye align icon for stories\n- add more hook to hide suggested reels posts - threads -Ai and other stuff on feed\n- fix no scroll reels\n- fixes hide creted tab as it may nil reels tab and not loading any content\n- fixes arabic languages on jailbroken devices\n- many improve and cleaning up to the code overall\n- Updated IPA to newer Instagram v403.0",
+                "markdown":"- optimization for all icons and long pressing handling\n- optimize reel downloading\n- simplfied the downloading to get best quality available and download it for both video-images & profile image\n- fix stories download for iG v404 and later\n- fix feed download for iG v404 and later\n- fix save profile image for iG v404 and later - u need to pen the profile image and long press it\n- fix hide suggested profiles\n- add fully compatibility for iG v404 and later\n- other Performance enhancements and bug fixes\n- Updated IPA to newer Instagram v403.0",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
@@ -149,12 +149,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.93",
+               "text":"2.4.93.3",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 29, 2025",
+                "text": "Nov 01, 2025",
                 "class": "DepictionTableTextView"
             },
             {
@@ -194,7 +194,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v350.0 - v403.0",
+                "text": " v350.0 - v404.0",
                 "class": "DepictionTableTextView"
             },
             {

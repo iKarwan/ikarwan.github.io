@@ -38,19 +38,16 @@
     </price>
 
     <changelog>
-      <change>· Performance enhancements and bug fixes</change>
-      <change>· Modernized buy dashboard with improved user experience</change>
+      <change>· optimization for all icons and long pressing handling</change>
+      <change>· optimize reel downloading</change>
+      <change>· simplfied the downloading to get best quality available and download it for both video-images &amp; profile image</change>
+      <change>· fix stories download for iG v404 and later</change>
+      <change>· fix feed download for iG v404 and later</change>
+      <change>· fix save profile image for iG v404 and later - u need to pen the profile image and long press it</change>
+      <change>· fix hide suggested profiles</change>
+      <change>· add fully compatibility for iG v404 and later</change>
+      <change>· other Performance enhancements and bug fixes</change>
       <change>· Updated IPA to newer Instagram v403.0</change>
-      <change></change>
-      <change>· add a settings Icon to open iNKillerPlus settings in profile tab</change>
-      <change>· correct keep deleted message icon position</change>
-      <change>· fix copy text in profile and under posts on feed</change>
-      <change>· fix eye align icon for stories</change>
-      <change>· add more hook to hide suggested reels posts - threads -Ai and other stuff on feed</change>
-      <change>· fix no scroll reels</change>
-      <change>· fixes hide creted tab as it may nil reels tab and not loading any content</change>
-      <change>· many improve and cleaning up to the code</change>
-      <change>· Updated IPA to newer Instagram v402.0</change>
     </changelog>
 
 
