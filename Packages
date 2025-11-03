@@ -79,6 +79,25 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
 Package: me.ikghd.inkplus
+Version: 2.4.93.5
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
+Architecture: iphoneos-arm
+Filename: ./debs/me.ikghd.inkplus_2.4.93.5_iphoneos-arm.deb
+Size: 281420
+Installed-Size: 1012
+MD5sum: 72d7dcecd79ec7b897afb02bdd1f8b55
+SHA1: 3f5f1b36151c8a5fa53d3a3acd535a4252b648f3
+SHA256: ddff6e2a68adde9627a0a30e6769f5f959048a553c69fed6fd58b16761f49876
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.inkplus
 Version: 2.4.93
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -91,6 +110,25 @@ Installed-Size: 1112
 MD5sum: 172ebeace54434514b66ee8c43cfe645
 SHA1: 56e63b5366a9640a1433fa12e302a10f6449c397
 SHA256: fbf54c0a70f7f8d35831fb09f5b11aa93844e7357629b922b1148f00165b3b85
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.inkplus
+Version: 2.4.93.5
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
+Architecture: iphoneos-arm64
+Filename: ./debs/me.ikghd.inkplus_2.4.93.5_iphoneos-arm64.deb
+Size: 281390
+Installed-Size: 1012
+MD5sum: ff8138ad0398d2f37bab513827a9f8b5
+SHA1: 6413807fe9f5bdf443a2ace08312d22b1d7d0d09
+SHA256: aa833eafa4a43e747ca5b494f892f3f3357d8f0a2f41debd1d74fbb02a880bf0
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
