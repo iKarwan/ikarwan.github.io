@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown":"- add download dm sended privte videos\n- add screenshot supress for dm media\n- add replay unlimitedly for media in dm\n- optimization for all icons and long pressing handling\n- optimize reel downloading\n- simplfied the downloading to get best quality available and download it for both video-images & profile image\n- fix stories download for iG v404 and later\n- fix feed download for iG v404 and later\n- fix save profile image for iG v404 and later - u need to pen the profile image and long press it\n- fix hide suggested profiles\n- add fully compatibility for iG v404 and later\n- other Performance enhancements and bug fixes\n- Updated IPA to newer Instagram v405.1",
+                "markdown":"- add download dm privte videos\n- add screenshot supress for dm media\n- add replay unlimitedly for media in dm\n- optimization for all icons and long pressing handling\n- optimize reel downloading\n- simplfied the downloading to get best quality available and download it for both video-images & profile image\n- fix stories download for iG v404 and later\n- fix feed download for iG v404 and later\n- fix save profile image for iG v404 and later - u need to pen the profile image and long press it\n- fix hide suggested profiles\n- add fully compatibility for iG v404 and later\n- other Performance enhancements and bug fixes\n- Updated IPA to newer Instagram v405.1",
                 "useSpacing":true,
                 "class":"DepictionMarkdownView"
             },
