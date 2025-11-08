@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.3.3.3</version>
+    <version>3.3.4</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>3.3.3.3</version2>
+      <version2>3.3.4</version2>
     </version2>
 
     <appcomp>
@@ -38,6 +38,7 @@
     </price>
 
     <changelog>
+      <change>· pls always update to latest version as we add enhancements and improvements (RECOMMENDED) as some older version is not supported anymore</change>
       <change>· fully optimization for the code</change>
       <change>· fix shorts icon and fullscreen issue</change>
       <change>· other fixes and improvements</change>
