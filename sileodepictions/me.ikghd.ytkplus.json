@@ -138,8 +138,8 @@
                 "class": "DepictionHeaderView"
             },
             {
-                "markdown": "- Download Video/Audio/Shorts & Images\r\n- Full-speed 🚀 downloads\r\n- Download Manager for managing downloaded items\r\n- Import videos to Photos\r\n- Import videos/audio to YTKPlus library\n- Block all advertisements\r\n- Play in background\r\n- Stream HD videos over 3G/4G/5G\r\n- Customize tab bar layout\r\n- built in sponsorblock \r\n- And many more settings...\n- Supports iPadOS",
-                "title": "markdown-description",
+                "markdown": "• Download videos, audio, Shorts, and post images.<br><br>• Enjoy full-speed 🚀 downloads with a built-in Download Manager.<br><br>• Import videos to Photos or directly into the YTKPlus library.<br><br>• Block all advertisements for a clean experience.<br><br>• Play media in the background.<br><br>• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.<br><br>• Set default playback quality for Wi-Fi and Cellular.<br><br>• Customize or hide tab bar icons and layouts.<br><br>• Includes built-in SponsorBlock integration.<br><br>• Supports iPadOS.<br><br>• And many more settings…",
+                "title": "features",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
                 "useBottomMargin": false
@@ -156,9 +156,11 @@
             },
 
             {
-                "markdown": "- pls always update to latest version as we add enhancements and improvements (RECOMMENDED) as some older version is not supported anymore\n- fully optimization for the code\n- fix shorts icon and fullscreen issue\n- other fixes and improvements\n- Updated iPA to YouTube_v19.20 for ios 14 with latest tweak version its (RECOMMENDED) to update\n- Updated iPA to YouTube_v20.21 for ios 15 with latest tweak version its (RECOMMENDED) to update\n- Updated iPA to newer YouTube v20.44\n- Introduced modernized logic throughout the codebase for better efficiency and reliability\n- Performance enhancements and bug fixes\n- Optimized YTKPlus library for smooth handling of large media collections\n- Refactored code structure for better maintainability\n- Modernized buy dashboard with improved user experience\n- add language picker inside the YTKillerPlus settings\n- add gesture control section in settings\n- add gesture controll for volume\n- add gesture controll for brightness\n- add hold to seek\n- fix save speed playback status\n- fix save loop toggle status\n- Improved backup and restore and making it more smother and less sizes\n- Improved importing media to YTKPlus for audio and video\n- Improved short downloading\n- Improved audio language selection\n- Improved skip-short icons\n- Improved and add more hooks for localnetwork-Airplay-Casting\n- Improve and make the sleeptimer more intelgince\n- Improved iPad context menu\n- Updated iPA to YouTube_v20.42",
-                "useSpacing": true,
-                "class": "DepictionMarkdownView"
+                "markdown": "• Please update to the latest version — includes major enhancements and improvements (RECOMMENDED). Older versions may no longer be supported.<br><br>• Added Español and Kurdish (Sorani) language support, plus an in-app language picker in YTKillerPlus settings.<br><br>• Fixed and optimized all localizations, adding missing translations using AI.<br><br>• Introduced modernized logic and refactored core code for improved performance and reliability.<br><br>• Optimized YTKPlus library for smoother handling of large media collections.<br><br>• Added gesture control section in settings — volume, brightness, and hold-to-seek gestures.<br><br>• Fixed saving of playback speed and loop toggle status.<br><br>• Improved backup and restore for faster, smaller, and smoother operation.<br><br>• Enhanced importing of audio and video media into YTKPlus.<br><br>• Improved Shorts downloading, skip-short icons, and audio language selection.<br><br>• Improved AirPlay and casting features with new hooks.<br><br>• Enhanced iPad context menu and overall UI responsiveness.<br><br>• Updated base IPA to YouTube v20.45 (recommended for all iOS versions).<br><br>• General performance improvements and bug fixes.",
+                "title": "changelog",
+                "useBoldText": true,
+                "class": "DepictionMarkdownView",
+                "useBottomMargin": false
             },
 
             {
@@ -171,12 +173,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.3.4",
+                "text": "3.3.6",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 08, 2025",
+                "text": "Nov 10, 2025",
                 "class": "DepictionTableTextView"
             },
             {
@@ -216,7 +218,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v19.20 - v20.44",
+                "text": " v19.20 - v20.45",
                 "class": "DepictionTableTextView"
             },
             {

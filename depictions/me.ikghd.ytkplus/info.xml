@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.3.4</version>
+    <version>3.3.6</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.3.4</version2>
+      <version2>3.3.6</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v19.20 - v20.44</appcomp>
+      <appcomp> v19.20 - v20.45</appcomp>
     </appcomp>
 
     <date>
-      <date>Nov 08, 2025</date>
+      <date>Nov 10, 2025</date>
     </date>
 
     <price>
@@ -38,35 +38,21 @@
     </price>
 
     <changelog>
-      <change>· pls always update to latest version as we add enhancements and improvements (RECOMMENDED) as some older version is not supported anymore</change>
-      <change>· fully optimization for the code</change>
-      <change>· fix shorts icon and fullscreen issue</change>
-      <change>· other fixes and improvements</change>
-      <change>· Introduced modernized logic throughout the codebase for better efficiency and reliability</change>
-      <change>· Performance enhancements and bug fixes</change>
-      <change>· Optimized YTKPlus library for smooth handling of large media collections</change>
-      <change>· Refactored code structure for better maintainability</change>
-      <change>· Modernized buy dashboard with improved user experience</change>
-      <change>· Updated iPA to YouTube_v19.20 for ios 14 with latest tweak version its (RECOMMENDED) to update</change>
-      <change>· Updated iPA to YouTube_v20.21 for ios 15 with latest tweak version its (RECOMMENDED) to update</change>
-      <change>· Updated iPA to newer YouTube v20.44</change>
-      <change></change>
-      <change>· add language picker inside the YTKillerPlus settings</change>
-      <change>· add gesture control section in settings</change>
-      <change>· add gesture controll for volume</change>
-      <change>· add gesture controll for brightness</change>
-      <change>· add hold to seek</change>
-      <change>· fix save speed playback status</change>
-      <change>· fix save loop toggle status</change>
-      <change>· Improved backup and restore and making it more smother and less sizes</change>
-      <change>· Improved importing media to YTKPlus for audio and video</change>
-      <change>· Improved short downloading</change>
-      <change>· Improved audio language selection</change>
-      <change>· Improved skip-short icons</change>
-      <change>· Improved and add more hooks for localnetwork-Airplay-Casting</change>
-      <change>· Improve and make the sleeptimer more intelgince</change>
-      <change>· Improved iPad context menu</change>
-      <change>· Updated iPA to YouTube_v20.42</change>
+      <change>· Please update to the latest version — includes major enhancements and improvements (RECOMMENDED). Older versions may no longer be supported.</change>
+      <change>· Added Español and Kurdish (Sorani) language support, plus an in-app language picker in YTKillerPlus settings.</change>
+      <change>· Fixed and optimized all localizations, adding missing translations using AI.</change>
+      <change>· Introduced modernized logic and refactored core code structure for improved performance and reliability.</change>
+      <change>· Optimized YTKPlus library for smoother handling of large media collections.</change>
+      <change>· Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.</change>
+      <change>· Fixed saving of playback speed and loop toggle status.</change>
+      <change>· Improved backup and restore for faster, smaller, and smoother operation.</change>
+      <change>· Enhanced importing of audio and video media into YTKPlus.</change>
+      <change>· Improved Shorts downloading and skip-short icons.</change>
+      <change>· Improved audio language selection and AirPlay / casting hooks.</change>
+      <change>· Enhanced iPad context menu and general UI responsiveness.</change>
+      <change>· Updated base IPA to YouTube v20.45 (recommended for all iOS versions).</change>
+      <change>· General performance improvements and bug fixes.</change>
+      <change>· Updated iPA to newer YouTube v20.45</change>
     </changelog>
 
 
@@ -75,23 +61,23 @@
 
     <longdescription><![CDATA[
       <br>
+
       <br>In-App Purchase: $3.99
-      <br>
-      <br>In-App Settings:
-      <br>· Download Video/Audio/Shorts & Images
-      <br>· Full-speed 🚀 download
-      <br>· Download Manager for managing downloaded items
-      <br>· Import videos to Photos
-      <br>· Import videos/audio to YTKPlus library
-      <br>· Block all advertisements
-      <br>· Play in background
-      <br>· Stream HD videos over 3G/4G/5G
-      <br>· Set default quality for WiFi/Cellular
-      <br>· Customize tab bar layout
-      <br>· built in sponsorblock
-      <br>· And many more settings...
-      <br>· Supports iPadOS
-      <br>
+
+      <br><b>In-App Settings:</b>
+      <br>• Download videos, audio, Shorts, and post images.
+      <br>• Enjoy full-speed 🚀 downloads with a built-in Download Manager.
+      <br>• Import videos to Photos or directly into the YTKPlus library.
+      <br>• Block all advertisements for a clean experience.
+      <br>• Play media in the background.
+      <br>• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.
+      <br>• Set default playback quality for Wi-Fi and Cellular.
+      <br>• Customize or hide tab bar icons and layouts.
+      <br>• Includes built-in SponsorBlock integration.
+      <br>• Supports iPadOS.
+      <br>• And many more settings…
+      <br><br>
+
       <br>IPA & TrollStore Version:
       <li>
         <a href="https://github.com/iKarwan/YTKillerPlus">Instructions available here...</a>

@@ -115,7 +115,7 @@
                 "class": "DepictionHeaderView"
             },
             {
-                "markdown": "- To enter the settings, either long press on home button in tabbar or Instagram text logo.\r\n\r\n- Download videos from posts, IGTV, Reels, etc. (HD | SD)\r\n- Save images from posts, stories, and profiles\r\n- Block all promo ads\r\n- Quick seen/unseen stories/DM's button\r\n- Keep unsent messages\r\n- Copy various text like comments, descriptions, bios, etc.\r\n- Various confirmations on like double tap...\r\n- And many more settings",
+                "markdown": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.<br><br>• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).<br><br>• Save images from Posts, Stories, private DMs, and Profiles.<br><br>• Block all promo ads in Feed, Stories, and Reels.<br><br>• Quick Seen/Unseen toggle for Stories and DMs.<br><br>• Ghost Typing mode.<br><br>• Hide tabs like Explore, Reels, and Create.<br><br>• Keep unsent messages.<br><br>• Copy text such as Comments, Descriptions, or Bio.<br><br>• Confirmation prompts before liking, commenting, calling, or reposting.<br><br>• And many more settings...",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -134,9 +134,11 @@
             },
 
             {
-                "markdown":"- pls always update to latest version as we add enhancements and improvements (RECOMMENDED) as some older version is not supported anymore\n- add hide typing... indicator for dm\n- optimize download dm video icon to match our tweak style\n- add a new methode to handle read/seen dm conversation when tap it immediately\n- add a new methode fix for story read/seen icon when taped before was pause the next story video\n- optimize all downloading\n- add download dm privte videos\n- add disable screenshot prevention for dm media\n- add replay unlimitedly for media in dm\n- optimization for all icons and long pressing handling\n- add download dm privte videos\n- add screenshot supress for dm media\n- add replay unlimitedly for media in dm\n- optimization for all icons and long pressing handling\n- optimize reel downloading\n- simplfied the downloading to get best quality available and download it for both video-images & profile image\n- fix stories download for iG v404 and later\n- fix feed download for iG v404 and later\n- fix save profile image for iG v404 and later - u need to pen the profile image and long press it\n- fix hide suggested profiles\n- add fully compatibility for iG v404 and later\n- other Performance enhancements and bug fixes\n- Updated IPA to newer Instagram v405.1",
-                "useSpacing":true,
-                "class":"DepictionMarkdownView"
+                "markdown": "• Please update to the latest version — we’ve added major enhancements and improvements (RECOMMENDED). Some older versions are no longer supported.<br><br>• Added option to disable auto-refresh of the Feed (after time, tap-to-top, or double-tap Home).<br><br>• Added Español language support.<br><br>• Added Kurdish (Sorani) language support.<br><br>• Added option to hide typing… indicator in DM chats.<br><br>• Added new method to handle DM Read/Seen instantly when tapped.<br><br>• Added fix for Story Seen icon not progressing to the next story properly.<br><br>• Added ability to save profile pictures via long-press on opened image.<br><br>• Added option to disable screenshot prevention for DM media.<br><br>• Added unlimited replay for media in DM chats.<br><br>• Separated all download toggles — Feed, Reels, Stories, and DMs now have their own switches.<br><br>• Optimized DM video download icon to match tweak style.<br><br>• Optimized all icons and long-press gesture handling.<br><br>• Simplified downloading for best available quality (videos, images, and profile pictures).<br><br>• Fixed and optimized all localizations; added missing translations via AI.<br><br>• Added full compatibility for Instagram v404 and newer.<br><br>• Performance enhancements and bug fixes.<br><br>• Updated base IPA to Instagram v406.0.",
+                "title": "changelog",
+                "useBoldText": true,
+                "class": "DepictionMarkdownView",
+                "useBottomMargin": false
             },
 
             {
@@ -149,12 +151,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.95",
+               "text":"2.4.97",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 08, 2025",
+                "text": "Nov 10, 2025",
                 "class": "DepictionTableTextView"
             },
             {
@@ -194,7 +196,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v350.0 - v405.0",
+                "text": " v350.0 - v406.0",
                 "class": "DepictionTableTextView"
             },
             {

@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.4.95</version>
+    <version>2.4.97</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>2.4.95</version2>
+      <version2>2.4.97</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v350.0 - v405.1</appcomp>
+      <appcomp> v350.0 - v406.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Nov 08, 2025</date>
+      <date>Nov 10, 2025</date>
     </date>
 
     <price>
@@ -38,26 +38,24 @@
     </price>
 
     <changelog>
-      <change>· pls always update to latest version as we add enhancements and improvements (RECOMMENDED) as some older version is not supported anymore</change>
-      <change>· add hide typing... indicator for dm</change>
-      <change>· optimize download dm video icon to match our tweak style</change>
-      <change>· add a new methode to handle read/seen dm conversation when tap it immediately</change>
-      <change>· add a new methode fix for story read/seen icon when taped before was pause the next story video</change>
-      <change>· optimize all downloading</change>
-      <change>· add download dm privte videos</change>
-      <change>· add disable screenshot prevention for dm media</change>
-      <change>· add replay unlimitedly for media in dm</change>
-      <change>· optimization for all icons and long pressing handling</change>
-      <change></change>
-      <change>· optimize reel downloading</change>
-      <change>· simplfied the downloading to get best quality available and download it for both video-images &amp; profile image</change>
-      <change>· fix stories download for iG v404 and later</change>
-      <change>· fix feed download for iG v404 and later</change>
-      <change>· fix save profile image for iG v404 and later - u need to pen the profile image and long press it</change>
-      <change>· fix hide suggested profiles</change>
-      <change>· add fully compatibility for iG v404 and later</change>
-      <change>· other Performance enhancements and bug fixes</change>
-      <change>· Updated IPA to newer Instagram v405.1</change>
+      <change>· Please update to the latest version — includes major enhancements and improvements (RECOMMENDED). Older versions may no longer be supported.</change>
+      <change>· Added option to disable auto-refresh of the Feed (after idle time, top tap, or double-tap Home).</change>
+      <change>· Added Español language support.</change>
+      <change>· Added Kurdish (Sorani) language support.</change>
+      <change>· Added option to hide the typing… indicator in DM chats.</change>
+      <change>· Improved handling of DM read/seen status — now triggers immediately when opened.</change>
+      <change>· Fixed Story seen icon issue that previously paused the next story.</change>
+      <change>· Added ability to save profile pictures via long-press on opened images.</change>
+      <change>· Added option to disable screenshot prevention for DM media.</change>
+      <change>· Enabled unlimited replay for media in DMs.</change>
+      <change>· Separated download toggles for Feed, Reels, Stories, and DMs for better control.</change>
+      <change>· Optimized DM video download icon to match the tweak’s visual style.</change>
+      <change>· Improved all icons and refined long-press handling.</change>
+      <change>· Simplified the download process for best available quality (videos, images, and profile pictures).</change>
+      <change>· Fixed and optimized localizations, added missing translations using AI.</change>
+      <change>· Added full compatibility with Instagram v404 and later.</change>
+      <change>· General performance improvements and bug fixes.</change>
+      <change>· Updated base IPA to Instagram v406.0.</change>
     </changelog>
 
 
@@ -66,19 +64,23 @@
 
         <longdescription><![CDATA[
             <br>
+
             <br>In App Purchase: $3.99
-            <br>
-            <br>In App Settings:
-            <br>· To enter the settings, either long press on home button in tabbar or Instagram text logo.
-            <br>· Download Video from posts, IGTV, Reels, etc. (HD | SD)
-            <br>· Save Images from posts, Stories, & profiles
-            <br>· Block all promo ads
-            <br>· Quick seen/unseen Stories/DM's button
-            <br>· Keep unsent messages
-            <br>· Copy various text like comments, descriptions, bios, etc.
-            <br>· Various confirmation prompts on double tap likes
-            <br>· And many more settings...
-            <br> <br>
+
+            <br><b>In-App Settings:</b>
+            <br>• To open settings, go to the Profile tab and tap the ⚙️ Gear icon next to your Instagram name — or long-press the Home button / Instagram logo.
+            <br>• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).
+            <br>• Save images from Posts, Stories, private DMs, and Profiles.
+            <br>• Block all promo ads in Feed, Stories, and Reels.
+            <br>• Quick Seen / Unseen toggle for Stories and DMs.
+            <br>• Ghost Typing mode.
+            <br>• Disable screenshot prevention in DMs.
+            <br>• Hide tabs such as Explore, Reels, and Create.
+            <br>• Keep unsent messages visible.
+            <br>• Copy text from Comments, Descriptions, and Bios.
+            <br>• Add confirmation prompts before liking, commenting, calling, or reposting.
+            <br>• And many more customization options...
+            <br><br>
 
             <br>IPA & TrollStore Version?
             <li>
