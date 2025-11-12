@@ -156,7 +156,7 @@
             },
 
             {
-                "markdown": "• Please update to the latest version — includes major enhancements and improvements (RECOMMENDED). Older versions may no longer be supported.\r\n• Added Español and Kurdish (Sorani) language support, plus an in-app language picker in YTKillerPlus settings.\r\n• Fixed and optimized all localizations, adding missing translations using AI.\r\n• Introduced modernized logic and refactored core code for improved performance and reliability.\r\n• Optimized YTKPlus library for smoother handling of large media collections.\r\n• Added gesture control section in settings — volume, brightness, and hold-to-seek gestures.\r\n• Fixed saving of playback speed and loop toggle status.\r\n• Improved backup and restore for faster, smaller, and smoother operation.\r\n• Enhanced importing of audio and video media into YTKPlus.\r\n• Improved Shorts downloading, skip-short icons, and audio language selection.\r\n• Improved AirPlay and casting features with new hooks.\r\n• Enhanced iPad context menu and overall UI responsiveness.\r\n• Updated base IPA to YouTube v20.45 (recommended for all iOS versions).\r\n• General performance improvements and bug fixes.",
+                "markdown": "• an improtant fix for the activation.\r\n- Please update to the latest version — includes major enhancements and improvements (RECOMMENDED). Older versions may no longer be supported.\r\n• Added Español and Kurdish (Sorani) language support, plus an in-app language picker in YTKillerPlus settings.\r\n• Fixed and optimized all localizations, adding missing translations using AI.\r\n• Introduced modernized logic and refactored core code for improved performance and reliability.\r\n• Optimized YTKPlus library for smoother handling of large media collections.\r\n• Added gesture control section in settings — volume, brightness, and hold-to-seek gestures.\r\n• Fixed saving of playback speed and loop toggle status.\r\n• Improved backup and restore for faster, smaller, and smoother operation.\r\n• Enhanced importing of audio and video media into YTKPlus.\r\n• Improved Shorts downloading, skip-short icons, and audio language selection.\r\n• Improved AirPlay and casting features with new hooks.\r\n• Enhanced iPad context menu and overall UI responsiveness.\r\n• Updated base IPA to YouTube v20.45 (recommended for all iOS versions).\r\n• General performance improvements and bug fixes.",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -173,12 +173,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.3.6",
+                "text": "3.3.7",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 11, 2025",
+                "text": "Nov 12, 2025",
                 "class": "DepictionTableTextView"
             },
             {
