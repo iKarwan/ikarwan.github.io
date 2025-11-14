@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.3.7</version>
+    <version>3.3.7.7</version>
     <compatibility>
         <firmware>
             <miniOS>14.0</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>3.3.7</version2>
+      <version2>3.3.7.7</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Nov 12, 2025</date>
+      <date>Nov 14, 2025</date>
     </date>
 
     <price>
@@ -38,6 +38,8 @@
     </price>
 
     <changelog>
+      <change>· add fake location spoofing your location inside the Instagam app.</change>
+      <change>· improve all localizations.</change>
       <change>· an improtant fix for the activation.</change>
       <change>·</change>
       <change>· Please update to the latest version — includes major enhancements and improvements (RECOMMENDED). Older versions may no longer be supported.</change>
@@ -76,6 +78,7 @@
       <br>• Set default playback quality for Wi-Fi and Cellular.
       <br>• Customize or hide tab bar icons and layouts.
       <br>• Includes built-in SponsorBlock integration.
+      <br>• Fake location.
       <br>• And many more settings…
       <br>• Supports iPadOS & Mac with Apple silicon.
       <br><br>
