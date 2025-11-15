@@ -19,6 +19,25 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ictmizxiv.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ictmizxiv.png
 
 Package: me.ikghd.inkplus
+Version: 2.5.1.1
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
+Architecture: iphoneos-arm64
+Filename: ./debs/me.ikghd.inkplus_2.5.1.1_iphoneos-arm64.deb
+Size: 319848
+Installed-Size: 1168
+MD5sum: 75bbc3df164bf523a8eed80fbef69fab
+SHA1: 78bdc881b7d4cc557697034c04927644a0b99b88
+SHA256: 27749625336866493879955a3f595b7f3cd5021c68e970a68f367f97f8e4aa3c
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.inkplus
 Version: 2.5.1
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -49,6 +68,25 @@ Installed-Size: 1120
 MD5sum: 4e0910e3b89231327e2e888eb24f70e3
 SHA1: 90cd1af64c318c3dc40ddca9b9324e477b007bcc
 SHA256: 47cd9b1a3c05cae605bb2e8bc2c3601e4cf848bcbddd44b587d58e3f81b222e9
+Description: a whole new Instagram Experience!
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
+Package: me.ikghd.inkplus
+Version: 2.5.1.1
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
+Architecture: iphoneos-arm
+Filename: ./debs/me.ikghd.inkplus_2.5.1.1_iphoneos-arm.deb
+Size: 320178
+Installed-Size: 1168
+MD5sum: fc2f9a6a02fce80a47e3f8bc291511fd
+SHA1: cfa4aa2284486357def89775a585a5b65c1d9eb1
+SHA256: cf9c7c3d6840b70d991d4e9c362e1d2a092a08c83c70bd6523e7dbb2a2c88d21
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -156,6 +194,25 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
 
 Package: me.ikghd.ytkplus
+Version: 3.3.7.8
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.3)
+Architecture: iphoneos-arm
+Filename: ./debs/me.ikghd.ytkplus_3.3.7.8_iphoneos-arm.deb
+Size: 10286890
+Installed-Size: 25912
+MD5sum: 5e8d68c6e8d87a2ee50d2985ea15c72e
+SHA1: af7700303746909be664076a8c60cfb907eb7d4f
+SHA256: b639be869be98a2b2f5da64d4c565bbfb2626f55bc94eefa3078f415a9c2d7d9
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
+Package: me.ikghd.ytkplus
 Version: 3.3.7
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -205,6 +262,25 @@ Installed-Size: 25904
 MD5sum: f6cb4167012870fa0834b88fecac743c
 SHA1: 12b25c4958b2891963a9b4e4ad5bb4ba280fddb4
 SHA256: eb204b252a4773e2f76384c1561be438b6d6fa479c8855c4bca940a2bea99da1
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
+Package: me.ikghd.ytkplus
+Version: 3.3.7.8
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.3)
+Architecture: iphoneos-arm64
+Filename: ./debs/me.ikghd.ytkplus_3.3.7.8_iphoneos-arm64.deb
+Size: 10286900
+Installed-Size: 25912
+MD5sum: 6413a9f9594fd5f3fa70c2e6fc2f5597
+SHA1: f35c4ac2bcbaed7e6fcfd4354093b3a6925c1a5a
+SHA256: 50a175020bceee9e6857b98199456d53b743c331a7359366ea738f24006b9fb0
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>

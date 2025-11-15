@@ -138,7 +138,7 @@
                 "class": "DepictionHeaderView"
             },
             {
-                "markdown": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS & Mac with Apple silicon.",
+                "markdown": "• fixing a crash on JB\r\n• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS & Mac with Apple silicon.",
                 "title": "features",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -173,12 +173,12 @@
             },
             {
                 "title": "Version",
-                "text": "3.3.7.7",
+                "text": "3.3.7.8",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 14, 2025",
+                "text": "Nov 15, 2025",
                 "class": "DepictionTableTextView"
             },
             {
