@@ -39,6 +39,8 @@
 
     <changelog>
       <change>· add multi media in post download for video and reels, regular image &amp; story not yet.</change>
+      <change>· the multi download includes select all or select in ur choice.</change>
+      <change>· for video includes merge option if u select more then 1 video to merge them and saving it.</change>
       <change>· fixing typing indicators not enabled properly.</change>
       <change>· fixing ipa context may crashes n some cases when entering the settings.</change>
       <change>· enhance and add missing and organize all localization.</change>
