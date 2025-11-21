@@ -151,7 +151,7 @@
             },
             {
                "title":"Version",
-               "text":"2.5.3.5",
+               "text":"2.5.3.9",
                "class":"DepictionTableTextView"
             },
             {
@@ -196,7 +196,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v350.0 - v407.0",
+                "text": " v400.0 - v407.0",
                 "class": "DepictionTableTextView"
             },
             {

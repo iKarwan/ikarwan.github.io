@@ -1,10 +1,10 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.3.9.5</version>
+    <version>3.3.9.9</version>
     <compatibility>
         <firmware>
-            <miniOS>14.0</miniOS>
+            <miniOS>16.0</miniOS>
             <maxiOS>26.x</maxiOS>
         </firmware>
     </compatibility>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>3.3.9.5</version2>
+      <version2>3.3.9.9</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v19.20 - v20.46</appcomp>
+      <appcomp> v20.33.2 - v20.46</appcomp>
     </appcomp>
 
     <date>

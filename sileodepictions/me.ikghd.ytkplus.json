@@ -218,12 +218,12 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v19.20 - v20.46",
+                "text": " v20.33.2 - v20.46",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Compatibility",
-                "text": "iOS & iPadOS 14.0 - 26.x",
+                "text": "iOS & iPadOS 16.0 - 26.x",
                 "class": "DepictionTableTextView"
             },
 
