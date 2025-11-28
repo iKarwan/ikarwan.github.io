@@ -1,10 +1,10 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.3.10</version>
+    <version>3.3.10.3</version>
     <compatibility>
         <firmware>
-            <miniOS>16.0</miniOS>
+            <miniOS>15.1</miniOS>
             <maxiOS>26.x</maxiOS>
         </firmware>
     </compatibility>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>3.3.10</version2>
+      <version2>3.3.10.3</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Nov 25, 2025</date>
+      <date>Nov 28, 2025</date>
     </date>
 
     <price>
@@ -38,6 +38,7 @@
     </price>
 
     <changelog>
+      <change>· 10% off now by using IKG20 via stripe or using paypal checkout. 20% off when paying through crypto.</change>
       <change>· Update to the latest version for major improvements and better performance (recommended). Older versions will no longer be supported. Monthly updates are required to stay optimized.</change>
       <change>· Added Español and Kurdish (Sorani) language support, plus an in-app language picker in YTKillerPlus settings.</change>
       <change>· Fixed and optimized all localizations, adding missing translations using AI.</change>

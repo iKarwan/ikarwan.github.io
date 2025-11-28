@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown": "• Update to the latest version for major improvements and better performance (recommended). Older versions will no longer be supported. Monthly updates are required to stay optimized.\r\n• Added multi-media support in post-download (video + images).\r\n• Added a new DM navbar icon to quickly toggle the typing indicator on/off.\r\n• Added more hooks to hide suggested content on the feed, keeping it cleaner with only images and videos.\r\n• Added option to disable auto-refresh of the Feed (after time, tap-to-top, or double-tap Home).\r\n• Added Español language support.\r\n• Added Kurdish (Sorani) language support.\r\n• Added option to hide typing… indicator in DM chats.\r\n• Added new method to handle DM Read/Seen instantly when tapped.\r\n• Added fix for Story Seen icon not progressing to the next story properly.\r\n• Added ability to save profile pictures via long-press on opened image.\r\n• Added option to disable screenshot prevention for DM media.\r\n• Added unlimited replay for media in DM chats.\r\n• Separated all download toggles — Feed, Reels, Stories, and DMs now have their own switches.\r\n• Optimized DM video download icon to match tweak style.\r\n• Optimized all icons and long-press gesture handling.\r\n• Simplified downloading for best available quality (videos, images, and profile pictures).\r\n• Fixed and optimized all localizations; added missing translations via AI.\r\n• Added full compatibility for Instagram v404 and newer.\r\n• Performance enhancements and bug fixes.\r\n• Updated base IPA to Instagram v408.0.",
+                "markdown": "• 10% off now by using IKG20 via stripe or using paypal checkout. 20% off when paying through crypto.\r\n• All download has been unified.\r\n• Save all now intelligently detect video and images separately.\r\n• Save all now intelligently detect video and images separately.\r\n• Changed the merge library to use an advanced version faster work across all videos.\r\n• Add typing indicator to quickly on/off typing 💬.\r\n• Reduced the long-press delay for feed post.\r\n• Update to the latest version for major improvements and better performance (recommended). Older versions will no longer be supported. Monthly updates are required to stay optimized.\r\n• Added multi-media support in post-download (video + images).\r\n• Added a new DM navbar icon to quickly toggle the typing indicator on/off.\r\n• Added more hooks to hide suggested content on the feed, keeping it cleaner with only images and videos.\r\n• Added option to disable auto-refresh of the Feed (after time, tap-to-top, or double-tap Home).\r\n• Added Español language support.\r\n• Added Kurdish (Sorani) language support.\r\n• Added option to hide typing… indicator in DM chats.\r\n• Added new method to handle DM Read/Seen instantly when tapped.\r\n• Added fix for Story Seen icon not progressing to the next story properly.\r\n• Added ability to save profile pictures via long-press on opened image.\r\n• Added option to disable screenshot prevention for DM media.\r\n• Added unlimited replay for media in DM chats.\r\n• Separated all download toggles — Feed, Reels, Stories, and DMs now have their own switches.\r\n• Optimized DM video download icon to match tweak style.\r\n• Optimized all icons and long-press gesture handling.\r\n• Simplified downloading for best available quality (videos, images, and profile pictures).\r\n• Fixed and optimized all localizations; added missing translations via AI.\r\n• Added full compatibility for Instagram v404 and newer.\r\n• Performance enhancements and bug fixes.\r\n• Updated base IPA to Instagram v408.0.",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -151,12 +151,12 @@
             },
             {
                "title":"Version",
-               "text":"2.5.4",
+               "text":"2.5.4.2",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 25, 2025",
+                "text": "Nov 28, 2025",
                 "class": "DepictionTableTextView"
             },
             {
