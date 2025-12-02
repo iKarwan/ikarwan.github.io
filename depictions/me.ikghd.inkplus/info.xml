@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.5.4.2</version>
+    <version>2.5.5</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>2.5.4.2</version2>
+      <version2>2.5.5</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v400.0 - v408.0</appcomp>
+      <appcomp> v400.0 - v408.1</appcomp>
     </appcomp>
 
     <date>
-      <date>Nov 28, 2025</date>
+      <date>Nov 02, 2025</date>
     </date>
 
     <price>
@@ -39,34 +39,13 @@
 
     <changelog>
       <change>· 10% off now by using IKG20 via stripe or using paypal checkout. 20% off when paying through crypto.</change>
-      <change>· All download has been unified.</change>
-      <change>· Save all now intelligently detect video and images separately.</change>
+      <change>· All download has been unified Feed, Reel, and Story.</change>
       <change>· Save all now intelligently detect video and images separately.</change>
       <change>· Changed the merge library to use an advanced version faster work across all videos.</change>
-      <change>· Add typing indicator to quickly on/off typing 💬.</change>
+      <change>· Add typing indicator icon to quickly on/off typing 💬.</change>
       <change>· Reduced the long-press delay for feed post.</change>
-      <change>·</change>
-      <change>· Update to the latest version for major improvements and better performance (recommended). Older versions will no longer be supported. Monthly updates are required to stay optimized.</change>
-      <change>· Added multi-media support in post-download (video + images).</change>
-      <change>· Added a new DM navbar icon to quickly toggle the typing indicator on/off.</change>
-      <change>· Added more hooks to hide suggested content on the feed, keeping it cleaner with only images and videos.</change>
-      <change>· Added option to disable auto-refresh of the Feed (after idle time, top tap, or double-tap Home).</change>
-      <change>· Added Español language support.</change>
-      <change>· Added Kurdish (Sorani) language support.</change>
-      <change>· Added option to hide the typing… indicator in DM chats.</change>
-      <change>· Improved handling of DM read/seen status — now triggers immediately when opened.</change>
-      <change>· Fixed Story seen icon issue that previously paused the next story.</change>
-      <change>· Added ability to save profile pictures via long-press on opened images.</change>
-      <change>· Added option to disable screenshot prevention for DM media.</change>
-      <change>· Enabled unlimited replay for media in DMs.</change>
-      <change>· Separated download toggles for Feed, Reels, Stories, and DMs for better control.</change>
-      <change>· Optimized DM video download icon to match the tweak’s visual style.</change>
-      <change>· Improved all icons and refined long-press handling.</change>
-      <change>· Simplified the download process for best available quality (videos, images, and profile pictures).</change>
-      <change>· Fixed and optimized localizations, added missing translations using AI.</change>
-      <change>· Added full compatibility with Instagram v404 and later.</change>
       <change>· General performance improvements and bug fixes.</change>
-      <change>· Updated base IPA to Instagram v408.0.</change>
+      <change>· Updated base IPA to Instagram v408.1</change>
     </changelog>
 
 
