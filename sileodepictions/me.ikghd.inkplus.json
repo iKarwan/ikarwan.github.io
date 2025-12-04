@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown": "• 10% off now by using IKG20 via stripe or using paypal checkout. 20% off when paying through crypto.\r\n• All download has been unified Feed, Reel, and Story.\r\n• Save all now intelligently detect video and images separately.\r\n• Changed the merge library to use an advanced version faster work across all videos.\r\n• Add typing indicator icon to quickly on/off typing 💬.\r\n• Reduced the long-press delay for feed post.\r\n• General performance improvements and bug fixes.\r\n• Updated base IPA to Instagram v408.1",
+                "markdown": "• All download has been unified Feed, Reel, and Story.\r\n• Save all now intelligently detect video and images separately.\r\n• Changed the merge library to use an advanced version faster work across all videos.\r\n• Add typing indicator icon to quickly on/off typing 💬.\r\n• Reduced the long-press delay for feed post.\r\n• General performance improvements and bug fixes.\r\n• Updated base IPA to Instagram v408.1",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",

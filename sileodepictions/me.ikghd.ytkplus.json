@@ -156,7 +156,7 @@
             },
 
             {
-                "markdown": "• 10% off now by using IKG20 via stripe or using paypal checkout. 20% off when paying through crypto.\r\n• Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.\r\n• Improved backup and restore for faster, smaller, and smoother operation.\r\n• Enhanced importing of audio and video media into YTKPlus.\r\n• Improved audio language selection and AirPlay / casting hooks.\r\n• Enhanced iPad context menu and general UI responsiveness.\r\n• General performance improvements and bug fixes.\r\n• Updated iPA to newer YouTube v20.48",
+                "markdown": "• Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.\r\n• Improved backup and restore for faster, smaller, and smoother operation.\r\n• Enhanced importing of audio and video media into YTKPlus.\r\n• Improved audio language selection and AirPlay / casting hooks.\r\n• Enhanced iPad context menu and general UI responsiveness.\r\n• General performance improvements and bug fixes.\r\n• Updated iPA to newer YouTube v20.48",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
