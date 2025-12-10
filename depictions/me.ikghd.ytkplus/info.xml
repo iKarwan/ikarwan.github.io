@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>3.3.13</version>
+    <version>4.0.0</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.3.13</version2>
+      <version2>4.0.0</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v20.33.2 - v20.48</appcomp>
+      <appcomp> v20.33.2 - v20.49</appcomp>
     </appcomp>
 
     <date>
-      <date>Dec 07, 2025</date>
+      <date>Dec 10, 2025</date>
     </date>
 
     <price>
@@ -38,12 +38,24 @@
     </price>
 
     <changelog>
+      <change>· Store Notice — Important Update
+Major server changes require you to update within the next 2 weeks:
+
+YTKPlus v4
+
+iNKPlus v3
+
+⚠️ Older versions will stop working completely within 2 weeks to 1 month. Update now to avoid interruption.</change>
+
+<change>· Fix Fake Location Names
+Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.</change>
       <change>· Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.</change>
       <change>· Improved backup and restore for faster, smaller, and smoother operation.</change>
       <change>· Enhanced importing of audio and video media into YTKPlus.</change>
       <change>· Improved audio language selection and AirPlay / casting hooks.</change>
       <change>· Enhanced iPad context menu and general UI responsiveness.</change>
       <change>· General performance improvements and bug fixes.</change>
+      <change>· For any refrences please refer to the FAQ page</change>
       <change>· Updated iPA to newer YouTube v20.48</change>
     </changelog>
 

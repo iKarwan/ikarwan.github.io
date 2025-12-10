@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>2.5.7</version>
+    <version>3.0.0</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>2.5.7</version2>
+      <version2>3.0.0</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v400.0 - v408.1</appcomp>
+      <appcomp> v404.0 - v408.1</appcomp>
     </appcomp>
 
     <date>
-      <date>Dec 07, 2025</date>
+      <date>Dec 10, 2025</date>
     </date>
 
     <price>
@@ -38,12 +38,24 @@
     </price>
 
     <changelog>
+      <change>· Store Notice — Important Update
+      Major server changes require you to update within the next 2 weeks:
+
+      YTKPlus v4
+
+      iNKPlus v3
+
+      ⚠️ Older versions will stop working completely within 2 weeks to 1 month. Update now to avoid interruption.</change>
+
+      <change>· Fix Fake Location Names
+      Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.</change>
       <change>· All download has been unified Feed, Reel, and Story.</change>
       <change>· Save all now intelligently detect video and images separately.</change>
       <change>· Changed the merge library to use an advanced version faster work across all videos.</change>
       <change>· Add typing indicator icon to quickly on/off typing 💬.</change>
       <change>· Reduced the long-press delay for feed post.</change>
       <change>· General performance improvements and bug fixes.</change>
+      <change>· For any refrences please refer to the FAQ page</change>
       <change>· Updated base IPA to Instagram v408.1</change>
     </changelog>
 
