@@ -38,17 +38,9 @@
     </price>
 
     <changelog>
-      <change>· Store Notice — Important Update
-Major server changes require you to update within the next 2 weeks:
-
-YTKPlus v4
-
-iNKPlus v3
-
-⚠️ Older versions will stop working completely within 2 weeks to 1 month. Update now to avoid interruption.</change>
-
-<change>· Fix Fake Location Names
-Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.</change>
+      <change>· add new icon selection to select an icon for youtube app on homescreen</change>
+      <change>· Notice — Important Update Major server changes require you to update within the next 2 weeks: YTKPlus v4 iNKPlus v3 ⚠️ Older versions will stop working completely within 2 weeks to 1 month. Update now to avoid interruption.</change>
+      <change>· Fix Fake Location Names Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.</change>
       <change>· Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.</change>
       <change>· Improved backup and restore for faster, smaller, and smoother operation.</change>
       <change>· Enhanced importing of audio and video media into YTKPlus.</change>
