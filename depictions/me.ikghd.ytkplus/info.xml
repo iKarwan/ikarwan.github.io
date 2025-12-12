@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.0.0</version>
+    <version>4.0.1</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Dec 10, 2025</date>
+      <date>Dec 13, 2025</date>
     </date>
 
     <price>
@@ -38,7 +38,9 @@
     </price>
 
     <changelog>
-      <change>· add new icon selection to select an icon for youtube app on homescreen</change>
+      <change>· add new Icon them selection iPA Only!.</change>
+      <change>· Improvements.</change>
+      <change>·</change>
       <change>· Notice — Important Update Major server changes require you to update within the next 2 weeks: YTKPlus v4 iNKPlus v3 ⚠️ Older versions will stop working completely within 2 weeks to 1 month. Update now to avoid interruption.</change>
       <change>· Fix Fake Location Names Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.</change>
       <change>· Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.</change>
@@ -48,7 +50,7 @@
       <change>· Enhanced iPad context menu and general UI responsiveness.</change>
       <change>· General performance improvements and bug fixes.</change>
       <change>· For any refrences please refer to the FAQ page</change>
-      <change>· Updated iPA to newer YouTube v20.48</change>
+      <change>· Updated iPA to newer YouTube v20.49</change>
     </changelog>
 
 

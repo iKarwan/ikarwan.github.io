@@ -156,7 +156,7 @@
             },
 
             {
-                "markdown": "• add new icon selection to select an icon for youtube app on homescreen.\r\n• Notice — Important Update Major server changes require you to update within the next 2 weeks: YTKPlus v4 iNKPlus v3 ⚠️ Older versions will stop working completely within 2 weeks to 1 month. Update now to avoid interruption.\r\n• Fix Fake Location Names Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.\r\n• Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.\r\n• Improved backup and restore for faster, smaller, and smoother operation.\r\n• Enhanced importing of audio and video media into YTKPlus.\r\n• Improved audio language selection and AirPlay / casting hooks.\r\n• Enhanced iPad context menu and general UI responsiveness.\r\n• General performance improvements and bug fixes.\r\n• For any refrences please refer to the FAQ page.\r\n• Updated iPA to newer YouTube v20.49",
+                "markdown": "• add new Icon them selection iPA Only!.\r\n• Improvements.\r\n• Notice — Important Update Major server changes require you to update within the next 2 weeks: YTKPlus v4 iNKPlus v3 ⚠️ Older versions will stop working completely within 2 weeks to 1 month. Update now to avoid interruption.\r\n• Fix Fake Location Names Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.\r\n• Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.\r\n• Improved backup and restore for faster, smaller, and smoother operation.\r\n• Enhanced importing of audio and video media into YTKPlus.\r\n• Improved audio language selection and AirPlay / casting hooks.\r\n• Enhanced iPad context menu and general UI responsiveness.\r\n• General performance improvements and bug fixes.\r\n• For any refrences please refer to the FAQ page.\r\n• Updated iPA to newer YouTube v20.49",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -173,12 +173,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.0.0",
+                "text": "4.0.1",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Dec 10, 2025",
+                "text": "Dec 13, 2025",
                 "class": "DepictionTableTextView"
             },
             {
