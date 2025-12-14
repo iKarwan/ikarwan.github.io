@@ -70,7 +70,7 @@
                             },
 
                             {
-                                "markdown":"- fixes deb was hidden for rootless version\n- ensures notification is posted after reading preferences\n- add support for Rootless JB dopamine\n- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
+                                "markdown":"- bump version align it with Bigboss\n- fixes deb was hidden for rootless version\n- ensures notification is posted after reading preferences\n- add support for Rootless JB dopamine\n- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
                                 "useSpacing":true,
                                 "class":"DepictionMarkdownView"
                             },
@@ -86,12 +86,12 @@
             },
             {
                "title":"Version",
-               "text":"1.9",
+               "text":"1.12",
                "class":"DepictionTableTextView"
             },
             {
                "title":"Updated",
-               "text":"Feb 28, 2024",
+               "text":"Dec 14, 2025",
                "class":"DepictionTableTextView"
             },
 

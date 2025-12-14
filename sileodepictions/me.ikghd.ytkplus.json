@@ -156,7 +156,7 @@
             },
 
             {
-                "markdown": "• add new Icon them selection iPA Only!.\r\n• Improvements.\r\n• Notice — Important Update Major server changes require you to update within the next 2 weeks: YTKPlus v4 iNKPlus v3 ⚠️ Older versions will stop working completely within 2 weeks to 1 month. Update now to avoid interruption.\r\n• Fix Fake Location Names Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.\r\n• Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.\r\n• Improved backup and restore for faster, smaller, and smoother operation.\r\n• Enhanced importing of audio and video media into YTKPlus.\r\n• Improved audio language selection and AirPlay / casting hooks.\r\n• Enhanced iPad context menu and general UI responsiveness.\r\n• General performance improvements and bug fixes.\r\n• For any refrences please refer to the FAQ page.\r\n• Updated iPA to newer YouTube v20.49",
+                "markdown": "• Important update notice.\r\n• Major server changes require updating to **YTKPlus v4** or **iNKPlus v3** within 2 weeks. Older versions will stop working. Update before **01-01-2026**.\r\n• Fixed icon themes for duplicated apps (YouTube, YouTube 2/3) make sure after bundle youtube add 1,2,3 etc.\r\n• Added additional new app icons.\r\n• Fix Fake Location Names Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.\r\n• Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.\r\n• General performance improvements and bug fixes.\r\n• Updated iPA to newer YouTube v20.50",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -173,12 +173,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.0.1",
+                "text": "4.0.2",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Dec 13, 2025",
+                "text": "Dec 14, 2025",
                 "class": "DepictionTableTextView"
             },
             {
@@ -218,7 +218,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.33.2 - v20.49",
+                "text": " v20.33.2 - v20.50",
                 "class": "DepictionTableTextView"
             },
             {

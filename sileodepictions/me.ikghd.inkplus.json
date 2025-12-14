@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown": "• add v409.1 and higher Compatibility.\r\n• add get a notification in app when a message gets unsend.\r\n• Improvements.\r\n• Notice — Important Update Major server changes require you to update within the next 2 weeks: YTKPlus v4 iNKPlus v3 ⚠️ Older versions will stop working completely within 2 weeks to 1 month. Update now to avoid interruption.\r\n• Fix Fake Location Names Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.\r\n• All download has been unified Feed, Reel, and Story.\r\n• Save all now intelligently detect video and images separately.\r\n• Changed the merge library to use an advanced version faster work across all videos.\r\n• Add typing indicator icon to quickly on/off typing 💬.\r\n• Reduced the long-press delay for feed post.\r\n• General performance improvements and bug fixes.\r\n• For any refrences please refer to the FAQ page.\r\n• Updated base IPA to Instagram v408.1",
+                "markdown": "• Important update notice.\r\n• Major server changes require updating to **YTKPlus v4** or **iNKPlus v3** within 2 weeks. Older versions will stop working. Update before **01-01-2026**.\r\n• Fixed icon themes for duplicated apps (Instagram, Instagram 2/3) make sure after bundle instagram add 1,2,3 etc.\r\n• add v409.1 and higher Compatibility.\r\n• add get a notification in app when a message gets unsend.\r\n• Fix Fake Location Names Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.\r\n• All download has been unified Feed, Reel, and Story. \r\n• Save all now intelligently detect video and images separately.\r\n• Changed the merge library to use an advanced version faster work across all videos.\r\n• Add typing indicator icon to quickly on/off typing 💬.\r\n• General performance improvements and bug fixes.\r\n• Updated base IPA to Instagram v409.1",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -151,12 +151,12 @@
             },
             {
                "title":"Version",
-               "text":"3.0.1",
+               "text":"3.0.2",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Dec 13, 2025",
+                "text": "Dec 14, 2025",
                 "class": "DepictionTableTextView"
             },
             {
