@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.0.3</version>
+    <version>4.1.0</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>4.0.3</version2>
+      <version2>4.1.0</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Dec 16, 2025</date>
+      <date>Dec 18, 2025</date>
     </date>
 
     <price>
@@ -40,6 +40,11 @@
     <changelog>
       <change>· Important update notice.</change>
       <change>· Major server changes require updating to **YTKPlus v4** or **iNKPlus v3** within 2 weeks. Older versions will stop working. Update before **01-01-2026**.</change>
+      <change>· Fixed PiP API issue.</change>
+      <change>· Added a completely new PiP implementation.</change>
+      <change>· Fixed video playback in third-party iOS players (Player, VLC, Infuse).</change>
+      <change>· Major overall improvements and enhancements.</change>
+      <change>·</change>
       <change>· Fixed icon themes for duplicated apps (YouTube, YouTube 2/3) make sure after bundle youtube add 1,2,3 etc.</change>
       <change>· Added additional new app icons.</change>
       <change>·</change>
@@ -124,7 +129,9 @@
       <screenshot>
           <image>5.PNG</image>
       </screenshot>
-
+      <screenshot>
+          <image>6.PNG</image>
+      </screenshot>
       <screenshot>
           <image>7.PNG</image>
       </screenshot>
