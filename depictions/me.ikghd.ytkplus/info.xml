@@ -43,6 +43,7 @@
       <change>· Fixed PiP API issue.</change>
       <change>· Added a completely new PiP implementation.</change>
       <change>· Fixed video playback in third-party iOS players (Player, VLC, Infuse).</change>
+      <change>· add germany Language.</change>
       <change>· Major overall improvements and enhancements.</change>
       <change>·</change>
       <change>· Fixed icon themes for duplicated apps (YouTube, YouTube 2/3) make sure after bundle youtube add 1,2,3 etc.</change>
