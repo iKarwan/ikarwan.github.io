@@ -164,7 +164,7 @@
             },
 
             {
-                "markdown": "• Important update notice.\r\n• Major server changes require updating to **YTKPlus v4** or **iNKPlus v3** within 2 weeks. Older versions will stop working. Update before **01-01-2026**.\r\n• Fixed icon themes for duplicated apps (YouTube, YouTube 2/3) make sure after bundle youtube add 1,2,3 etc.\r\n• Fixed PiP API issue.\r\n• Added a completely new PiP implementation.\r\n• Fixed video playback in third-party iOS players (Player, VLC, Infuse).\r\n• Major overall improvements and enhancements.\r\n• add germany Language.\r\n• Added additional new app icons.\r\n• Fix Fake Location Names Fixed country/place names in fake location feature. Previously, some seas, oceans, or unknown areas showed as “Unknown.” Now, nearby locations display correctly.\r\n• Added full gesture control section in settings — volume, brightness, and hold-to-seek gestures.\r\n• General performance improvements and bug fixes.\r\n• Updated iPA to newer YouTube v20.50",
+                "markdown": "• Important update notice.\r\n• Major server changes require updating to **YTKPlus v4** or **iNKPlus v3** within 2 weeks. Older versions will stop working. Update before **01-01-2026**.\r\n• Fixed PiP API issue.\r\n• Added a completely new PiP implementation.\r\n• Fixed video playback in third-party iOS players (Player, VLC, Infuse).\r\n• Major overall improvements and enhancements.\r\n• add germany Language.\r\n• Updated iPA to newer YouTube v20.50",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -181,7 +181,7 @@
             },
             {
                 "title": "Version",
-                "text": "4.1,0",
+                "text": "4.1,1",
                 "class": "DepictionTableTextView"
             },
             {
