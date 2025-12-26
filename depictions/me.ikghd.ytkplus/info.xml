@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.1.1</version>
+    <version>4.1.2</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>4.1.1</version2>
+      <version2>4.1.2</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Dec 18, 2025</date>
+      <date>Dec 27, 2025</date>
     </date>
 
     <price>
@@ -41,10 +41,12 @@
       <change>· Important update notice.</change>
       <change>· Major server changes require updating to **YTKPlus v4** or **iNKPlus v3** within 2 weeks. Older versions will stop working. Update before **01-01-2026**.</change>
 
-      <change>· Fixed PiP API issue.</change>
-      <change>· Added a completely new PiP implementation.</change>
-      <change>· Fixed video playback in third-party iOS players (Player, VLC, Infuse).</change>
-      <change>· add germany Language.</change>
+      <change>· Improved PiP implementation.</change>
+      <change>· Added audio language selection for Shorts.</change>
+      <change>· Restored preferred audio format selection for downloads (MP3 / M4A).</change>
+      <change>· Improved audio quality with 192k bitrate.</change>
+      <change>· Fixed Shorts progress bar during download.</change>
+      <change>· Increased Shorts download speed by up to 50% with optimized conversion and quality.</change>
       <change>· Major overall improvements and enhancements.</change>
 
       <change>· Updated iPA to newer YouTube v20.50</change>
