@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown": "• Important update notice.\r\n• Major server changes require updating to **YTKPlus v4** or **iNKPlus v3** within 2 weeks. Older versions will stop working. Update before **01-01-2026**.\r\n• All download has been unified Feed, Reel, and Story. \r\n• Save all now intelligently detect video and images separately.\r\n• Add typing indicator icon to quickly on/off typing 💬.\r\n• General performance improvements and bug fixes.\r\n• Updated base IPA to Instagram v409.1",
+                "markdown": "• add expand*save profile picture directly from profile page.\r\n• All download has been unified Feed, Reel, and Story. \r\n• Save all now intelligently detect video and images separately.\r\n• Add typing indicator icon to quickly on/off typing 💬.\r\n• General performance improvements and bug fixes.\r\n• Updated base IPA to Instagram v409.1",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -151,12 +151,12 @@
             },
             {
                "title":"Version",
-               "text":"3.0.5",
+               "text":"3.1.0",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Dec 27, 2025",
+                "text": "Jan 08, 2026",
                 "class": "DepictionTableTextView"
             },
             {
