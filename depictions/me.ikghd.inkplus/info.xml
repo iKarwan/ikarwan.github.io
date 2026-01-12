@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>3.2.0</version>
+    <version>3.3.0</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.2.0</version2>
+      <version2>3.3.0</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v404.0 - v409.1</appcomp>
+      <appcomp> v405.0 - v409.1</appcomp>
     </appcomp>
 
     <date>
-      <date>Jan 08, 2026</date>
+      <date>Jan 12, 2026</date>
     </date>
 
     <price>
@@ -72,7 +72,7 @@
             <br>• Copy text from Comments, Descriptions, and Bios.
             <br>• Add confirmation prompts before liking, commenting, calling, or reposting.
             <br>• And many more customization options...
-            <br>• Supports iPadOS & Mac with Apple silicon.
+            <br>• Supports iPadOS.
             <br><br>
 
             <br>IPA & TrollStore Version:

@@ -146,7 +146,7 @@
                 "class": "DepictionHeaderView"
             },
             {
-                "markdown": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS & Mac with Apple silicon.",
+                "markdown": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
                 "title": "features",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -164,7 +164,7 @@
             },
 
             {
-                "markdown": "• Improved PiP implementation.\r\n• Added audio language selection for Shorts.\r\n• Restored preferred audio format selection for downloads (MP3 / M4A).\r\n• Improved audio quality with 192k bitrate.\r\n• Fixed Shorts progress bar during download.\r\n• Increased Shorts download speed by up to 50% with optimized conversion and quality.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v20.50",
+                "markdown": "• add new icon.\r\n• Improved backup and restore feature.\r\n• Improved importing media to YTKPlus library.\r\n• Updated iPA to newer YouTube v21.02.\r\n• Improved PiP implementation.\r\n• Added audio language selection for Shorts.\r\n• Restored preferred audio format selection for downloads (MP3 / M4A).\r\n• Improved audio quality with 192k bitrate.\r\n• Fixed Shorts progress bar during download.\r\n• Increased Shorts download speed by up to 50% with optimized conversion and quality.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v20.50",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -181,12 +181,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.2,0",
+                "text": "4.3,0",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 08, 2026",
+                "text": "Jan 12, 2026",
                 "class": "DepictionTableTextView"
             },
             {
