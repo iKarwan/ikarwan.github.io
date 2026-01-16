@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown": "• add expand*save profile picture directly from profile page.\r\n• All download has been unified Feed, Reel, and Story. \r\n• Save all now intelligently detect video and images separately.\r\n• Add typing indicator icon to quickly on/off typing 💬.\r\n• General performance improvements and bug fixes.\r\n• Updated base IPA to Instagram v409.1",
+                "markdown": "• add profile picture expand & save directly from profile page.\r\n• add compatibility for v410 and higher.\r\n• add exception feature for story and DM users (long-press on eye button).\r\n• exception users will be marked as seen automatically.\r\n• fix notification to show username and message when unsent.\r\n• add unsent message log section in message settings.\r\n• add toggle to disable notification when message is unsent.\r\n• All downloads have been unified for Feed, Reel, and Story.\r\n• Save All now intelligently detects videos and images separately.\r\n• Add typing indicator icon to quickly toggle typing on/off 💬.\r\n• General performance improvements and bug fixes.\r\n• Updated base IPA to Instagram v409.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -151,12 +151,12 @@
             },
             {
                "title":"Version",
-               "text":"3.3.1",
+               "text":"3.3.2",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 12, 2026",
+                "text": "Jan 17, 2026",
                 "class": "DepictionTableTextView"
             },
             {
