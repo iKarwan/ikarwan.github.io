@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>3.3.2</version>
+    <version>3.3.3</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.3.2</version2>
+      <version2>3.3.3</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.0 - v412.0</appcomp>
+      <appcomp> v409.1 - v412.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Jan 17, 2026</date>
+      <date>Jan 18, 2026</date>
     </date>
 
     <price>
@@ -46,6 +46,9 @@
       <change>· add unsent message log section in message settings.</change>
       <change>· add toggle to disable notification when message is unsent.</change>
       <change>· general performance improvements and bug fixes.</change>
+      <change>· it's recommended to use v412 for best performance.</change>
+      <change>· for ios 15 to 16.3 iG dropped this version support best version is v411.</change>
+      <change>· Updated base IPA to Instagram v412.0</change>
       <change>.</change>
 
       <change>· All download has been unified Feed, Reel, and Story.</change>

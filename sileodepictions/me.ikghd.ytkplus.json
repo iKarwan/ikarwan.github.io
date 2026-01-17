@@ -181,12 +181,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.3,2",
+                "text": "4.3,3",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 17, 2026",
+                "text": "Jan 18, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -226,7 +226,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.33.2 - v20.50",
+                "text": " v20.41.2 - v20.50",
                 "class": "DepictionTableTextView"
             },
             {

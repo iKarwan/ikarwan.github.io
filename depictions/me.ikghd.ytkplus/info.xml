@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.3.2</version>
+    <version>4.3.3</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>4.3.2</version2>
+      <version2>4.3.3</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v20.33.2 - v21.02</appcomp>
+      <appcomp> v20.41.2 - v21.02</appcomp>
     </appcomp>
 
     <date>
-      <date>Jan 17, 2026</date>
+      <date>Jan 18, 2026</date>
     </date>
 
     <price>
