@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>3.3.4</version>
+    <version>3.4.0</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.3.4</version2>
+      <version2>3.4.0</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v412.0</appcomp>
+      <appcomp> v409.1 - v413.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Jan 18, 2026</date>
+      <date>Jan 22, 2026</date>
     </date>
 
     <price>
@@ -38,25 +38,12 @@
     </price>
 
     <changelog>
+      <change>· add missing Localization.</change>
       <change>· add profile picture expand &amp; save directly from the profile page.</change>
-      <change>· add compatibility for v410 and higher.</change>
       <change>· add exception feature for story and DM users (long-press on eye button).</change>
       <change>· exception users will be marked as seen automatically.</change>
-      <change>· fix notification to show username and message when unsent.</change>
-      <change>· add unsent message log section in message settings.</change>
-      <change>· add toggle to disable notification when message is unsent.</change>
-      <change>· general performance improvements and bug fixes.</change>
-      <change>· it's recommended to use v412 for best performance.</change>
-      <change>· for ios 15 to 16.3 iG dropped this version support best version is v411.</change>
-      <change>· Updated base IPA to Instagram v412.0</change>
-      <change>.</change>
 
-      <change>· All download has been unified Feed, Reel, and Story.</change>
-      <change>· Save all now intelligently detect video and images separately.</change>
-      <change>· Add typing indicator icon to quickly on/off typing 💬.</change>
-      <change>· General performance improvements and bug fixes.</change>
-
-      <change>· Updated base IPA to Instagram v409.1</change>
+      <change>· Updated base IPA to Instagram v413.0</change>
     </changelog>
 
 

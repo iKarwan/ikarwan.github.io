@@ -17,23 +17,23 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "iKarwan",
             "subtitle": "A whole new YouTube experience!",
-            "version": "21.02.3",
+            "version": "21.03.2",
             "versions": [
                 {
-                    "version": "21.02.3",
-                    "date": "2026-01-18",
-                    "localizedDescription": "• add new icon.\r\n• Improved backup and restore feature.\r\n• Improved importing media to YTKPlus library.\r\n• Updated iPA to newer YouTube v21.02.\r\n• Improved PiP implementation.\r\n• Added audio language selection for Shorts.\r\n• Restored preferred audio format selection for downloads (MP3 / M4A).\r\n• Improved audio quality with 192k bitrate.\r\n• Fixed Shorts progress bar during download.\r\n• Increased Shorts download speed by up to 50% with optimized conversion and quality.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v20.50",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.02_YTKillerPlus_4.3.4.ipa",
-                    "size": 126819558,
+                    "version": "21.03.2",
+                    "date": "2026-01-22",
+                    "localizedDescription": "• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.03",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.03_YTKillerPlus_4.4.0.ipa",
+                    "size": 127156946,
                     "minOSVersion": "16.0"
                 }
             ],
-            "versionDate": "2026-01-18",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.02_YTKillerPlus_4.3.4.ipa",
+            "versionDate": "2026-01-22",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.03_YTKillerPlus_4.4.0.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 126819558,
+            "size": 127156946,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
@@ -76,23 +76,23 @@
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "iKarwan",
             "subtitle": "A whole new Instagram experience!",
-            "version": "412.0.0",
+            "version": "413.0.0",
             "versions": [
                 {
-                    "version": "412.0.0",
-                    "date": "2026-01-18",
-                    "localizedDescription": "• add profile picture expand & save directly from profile page.\r\n• add compatibility for v410 and higher.\r\n• add exception feature for story and DM users (long-press on eye button).\r\n• exception users will be marked as seen automatically.\r\n• fix notification to show username and message when unsent.\r\n• add unsent message log section in message settings.\r\n• add toggle to disable notification when message is unsent.\r\n• it's recommended to use v412 for best performance.\r\n• for ios 15 to 16.3 iG dropped this version support best version is v411.\r\n• Updated base IPA to Instagram v412.0",
-                    "downloadURL": "https://ikghd.site/ipa/Instagram_412.0_iNKillerPlus_3.3.4.ipa",
-                    "size": 201588664,
-                    "minOSVersion": "16.1"
+                    "version": "413.0.0",
+                    "date": "2026-01-22",
+                    "localizedDescription": "• add missing Localization.\r\n• add profile picture expand & save directly from profile page.\r\n• add exception feature for story and DM users (long-press on eye button).\r\n• exception users will be marked as seen automatically.\r\n• Updated base IPA to Instagram v413.0",
+                    "downloadURL": "https://ikghd.site/ipa/Instagram_413.0_iNKillerPlus_3.4.0.ipa",
+                    "size": 203158745,
+                    "minOSVersion": "16.3"
                 }
             ],
-            "versionDate": "2026-01-18",
-            "downloadURL": "https://ikghd.site/ipa/Instagram_412.0_iNKillerPlus_3.3.4.ipa",
+            "versionDate": "2026-01-22",
+            "downloadURL": "https://ikghd.site/ipa/Instagram_413.0_iNKillerPlus_3.4.0.ipa",
             "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages.\r\n• Icon theme change.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.inkplus.png",
             "tintColor": "ff7c9f",
-            "size": 201588664,
+            "size": 203158745,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",

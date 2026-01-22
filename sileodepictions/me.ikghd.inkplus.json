@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown": "• add profile picture expand & save directly from profile page.\r\n• add compatibility for v410 and higher.\r\n• add exception feature for story and DM users (long-press on eye button).\r\n• exception users will be marked as seen automatically.\r\n• fix notification to show username and message when unsent.\r\n• add unsent message log section in message settings.\r\n• add toggle to disable notification when message is unsent.\r\n• it's recommended to use v412 for best performance.\r\n• for ios 15 to 16.3 iG dropped this version support best version is v411.\r\n• Updated base IPA to Instagram v412.0",
+                "markdown": "• add missing Localization.\r\n• add profile picture expand & save directly from profile page.\r\n• add exception feature for story and DM users (long-press on eye button).\r\n• exception users will be marked as seen automatically.\r\n• Updated base IPA to Instagram v413.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -151,12 +151,12 @@
             },
             {
                "title":"Version",
-               "text":"3.3.4",
+               "text":"3.4.0",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 18, 2026",
+                "text": "Jan 22, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -196,7 +196,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v412.0",
+                "text": " v409.1 - v413.0",
                 "class": "DepictionTableTextView"
             },
             {
