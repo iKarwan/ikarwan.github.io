@@ -146,7 +146,7 @@
                 "class": "DepictionHeaderView"
             },
             {
-                "markdown": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
+                "markdown": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device 15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
                 "title": "features",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
