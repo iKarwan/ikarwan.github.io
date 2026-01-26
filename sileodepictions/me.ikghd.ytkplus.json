@@ -181,12 +181,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.4,0",
+                "text": "4.4,1",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 22, 2026",
+                "text": "Jan 26, 2026",
                 "class": "DepictionTableTextView"
             },
             {
