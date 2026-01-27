@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.4.1</version>
+    <version>4.4.1.4</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>4.4.1</version2>
+      <version2>4.4.1.4</version2>
     </version2>
 
     <appcomp>
@@ -63,7 +63,7 @@
       <br>• Streaming and downloading 2k-4k videos on Supported Device 15 and later.
       <br>• Set default playback quality for Wi-Fi and Cellular.
       <br>• Customize or hide tab bar icons and layouts.
-      <br>• Includes built-in SponsorBlock integration.
+      <br>• Includes built-in SponsorBlock integration (FREE).
       <br>• Picture in Picture (PiP).
       <br>• Fake location.
       <br>• And many more settings…
