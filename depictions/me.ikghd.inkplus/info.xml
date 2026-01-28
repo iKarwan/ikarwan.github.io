@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>3.4.0</version>
+    <version>3.4.2</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>3.4.0</version2>
+      <version2>3.4.2</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Jan 22, 2026</date>
+      <date>Jan 28, 2026</date>
     </date>
 
     <price>
@@ -43,7 +43,7 @@
       <change>· add exception feature for story and DM users (long-press on eye button).</change>
       <change>· exception users will be marked as seen automatically.</change>
 
-      <change>· Updated base IPA to Instagram v413.0</change>
+      <change>· Updated base IPA to Instagram v414.0</change>
     </changelog>
 
 

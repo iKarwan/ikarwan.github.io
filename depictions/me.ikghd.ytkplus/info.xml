@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.4.1.4</version>
+    <version>4.4.2</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>4.4.1.4</version2>
+      <version2>4.4.2</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v20.21.2 - v21.03</appcomp>
+      <appcomp> v20.20.2 - v21.04</appcomp>
     </appcomp>
 
     <date>
-      <date>Jan 26, 2026</date>
+      <date>Jan 28, 2026</date>
     </date>
 
     <price>
@@ -41,7 +41,7 @@
       <change>· add missing Localization.</change>
       <change>· Major overall improvements and enhancements.</change>
 
-      <change>· Updated iPA to newer YouTube v21.03</change>
+      <change>· Updated iPA to newer YouTube v21.04</change>
     </changelog>
 
 

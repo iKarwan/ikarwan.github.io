@@ -164,7 +164,7 @@
             },
 
             {
-                "markdown": "• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.03",
+                "markdown": "• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.04",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -181,12 +181,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.4.1.4",
+                "text": "4.4.2",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 26, 2026",
+                "text": "Jan 28, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -226,7 +226,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.21.2 - v21.03",
+                "text": " v20.20.2 - v21.04",
                 "class": "DepictionTableTextView"
             },
             {
