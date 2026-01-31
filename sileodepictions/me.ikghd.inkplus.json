@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown": "• add missing Localization.\r\n• add profile picture expand & save directly from profile page.\r\n• add exception feature for story and DM users (long-press on eye button).\r\n• exception users will be marked as seen automatically.\r\n• Updated base IPA to Instagram v414.0",
+                "markdown": "• this version may require authnticated again with ur email and key due to internal api changes! pls after authnticate open settings and apply changes with the apply button.\r\n• add missing Localization.\r\n• add profile picture expand & save directly from profile page.\r\n• add exception feature for story and DM users (long-press on eye button).\r\n• exception users will be marked as seen automatically.\r\n• Updated base IPA to Instagram v414.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -151,12 +151,12 @@
             },
             {
                "title":"Version",
-               "text":"3.4.2",
+               "text":"3.4.3",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jan 28, 2026",
+                "text": "Feb 01, 2026",
                 "class": "DepictionTableTextView"
             },
             {

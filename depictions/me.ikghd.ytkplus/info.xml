@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.4.2</version>
+    <version>4.4.3</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>4.4.2</version2>
+      <version2>4.4.3</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Jan 28, 2026</date>
+      <date>Feb 01, 2026</date>
     </date>
 
     <price>
@@ -38,6 +38,9 @@
     </price>
 
     <changelog>
+      <change>· add showing HDR videos for streming and downloading on supported device iP15 and above.</change>
+      <change>· fixes backup restore to handle with the new implementation backuping backup.</change>
+      <change>· this version may require authnticated again with ur email and key due to internal api changes! pls after authnticate open settings and apply changes with the apply button.</change>
       <change>· add missing Localization.</change>
       <change>· Major overall improvements and enhancements.</change>
 
