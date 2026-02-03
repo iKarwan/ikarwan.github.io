@@ -164,7 +164,7 @@
             },
 
             {
-                "markdown": "• add showing HDR videos for streming and downloading on supported device iP15 and above.\r\n• fixes backup restore to handle with the new implementation backuping backup.\r\n• this version may require authnticated again with ur email and key due to internal api changes! pls after authnticate open settings and apply changes with the apply button.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.04",
+                "markdown": "• add showing HDR videos for streming and downloading on supported device iP15 and above.\r\n• fixes backup restore to handle with the new implementation backuping backup.\r\n• this version may require authnticated again with ur email and key due to internal api changes! pls after authnticate open settings and apply changes with the apply button.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.05",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -181,12 +181,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.4.4",
+                "text": "4.4.5",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Feb 01, 2026",
+                "text": "Feb 03, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -226,7 +226,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.04",
+                "text": " v20.20.2 - v21.05",
                 "class": "DepictionTableTextView"
             },
             {
