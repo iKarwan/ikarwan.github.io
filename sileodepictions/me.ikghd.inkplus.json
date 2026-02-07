@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown": "• add missing Localization.\r\n• add profile picture expand & save directly from profile page.\r\n• add exception feature for story and DM users (long-press on eye button).\r\n• exception users will be marked as seen automatically.\r\n• Updated base IPA to Instagram v414.0",
+                "markdown": "• add show mentioned user in story add @ button.\r\n• add hide on live watch live broadcast anonymously.\r\n• add hide live broadcast Comments.\r\n• add pick video as sticker in publish when selecting photo from gallery.\r\n• enhancements to exception user add and remove in both DM and Story.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v414.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -151,12 +151,12 @@
             },
             {
                "title":"Version",
-               "text":"3.4.6",
+               "text":"3.4.7",
                "class":"DepictionTableTextView"
             },
-            {
+            {a
                 "title": "Updated",
-                "text": "Feb 03, 2026",
+                "text": "Feb 07, 2026",
                 "class": "DepictionTableTextView"
             },
             {

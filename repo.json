@@ -21,19 +21,19 @@
             "versions": [
                 {
                     "version": "21.05.3",
-                    "date": "2026-02-03",
+                    "date": "2026-07-03",
                     "localizedDescription": "• add showing HDR videos for streming and downloading on supported device iP15 and above.\r\n• improve volume and brightness gestures.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.05",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.05_YTKillerPlus_4.4.6.ipa",
-                    "size": 126923305,
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.05_YTKillerPlus_4.4.7.ipa",
+                    "size": 126923618,
                     "minOSVersion": "16.0"
                 }
             ],
-            "versionDate": "2026-02-03",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.05_YTKillerPlus_4.4.6.ipa",
+            "versionDate": "2026-07-03",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.05_YTKillerPlus_4.4.7.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device 15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration (FREE).\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 126923305,
+            "size": 126923618,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
@@ -80,19 +80,19 @@
             "versions": [
                 {
                     "version": "414.0.0",
-                    "date": "2026-02-03",
-                    "localizedDescription": "• add missing Localization.\r\n• add profile picture expand & save directly from profile page.\r\n• add exception feature for story and DM users (long-press on eye button).\r\n• exception users will be marked as seen automatically.\r\n• Updated base IPA to Instagram v414.0",
-                    "downloadURL": "https://ikghd.site/ipa/Instagram_414.0_iNKillerPlus_3.4.6.ipa",
-                    "size": 201663694,
+                    "date": "2026-07-03",
+                    "localizedDescription": "• add show mentioned user in story add @ button.\r\n• add hide on live watch live broadcast anonymously.\r\n• add hide live broadcast Comments.\r\n• add pick video as sticker in publish when selecting photo from gallery.\r\n• enhancements to exception user add and remove in both DM and Story.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v414.0",
+                    "downloadURL": "https://ikghd.site/ipa/Instagram_414.0_iNKillerPlus_3.4.7.ipa",
+                    "size": 201697618,
                     "minOSVersion": "16.3"
                 }
             ],
-            "versionDate": "2026-02-03",
-            "downloadURL": "https://ikghd.site/ipa/Instagram_414.0_iNKillerPlus_3.4.6.ipa",
+            "versionDate": "2026-07-03",
+            "downloadURL": "https://ikghd.site/ipa/Instagram_414.0_iNKillerPlus_3.4.7.ipa",
             "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages.\r\n• Icon theme change.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.inkplus.png",
             "tintColor": "ff7c9f",
-            "size": 201663694,
+            "size": 201697618,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",
