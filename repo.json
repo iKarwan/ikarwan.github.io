@@ -17,23 +17,23 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "iKarwan",
             "subtitle": "A whole new YouTube experience!",
-            "version": "21.05.3",
+            "version": "21.06.2",
             "versions": [
                 {
-                    "version": "21.05.3",
+                    "version": "21.06.2",
                     "date": "2026-02-07",
-                    "localizedDescription": "• add showing HDR videos for streming and downloading on supported device iP15 and above.\r\n• improve volume and brightness gestures.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.05",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.05_YTKillerPlus_4.4.7.ipa",
-                    "size": 126923618,
+                    "localizedDescription": "• improve volume and brightness gestures.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.06",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.06_YTKillerPlus_4.4.8.ipa",
+                    "size": 127264903,
                     "minOSVersion": "16.0"
                 }
             ],
             "versionDate": "2026-02-07",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.05_YTKillerPlus_4.4.7.ipa",
-            "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device 15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration (FREE).\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.06_YTKillerPlus_4.4.8.ipa",
+            "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration (FREE).\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 126923618,
+            "size": 127264903,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",

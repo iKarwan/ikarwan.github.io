@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.4.7</version>
+    <version>4.4.8</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>4.4.7</version2>
+      <version2>4.4.8</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v20.20.2 - v21.05</appcomp>
+      <appcomp> v20.20.2 - v21.06</appcomp>
     </appcomp>
 
     <date>
-      <date>Feb 07, 2026</date>
+      <date>Feb 09, 2026</date>
     </date>
 
     <price>
@@ -38,12 +38,11 @@
     </price>
 
     <changelog>
-      <change>· add showing HDR videos for streming and downloading on supported device iP15 and above.</change>
-      <change>· fixes backup restore to handle with the new implementation backuping backup.</change>
       <change>· improve volume and brightness gestures.</change>
+      <change>· fixes backup restore to handle with the new implementation backuping backup.</change>
       <change>· Major overall improvements and enhancements.</change>
 
-      <change>· Updated iPA to newer YouTube v21.05</change>
+      <change>· Updated iPA to newer YouTube v21.06</change>
     </changelog>
 
 
@@ -62,7 +61,7 @@
       <br>• Block all advertisements for a clean experience.
       <br>• Play media in the background.
       <br>• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.
-      <br>• Streaming and downloading 2k-4k videos on Supported Device 15 and later.
+      <br>• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.
       <br>• Set default playback quality for Wi-Fi and Cellular.
       <br>• Customize or hide tab bar icons and layouts.
       <br>• Includes built-in SponsorBlock integration (FREE).
