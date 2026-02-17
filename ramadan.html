@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>iKarwan Repo</title>
+    <link rel="shortcut icon" type="image/ico" href="assets/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <style>
+        :root {
+            --primary-color: #6d7c9b;
+            --secondary-color: #eaeaea;
+            --text-color: #333;
+            --bg-color: #f9f9f9;
+            --card-bg: #ffffff;
+            --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary-color: #8c9eba;
+                --secondary-color: #2a2a2a;
+                --text-color: #eaeaea;
+                --bg-color: #121212;
+                --card-bg: #1e1e1e;
+                --shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
+            }
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+          text-align: center;
+          margin-bottom: 20px;
+      }
+
+        .header {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          margin-bottom: 20px;
+      }
+
+      .logo {
+          display: block;
+          width: 100px;
+          height:100px;
+          margin: 20px auto 10px;
+          border-radius: 50%;
+          background-size: cover;
+          background-image: url('https://avatars.githubusercontent.com/u/4871622?v=4');
+      }
+
+      .repo-title {
+          color: #fc9530;
+          margin: 10px 0;
+          font-size: 24px;
+      }
+
+        .repo-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+
+        .repo-button {
+            padding: 10px 10px;
+            font-size: 16px;
+            font-weight: none;
+            text-decoration: none;
+            color: var(--primary-color);
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+
+        .repo-button:hover {
+            background-color: var(--primary-color);
+            color: var(--secondary-color);
+        }
+
+        .projects {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+        }
+
+        .project {
+            background-color: var(--card-bg);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: var(--shadow);
+            transition: transform 0.3s ease;
+            text-decoration: none;
+            color: var(--text-color);
+        }
+
+        .project:hover {
+            transform: translateY(-5px);
+        }
+
+        .project img {
+            width: 100%;
+            height: 180px;
+            object-fit: cover;
+        }
+
+        .project-info {
+            padding: 20px;
+        }
+
+        .project-name {
+            font-size: 20px;
+            font-weight: bold;
+            color: var(--primary-color);
+            margin-bottom: 10px;
+        }
+
+        .project-description {
+            font-size: 14px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 20px 0;
+            font-size: 14px;
+            color: var(--text-color);
+        }
+
+        #repoFooterLinks {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 5px;
+        }
+
+        #repoFooterLinks a {
+            color: var(--primary-color);
+            font-size: 24px;
+            transition: color 0.3s ease;
+        }
+
+        #repoFooterLinks a:hover {
+            color: var(--secondary-color);
+        }
+
+        @media (max-width: 768px) {
+            .projects {
+                grid-template-columns: 1fr;
+            }
+
+            .repo-buttons {
+                flex-wrap: wrap;
+            }
+
+            .repo-button {
+                flex: 1 1 40%;
+                min-width: 120px;
+            }
+
+            #repoFooterLinks a {
+                margin-right: 10px;
+                font-size: 20px;
+            }
+
+            #repoFooterLinks a:last-child {
+                margin-right: 0;
+            }
+        }
+
+        @media (max-width: 480px) {
+            #repoFooterLinks {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            #repoFooterLinks a {
+                margin: 5px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+      <header>
+          <div class="header">
+              <div class="logo"></div>
+              <h1 class="repo-title">iKG's Workspace</h1>
+          </div>
+          <div id="repoFooterLinks"></div>
+          <div class="repo-buttons">
+              <a href="sileo://source/https://repo.ikghd.me/" class="repo-button">
+                  <i class="fas fa-plus"></i> Sileo
+              </a>
+              <a href="zbra://sources/add/https://repo.ikghd.me/" class="repo-button">
+                  <i class="fas fa-plus"></i> Zebra
+              </a>
+          </div>
+      </header>
+
+        <div class="projects">
+            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus" class="project">
+                <img src="assets/icons/me.ikghd.ytkplus.png" alt="YTKillerPlus">
+                <div class="project-info">
+                    <div class="project-name">YTKillerPlus</div>
+                    <div class="project-description">A whole new YouTube experience</div>
+                </div>
+            </a>
+
+            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus" class="project">
+                <img src="assets/icons/me.ikghd.inkplus.png" alt="iNKillerPlus">
+                <div class="project-info">
+                    <div class="project-name">iNKillerPlus</div>
+                    <div class="project-description">A whole new Instagram experience</div>
+                </div>
+            </a>
+
+            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ictmizxiv" class="project">
+                <img src="assets/icons/me.ikghd.ictmizxiv.png" alt="iCTMiZ XiV">
+                <div class="project-info">
+                    <div class="project-name">iCTMiZ XiV</div>
+                    <div class="project-description">Contains over 250+ features!</div>
+                </div>
+            </a>
+
+            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.pmp" class="project">
+                <img src="assets/icons/me.ikghd.pmp.png" alt="PMP">
+                <div class="project-info">
+                    <div class="project-name">PMP</div>
+                    <div class="project-description">"PMP" Protect My Photos!</div>
+                </div>
+            </a>
+        </div>
+
+        <footer>
+            <div id="repoFooterLinks"></div>
+            &copy; 2026 ‣iKarwan
+        </footer>
+    </div>
+
+    <script type="text/javascript">
+        function setAnchorTargets() {
+            if (navigator.userAgent.search(/Cydia/) != -1) {
+                $("a").each(function() {
+                    $(this).attr("target","_blank");
+                });
+            }
+        }
+
+        var repoContents = {
+            "#repoFooterLinks" : {
+                "type":"custom",
+                "source":"repo>footerlinks>link",
+                "render":function(element,source) {
+                    $.each(source, function(index,data) {
+                        var a = $("<a>");
+                        a.attr("href",$(data).find('url').text());
+                        if ($(data).find('iconclass').length) {
+                            var i = $("<i>");
+                            i.attr("class", $(data).find('iconclass').text());
+                            a.append(i);
+                        }
+                        $(element).append(a);
+                    });
+                }
+            }
+        }
+
+        $(document).ready(function() {
+            $.ajax({
+                type: "GET",
+                dataType: "xml",
+                url: "repo.xml",
+                cache: false,
+                success: function(xml) {
+                    data_loader_engine(repoContents, xml);
+                    setAnchorTargets();
+                },
+                error: function(jqXHR, textStatus, errorThrown) {
+                    console.error("Error loading repo.xml:", textStatus, errorThrown);
+                    $("#repoFooterLinks").hide();
+                    setAnchorTargets();
+                }
+            });
+        });
+
+        function data_loader_engine(repoContents, xml) {
+            $.each(repoContents, function(key, value) {
+                var content_url = jQuery(xml).find(value.source).text();
+                if (value.type == "custom") {
+                    value.render($(key), jQuery(xml).find(value.source));
+                }
+            });
+        }
+    </script>
+</body>
+</html>

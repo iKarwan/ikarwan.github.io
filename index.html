@@ -1,314 +1,234 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>iKarwan Repo</title>
-    <link rel="shortcut icon" type="image/ico" href="assets/favicon.ico">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ramadan Kareem</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Amiri:ital@0;1&family=Cormorant+Garamond:wght@300;400&display=swap');
 
-    <style>
-        :root {
-            --primary-color: #6d7c9b;
-            --secondary-color: #eaeaea;
-            --text-color: #333;
-            --bg-color: #f9f9f9;
-            --card-bg: #ffffff;
-            --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --primary-color: #8c9eba;
-                --secondary-color: #2a2a2a;
-                --text-color: #eaeaea;
-                --bg-color: #121212;
-                --card-bg: #1e1e1e;
-                --shadow: 0 4px 6px rgba(255, 255, 255, 0.1);
-            }
-        }
+  :root {
+    --gold: #c9a84c;
+    --gold-light: #e8c97a;
+    --deep: #0a0f1e;
+    --teal: #1a3a4a;
+    --cream: #f5ead8;
+  }
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            line-height: 1.6;
-        }
+  body {
+    min-height: 100vh;
+    background: var(--deep);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Cormorant Garamond', serif;
+    overflow: hidden;
+    position: relative;
+  }
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+  canvas {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+  }
 
-        header {
-          text-align: center;
-          margin-bottom: 20px;
-      }
+  .center {
+    position: relative;
+    z-index: 10;
+    text-align: center;
+    pointer-events: none;
+  }
 
-        .header {
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          margin-bottom: 20px;
-      }
+  .arabic {
+    font-family: 'Amiri', serif;
+    font-size: clamp(2rem, 6vw, 4rem);
+    color: var(--gold);
+    letter-spacing: 0.08em;
+    line-height: 1.3;
+    text-shadow: 0 0 40px rgba(201,168,76,0.4);
+    opacity: 0;
+    animation: fadeUp 1.4s ease 0.3s forwards;
+  }
 
-      .logo {
-          display: block;
-          width: 100px;
-          height:100px;
-          margin: 20px auto 10px;
-          border-radius: 50%;
-          background-size: cover;
-          background-image: url('https://avatars.githubusercontent.com/u/4871622?v=4');
-      }
+  .english {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: clamp(0.75rem, 2vw, 1rem);
+    font-weight: 300;
+    color: var(--cream);
+    letter-spacing: 0.35em;
+    text-transform: uppercase;
+    margin-top: 1rem;
+    opacity: 0;
+    animation: fadeUp 1.4s ease 0.7s forwards;
+  }
 
-      .repo-title {
-          color: #fc9530;
-          margin: 10px 0;
-          font-size: 24px;
-      }
+  .divider {
+    width: 60px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--gold), transparent);
+    margin: 1.2rem auto;
+    opacity: 0;
+    animation: fadeUp 1.4s ease 0.5s forwards;
+  }
 
-        .repo-buttons {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            margin-bottom: 30px;
-        }
+  .countdown {
+    margin-top: 1.8rem;
+    font-size: clamp(0.65rem, 1.5vw, 0.8rem);
+    font-weight: 300;
+    color: rgba(245,234,216,0.5);
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    opacity: 0;
+    animation: fadeUp 1.4s ease 1s forwards;
+  }
 
-        .repo-button {
-            padding: 10px 10px;
-            font-size: 16px;
-            font-weight: none;
-            text-decoration: none;
-            color: var(--primary-color);
-            border-radius: 8px;
-            transition: all 0.3s ease;
-        }
+  .countdown span {
+    color: var(--gold);
+    font-size: 1.1em;
+  }
 
-        .repo-button:hover {
-            background-color: var(--primary-color);
-            color: var(--secondary-color);
-        }
-
-        .projects {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 25px;
-        }
-
-        .project {
-            background-color: var(--card-bg);
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: var(--shadow);
-            transition: transform 0.3s ease;
-            text-decoration: none;
-            color: var(--text-color);
-        }
-
-        .project:hover {
-            transform: translateY(-5px);
-        }
-
-        .project img {
-            width: 100%;
-            height: 180px;
-            object-fit: cover;
-        }
-
-        .project-info {
-            padding: 20px;
-        }
-
-        .project-name {
-            font-size: 20px;
-            font-weight: bold;
-            color: var(--primary-color);
-            margin-bottom: 10px;
-        }
-
-        .project-description {
-            font-size: 14px;
-        }
-
-        footer {
-            text-align: center;
-            margin-top: 20px;
-            padding: 20px 0;
-            font-size: 14px;
-            color: var(--text-color);
-        }
-
-        #repoFooterLinks {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin-top: 5px;
-        }
-
-        #repoFooterLinks a {
-            color: var(--primary-color);
-            font-size: 24px;
-            transition: color 0.3s ease;
-        }
-
-        #repoFooterLinks a:hover {
-            color: var(--secondary-color);
-        }
-
-        @media (max-width: 768px) {
-            .projects {
-                grid-template-columns: 1fr;
-            }
-
-            .repo-buttons {
-                flex-wrap: wrap;
-            }
-
-            .repo-button {
-                flex: 1 1 40%;
-                min-width: 120px;
-            }
-
-            #repoFooterLinks a {
-                margin-right: 10px;
-                font-size: 20px;
-            }
-
-            #repoFooterLinks a:last-child {
-                margin-right: 0;
-            }
-        }
-
-        @media (max-width: 480px) {
-            #repoFooterLinks {
-                display: flex;
-                flex-wrap: wrap;
-                justify-content: center;
-            }
-
-            #repoFooterLinks a {
-                margin: 5px;
-            }
-        }
-    </style>
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(18px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+</style>
 </head>
 <body>
-    <div class="container">
-      <header>
-          <div class="header">
-              <div class="logo"></div>
-              <h1 class="repo-title">iKG's Workspace</h1>
-          </div>
-          <div id="repoFooterLinks"></div>
-          <div class="repo-buttons">
-              <a href="sileo://source/https://repo.ikghd.me/" class="repo-button">
-                  <i class="fas fa-plus"></i> Sileo
-              </a>
-              <a href="zbra://sources/add/https://repo.ikghd.me/" class="repo-button">
-                  <i class="fas fa-plus"></i> Zebra
-              </a>
-          </div>
-      </header>
 
-        <div class="projects">
-            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus" class="project">
-                <img src="assets/icons/me.ikghd.ytkplus.png" alt="YTKillerPlus">
-                <div class="project-info">
-                    <div class="project-name">YTKillerPlus</div>
-                    <div class="project-description">A whole new YouTube experience</div>
-                </div>
-            </a>
+<canvas id="c"></canvas>
 
-            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus" class="project">
-                <img src="assets/icons/me.ikghd.inkplus.png" alt="iNKillerPlus">
-                <div class="project-info">
-                    <div class="project-name">iNKillerPlus</div>
-                    <div class="project-description">A whole new Instagram experience</div>
-                </div>
-            </a>
+<div class="center">
+  <div class="arabic">رَمَضَان كَرِيم</div>
+  <div class="divider"></div>
+  <div class="english">Ramadan Kareem</div>
+  <div class="countdown">Redirecting in <span id="countdown">3</span>s</div>
+</div>
 
-            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.ictmizxiv" class="project">
-                <img src="assets/icons/me.ikghd.ictmizxiv.png" alt="iCTMiZ XiV">
-                <div class="project-info">
-                    <div class="project-name">iCTMiZ XiV</div>
-                    <div class="project-description">Contains over 250+ features!</div>
-                </div>
-            </a>
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+let W, H, bubbles = [];
 
-            <a href="https://repo.ikghd.me/depictions/?p=me.ikghd.pmp" class="project">
-                <img src="assets/icons/me.ikghd.pmp.png" alt="PMP">
-                <div class="project-info">
-                    <div class="project-name">PMP</div>
-                    <div class="project-description">"PMP" Protect My Photos!</div>
-                </div>
-            </a>
-        </div>
+const GOLD = 'rgba(201,168,76,';
+const TEAL = 'rgba(26,90,100,';
 
-        <footer>
-            <div id="repoFooterLinks"></div>
-            &copy; 2026 ‣iKarwan
-        </footer>
-    </div>
+function resize() {
+  W = canvas.width = window.innerWidth;
+  H = canvas.height = window.innerHeight;
+}
 
-    <script type="text/javascript">
-        function setAnchorTargets() {
-            if (navigator.userAgent.search(/Cydia/) != -1) {
-                $("a").each(function() {
-                    $(this).attr("target","_blank");
-                });
-            }
-        }
+class Bubble {
+  constructor() { this.reset(true); }
 
-        var repoContents = {
-            "#repoFooterLinks" : {
-                "type":"custom",
-                "source":"repo>footerlinks>link",
-                "render":function(element,source) {
-                    $.each(source, function(index,data) {
-                        var a = $("<a>");
-                        a.attr("href",$(data).find('url').text());
-                        if ($(data).find('iconclass').length) {
-                            var i = $("<i>");
-                            i.attr("class", $(data).find('iconclass').text());
-                            a.append(i);
-                        }
-                        $(element).append(a);
-                    });
-                }
-            }
-        }
+  reset(initial = false) {
+    this.r = 6 + Math.random() * 30;
+    this.x = Math.random() * W;
+    this.y = initial ? Math.random() * H : H + this.r * 2;
+    this.vy = -(0.3 + Math.random() * 0.6);
+    this.vx = (Math.random() - 0.5) * 0.3;
+    this.wobble = Math.random() * Math.PI * 2;
+    this.wobbleSpeed = 0.008 + Math.random() * 0.012;
+    this.alpha = 0.04 + Math.random() * 0.18;
+    this.color = Math.random() > 0.4 ? GOLD : TEAL;
+    // crescent chance
+    this.isCrescent = Math.random() < 0.12;
+    // star chance
+    this.isStar = !this.isCrescent && Math.random() < 0.08;
+  }
 
-        $(document).ready(function() {
-            $.ajax({
-                type: "GET",
-                dataType: "xml",
-                url: "repo.xml",
-                cache: false,
-                success: function(xml) {
-                    data_loader_engine(repoContents, xml);
-                    setAnchorTargets();
-                },
-                error: function(jqXHR, textStatus, errorThrown) {
-                    console.error("Error loading repo.xml:", textStatus, errorThrown);
-                    $("#repoFooterLinks").hide();
-                    setAnchorTargets();
-                }
-            });
-        });
+  update() {
+    this.wobble += this.wobbleSpeed;
+    this.x += this.vx + Math.sin(this.wobble) * 0.4;
+    this.y += this.vy;
+    if (this.y < -this.r * 3) this.reset();
+  }
 
-        function data_loader_engine(repoContents, xml) {
-            $.each(repoContents, function(key, value) {
-                var content_url = jQuery(xml).find(value.source).text();
-                if (value.type == "custom") {
-                    value.render($(key), jQuery(xml).find(value.source));
-                }
-            });
-        }
-    </script>
+  draw() {
+    ctx.save();
+    ctx.globalAlpha = this.alpha;
+    if (this.isCrescent) {
+      drawCrescent(ctx, this.x, this.y, this.r, this.color);
+    } else if (this.isStar) {
+      drawStar(ctx, this.x, this.y, this.r * 0.5, this.color);
+    } else {
+      // bubble ring
+      ctx.beginPath();
+      ctx.arc(this.x, this.y, this.r, 0, Math.PI * 2);
+      ctx.strokeStyle = this.color + '1)';
+      ctx.lineWidth = 0.8;
+      ctx.stroke();
+      // inner shimmer
+      const g = ctx.createRadialGradient(
+        this.x - this.r * 0.3, this.y - this.r * 0.3, 0,
+        this.x, this.y, this.r
+      );
+      g.addColorStop(0, this.color + '0.15)');
+      g.addColorStop(1, this.color + '0)');
+      ctx.fillStyle = g;
+      ctx.fill();
+    }
+    ctx.restore();
+  }
+}
+
+function drawCrescent(ctx, x, y, r, color) {
+  ctx.beginPath();
+  ctx.arc(x, y, r, 0, Math.PI * 2);
+  ctx.fillStyle = color + '0.6)';
+  ctx.fill();
+  ctx.globalCompositeOperation = 'destination-out';
+  ctx.beginPath();
+  ctx.arc(x + r * 0.35, y, r * 0.8, 0, Math.PI * 2);
+  ctx.fill();
+  ctx.globalCompositeOperation = 'source-over';
+}
+
+function drawStar(ctx, x, y, r, color) {
+  const pts = 5;
+  const inner = r * 0.4;
+  ctx.beginPath();
+  for (let i = 0; i < pts * 2; i++) {
+    const angle = (i * Math.PI) / pts - Math.PI / 2;
+    const rad = i % 2 === 0 ? r : inner;
+    i === 0
+      ? ctx.moveTo(x + rad * Math.cos(angle), y + rad * Math.sin(angle))
+      : ctx.lineTo(x + rad * Math.cos(angle), y + rad * Math.sin(angle));
+  }
+  ctx.closePath();
+  ctx.fillStyle = color + '0.7)';
+  ctx.fill();
+}
+
+function init() {
+  resize();
+  const count = Math.min(60, Math.floor(W * H / 18000));
+  bubbles = Array.from({ length: count }, () => new Bubble());
+}
+
+function loop() {
+  ctx.clearRect(0, 0, W, H);
+  bubbles.forEach(b => { b.update(); b.draw(); });
+  requestAnimationFrame(loop);
+}
+
+window.addEventListener('resize', () => { resize(); });
+init();
+loop();
+
+// Countdown & redirect
+let seconds = 10;
+const countdownElement = document.getElementById('countdown');
+const countdownInterval = setInterval(() => {
+  seconds--;
+  countdownElement.textContent = seconds;
+  if (seconds <= 0) {
+    clearInterval(countdownInterval);
+    window.location.href = 'https://repo.ikghd.me/ramadan.html';
+  }
+}, 1000);
+</script>
 </body>
 </html>
