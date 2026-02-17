@@ -164,7 +164,7 @@
             },
 
             {
-                "markdown": "• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.06",
+                "markdown": "• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.07",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -181,12 +181,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.4.8.8",
+                "text": "4.4.9",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Feb 15, 2026",
+                "text": "Feb 17, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -226,7 +226,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.06",
+                "text": " v20.20.2 - v21.07",
                 "class": "DepictionTableTextView"
             },
             {
