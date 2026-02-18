@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown": "• fixing a possible crash when try entering Settings.\r\n• add show mentioned user in story add @ button.\r\n• add hide on live watch live broadcast anonymously.\r\n• add hide live broadcast Comments.\r\n• add pick video as sticker in publish when selecting photo from gallery.\r\n• enhancements to exception user add and remove in both DM and Story.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v414.0",
+                "markdown": "• add send video file as audio from (photos and files)app in DM.\r\n• add download audio (voices) from DM.\r\n• fix save profile picture on v415+.\r\n• add fully compatibility for iG v415+.\r\n• improving who following status.\r\n• improving exception and mentions features user on story and DM.\r\n• it's recommended update to this version v3.5 - v417.\r\n• fixing a possible crash when try entering Settings.\r\n• add show mentioned user in story add @ button.\r\n• add hide on live watch live broadcast anonymously.\r\n• add hide live broadcast Comments.\r\n• add pick video as sticker in publish when selecting photo from gallery.\r\n• enhancements to exception user add and remove in both DM and Story.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v417.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -151,12 +151,12 @@
             },
             {
                "title":"Version",
-               "text":"3.4.9.9",
+               "text":"3.5",
                "class":"DepictionTableTextView"
             },
-            {a
+            {
                 "title": "Updated",
-                "text": "Feb 17, 2026",
+                "text": "Feb 18, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -196,7 +196,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v414.0",
+                "text": " v409.1 - v417.0",
                 "class": "DepictionTableTextView"
             },
             {

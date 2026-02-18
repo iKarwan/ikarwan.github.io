@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>3.4.9.9</version>
+    <version>3.5</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.4.9.9</version2>
+      <version2>3.5</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v414.0</appcomp>
+      <appcomp> v409.1 - v417.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Feb 17, 2026</date>
+      <date>Feb 18, 2026</date>
     </date>
 
     <price>
@@ -38,6 +38,15 @@
     </price>
 
     <changelog>
+      <change>· add send video file as audio from (photos and files)app in DM.</change>
+      <change>· add download audio (voices) from DM.</change>
+      <change>· fix save profile picture on v415+.</change>
+      <change>· add fully compatibility for iG v415+.</change>
+      <change>· improving who following status.</change>
+      <change>· improving exception and mentions features user on story and DM.</change>
+      <change>· it's recommended update to this version v3.5 - v417.</change>
+      <change>·</change>
+
       <change>· fixing a possible crash when try entering Settings.</change>
       <change>· add show mentioned user in story add @ button.</change>
       <change>· add hide on live watch live broadcast anonymously.</change>
@@ -46,7 +55,7 @@
       <change>· enhancements to exception user add and remove in both DM and Story.</change>
       <change>· other improvements and enhancements.</change>
 
-      <change>· Updated base IPA to Instagram v414.0</change>
+      <change>· Updated base IPA to Instagram v417.0</change>
     </changelog>
 
 

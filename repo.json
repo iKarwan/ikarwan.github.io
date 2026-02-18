@@ -76,23 +76,23 @@
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "iKarwan",
             "subtitle": "A whole new Instagram experience!",
-            "version": "414.0.0",
+            "version": "417.1.0",
             "versions": [
                 {
-                    "version": "414.0.0",
-                    "date": "2026-02-16",
-                    "localizedDescription": "• fixing a possible crash when try entering Settings.\r\n• add show mentioned user in story add @ button.\r\n• add hide on live watch live broadcast anonymously.\r\n• add hide live broadcast Comments.\r\n• add pick video as sticker in publish when selecting photo from gallery.\r\n• enhancements to exception user add and remove in both DM and Story.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v414.0",
-                    "downloadURL": "https://ikghd.site/ipa/Instagram_414.0_iNKillerPlus_3.4.9.ipa",
-                    "size": 201681056,
+                    "version": "417.1.0",
+                    "date": "2026-02-18",
+                    "localizedDescription": "• add send video file as audio from (photos and files)app in DM.\r\n• add download audio (voices) from DM.\r\n• fix save profile picture on v415+.\r\n• add fully compatibility for iG v415+.\r\n• improving who following status.\r\n• improving exception and mentions features user on story and DM.\r\n• it's recommended update to this version v3.5 - v417.\r\n• Updated base IPA to Instagram v417.0",
+                    "downloadURL": "https://ikghd.site/ipa/Instagram_417.1_iNKillerPlus_3.5.ipa",
+                    "size": 213350059,
                     "minOSVersion": "16.3"
                 }
             ],
-            "versionDate": "2026-02-16",
-            "downloadURL": "https://ikghd.site/ipa/Instagram_414.0_iNKillerPlus_3.4.9.ipa",
+            "versionDate": "2026-02-18",
+            "downloadURL": "https://ikghd.site/ipa/Instagram_417.1_iNKillerPlus_3.5.ipa",
             "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages.\r\n• Icon theme change.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.inkplus.png",
             "tintColor": "ff7c9f",
-            "size": 201681056,
+            "size": 213350059,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",
