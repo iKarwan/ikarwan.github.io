@@ -14,16 +14,6 @@
                       },
                       {
                           "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG"
                       },
@@ -47,17 +37,27 @@
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG"
                       },
-
                       {
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG"
                       },
-
                       {
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG"
+                      },
+
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG"
+                      },
+
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG"
                       }
 
                 ],
@@ -72,16 +72,6 @@
                       },
                       {
                           "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
-                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
-                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG"
-                      },
-                      {
-                          "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG"
                       },
@@ -105,7 +95,6 @@
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG"
                       },
-
                       {
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
@@ -115,6 +104,17 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG"
+                      },
+
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG"
                       }
 
                     ],
@@ -164,7 +164,7 @@
             },
 
             {
-                "markdown": "• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.07",
+                "markdown": "• add a critical toggle for users who there account have issue with playback- something went wrong. (player controls toggle).\r\n• enhance and improvements to the download library.\r\n• it's recommended update to this version v4.5.1 - v21.07.4.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.07",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -181,12 +181,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.5",
+                "text": "4.5.1",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Feb 18, 2026",
+                "text": "Feb 21, 2026",
                 "class": "DepictionTableTextView"
             },
             {

@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.5</version>
+    <version>4.5.1</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>4.5</version2>
+      <version2>4.5.1</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Feb 18, 2026</date>
+      <date>Feb 21, 2026</date>
     </date>
 
     <price>
@@ -38,10 +38,13 @@
     </price>
 
     <changelog>
+      <change>· add a critical toggle for users who there account have issue with playback- something went wrong. (player controls toggle).</change>
+      <change>· enhance and improvements to the download library.</change>
       <change>· fix resume to short prevent to open in shorts tab.</change>
       <change>· improve volume and brightness gestures.</change>
       <change>· fixes backup restore to handle with the new implementation backuping backup.</change>
       <change>· Major overall improvements and enhancements.</change>
+      <change>· it's recommended update to this version v4.5.1 - v21.07.4.</change>
 
       <change>· Updated iPA to newer YouTube v21.07</change>
     </changelog>
@@ -106,12 +109,6 @@
           <image>1.PNG</image>
       </screenshot>
       <screenshot>
-          <image>10.PNG</image>
-      </screenshot>
-      <screenshot>
-          <image>9.PNG</image>
-      </screenshot>
-      <screenshot>
           <image>2.PNG</image>
       </screenshot>
       <screenshot>
@@ -131,6 +128,12 @@
       </screenshot>
       <screenshot>
           <image>8.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>9.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>10.PNG</image>
       </screenshot>
     </screenshots>
 
