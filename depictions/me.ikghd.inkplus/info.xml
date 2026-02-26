@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>3.5.1</version>
+    <version>3.6</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.5.1</version2>
+      <version2>3.6</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v417.1</appcomp>
+      <appcomp> v409.1 - v418.1</appcomp>
     </appcomp>
 
     <date>
-      <date>Feb 21, 2026</date>
+      <date>Feb 26, 2026</date>
     </date>
 
     <price>
@@ -44,9 +44,9 @@
       <change>· add fully compatibility for iG v415+.</change>
       <change>· improving who following status.</change>
       <change>· improving exception and mentions features user on story and DM.</change>
-      <change>· it's recommended update to this version v3.5.1 - v417.1.</change>
+      <change>· due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.</change>
 
-      <change>· Updated base IPA to Instagram v417.1</change>
+      <change>· Updated base IPA to Instagram v418.1</change>
     </changelog>
 
 

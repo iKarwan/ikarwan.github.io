@@ -164,7 +164,7 @@
             },
 
             {
-                "markdown": "• add a critical toggle for users who there account have issue with playback- something went wrong. (player controls toggle).\r\n• enhance and improvements to the download library.\r\n• it's recommended update to this version v4.5.1 - v21.07.4.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.07",
+                "markdown": "• add a critical toggle for users who there account have issue with playback- something went wrong. (player controls toggle).\r\n• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.08",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -181,12 +181,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.5.1",
+                "text": "4.6",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Feb 21, 2026",
+                "text": "Feb 26, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -226,7 +226,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.07",
+                "text": " v20.20.2 - v21.08",
                 "class": "DepictionTableTextView"
             },
             {
