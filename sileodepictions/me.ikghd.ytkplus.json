@@ -164,7 +164,7 @@
             },
 
             {
-                "markdown": "• add a critical toggle for users who there account have issue with playback- something went wrong. (player controls toggle).\r\n• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.08",
+                "markdown": "• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.08",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",

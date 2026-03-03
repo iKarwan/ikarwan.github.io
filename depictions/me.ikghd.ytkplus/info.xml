@@ -38,7 +38,6 @@
     </price>
 
     <changelog>
-      <change>· add a critical toggle for users who there account have issue with playback- something went wrong. (player controls toggle).</change>
       <change>· enhance and improvements to the download library.</change>
       <change>· fix resume to short prevent to open in shorts tab.</change>
       <change>· improve volume and brightness gestures.</change>

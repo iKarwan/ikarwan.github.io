@@ -22,7 +22,7 @@
                 {
                     "version": "21.08.3",
                     "date": "2026-02-26",
-                    "localizedDescription": "• add a critical toggle for users who there account have issue with playback- something went wrong. (player controls toggle).\r\n• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version YTKPlus v4.6 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.08",
+                    "localizedDescription": "• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version YTKPlus v4.6 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.08",
                     "downloadURL": "https://ikghd.site/ipa/YouTube_21.08_YTKillerPlus_4.6.ipa",
                     "size": 127732508,
                     "minOSVersion": "16.0"
