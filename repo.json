@@ -17,23 +17,23 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "iKarwan",
             "subtitle": "A whole new YouTube experience!",
-            "version": "21.08.3",
+            "version": "21.10.2",
             "versions": [
                 {
-                    "version": "21.08.3",
-                    "date": "2026-02-26",
-                    "localizedDescription": "• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version YTKPlus v4.6 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.08",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.08_YTKillerPlus_4.6.ipa",
-                    "size": 127732508,
+                    "version": "21.10.2",
+                    "date": "2026-03-13",
+                    "localizedDescription": "• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version YTKPlus v4.6.2 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.10",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.10_YTKillerPlus_4.6.2.ipa",
+                    "size": 127853699,
                     "minOSVersion": "16.0"
                 }
             ],
-            "versionDate": "2026-02-26",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.08_YTKillerPlus_4.6.ipa",
+            "versionDate": "2026-03-13",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.10_YTKillerPlus_4.6.2.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration (FREE).\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 127732508,
+            "size": 127853699,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
@@ -76,30 +76,31 @@
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "iKarwan",
             "subtitle": "A whole new Instagram experience!",
-            "version": "418.1.0",
+            "version": "420.0.0",
             "versions": [
                 {
-                    "version": "418.1.0",
-                    "date": "2026-02-26",
-                    "localizedDescription": "• add send video file as audio from (photos and files)app in DM.\r\n• add download audio (voices) from DM.\r\n• fix save profile picture on v415+.\r\n• add fully compatibility for iG v415+.\r\n• improving who following status.\r\n• improving exception and mentions features user on story and DM.\r\n• due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.\r\n• Updated base IPA to Instagram v418.1",
-                    "downloadURL": "https://ikghd.site/ipa/Instagram_418.1_iNKillerPlus_3.6.ipa",
-                    "size": 216323979,
+                    "version": "420.0.0",
+                    "date": "2026-03-13",
+                    "localizedDescription": "• add profile analyzer (open profile clcik on gear icon).\r\n• please read how it works with info button before using profile analyzer.\r\n• fix live pause when enter it if hide comment is enabled.\r\n• due to internal api changes please update to this version iNKPlus v3.6.2 , before 06-06-2026.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v420.0",
+                    "downloadURL": "https://ikghd.site/ipa/Instagram_420.0_iNKillerPlus_3.6.2.ipa",
+                    "size": 207983979,
                     "minOSVersion": "16.3"
                 }
             ],
-            "versionDate": "2026-02-26",
-            "downloadURL": "https://ikghd.site/ipa/Instagram_418.1_iNKillerPlus_3.6.ipa",
+            "versionDate": "2026-03-13",
+            "downloadURL": "https://ikghd.site/ipa/Instagram_420.0_iNKillerPlus_3.6.2.ipa",
             "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages.\r\n• Icon theme change.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.inkplus.png",
             "tintColor": "ff7c9f",
-            "size": 216323979,
+            "size": 207983979,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/3.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/4.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG"
+                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG",
+                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG"
             ],
             "appPermissions": {
                 "entitlements": [

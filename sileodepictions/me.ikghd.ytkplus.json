@@ -164,7 +164,7 @@
             },
 
             {
-                "markdown": "• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.08",
+                "markdown": "• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version YTKPlus v4.6 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.10",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -181,12 +181,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.6",
+                "text": "4.6.2",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Feb 26, 2026",
+                "text": "Mar 13, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -226,7 +226,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.08",
+                "text": " v20.20.2 - v21.10",
                 "class": "DepictionTableTextView"
             },
             {
