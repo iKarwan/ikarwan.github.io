@@ -19,17 +19,17 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ictmizxiv.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ictmizxiv.png
 
 Package: me.ikghd.inkplus
-Version: 3.6.2
+Version: 3.6.3
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
-Architecture: iphoneos-arm64
-Filename: ./debs/me.ikghd.inkplus_3.6.2_iphoneos-arm64.deb
-Size: 10290214
-Installed-Size: 25908
-MD5sum: 449780217576820d221ff78549c533d4
-SHA1: 0d3adf48dab4acc013ae17401b088bf90939c063
-SHA256: 8d2d22cf17e30063851d79275e129bda0061d52c5f0516eaca0b26881e3074ce
+Architecture: iphoneos-arm
+Filename: ./debs/me.ikghd.inkplus_3.6.3_iphoneos-arm.deb
+Size: 10316740
+Installed-Size: 26012
+MD5sum: 1426862a25d4388d3ebdb42ae27c2a57
+SHA1: 11abd72f767091d195fbd336ace59ce30aad15e6
+SHA256: 5ea3b5702bca4f58fd90e0c21ca2b42342395bd2270dd2d037b7370d5cf9cac6
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -38,17 +38,17 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
 Package: me.ikghd.inkplus
-Version: 3.6.2
+Version: 3.6.3
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
-Architecture: iphoneos-arm
-Filename: ./debs/me.ikghd.inkplus_3.6.2_iphoneos-arm.deb
-Size: 10290014
-Installed-Size: 25908
-MD5sum: ad03a5f3b0a823bfe2e79e0aab5e9855
-SHA1: 052264889b9ab4f5fe8dea4e1fd1dd243e1360fa
-SHA256: f79c82aac960951e18ad11f3ab7dac2ab3e88c12a562c4fb3defe5218ec993c5
+Architecture: iphoneos-arm64
+Filename: ./debs/me.ikghd.inkplus_3.6.3_iphoneos-arm64.deb
+Size: 10317232
+Installed-Size: 26012
+MD5sum: cc4a62a8e60bcdab284c05fb1f29cb29
+SHA1: 0a2135ecfaff470136a578819a342e470a866e9f
+SHA256: dd88cbf830328fa86229bdc46b60256945c6c8547f2afc8ae2a7265e7d5a01bb
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>

@@ -110,7 +110,7 @@
                 "class": "DepictionHeaderView"
             },
             {
-                "markdown": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages.\r\n• Icon theme change.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
+                "markdown": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages.\r\n• Icon theme change.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• add profile analyzer (open profile clcik on gear icon).\r\n• please read how it works with info button before using profile analyzer.\r\n• fix live pause when enter it if hide comment is enabled.\r\n• due to internal api changes please update to this version iNKPlus v3.6.2 , before 06-06-2026.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v420.0",
+                "markdown": "• add profile analyzer (open profile clcik on the gear icon).\r\n• please read how it works with info button before using profile analyzer.\r\n• add fully compatibility for iG v420+.\r\n• add Fed grid view 3*3 / 2*2 (FEED).\r\n• fix saving video & unlimited replay for videos in DM.\r\n• fix live pause when enter it if hide comment is enabled.\r\n• add missing localization.\r\n• other optimization and enhance performance.\r\n• due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v421.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"3.6.2",
+               "text":"3.6.3",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Mar 13, 2026",
+                "text": "Mar 17, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -191,7 +191,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v420.0",
+                "text": " v409.1 - v421.0",
                 "class": "DepictionTableTextView"
             },
             {

@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>3.6.2</version>
+    <version>3.6.3</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.6.2</version2>
+      <version2>3.6.3</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v420.0</appcomp>
+      <appcomp> v409.1 - v421.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Feb 26, 2026</date>
+      <date>Mar 17, 2026</date>
     </date>
 
     <price>
@@ -38,13 +38,17 @@
     </price>
 
     <changelog>
-      <change>· add profile analyzer (open profile clcik on gear icon).</change>
+      <change>· add profile analyzer (open profile clcik on the gear icon).</change>
       <change>· please read how it works with info button before using profile analyzer.</change>
+      <change>· add fully compatibility for iG v420+.</change>
+      <change>· add Fed grid view 3*3 / 2*2 (FEED).</change>
+      <change>· fix saving video &amp; unlimited replay for videos in DM.</change>
       <change>· fix live pause when enter it if hide comment is enabled.</change>
-      <change>· add fully compatibility for iG v415+.</change>
+      <change>· add missing localization.</change>
+      <change>· other optimization and enhance performance.</change>
       <change>· due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.</change>
 
-      <change>· Updated base IPA to Instagram v420.0</change>
+      <change>· Updated base IPA to Instagram v421.0</change>
     </changelog>
 
 
@@ -67,6 +71,8 @@
             <br>• Hide tabs such as Explore, Reels, and Create.
             <br>• Keep unsent messages.
             <br>• Icon theme change.
+            <br>• Profile analyzer (analyze fully your profile following status).
+            <br>• Feed Grid & list View.
             <br>• Fake location.
             <br>• Copy text from Comments, Descriptions, and Bios.
             <br>• Add confirmation prompts before liking, commenting, calling, or reposting.
