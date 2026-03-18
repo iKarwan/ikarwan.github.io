@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• add profile analyzer (open profile clcik on the gear icon).\r\n• please read how it works with info button before using profile analyzer.\r\n• add fully compatibility for iG v420+.\r\n• add Fed grid view 3*3 / 2*2 (FEED).\r\n• fix saving video & unlimited replay for videos in DM.\r\n• fix live pause when enter it if hide comment is enabled.\r\n• add missing localization.\r\n• other optimization and enhance performance.\r\n• due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v421.0",
+                "markdown": "• add profile analyzer (open profile clcik on the gear icon).\r\n• please read how it works with info button before using profile analyzer.\r\n• add fully compatibility for iG v420+.\r\n• add Feed grid view 3*3 / 2*2 (FEED).\r\n• fix saving video & unlimited replay for videos in DM.\r\n• fix live pause when enter it if hide comment is enabled.\r\n• add missing localization.\r\n• other optimization and enhance performance.\r\n• due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v421.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
