@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ramadan Kareem</title>
+<title>Eid Mubarak</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Amiri:ital@0;1&family=Cormorant+Garamond:wght@300;400&display=swap');
 
@@ -101,10 +101,10 @@
 <canvas id="c"></canvas>
 
 <div class="center">
-  <div class="arabic">رَمَضَان كَرِيم</div>
+  <div class="arabic">عِيدٌ مُبَارَك</div>
   <div class="divider"></div>
-  <div class="english">Ramadan Kareem</div>
-  <div class="countdown">Redirecting in <span id="countdown">3</span>s</div>
+  <div class="english">Eid Mubarak</div>
+  <div class="countdown">Redirecting in <span id="countdown">10</span>s</div>
 </div>
 
 <script>
@@ -133,10 +133,12 @@ class Bubble {
     this.wobbleSpeed = 0.008 + Math.random() * 0.012;
     this.alpha = 0.04 + Math.random() * 0.18;
     this.color = Math.random() > 0.4 ? GOLD : TEAL;
-    // crescent chance
-    this.isCrescent = Math.random() < 0.12;
-    // star chance
-    this.isStar = !this.isCrescent && Math.random() < 0.08;
+    // crescent chance — lower for Eid, more stars
+    this.isCrescent = Math.random() < 0.06;
+    // star chance — higher for Eid celebration
+    this.isStar = !this.isCrescent && Math.random() < 0.22;
+    // lantern chance — Eid-specific
+    this.isLantern = !this.isCrescent && !this.isStar && Math.random() < 0.08;
   }
 
   update() {
@@ -153,6 +155,8 @@ class Bubble {
       drawCrescent(ctx, this.x, this.y, this.r, this.color);
     } else if (this.isStar) {
       drawStar(ctx, this.x, this.y, this.r * 0.5, this.color);
+    } else if (this.isLantern) {
+      drawLantern(ctx, this.x, this.y, this.r, this.color);
     } else {
       // bubble ring
       ctx.beginPath();
@@ -202,6 +206,42 @@ function drawStar(ctx, x, y, r, color) {
   ctx.fill();
 }
 
+function drawLantern(ctx, x, y, r, color) {
+  const w = r * 0.9;
+  const h = r * 1.5;
+  // string
+  ctx.beginPath();
+  ctx.moveTo(x, y - h * 0.5 - r * 0.4);
+  ctx.lineTo(x, y - h * 0.5);
+  ctx.strokeStyle = color + '0.6)';
+  ctx.lineWidth = 0.8;
+  ctx.stroke();
+  // body
+  ctx.beginPath();
+  ctx.roundRect(x - w * 0.5, y - h * 0.5, w, h, r * 0.25);
+  ctx.fillStyle = color + '0.15)';
+  ctx.fill();
+  ctx.strokeStyle = color + '0.7)';
+  ctx.lineWidth = 0.8;
+  ctx.stroke();
+  // glow inside
+  const g = ctx.createRadialGradient(x, y, 0, x, y, w * 0.6);
+  g.addColorStop(0, color + '0.25)');
+  g.addColorStop(1, color + '0)');
+  ctx.fillStyle = g;
+  ctx.fill();
+  // fringe lines
+  const fringeY = y + h * 0.5;
+  for (let i = -1; i <= 1; i++) {
+    ctx.beginPath();
+    ctx.moveTo(x + i * w * 0.3, fringeY);
+    ctx.lineTo(x + i * w * 0.3, fringeY + r * 0.5);
+    ctx.strokeStyle = color + '0.5)';
+    ctx.lineWidth = 0.6;
+    ctx.stroke();
+  }
+}
+
 function init() {
   resize();
   const count = Math.min(60, Math.floor(W * H / 18000));
@@ -226,7 +266,7 @@ const countdownInterval = setInterval(() => {
   countdownElement.textContent = seconds;
   if (seconds <= 0) {
     clearInterval(countdownInterval);
-    window.location.href = 'https://repo.ikghd.me/ramadan.html';
+    window.location.href = 'https://repo.ikghd.me/eid.html';
   }
 }, 1000);
 </script>
