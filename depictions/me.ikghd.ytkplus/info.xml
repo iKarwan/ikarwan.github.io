@@ -38,12 +38,10 @@
     </price>
 
     <changelog>
-      <change>· enhance and improvements to the download library.</change>
       <change>· fix resume to short prevent to open in shorts tab.</change>
       <change>· improve volume and brightness gestures.</change>
       <change>· fixes backup restore to handle with the new implementation backuping backup.</change>
       <change>· Major overall improvements and enhancements.</change>
-      <change>· due to internal api changes please update to this version YTKPlus v4.6 , before 06-06-2026.</change>
 
       <change>· Updated iPA to newer YouTube v21.10</change>
     </changelog>
@@ -130,9 +128,6 @@
       </screenshot>
       <screenshot>
           <image>9.PNG</image>
-      </screenshot>
-      <screenshot>
-          <image>10.PNG</image>
       </screenshot>
     </screenshots>
 

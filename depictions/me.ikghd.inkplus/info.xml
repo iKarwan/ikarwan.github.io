@@ -38,15 +38,14 @@
     </price>
 
     <changelog>
-      <change>· add profile analyzer (open profile clcik on the gear icon).</change>
-      <change>· please read how it works with info button before using profile analyzer.</change>
+      <change>· add profile analyzer (open profile tab clcik on the gear icon).</change>
+      <change>· please read how profile analyzer works with info button before using it.</change>
       <change>· add fully compatibility for iG v420+.</change>
       <change>· add Feed grid view 3*3 / 2*2 (FEED).</change>
       <change>· fix saving video &amp; unlimited replay for videos in DM.</change>
       <change>· fix live pause when enter it if hide comment is enabled.</change>
       <change>· add missing localization.</change>
       <change>· other optimization and enhance performance.</change>
-      <change>· due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.</change>
 
       <change>· Updated base IPA to Instagram v421.0</change>
     </changelog>
@@ -69,7 +68,7 @@
             <br>• Ghost Typing mode.
             <br>• Disable screenshot prevention in DMs.
             <br>• Hide tabs such as Explore, Reels, and Create.
-            <br>• Keep unsent messages.
+            <br>• Keep unsent messages + storing it in logs.
             <br>• Icon theme change.
             <br>• Profile analyzer (analyze fully your profile following status).
             <br>• Feed Grid & list View.

@@ -22,7 +22,7 @@
                 {
                     "version": "21.10.2",
                     "date": "2026-03-13",
-                    "localizedDescription": "• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version YTKPlus v4.6.2 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.10",
+                    "localizedDescription": "• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• add missing Localization.\r\n• Major overall improvements and enhancements.\r\n• Updated iPA to newer YouTube v21.10",
                     "downloadURL": "https://ikghd.site/ipa/YouTube_21.10_YTKillerPlus_4.6.2.ipa",
                     "size": 127854363,
                     "minOSVersion": "16.0"
@@ -43,8 +43,7 @@
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG"
+                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG"
             ],
             "appPermissions": {
                 "entitlements": [
@@ -81,7 +80,7 @@
                 {
                     "version": "421.1.6",
                     "date": "2026-03-18",
-                    "localizedDescription": "• add profile analyzer (open profile clcik on the gear icon).\r\n• please read how it works with info button before using profile analyzer.\r\n• add fully compatibility for iG v420+.\r\n• add Fed grid view 3*3 / 2*2 (FEED).\r\n• fix saving video & unlimited replay for videos in DM.\r\n• fix live pause when enter it if hide comment is enabled.\r\n• add missing localization.\r\n• other optimization and enhance performance.\r\n• due to internal api changes please update to this version iNKPlus v3.6 , before 06-06-2026.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v421.0",
+                    "localizedDescription": "• add profile analyzer (open profile tab clcik on the gear icon).\r\n• please read how profile analyzer works with info button before using it.\r\n• add fully compatibility for iG v420+.\r\n• add Fed grid view 3*3 / 2*2 (FEED).\r\n• fix saving video & unlimited replay for videos in DM.\r\n• fix live pause when enter it if hide comment is enabled.\r\n• add missing localization.\r\n• other optimization and enhance performance.\r\n• other improvements and enhancements.\r\n• Updated base IPA to Instagram v421.0",
                     "downloadURL": "https://ikghd.site/ipa/Instagram_421.0_iNKillerPlus_3.6.4.ipa",
                     "size": 211194871,
                     "minOSVersion": "16.3"
@@ -89,7 +88,7 @@
             ],
             "versionDate": "2026-03-18",
             "downloadURL": "https://ikghd.site/ipa/Instagram_421.0_iNKillerPlus_3.6.4.ipa",
-            "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages.\r\n• Icon theme change.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
+            "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages + storing it in logs.\r\n• Icon theme change.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.inkplus.png",
             "tintColor": "ff7c9f",
             "size": 211194871,
