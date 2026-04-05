@@ -129,8 +129,8 @@
                     "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
                     "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
                 }
-            },
-        }
+            }
+        },
         {
             "name": "TikTok",
             "bundleIdentifier": "com.zhiliaoapp.musically",
