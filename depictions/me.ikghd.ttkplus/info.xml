@@ -1,0 +1,126 @@
+<package>
+   <id>me.ikghd.ttkplus</id>
+    <name>TTKillerPlus</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>15.1</miniOS>
+            <maxiOS>26.x</maxiOS>
+        </firmware>
+    </compatibility>
+
+    <rootless>
+      <rootless>Yes</rootless>
+    </rootless>
+
+    <jailbreak>
+      <jailbreak>Yes</jailbreak>
+    </jailbreak>
+
+    <jailed>
+      <jailed>Yes</jailed>
+    </jailed>
+
+    <version2>
+      <version2>1.0</version2>
+    </version2>
+
+    <appcomp>
+      <appcomp> v44.4.0 - v44.5.0</appcomp>
+    </appcomp>
+
+    <date>
+      <date>Apr 05, 2026</date>
+    </date>
+
+    <price>
+      <price>$3.99 USD</price>
+    </price>
+
+    <changelog>
+      <change>· Init release.</change>
+
+      <change>· Updated base IPA to TikTok v44.5.0</change>
+    </changelog>
+
+
+    <descriptionlist>
+        <description>A whole new TikTok experience!</description>
+
+        <longdescription><![CDATA[
+            <br>
+
+            <br>In App Purchase: $3.99
+            <br>
+            <br><b>In-App Settings:</b>
+            <br>• To enter settings, long press on the Profile tab and click the ⚙️ Gear icon.
+            <br>• Download videos from FEED, Profile, Explore.
+            <br>• Save photos from FEED, Stories, and Profiles.
+            <br>• Merge photos and music From post together.
+            <br>• Save Profiles avatar or expand it.
+            <br>• Block all promo ads in Feed, Stories, and Explore.
+            <br>• Quick Seen / Unseen toggle for Stories and DMs.
+            <br>• Hide tabs such as Friends, Create, and inbox.
+            <br>• Copy profiles bio.
+            <br>• Add toggle Auto Like for live streming.
+            <br>• Stream Post from Specific country.
+            <br>• Add country Flags and post Date on FEED.
+            <br>• Add Follow status to Profile, following, not following, friends.
+            <br>• And many more customization options...
+            <br>• Supports iPadOS.
+            <br><br>
+
+            <br>IPA & TrollStore Version:
+            <li>
+                <a href="https://github.com/iKarwan/TTKillerPlus">Instructions from here...</a>
+            </li>
+            <br>
+                <br>· OR copy this source and add it to ur source list on Altstore, Esign etc..
+                <br>· https://repo.ikghd.me/repo.json
+            <br>
+
+            <br>Refund Policy:
+            <br>· Refund accepted if you encounter issues such as safe mode or the tweak not working.
+            <br>· Must provide full details about the issue, including photos & crash logs.
+            <br>· Change of mind is not accepted; you can see details with photos & videos before buying.
+            <br>· If refund is accepted, processing will take 3 to 7 days.
+            <br>· Thank you 🤗 & enjoy!
+            <br>
+            <br>
+
+            <br>Subscription | Key & Devices:
+            <br>· 1-year subscription (364 days).
+            <br>· The key is for 1 device and is transferable.
+            <br><br>
+
+            <br>Refer to the FAQ page for more info:
+            <li>
+                <a href="https://ikghd.site/faq.html">FAQ page</a>
+            </li>
+            <br>
+        ]]></longdescription>
+    </descriptionlist>
+
+
+    <screenshots>
+      <screenshot>
+          <image>1.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>2.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>3.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>4.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>5.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>6.PNG</image>
+      </screenshot>
+    </screenshots>
+
+</package>

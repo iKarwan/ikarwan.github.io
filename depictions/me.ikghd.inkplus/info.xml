@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>3.6.4</version>
+    <version>3.6.6</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>3.6.4</version2>
+      <version2>3.6.6</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v421.0</appcomp>
+      <appcomp> v409.1 - v423.1</appcomp>
     </appcomp>
 
     <date>
-      <date>Mar 18, 2026</date>
+      <date>Apr 05, 2026</date>
     </date>
 
     <price>
@@ -44,10 +44,10 @@
       <change>· add Feed grid view 3*3 / 2*2 (FEED).</change>
       <change>· fix saving video &amp; unlimited replay for videos in DM.</change>
       <change>· fix live pause when enter it if hide comment is enabled.</change>
-      <change>· add missing localization.</change>
+      <change>· add compaitibility for ig v423 and later.</change>
       <change>· other optimization and enhance performance.</change>
 
-      <change>· Updated base IPA to Instagram v421.0</change>
+      <change>· Updated base IPA to Instagram v423.1</change>
     </changelog>
 
 

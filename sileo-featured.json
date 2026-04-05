@@ -18,5 +18,11 @@
       "hideShadow": false
     }
 
+    {
+      "url": "https://repo.ikghd.me/assets/banners/TTKBanner.jpg",
+      "title": "TTKillerPlus",
+      "package": "me.ikghd.ttkplus",
+      "hideShadow": false
+    }
   ]
 }

@@ -1,0 +1,236 @@
+{
+   "minVersion":"0.1",
+   "headerImage":"https://repo.ikghd.me/assets/banners/TTKBanner.jpg",
+   "tintColor":"#232621",
+     "views":[
+            {
+                "itemCornerRadius":8,
+                "itemSize":"{195, 385}",
+                "screenshots":[
+                    {
+                        "accessibilityText":"Screenshot",
+                        "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/1.PNG",
+                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/1.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/2.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/2.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/3.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/3.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/4.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/4.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/5.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/5.PNG"
+                      }
+
+                ],
+                "ipad":{
+                    "itemCornerRadius":9,
+                    "itemSize":"{320, 550.8266666666667}",
+                    "screenshots":[
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/1.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/1.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/2.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/2.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/3.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/3.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/4.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/4.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/5.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/5.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/6.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/6.PNG"
+                      }
+
+
+                    ],
+                    "class":"DepictionScreenshotView"
+                },
+                "class":"DepictionScreenshotsView"
+            },
+
+            {
+               "title":"In App Purchase: $3.99",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+            {
+              "title":"IPA & TrollStore Version:",
+               "useBoldText": true,
+               "action":"https://github.com/iKarwan/TTKillerPlus",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+            {
+                "title": "In-App Settings",
+                "class": "DepictionHeaderView"
+            },
+            {
+                "markdown": "• To enter settings, long press on the Profile tab and click the ⚙️ Gear icon.\r\n• Download videos from FEED, Profile, Explore.\r\n• Save photos from FEED, Stories, and Profiles.\r\n• Merge photos and music From post together.\r\n• Save Profiles avatar or expand it.\r\n• Block all promo ads in Feed, Stories, and Explore.\r\n• Quick Seen / Unseen toggle for Stories and DMs.\r\n• Hide tabs such as Friends, Create, and Inbox.\r\n• Copy profiles bio.\r\n• Add toggle Auto Like for live streaming.\r\n• Stream Post from Specific country.\r\n• Add country Flags and post Date on FEED.\r\n• Add Follow status to Profile, following, not following, friends.\r\n• And many more customization options...\r\n• Supports iPadOS.",
+                "title": "markdown-description",
+                "useBoldText": true,
+                "class": "DepictionMarkdownView",
+                "useBottomMargin": false
+            },
+
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"What's New",
+               "class":"DepictionHeaderView"
+            },
+
+            {
+                "markdown": "• Init release.\r\n• Updated base IPA to TikTok v44.5.0",
+                "title": "changelog",
+                "useBoldText": true,
+                "class": "DepictionMarkdownView",
+                "useBottomMargin": false
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+            {
+               "title":"Information",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"Version",
+               "text":"1.0",
+               "class":"DepictionTableTextView"
+            },
+            {
+                "title": "Updated",
+                "text": "Apr 05, 2026",
+                "class": "DepictionTableTextView"
+            },
+            {
+                "title": "Price",
+                "text": "$3.99 USD",
+                "class": "DepictionTableTextView"
+            },
+            {
+                "title": "Subscription",
+                "text": "1 year, 364 days",
+                "class": "DepictionTableTextView"
+            },
+            {
+                "title": "Key & Devices",
+                "text": "1 key for 1 device",
+                "class": "DepictionTableTextView"
+            },
+            {
+                "title": "Transferable",
+                "text": "Yes",
+                "class": "DepictionTableTextView"
+            },
+            {
+                "title": "Jailbreak",
+                "text": "Yes",
+                "class": "DepictionTableTextView"
+            },
+            {
+                "title": "Jailed Support (iPA)",
+                "text": "Yes",
+                "class": "DepictionTableTextView"
+            },
+            {
+                "title": "Rootless Support",
+                "text": "Yes",
+                "class": "DepictionTableTextView"
+            },
+            {
+                "title": "app Compatibility",
+                "text": " v44.4.0 - v44.5.0",
+                "class": "DepictionTableTextView"
+            },
+            {
+               "title":"Compatibility",
+               "text": "iOS & iPadOS 15.1 - 26.x",
+               "class":"DepictionTableTextView"
+            },
+
+            {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Support",
+               "class":"DepictionHeaderView"
+            },
+            {
+               "title":"FAQ page",
+               "useBoldText": true,
+               "action":"https://ikghd.site/faq.html",
+               "class":"DepictionTableButtonView"
+            },
+            {
+               "title":"Via PayPal",
+               "useBoldText": true,
+               "action":"https://www.paypal.com/donate/?hosted_button_id=HG4NT5LFR29DW",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"Follow @iKarwan",
+               "useBoldText": true,
+               "action":"https://twitter.com/ikg_hd",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"YouTube Channel",
+               "useBoldText": true,
+               "action":"https://Instagam.com/c/ikghd",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "spacing":10,
+               "class":"DepictionSpacerView"
+            }
+
+         ],
+         "class":"DepictionStackView"
+      }

@@ -153,7 +153,7 @@
             },
 
             {
-                "markdown": "• enhance and improvements to the download library.\r\n• due to internal api changes please update to this version YTKPlus v4.6 , before 06-06-2026.\r\n• fix resume to short prevent to open in shorts tab.\r\n• improve volume and brightness gestures.\r\n• Updated iPA to newer YouTube v21.10",
+                "markdown": "• add new custom sleeptimer duration for video and audio player.\r\n• add sponsorblock multi chapter handling.\r\n• improve download manager.\r\n• improve downlaoding video and add more speed and smoothnes.\r\n• improve audio downloading specificly mp3.\r\n• improve handling multi download at once quea.\r\n• many improvments and enhancements.\r\n• Updated iPA to newer YouTube v21.13",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -170,12 +170,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.6.2",
+                "text": "4.6.6",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Mar 13, 2026",
+                "text": "Apr 05, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -215,7 +215,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.10",
+                "text": " v20.20.2 - v21.13",
                 "class": "DepictionTableTextView"
             },
             {
