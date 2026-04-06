@@ -38,6 +38,7 @@
     </price>
 
     <changelog>
+      <change>· add french language.</change>
       <change>· add new custom sleeptimer duration for video and audio player.</change>
       <change>· add sponsorblock multi chapter handling.</change>
       <change>· improve download manager.</change>

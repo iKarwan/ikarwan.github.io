@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• add profile analyzer (open profile tab clcik on the gear icon).\r\n• please read how profile analyzer works with info button before using it.\r\n• add fully compatibility for iG v420+.\r\n• add Feed grid view 3*3 / 2*2 (FEED).\r\n• fix saving video & unlimited replay for videos in DM.\r\n• fix live pause when enter it if hide comment is enabled.\r\n• add missing localization.\r\n• other optimization and enhance performance.\r\n• Updated base IPA to Instagram v421.0",
+                "markdown": "• add french language.\r\n• add profile analyzer (open profile tab clcik on the gear icon).\r\n• please read how profile analyzer works with info button before using it.\r\n• add fully compatibility for iG v420+.\r\n• add Feed grid view 3*3 / 2*2 (FEED).\r\n• fix saving video & unlimited replay for videos in DM.\r\n• fix live pause when enter it if hide comment is enabled.\r\n• add missing localization.\r\n• other optimization and enhance performance.\r\n• Updated base IPA to Instagram v421.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
