@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.6.6</version>
+    <version>4.6.8</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>4.6.6</version2>
+      <version2>4.6.8</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v20.20.2 - v21.13</appcomp>
+      <appcomp> v20.20.2 - v21.14</appcomp>
     </appcomp>
 
     <date>
-      <date>Apr 05, 2026</date>
+      <date>Apr 10, 2026</date>
     </date>
 
     <price>
@@ -38,17 +38,12 @@
     </price>
 
     <changelog>
-      <change>· add french language.</change>
+      <change>· add a whole new tab bar options + intelligent tab reorder and startup with removing.</change>
       <change>· add new custom sleeptimer duration for video and audio player.</change>
       <change>· add sponsorblock multi chapter handling.</change>
-      <change>· improve download manager.</change>
-      <change>· improve downlaoding video and add more speed and smoothnes.</change>
       <change>· improve audio downloading specificly mp3.</change>
-      <change>· improve download progress.</change>
-      <change>· improve handling multi download at once quea.</change>
-      <change>· many improvments and enhancements.</change>
 
-      <change>· Updated iPA to newer YouTube v21.13</change>
+      <change>· Updated iPA to newer YouTube v21.14</change>
     </changelog>
 
 
@@ -72,7 +67,6 @@
       <br>• Customize or hide tab bar icons and layouts.
       <br>• Includes built-in SponsorBlock integration (FREE).
       <br>• Picture in Picture (PiP).
-      <br>• Fake location.
       <br>• And many more settings…
       <br>• Supports iPadOS.
       <br><br>

@@ -119,7 +119,7 @@
             },
 
             {
-                "markdown": "• Init release.\r\n• Updated base IPA to TikTok v44.5.0",
+                "markdown": "• fixes a possible crash when slide to go to profile.\r\n• Updated base IPA to TikTok v44.6.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.0",
+               "text":"1.0.1",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Apr 05, 2026",
+                "text": "Apr 10, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -181,7 +181,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v44.4.0 - v44.5.0",
+                "text": " v44.4.0 - v44.6.0",
                 "class": "DepictionTableTextView"
             },
             {
