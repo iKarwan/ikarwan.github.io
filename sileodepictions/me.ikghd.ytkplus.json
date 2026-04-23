@@ -153,7 +153,7 @@
             },
 
             {
-                "markdown": "• add a whole new tab bar options + intelligent tab reorder and startup with removing.\r\n• add new custom sleeptimer duration for video and audio player.\r\n• add sponsorblock multi chapter handling.\r\n• improve audio downloading specificly mp3.\r\n• Updated iPA to newer YouTube v21.14",
+                "markdown": "• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• fix playback issue completely and recover your account to it's normal state.\r\n• pls read the description how to use for best experience.\r\n• fix audio and video player and rewritten completely.\r\n• add a whole new tabbar options (reorder, remove, with startup).\r\n• fix sponsor block chapter on latets YT version.\r\n• rewrite most of the section for better experience.\r\n• Updated iPA to newer YouTube v21.16",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -170,12 +170,12 @@
             },
             {
                 "title": "Version",
-                "text": "4.6.8",
+                "text": "5.0",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Apr 10, 2026",
+                "text": "Apr 24, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -185,7 +185,7 @@
             },
             {
                 "title": "Subscription",
-                "text": "1 year, 364 days",
+                "text": "valid for (99 days)",
                 "class": "DepictionTableTextView"
             },
             {
@@ -215,7 +215,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.14",
+                "text": " v20.20.2 - v21.16",
                 "class": "DepictionTableTextView"
             },
             {

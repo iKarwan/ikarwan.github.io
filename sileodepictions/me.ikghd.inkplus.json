@@ -110,7 +110,7 @@
                 "class": "DepictionHeaderView"
             },
             {
-                "markdown": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages + storing it in logs.\r\n• Icon theme change.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
+                "markdown": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages + storing it in logs.\r\n• Icon theme change iOS 18 and earlier.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• add french language.\r\n• add profile analyzer (open profile tab clcik on the gear icon).\r\n• please read how profile analyzer works with info button before using it.\r\n• add fully compatibility for iG v420+.\r\n• add Feed grid view 3*3 / 2*2 (FEED).\r\n• add compaitibility for ig v423+ and later.\r\n• Updated base IPA to Instagram v424.1",
+                "markdown": "• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• add profile analyzer to iG logo on main feed long press to view it.\r\n• please read how profile analyzer works with info button before using it.\r\n• fix a possible crash when using grid mode with enabling hide suggesation.\r\n• add french language.\r\n• add Feed grid view 3*3 / 2*2 (FEED).\r\n• add compaitibility for ig v425+ and later.\r\n• Updated base IPA to Instagram v426.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"3.6.8",
+               "text":"4.0",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Apr 10, 2026",
+                "text": "Apr 24, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -161,7 +161,7 @@
             },
             {
                 "title": "Subscription",
-                "text": "1 year, 364 days",
+                "text": "valid for (99 days)",
                 "class": "DepictionTableTextView"
             },
             {
@@ -191,7 +191,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v424.1",
+                "text": " v409.1 - v426.0",
                 "class": "DepictionTableTextView"
             },
             {

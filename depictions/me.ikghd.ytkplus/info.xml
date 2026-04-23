@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>4.6.8</version>
+    <version>5.0</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>4.6.8</version2>
+      <version2>5.0</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v20.20.2 - v21.14</appcomp>
+      <appcomp> v20.20.2 - v21.16</appcomp>
     </appcomp>
 
     <date>
-      <date>Apr 10, 2026</date>
+      <date>Apr 24, 2026</date>
     </date>
 
     <price>
@@ -38,12 +38,15 @@
     </price>
 
     <changelog>
-      <change>· add a whole new tab bar options + intelligent tab reorder and startup with removing.</change>
-      <change>· add new custom sleeptimer duration for video and audio player.</change>
-      <change>· add sponsorblock multi chapter handling.</change>
-      <change>· improve audio downloading specificly mp3.</change>
+      <change>· we have made chnage to our subscription terms pls read it here > ikghd.site/letters .</change>
+      <change>· fix playback issue completely and recover your account to it's normal state.</change>
+      <change>· pls read the description how to use for best experience.</change>
+      <change>· fix audio and video player and rewritten completely.</change>
+      <change>· add a whole new tabbar options (reorder, remove, with startup).</change>
+      <change>· fix sponsor block chapter on latets YT version.</change>
+      <change>· rewrite most of the section for better experience.</change>
 
-      <change>· Updated iPA to newer YouTube v21.14</change>
+      <change>· Updated iPA to newer YouTube v21.16</change>
     </changelog>
 
 
@@ -89,7 +92,7 @@
       <br>· Thank you 🤗 & enjoy!
       <br>
       <br>Subscription | Key & Devices:
-      <br>· 1-year subscription (364 days)
+      <br>· subscription valid for (99 days)
       <br>· The key is for 1 device and is transferable
       <br>
       <br>For more information, refer to the FAQ page:

@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ttkplus</id>
     <name>TTKillerPlus</name>
-    <version>1.0.1</version>
+    <version>1.1</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>1.0.1</version2>
+      <version2>1.1</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v44.4.0 - v44.6.0</appcomp>
+      <appcomp> v44.4.0 - v44.8.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Apr 10, 2026</date>
+      <date>Apr 24, 2026</date>
     </date>
 
     <price>
@@ -38,10 +38,21 @@
     </price>
 
     <changelog>
-      <change>· fixes a possible crash when slide to go to profile.</change>
-      <change>· improvements.</change>
+      <change>· we have made chnage to our subscription terms pls read it here > ikghd.site/letters .</change>
+      <change>· add view profiles annymously.</change>
+      <change>· add clear cache.</change>
+      <change>· add seperate clear and settings when long pressing on the profile tab.</change>
+      <change>· add keep long pressing on profile tab after show open settings to show clear option.</change>
+      <change>· fixes a possible crash when slide to go to profile when in search mode and multiple photos available.</change>
+      <change>· fixes a possible crash when slide to go to profile in FEED.</change>
+      <change>· fix follow status.</change>
+      <change>· fix copy bios.</change>
+      <change>· fix clear display to use TikTok native clear display.</change>
+      <change>· fix live button to use pick corrected number of like send when long press and choosing it.</change>
+      <change>· fix story and dm seen button.</change>
+      <change>· rewrite mny section of the tweak for smothness experience ever.</change>
 
-      <change>· Updated base IPA to TikTok v44.6.0</change>
+      <change>· Updated base IPA to TikTok v44.8.0</change>
     </changelog>
 
 
@@ -55,13 +66,14 @@
             <br>
             <br><b>In-App Settings:</b>
             <br>• To enter settings, long press on the Profile tab and click the ⚙️ Gear icon.
-            <br>• Download videos from FEED, Profile, Explore.
+            <br>• Download videos from FEED, stories, and Explore.
             <br>• Save photos from FEED, Stories, and Profiles.
             <br>• Merge photos and music From post together.
             <br>• Save Profiles avatar or expand it.
             <br>• Block all promo ads in Feed, Stories, and Explore.
             <br>• Quick Seen / Unseen toggle for Stories and DMs.
             <br>• Hide tabs such as Friends, Create, and inbox.
+            <br>• View profiles annymously.
             <br>• Copy profiles bio.
             <br>• Add toggle Auto Like for live streming.
             <br>• Stream Post from Specific country.
@@ -90,7 +102,7 @@
             <br>
 
             <br>Subscription | Key & Devices:
-            <br>· 1-year subscription (364 days).
+            <br>· subscription valid for (99 days).
             <br>· The key is for 1 device and is transferable.
             <br><br>
 
