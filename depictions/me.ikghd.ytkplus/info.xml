@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.0.1</version>
+    <version>5.1</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>5.0.1</version2>
+      <version2>5.1</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Apr 24, 2026</date>
+      <date>Apr 25, 2026</date>
     </date>
 
     <price>
@@ -38,6 +38,9 @@
     </price>
 
     <changelog>
+      <change>· fixes a criticaal issue were settings may not open on jailbroken device and TrollStore.</change>
+      <change>. other critical fixes pls reinstall the ipa</change>
+      <change>.</change>
       <change>· we have made chnage to our subscription terms pls read it here > ikghd.site/letters .</change>
       <change>· fix playback issue completely and recover your account to it's normal state.</change>
       <change>· pls read the description how to use for best experience.</change>

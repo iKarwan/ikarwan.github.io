@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>4.0</version>
+    <version>4.1</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>4.0</version2>
+      <version2>4.1</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Apr 24, 2026</date>
+      <date>Apr 25, 2026</date>
     </date>
 
     <price>
@@ -38,6 +38,9 @@
     </price>
 
     <changelog>
+      <change>· fixes a criticaal issue were settings may not open on jailbroken device and TrollStore.</change>
+      <change>. other critical fixes pls reinstall the ipa</change>
+      <change>.</change>
       <change>· we have made chnage to our subscription terms pls read it here > ikghd.site/letters .</change>
       <change>· add profile analyzer to iG logo on main feed long press to view it.</change>
       <change>· please read how profile analyzer works with info button before using it.</change>
