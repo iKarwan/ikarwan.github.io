@@ -119,7 +119,7 @@
             },
 
             {
-                "markdown": "• fixes a criticaal issue were settings may not open on jailbroken device and TrollStore.\r\n• other critical fixes pls reinstall the ipa.\r\n• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• add view profiles annymously.\r\n• add clear cache.\r\n• add seperate clear and settings when long pressing on the profile tab.\r\n• add keep long pressing on profile tab after show open settings to show clear option.\r\n• fixes a possible crash when slide to go to profile when in search mode and multiple photos available.\r\n• fixes a possible crash when slide to go to profile in FEED.\r\n• fix follow status.\r\n• fix copy bios.\r\n• fix clear display to use TikTok native clear display.\r\n• fix live button to use pick corrected number of like send when long press and choosing it.\r\n• fix story and dm seen button.\r\n• rewrite mny section of the tweak for smothness experience ever.\r\n• Updated base IPA to TikTok v44.8.0",
+                "markdown": "• fixes a critical issue were settings may not open on jailbroken device and TrollStore.\r\n• other critical fixes pls reinstall the ipa.\r\n• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• add view profiles annymously.\r\n• add clear cache.\r\n• add seperate clear and settings when long pressing on the profile tab.\r\n• add keep long pressing on profile tab after show open settings to show clear option.\r\n• fixes a possible crash when slide to go to profile when in search mode and multiple photos available.\r\n• fixes a possible crash when slide to go to profile in FEED.\r\n• fix follow status.\r\n• fix copy bios.\r\n• fix clear display to use TikTok native clear display.\r\n• fix live button to use pick corrected number of like send when long press and choosing it.\r\n• fix story and dm seen button.\r\n• rewrite mny section of the tweak for smothness experience ever.\r\n• Updated base IPA to TikTok v44.8.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -136,7 +136,7 @@
             },
             {
                "title":"Version",
-               "text":"1.1",
+               "text":"1.2.1",
                "class":"DepictionTableTextView"
             },
             {
