@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• fixes a critical issue were settings may not open on jailbroken device and TrollStore.\r\n• other critical fixes pls reinstall the ipa.\r\n• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• add profile analyzer to iG logo on main feed long press to view it.\r\n• please read how profile analyzer works with info button before using it.\r\n• fix a possible crash when using grid mode with enabling hide suggesation.\r\n• add french language.\r\n• add Feed grid view 3*3 / 2*2 (FEED).\r\n• add compaitibility for ig v425+ and later.\r\n• Updated base IPA to Instagram v426.0",
+                "markdown": "• add seen stories localy expermint.\r\n• fix a critical activation issue.\r\n• reload and post preference notifications correctly.\r\n• fixes a critical issue were settings may not open on jailbroken device and TrollStore.\r\n• other critical fixes pls reinstall the ipa.\r\n• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• add profile analyzer to iG logo on main feed long press to view it.\r\n• please read how profile analyzer works with info button before using it.\r\n• fix a possible crash when using grid mode with enabling hide suggesation.\r\n• add french language.\r\n• add Feed grid view 3*3 / 2*2 (FEED).\r\n• add compaitibility for ig v425+ and later.\r\n• Updated base IPA to Instagram v426.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"4.1",
+               "text":"4.2",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Apr 25, 2026",
+                "text": "Apr 28, 2026",
                 "class": "DepictionTableTextView"
             },
             {

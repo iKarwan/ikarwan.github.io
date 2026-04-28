@@ -153,7 +153,7 @@
             },
 
             {
-                "markdown": "• fixes a critical issue were settings may not open on jailbroken device and TrollStore.\r\n• other critical fixes pls reinstall the ipa.\r\n• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• fix playback issue completely and recover your account to it's normal state.\r\n• pls read the description how to use for best experience.\r\n• fix audio and video player and rewritten completely.\r\n• add a whole new tabbar options (reorder, remove, with startup).\r\n• fix sponsor block chapter on latets YT version.\r\n• rewrite most of the section for better experience.\r\n• Updated iPA to newer YouTube v21.16",
+                "markdown": "• add more hook for fix playback issue to handle play video correctly and smothnly.\r\n• fix downloading were it stuck randomly in some cases if media is large size.\r\n• fix download progress were not show correctly.\r\n• fix sponsor segment not appear with the progress bar with new YT version.\r\n• add more to sleep timer for video and audio.\r\n• play video and audio now smothly switches and lockscreen remote controller handling it correctly.\r\n• many improvements to the code .\r\n• fix a critical activation issue.\r\n• reload and post preference notifications correctly.\r\n• fixes a critical issue were settings may not open on jailbroken device and TrollStore.\r\n• other critical fixes pls reinstall the ipa.\r\n• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• fix playback issue completely and recover your account to it's normal state.\r\n• pls read the description how to use for best experience.\r\n• fix audio and video player and rewritten completely.\r\n• add a whole new tabbar options (reorder, remove, with startup).\r\n• fix sponsor block chapter on latets YT version.\r\n• rewrite most of the section for better experience.\r\n• Updated iPA to newer YouTube v21.17",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -170,12 +170,12 @@
             },
             {
                 "title": "Version",
-                "text": "5.1",
+                "text": "5.2",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Apr 25, 2026",
+                "text": "Apr 28, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -215,7 +215,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.16",
+                "text": " v20.20.2 - v21.17",
                 "class": "DepictionTableTextView"
             },
             {

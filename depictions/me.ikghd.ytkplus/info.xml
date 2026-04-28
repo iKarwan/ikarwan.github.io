@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.1</version>
+    <version>5.2</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>5.1</version2>
+      <version2>5.2</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v20.20.2 - v21.16</appcomp>
+      <appcomp> v20.20.2 - v21.17</appcomp>
     </appcomp>
 
     <date>
-      <date>Apr 25, 2026</date>
+      <date>Apr 28, 2026</date>
     </date>
 
     <price>
@@ -38,6 +38,15 @@
     </price>
 
     <changelog>
+      <change>. add more hook for fix playback issue to handle play video correctly and smothnly</change>
+      <change>. fix downloading were it stuck randomly in some cases if media is large size</change>
+      <change>. fix download progress were not show correctly</change>
+      <change>. fix sponsor segment not appear with the progress bar with new YT version</change>
+      <change>. add more to sleep timer for video and audio</change>
+      <change>. play video and audio now smothly switches and lockscreen remote controller handling it correctly</change>
+      <change>. many improvements to the code</change>
+      <change>. fix a critical activation issue</change>
+      <change>. reload and post preference notifications correctly</change>
       <change>· fixes a critical issue were settings may not open on jailbroken device and TrollStore.</change>
       <change>. other critical fixes pls reinstall the ipa</change>
       <change>.</change>
@@ -49,7 +58,7 @@
       <change>· fix sponsor block chapter on latets YT version.</change>
       <change>· rewrite most of the section for better experience.</change>
 
-      <change>· Updated iPA to newer YouTube v21.16</change>
+      <change>· Updated iPA to newer YouTube v21.17</change>
     </changelog>
 
 
