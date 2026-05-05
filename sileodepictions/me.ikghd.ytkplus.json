@@ -52,6 +52,17 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG"
+                      },
+
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG"
                       }
 
                 ],
@@ -104,6 +115,17 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG"
+                      },
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG"
+                      },
+
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG"
                       }
 
                     ],
@@ -153,7 +175,7 @@
             },
 
             {
-                "markdown": "• add more hook for fix playback issue to handle play video correctly and smothnly.\r\n• fix downloading were it stuck randomly in some cases if media is large size.\r\n• fix download progress were not show correctly.\r\n• fix sponsor segment not appear with the progress bar with new YT version.\r\n• add more to sleep timer for video and audio.\r\n• play video and audio now smothly switches and lockscreen remote controller handling it correctly.\r\n• many improvements to the code .\r\n• fix a critical activation issue.\r\n• reload and post preference notifications correctly.\r\n• fixes a critical issue were settings may not open on jailbroken device and TrollStore.\r\n• other critical fixes pls reinstall the ipa.\r\n• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• fix playback issue completely and recover your account to it's normal state.\r\n• pls read the description how to use for best experience.\r\n• fix audio and video player and rewritten completely.\r\n• add a whole new tabbar options (reorder, remove, with startup).\r\n• fix sponsor block chapter on latets YT version.\r\n• rewrite most of the section for better experience.\r\n• Updated iPA to newer YouTube v21.17",
+                "markdown": "• Completely redesigned the settings UI/UX.\r\n• Rebuilt the download manager with full list and grid views, individually selectable for videos, audio, and Shorts.\r\n• Added new sorting options — Recent, Oldest, A–Z, and Z–A — for videos, audio, and Shorts separately.\r\n• Added a new fluid-style download toast.\r\n• Introduced a new full-speed download engine that uses your maximum internet bandwidth, similar to IDM.\r\n• Added a modern new mini player inspired by iOS 26.\r\n• Fixed audio suspension when videos or audio continue playing after entering the background or swiping home.\r\n• Fixed playback issues for smoother video handling.\r\n• Delivered multiple UI/UX improvements for a more fluid overall experience.\r\n• Update to version 5.3 before 06/06/2026 — all earlier versions will stop working after that date.\r\n• Updated iPA to newer YouTube v21.18",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -170,12 +192,12 @@
             },
             {
                 "title": "Version",
-                "text": "5.2",
+                "text": "5.3",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Apr 28, 2026",
+                "text": "May 05, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -215,7 +237,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.17",
+                "text": " v20.20.2 - v21.18",
                 "class": "DepictionTableTextView"
             },
             {

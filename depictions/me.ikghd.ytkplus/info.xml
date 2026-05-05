@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.2</version>
+    <version>5.3</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>5.2</version2>
+      <version2>5.3</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v20.20.2 - v21.17</appcomp>
+      <appcomp> v20.20.2 - v21.18</appcomp>
     </appcomp>
 
     <date>
-      <date>Apr 28, 2026</date>
+      <date>May 05, 2026</date>
     </date>
 
     <price>
@@ -38,27 +38,18 @@
     </price>
 
     <changelog>
-      <change>. add more hook for fix playback issue to handle play video correctly and smothnly</change>
-      <change>. fix downloading were it stuck randomly in some cases if media is large size</change>
-      <change>. fix download progress were not show correctly</change>
-      <change>. fix sponsor segment not appear with the progress bar with new YT version</change>
-      <change>. add more to sleep timer for video and audio</change>
-      <change>. play video and audio now smothly switches and lockscreen remote controller handling it correctly</change>
-      <change>. many improvements to the code</change>
-      <change>. fix a critical activation issue</change>
-      <change>. reload and post preference notifications correctly</change>
-      <change>· fixes a critical issue were settings may not open on jailbroken device and TrollStore.</change>
-      <change>. other critical fixes pls reinstall the ipa</change>
-      <change>.</change>
-      <change>· we have made chnage to our subscription terms pls read it here > ikghd.site/letters .</change>
-      <change>· fix playback issue completely and recover your account to it's normal state.</change>
-      <change>· pls read the description how to use for best experience.</change>
-      <change>· fix audio and video player and rewritten completely.</change>
-      <change>· add a whole new tabbar options (reorder, remove, with startup).</change>
-      <change>· fix sponsor block chapter on latets YT version.</change>
-      <change>· rewrite most of the section for better experience.</change>
+      <change>· Completely redesigned the settings UI/UX.</change>
+      <change>· Rebuilt the download manager with full, list, and grid views, individually selectable for videos, audio, and Shorts.</change>
+      <change>· Added new sorting options — Recent, Oldest, A–Z, and Z–A — for videos, audio, and Shorts separately.</change>
+      <change>· Added a new fluid-style download toast.</change>
+      <change>· Introduced a new full-speed download engine that uses your maximum internet bandwidth, similar to IDM.</change>
+      <change>· Added a modern new mini player inspired by iOS 26.</change>
+      <change>· Fixed audio suspension when videos or audio continue playing after entering the background or swiping home.</change>
+      <change>· Fixed playback issues for smoother video handling.</change>
+      <change>· Delivered multiple UI/UX improvements for a more fluid overall experience.</change>
+      <change>· Update to version 5.3 before 06/06/2026 — all earlier versions will stop working after that date.</change>
 
-      <change>· Updated iPA to newer YouTube v21.17</change>
+      <change>· Updated iPA to newer YouTube v21.18</change>
     </changelog>
 
 
@@ -142,6 +133,12 @@
       </screenshot>
       <screenshot>
           <image>9.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>10.PNG</image>
+      </screenshot>
+      <screenshot>
+          <image>11.PNG</image>
       </screenshot>
     </screenshots>
 

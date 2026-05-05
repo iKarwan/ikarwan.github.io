@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>4.2</version>
+    <version>4.3</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>4.2</version2>
+      <version2>4.3</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v426.0</appcomp>
+      <appcomp> v409.1 - v428.1</appcomp>
     </appcomp>
 
     <date>
-      <date>Apr 28, 2026</date>
+      <date>May 05, 2026</date>
     </date>
 
     <price>
@@ -38,22 +38,14 @@
     </price>
 
     <changelog>
-      <change>· fixes a critical issue were settings may not open on jailbroken device and TrollStore.</change>
-      <change>. other critical fixes pls reinstall the ipa</change>
-      <change>. fix a critical activation issue</change>
-      <change>. reload and post preference notifications correctly</change>
-      <change>. add seen stories localy expermint</change>
-      <change>. fix grid multiple item not handled correctly</change>
-      <change>.</change>
-      <change>· we have made chnage to our subscription terms pls read it here > ikghd.site/letters .</change>
-      <change>· add profile analyzer to iG logo on main feed long press to view it.</change>
-      <change>· please read how profile analyzer works with info button before using it.</change>
-      <change>· fix a possible crash when using grid mode with enabling hide suggesation.</change>
-      <change>· add french language.</change>
-      <change>· add Feed grid view 3*3 / 2*2 (FEED).</change>
-      <change>· add compaitibility for ig v425+ and later.</change>
+      <change>· Added photo merging with music when audio is available.</change>
+      <change>· Fully redesigned the photo picker with a smoother liquid-style UI and smarter photo/video selection.</change>
+      <change>· Redesigned the download interface with a faster download engine.</change>
+      <change>· Delivered major UI/UX refinements across the entire tweak.</change>
+      <change>· Added full compatibility with IG v428 and later.</change>
+      <change>· Update to version 4.3 before 06/06/2026 — all earlier versions will stop working after that date.</change>
 
-      <change>· Updated base IPA to Instagram v426.0</change>
+      <change>· Updated base IPA to Instagram v428.1</change>
     </changelog>
 
 
@@ -69,6 +61,7 @@
             <br>• To open settings, go to the Profile tab and tap the ⚙️ Gear icon next to your Instagram name — or long-press the Home button / Instagram logo.
             <br>• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).
             <br>• Save images from Posts, Stories, private DMs, and Profiles.
+            <br>• Save and merge photos with music as Slideshow.
             <br>• Block all promo ads in Feed, Stories, and Reels.
             <br>• Quick Seen / Unseen toggle for Stories and DMs.
             <br>• Ghost Typing mode.

@@ -18,23 +18,23 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "iKarwan",
             "subtitle": "A whole new YouTube experience!",
-            "version": "21.17.3",
+            "version": "21.18.4",
             "versions": [
                 {
-                    "version": "21.17.3",
-                    "date": "2026-04-28",
-                    "localizedDescription": "• add more hook for fix playback issue to handle play video correctly and smothly.\r\n• add new download engine uses full internet speed same as iDM.\r\n• fix downloading were it stuck randomly in some cases if media is large size.\r\n• fix download progress were not show correctly.\r\n• fix sponsor segment not appear with the progress bar with new YT version.\r\n• add more to sleep timer for video and audio.\r\n• play video and audio now smothly switches and lockscreen remote controller handling it correctly.\r\n• many improvements to the code .\r\n• fix a critical activation issue.\r\n• reload and post preference notifications correctly.\r\n• fixes a critical issue were settings may not open on jailbroken device and TrollStore.\r\n• other critical fixes pls reinstall the ipa.\r\n• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• fix playback issue completely and recover your account to it's normal state.\r\n• pls read the description how to use for best experience.\r\n• fix audio and video player and rewritten completely.\r\n• add a whole new tabbar options (reorder, remove, with startup).\r\n• fix sponsor block chapter on latets YT version.\r\n• rewrite most of the section for better experience.\r\n• Updated iPA to newer YouTube v21.17",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.17_YTKillerPlus_5.2.ipa",
-                    "size": 130105311,
+                    "version": "21.18.4",
+                    "date": "2026-05-05",
+                    "localizedDescription": "• Completely redesigned the settings UI/UX.\r\n• Rebuilt the download manager with full list and grid views, individually selectable for videos, audio, and Shorts.\r\n• Added new sorting options — Recent, Oldest, A–Z, and Z–A — for videos, audio, and Shorts separately.\r\n• Added a new fluid-style download toast.\r\n• Introduced a new full-speed download engine that uses your maximum internet bandwidth, similar to IDM.\r\n• Added a modern new mini player inspired by iOS 26.\r\n• Fixed audio suspension when videos or audio continue playing after entering the background or swiping home.\r\n• Fixed playback issues for smoother video handling.\r\n• Delivered multiple UI/UX improvements for a more fluid overall experience.\r\n• Update to version 5.3 before 06/06/2026 — all earlier versions will stop working after that date.\r\n• Updated iPA to newer YouTube v21.18",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.18_YTKillerPlus_5.3.ipa",
+                    "size": 131181151,
                     "minOSVersion": "16.0"
                 }
             ],
-            "versionDate": "2026-04-28",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.17_YTKillerPlus_5.2.ipa",
+            "versionDate": "2026-05-05",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.18_YTKillerPlus_5.3.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration (FREE).\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 130105311,
+            "size": 131181151,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
@@ -44,7 +44,9 @@
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG"
+                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
+                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
+                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG"
             ],
             "appPermissions": {
                 "entitlements": [
@@ -76,23 +78,23 @@
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "iKarwan",
             "subtitle": "A whole new Instagram experience!",
-            "version": "426.0.0",
+            "version": "428.1.0",
             "versions": [
                 {
-                    "version": "426.0.0",
-                    "date": "2026-04-28",
-                    "localizedDescription": "• add seen stories localy expermint.\r\n• fix a critical activation issue.\r\n• reload and post preference notifications correctly.\r\n• fixes a critical issue were settings may not open on jailbroken device and TrollStore.\r\n• other critical fixes pls reinstall the ipa.\r\n• We have made chnage to our subscription terms pls read it here > ikghd.site/letters .\r\n• add profile analyzer to iG logo on main feed long press to view it.\r\n• please read how profile analyzer works with info button before using it.\r\n• fix a possible crash when using grid mode with enabling hide suggesation.\r\n• add french language.\r\n• add Feed grid view 3*3 / 2*2 (FEED).\r\n• add compaitibility for ig v425+ and later.\r\n• Updated base IPA to Instagram v426.0",
-                    "downloadURL": "https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.2.ipa",
-                    "size": 231692965,
+                    "version": "428.1.0",
+                    "date": "2026-05-05",
+                    "localizedDescription": "• Added photo merging with music when audio is available.\r\n• Fully redesigned the photo picker with a smoother liquid-style UI and smarter photo/video selection.\r\n• Redesigned the download interface with a faster download engine.\r\n• Delivered major UI/UX refinements across the entire tweak.\r\n• Added full compatibility with IG v428 and later.\r\n• Update to version 4.3 before 06/06/2026 — all earlier versions will stop working after that date.\r\n• Updated base IPA to Instagram v428.1",
+                    "downloadURL": "https://ikghd.site/ipa/Instagram_428.1_iNKillerPlus_4.3.ipa",
+                    "size": 236783110,
                     "minOSVersion": "16.3"
                 }
             ],
-            "versionDate": "2026-04-28",
-            "downloadURL": "https://ikghd.site/ipa/Instagram_426.0_iNKillerPlus_4.2.ipa",
-            "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages + storing it in logs.\r\n• Icon theme change iOS 18 and earlier.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
+            "versionDate": "2026-05-05",
+            "downloadURL": "https://ikghd.site/ipa/Instagram_428.1_iNKillerPlus_4.3.ipa",
+            "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Save and merge photos with music as Slideshow.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages + storing it in logs.\r\n• Icon theme change iOS 18 and earlier.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
             "iconURL": "https://ikghd.site/assets/icons/me.ikghd.inkplus.png",
             "tintColor": "ff7c9f",
-            "size": 231692965,
+            "size": 236783110,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",
