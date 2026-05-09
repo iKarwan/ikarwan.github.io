@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.3.1</version>
+    <version>5.3.2</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>5.3.1</version2>
+      <version2>5.3.2</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>May 06, 2026</date>
+      <date>May 09, 2026</date>
     </date>
 
     <price>
@@ -64,8 +64,8 @@
       <br><b>In-App Settings:</b>
       <br>• Download videos, audio, Shorts, and post images.
       <br>• Enjoy full-speed 🚀 downloads with a built-in Download Manager.
-      <br>• Built in Video and Audio player.
-      <br>• Built in custom Sleeptimer.
+      <br>• Built in a modern Video and Audio player.
+      <br>• Built in a modern custom Sleeptimer.
       <br>• Import videos to Photos or directly into the YTKPlus library.
       <br>• Block all advertisements for a clean experience.
       <br>• Play media in the background.
