@@ -175,7 +175,7 @@
             },
 
             {
-                "markdown": "• Completely redesigned the settings UI/UX.\r\n• Rebuilt the download manager with full list and grid views, individually selectable for videos, audio, and Shorts.\r\n• Added new sorting options — Recent, Oldest, A–Z, and Z–A — for videos, audio, and Shorts separately.\r\n• Added a new fluid-style download toast.\r\n• Introduced a new full-speed download engine that uses your maximum internet bandwidth, similar to IDM.\r\n• Added a modern new mini player inspired by iOS 26.\r\n• Fixed audio suspension when videos or audio continue playing after entering the background or swiping home.\r\n• Fixed playback issues for smoother video handling.\r\n• Delivered multiple UI/UX improvements for a more fluid overall experience.\r\n• Update to version 5.3 before 06/06/2026 — all earlier versions will stop working after that date.\r\n• Updated iPA to newer YouTube v21.18",
+                "markdown": "• Hide feed ads for some users appears in some cases.\r\n• Add tap-and-hold seeking on the video player.\r\n• Add drag-down to lock while seeking.\r\n• Add bottom-corner swipe gestures for volume control.\r\n• Add bottom-corner swipe gestures for brightness control.\r\n• Improve the intelligent sleep timer.\r\n• Use native YouTube action sheets across the UI.\r\n• Add video and audio seek controls up to 4×.\r\n• Refine UI/UX, icons, controls, and overall interactions.\r\n• Improve iPad layout, scaling, and player behavior.\r\n• Apply overall code cleanup, bug fixes, and consistency improvements.\r\n• Completely redesigned the settings UI/UX.\r\n• Rebuilt the download manager with full list and grid views, individually selectable for videos, audio, and Shorts.\r\n• Added new sorting options — Recent, Oldest, A–Z, and Z–A — for videos, audio, and Shorts separately.\r\n• Added a new fluid-style download toast.\r\n• Introduced a new full-speed download engine that uses your maximum internet bandwidth, similar to IDM.\r\n• Added a modern new mini player inspired by iOS 26.\r\n• Fixed audio suspension when videos or audio continue playing after entering the background or swiping home.\r\n• Fixed playback issues for smoother video handling.\r\n• Delivered multiple UI/UX improvements for a more fluid overall experience.\r\n• Update to version 5.3 before 06/06/2026 — all earlier versions will stop working after that date.\r\n• Updated iPA to newer YouTube v21.18",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -197,7 +197,7 @@
             },
             {
                 "title": "Updated",
-                "text": "May 09, 2026",
+                "text": "May 10, 2026",
                 "class": "DepictionTableTextView"
             },
             {
