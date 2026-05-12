@@ -123,11 +123,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.3)
 Architecture: iphoneos-arm
 Filename: ./debs/me.ikghd.ytkplus_5.3.5_iphoneos-arm.deb
-Size: 9465332
+Size: 9462802
 Installed-Size: 26828
-MD5sum: 71bd10db72fd12acdf740f2daafc1695
-SHA1: f004e100aea3f680d2ec9c66b61ad65d6a7749f4
-SHA256: 6949e0d593dd86123eccd1e2a2a77a398ea9973e50885d38118b233ba33b6b44
+MD5sum: 48ca9a0a7d6406e9b493214abcb522ac
+SHA1: 6bf03120f019cc2fdcbf376e1786a10590a1e96f
+SHA256: d0a9e42ce2d3212366f108089ba89f9c7b8415e36ee883c0d41e8af7ed0c46ea
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -142,11 +142,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.3)
 Architecture: iphoneos-arm64
 Filename: ./debs/me.ikghd.ytkplus_5.3.5_iphoneos-arm64.deb
-Size: 9463994
+Size: 9462476
 Installed-Size: 26828
-MD5sum: 723b64a410c0a39b1791c7d577b2e033
-SHA1: 82fc045926de5bec24e43b985ea0744dc3e30705
-SHA256: 462159d1766e39c19612010e2cac30f938ac8c5e29ca5d0e3b5a713e388e0a38
+MD5sum: 0a28a93e85d3c1dad8da4e8f70daa9a5
+SHA1: dd310ce1e5dce74ce7f61f4e4cf3a57140cad464
+SHA256: 5f16a87c3b650852b247515a64ed4b6246dc928447658eefcdfd4d8209ec9b01
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
