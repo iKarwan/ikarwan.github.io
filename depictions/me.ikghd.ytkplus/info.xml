@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.3.6</version>
+    <version>5.4</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>5.3.6</version2>
+      <version2>5.4</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v20.20.2 - v21.18</appcomp>
+      <appcomp> v20.20.2 - v21.19</appcomp>
     </appcomp>
 
     <date>
-      <date>May 12, 2026</date>
+      <date>May 14, 2026</date>
     </date>
 
     <price>
@@ -38,7 +38,9 @@
     </price>
 
     <changelog>
-      <change>· Hide feed ads for some users appears in some cases.</change>
+      <change>· improved custom video player gestures and tapand hold seek logic.</change>
+      <change>· Pls make sure Update to version 5.4 before 06/06/2026 — all earlier versions will stop working after that date.</change>
+      <change>.</change>
       <change>· Add tap-and-hold seeking on the video player.</change>
       <change>· Add drag-down to lock while seeking.</change>
       <change>· Add bottom-corner swipe gestures for volume control.</change>
@@ -62,7 +64,7 @@
       <change>· Fixed audio suspension when videos or audio continue playing after entering the background or swiping home.</change>
       <change>· Fixed playback issues for smoother video handling.</change>
       <change>· Delivered multiple UI/UX improvements for a more fluid overall experience.</change>
-      <change>· Update to version 5.3 before 06/06/2026 — all earlier versions will stop working after that date.</change>
+      <change>· Update to version 5.4 before 06/06/2026 — all earlier versions will stop working after that date.</change>
 
       <change>· Updated iPA to newer YouTube v21.18</change>
     </changelog>

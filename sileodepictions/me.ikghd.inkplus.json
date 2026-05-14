@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• Added photo merging with music when audio is available.\r\n• Fully redesigned the photo picker with a smoother liquid-style UI and smarter photo/video selection.\r\n• Redesigned the download interface with a faster download engine.\r\n• Delivered major UI/UX refinements across the entire tweak.\r\n• Added full compatibility with IG v428 and later.\r\n• Update to version 4.3 before 06/06/2026 — all earlier versions will stop working after that date.\r\n• Updated base IPA to Instagram v428.2",
+                "markdown": "• fixes send file as audio.\r\n• fixes media pickker on iiOS 18x and earlier shows Completely transparent.\r\n• add fully compatibility for iG v429+.\r\n• Pls make sure Update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.\r\n• Added photo merging with music when audio is available.\r\n• Fully redesigned the photo picker with a smoother liquid-style UI and smarter photo/video selection.\r\n• Redesigned the download interface with a faster download engine.\r\n• Delivered major UI/UX refinements across the entire tweak.\r\n• Added full compatibility with IG v428 and later.\r\n• Update to version 4.3 before 06/06/2026 — all earlier versions will stop working after that date.\r\n• Updated base IPA to Instagram v428.2",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"4.3.2",
+               "text":"4.4",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "May 09, 2026",
+                "text": "May 14, 2026",
                 "class": "DepictionTableTextView"
             },
             {

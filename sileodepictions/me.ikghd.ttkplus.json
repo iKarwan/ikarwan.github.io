@@ -119,7 +119,7 @@
             },
 
             {
-                "markdown": "• fixes and enhancements.\r\n• Updated base IPA to TikTok v45.0.0",
+                "markdown": "• add disable sensetive and warning on post and images.\r\n• add follow and like confirmation + comment like confirmation.\r\n• add hide live and recommendation on feed scrolling.\r\n• add taping the following status emoji to shows current status.\r\n• fixes taping on flag wasn't tapable on previou version.\r\n• other improve and enhancements.\r\n• Pls make sure Update to version 1.4 before 06/06/2026 — all earlier versions will stop working after that date.\r\n• Updated base IPA to TikTok v45.0.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.3.2",
+               "text":"1.4",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "May 09, 2026",
+                "text": "May 14, 2026",
                 "class": "DepictionTableTextView"
             },
             {
