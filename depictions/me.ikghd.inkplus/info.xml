@@ -38,9 +38,9 @@
     </price>
 
     <changelog>
-      <change>· fixes send file as audio.</change>
-      <change>· fixes media pickker on iiOS 18x and earlier shows Completely transparent.</change>
-      <change>· add fully compatibility for iG v429+.</change>
+      <change>· Fixed sending files as audio.</change>
+      <change>· Fixed the media picker appearing completely transparent on iOS 18.x and earlier.</change>
+      <change>· Added full compatibility with IG v429 and later.</change>
       <change>· Pls make sure Update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.</change>
       <change>.</change>
       <change>· Added photo merging with music when audio is available.</change>
@@ -48,7 +48,6 @@
       <change>· Redesigned the download interface with a faster download engine.</change>
       <change>· Delivered major UI/UX refinements across the entire tweak.</change>
       <change>· Added full compatibility with IG v428 and later.</change>
-      <change>· Update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.</change>
 
       <change>· Updated base IPA to Instagram v428.2</change>
     </changelog>

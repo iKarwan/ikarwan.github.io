@@ -38,7 +38,8 @@
     </price>
 
     <changelog>
-      <change>· improved custom video player gestures and tapand hold seek logic.</change>
+      <change>· Improved custom video player gestures and tap-and-hold seeking logic.</change>
+      <change>· Fixed ads that could reappear in the feed in some cases.</change>
       <change>· Pls make sure Update to version 5.4 before 06/06/2026 — all earlier versions will stop working after that date.</change>
       <change>.</change>
       <change>· Add tap-and-hold seeking on the video player.</change>
@@ -64,7 +65,6 @@
       <change>· Fixed audio suspension when videos or audio continue playing after entering the background or swiping home.</change>
       <change>· Fixed playback issues for smoother video handling.</change>
       <change>· Delivered multiple UI/UX improvements for a more fluid overall experience.</change>
-      <change>· Update to version 5.4 before 06/06/2026 — all earlier versions will stop working after that date.</change>
 
       <change>· Updated iPA to newer YouTube v21.18</change>
     </changelog>
@@ -90,7 +90,7 @@
       <br>• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.
       <br>• Set default playback quality for Wi-Fi and Cellular.
       <br>• Customize or hide tab bar icons and layouts.
-      <br>• Includes built-in SponsorBlock integration (FREE).
+      <br>• Includes built-in SponsorBlock integration.
       <br>• Picture in Picture (PiP).
       <br>• And many more settings…
       <br>• Supports iPadOS.

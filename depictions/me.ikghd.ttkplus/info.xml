@@ -38,12 +38,12 @@
     </price>
 
     <changelog>
-      <change>· add disable sensetive and warning on post and images.</change>
-      <change>· add follow and like confirmation + comment like confirmation.</change>
-      <change>· add hide live and recommendation on feed scrolling.</change>
-      <change>· add taping the following status emoji to shows current status.</change>
-      <change>· fixes taping on flag wasn't tapable on previou version.</change>
-      <change>· other improve and enhancements.</change>
+      <change>· Added options to disable sensitive content and warnings on posts and images.</change>
+      <change>· Added confirmations for follows, likes, and comment likes.</change>
+      <change>· Added options to hide LIVE and recommended content while scrolling the feed.</change>
+      <change>· Tapping the following status emoji now shows the current status.</change>
+      <change>· Fixed an issue where the flag button was not tappable in the previous version.</change>
+      <change>· Other improvements and enhancements.</change>
       <change>· Pls make sure Update to version 1.4 before 06/06/2026 — all earlier versions will stop working after that date.</change>
       <change>· Updated base IPA to TikTok v45.0.0</change>
     </changelog>
