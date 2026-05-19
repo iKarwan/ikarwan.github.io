@@ -58,11 +58,16 @@
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG"
                       },
-
                       {
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG"
+                      },
+
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/12.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/12.PNG"
                       }
 
                 ],
@@ -126,6 +131,12 @@
                           "accessibilityText":"Screenshot",
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG"
+                      },
+
+                      {
+                          "accessibilityText":"Screenshot",
+                          "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/12.PNG",
+                          "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/12.PNG"
                       }
 
                     ],
@@ -175,7 +186,7 @@
             },
 
             {
-                "markdown": "• Improved custom video player gestures and tap-and-hold seeking logic.\n• Fixed ads that could reappear in the feed in some cases.\n• Added tap-and-hold seeking to the video player.\n• Please update to version 5.4 before 06/06/2026 — all earlier versions will stop working after that date.\r\n• Add drag-down to lock while seeking.\r\n• Add bottom-corner swipe gestures for volume control.\r\n• Add bottom-corner swipe gestures for brightness control.\r\n• Improve the intelligent sleep timer.\r\n• Use native YouTube action sheets across the UI.\r\n• Add video and audio seek controls up to 4×.\r\n• Refine UI/UX, icons, controls, and overall interactions.\r\n• Improve iPad layout, scaling, and player behavior.\r\n• Apply overall code cleanup, bug fixes, and consistency improvements.\r\n• Completely redesigned the settings UI/UX.\r\n• Rebuilt the download manager with full list and grid views, individually selectable for videos, audio, and Shorts.\r\n• Added new sorting options — Recent, Oldest, A–Z, and Z–A — for videos, audio, and Shorts separately.\r\n• Added a new fluid-style download toast.\r\n• Introduced a new full-speed download engine that uses your maximum internet bandwidth, similar to IDM.\r\n• Added a modern new mini player inspired by iOS 26.\r\n• Fixed audio suspension when videos or audio continue playing after entering the background or swiping home.\r\n• Fixed playback issues for smoother video handling.\r\n• Delivered multiple UI/UX improvements for a more fluid overall experience.\r\n• Updated iPA to newer YouTube v21.19",
+                "markdown": "• Added track and audio title display to the audio player.\n• Added a queue view to display all available queued audio.\n• Added swipe left/right gestures in the mini player to switch tracks, similar to the iOS Music app.\n• Improved custom video player gestures and tap-and-hold seeking logic.\n• Fixed ads that could reappear in the feed in some cases.\n• Added tap-and-hold seeking to the video player.\n• Please update to version 5.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Added drag-down to lock while seeking.\n• Added bottom-corner swipe gestures for volume control.\n• Added bottom-corner swipe gestures for brightness control.\n• Improved the intelligent sleep timer.\n• Use native YouTube action sheets across the UI.\n• Added video and audio seek controls up to 4×.\n• Refined UI/UX, icons, controls, and overall interactions.\n• Improved iPad layout, scaling, and player behavior.\n• Applied overall code cleanup, bug fixes, and consistency improvements.\n• Completely redesigned the settings UI/UX.\n• Rebuilt the download manager with full list and grid views, individually selectable for videos, audio, and Shorts.\n• Added new sorting options — Recent, Oldest, A–Z, and Z–A — for videos, audio, and Shorts separately.\n• Added a new fluid-style download toast.\n• Introduced a new full-speed download engine that uses your maximum internet bandwidth, similar to IDM.\n• Added a modern new mini player inspired by iOS 26.\n• Fixed audio suspension when videos or audio continue playing after entering the background or swiping home.\n• Fixed playback issues with newer YouTube versions.\n• Fixed a potential crash when playback fixes are enabled on newer versions.\n• Improved playback stability and smoother video handling.\n• Delivered multiple UI/UX improvements for a more fluid overall experience.\n• Updated iPA to newer YouTube v21.20.",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -192,12 +203,12 @@
             },
             {
                 "title": "Version",
-                "text": "5.4",
+                "text": "5.4.1",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "May 14, 2026",
+                "text": "May 19, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -237,7 +248,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.19",
+                "text": " v20.20.2 - v21.20",
                 "class": "DepictionTableTextView"
             },
             {

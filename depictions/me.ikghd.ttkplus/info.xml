@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ttkplus</id>
     <name>TTKillerPlus</name>
-    <version>1.4</version>
+    <version>1.4.1</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>1.4</version2>
+      <version2>1.4.1</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v44.4.0 - v45.0.0</appcomp>
+      <appcomp> v44.4.0 - v45.2.0</appcomp>
     </appcomp>
 
     <date>
-      <date>May 14, 2026</date>
+      <date>May 19, 2026</date>
     </date>
 
     <price>
@@ -45,7 +45,7 @@
       <change>· Fixed an issue where the flag button was not tappable in the previous version.</change>
       <change>· Other improvements and enhancements.</change>
       <change>· Pls make sure Update to version 1.4 before 06/06/2026 — all earlier versions will stop working after that date.</change>
-      <change>· Updated base IPA to TikTok v45.0.0</change>
+      <change>· Updated base IPA to TikTok v45.2.0</change>
     </changelog>
 
 

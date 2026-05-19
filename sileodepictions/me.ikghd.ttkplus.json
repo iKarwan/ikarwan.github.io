@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.4",
+               "text":"1.4.1",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "May 14, 2026",
+                "text": "May 19, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -181,7 +181,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v44.4.0 - v45.0.0",
+                "text": " v44.4.0 - v45.2.0",
                 "class": "DepictionTableTextView"
             },
             {
