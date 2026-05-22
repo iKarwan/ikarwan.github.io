@@ -39,7 +39,7 @@
 
     <changelog>
       <change>· Fixed a regression introduced in the previous version that could cause crashes for some users.</change>
-      <change>·.</change>
+      <change>·</change>
       <change>· Improved Feed ad blocking.</change>
       <change>· Added playback recovery to restore the original account state.</change>
       <change>· Fixed critical playback crashes and compatibility issues on newer YouTube versions.</change>
