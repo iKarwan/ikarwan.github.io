@@ -186,7 +186,7 @@
             },
 
             {
-                "markdown": "• Improved Feed ad blocking.\n• Added playback recovery to restore original account state.\n• Fixed critical playback crashes and YouTube compatibility issues.\n• Added track titles, queue view, and swipe gestures in Mini Player.\n• Performance improvements and bug fixes.\n• Fixed ads occasionally reappearing in Feed.\n• Update to v5.5 before 06/06/2026 — older versions will stop working.\n• Updated iPA to YouTube v21.20.",
+                "markdown": "• Fixed a regression introduced in the previous version that could cause crashes for some users.\n• Improved Feed ad blocking.\n• Added playback recovery to restore original account state.\n• Fixed critical playback crashes and YouTube compatibility issues.\n• Added track titles, queue view, and swipe gestures in Mini Player.\n• Performance improvements and bug fixes.\n• Fixed ads occasionally reappearing in Feed.\n• Update to v5.5 before 06/06/2026 — older versions will stop working.\n• Updated iPA to YouTube v21.20.",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -203,12 +203,12 @@
             },
             {
                 "title": "Version",
-                "text": "5.5",
+                "text": "5.5.1",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "May 22, 2026",
+                "text": "May 23, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -248,7 +248,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.20",
+                "text": " v20.20.2 - v21.21",
                 "class": "DepictionTableTextView"
             },
             {
