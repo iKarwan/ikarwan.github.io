@@ -43,7 +43,6 @@
       <change>· Fixed sending files as audio.</change>
       <change>· Fixed the media picker appearing completely transparent on iOS 18.x and earlier.</change>
       <change>· Please update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.</change>
-      <change>· Added full compatibility with IG v430 and later.</change>
 
       <change>· Updated base IPA to Instagram v428.2</change>
     </changelog>
