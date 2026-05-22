@@ -22,19 +22,19 @@
             "versions": [
                 {
                     "version": "21.20.4",
-                    "date": "2026-05-19",
-                    "localizedDescription": "• Added track and audio title display to the audio player.\n• Added a queue view to display all available queued audio.\n• Added swipe left/right gestures in the mini player to switch tracks, similar to the iOS Music app.\n• Improved custom video player gestures and tap-and-hold seeking logic.\n• Fixed ads that could reappear in the feed in some cases.\n• Added tap-and-hold seeking to the video player.\n• Please update to version 5.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Added drag-down to lock while seeking.\n• Added bottom-corner swipe gestures for volume control.\n• Added bottom-corner swipe gestures for brightness control.\n• Improved the intelligent sleep timer.\n• Use native YouTube action sheets across the UI.\n• Added video and audio seek controls up to 4×.\n• Refined UI/UX, icons, controls, and overall interactions.\n• Improved iPad layout, scaling, and player behavior.\n• Applied overall code cleanup, bug fixes, and consistency improvements.\n• Completely redesigned the settings UI/UX.\n• Rebuilt the download manager with full list and grid views, individually selectable for videos, audio, and Shorts.\n• Added new sorting options — Recent, Oldest, A–Z, and Z–A — for videos, audio, and Shorts separately.\n• Added a new fluid-style download toast.\n• Introduced a new full-speed download engine that uses your maximum internet bandwidth, similar to IDM.\n• Added a modern new mini player inspired by iOS 26.\n• Fixed audio suspension when videos or audio continue playing after entering the background or swiping home.\n• Fixed playback issues with newer YouTube versions.\n• Fixed a potential crash when playback fixes are enabled on newer versions.\n• Improved playback stability and smoother video handling.\n• Delivered multiple UI/UX improvements for a more fluid overall experience.\n• Updated iPA to newer YouTube v21.20",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.20_YTKillerPlus_5.4.1.ipa",
-                    "size": 132509136,
+                    "date": "2026-05-22",
+                    "localizedDescription": "• Improved Feed ad blocking.\n• Added playback recovery to restore original account state.\n• Fixed critical playback crashes and YouTube compatibility issues.\n• Added track titles, queue view, and swipe gestures in Mini Player.\n• Performance improvements and bug fixes.\n• Fixed ads occasionally reappearing in Feed.\n• Update to v5.5 before 06/06/2026 — older versions will stop working.\n• Updated iPA to YouTube v21.20.",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.20_YTKillerPlus_5.5.ipa",
+                    "size": 132551939,
                     "minOSVersion": "16.0"
                 }
             ],
-            "versionDate": "2026-05-19",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.20_YTKillerPlus_5.4.1.ipa",
+            "versionDate": "2026-05-22",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.20_YTKillerPlus_5.5.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 132509136,
+            "size": 132551939,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
