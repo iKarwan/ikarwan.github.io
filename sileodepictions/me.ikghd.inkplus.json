@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• Fixed sending files as audio.\n• Fixed the media picker appearing completely transparent on iOS 18.x and earlier.\n• Added full compatibility with IG v429 and later.\n• Please update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Added photo merging with music when audio is available.\n• Fully redesigned the photo picker with a smoother liquid-style UI and smarter photo/video selection.\n• Redesigned the download interface with a faster download engine.\n• Delivered major UI/UX improvements across the entire tweak.\n• Added full compatibility with IG v428 and later.\n• Updated base IPA to Instagram v428.2",
+                "markdown": "• Added full compatibility with IG v430 and later.\n• Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.\n• Please update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Updated base IPA to Instagram v428.2",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"4.4",
+               "text":"4.4.4",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "May 14, 2026",
+                "text": "May 22, 2026",
                 "class": "DepictionTableTextView"
             },
             {
