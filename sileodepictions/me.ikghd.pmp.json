@@ -1,162 +1,166 @@
 {
-   "minVersion":"0.1",
-   "headerImage":"https://repo.ikghd.me/depictions/me.ikghd.pmp/Images/Banner.jpg",
-   "tintColor":"#EB9694",
-         "views":[
-            {
-                "itemCornerRadius":8,
-                "itemSize":"{195, 385}",
-                "screenshots":[
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG"
-                    },
-                    {
-                        "accessibilityText":"Screenshot",
-                        "url":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG",
-                        "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG"
-                    }
-                ],
-                "ipad":{
-                    "itemCornerRadius":9,
-                    "itemSize":"{320, 550.8266666666667}",
-                    "screenshots":[
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG",
-                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG"
-                        },
-                        {
-                            "accessibilityText":"Screenshot",
-                            "url":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG",
-                            "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG"
-                        }
-                    ],
-                    "class":"DepictionScreenshotView"
-                },
-                "class":"DepictionScreenshotsView"
-            },
-            {
-               "class":"DepictionSeparatorView"
-            },
+  "minVersion": "0.1",
+  "headerImage": "https://repo.ikghd.me/depictions/me.ikghd.pmp/Images/Banner.jpg",
+  "tintColor": "#EB9694",
+  "views": [
+    {
+      "itemCornerRadius": 8,
+      "itemSize": "{195, 385}",
+      "screenshots": [
+        {
+          "accessibilityText": "Screenshot",
+          "url": "https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG",
+          "fullSizeURL": "https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG"
+        },
+        {
+          "accessibilityText": "Screenshot",
+          "url": "https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG",
+          "fullSizeURL": "https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG"
+        }
+      ],
+      "ipad": {
+        "itemCornerRadius": 9,
+        "itemSize": "{320, 550.8266666666667}",
+        "screenshots": [
+          {
+            "accessibilityText": "Screenshot",
+            "url": "https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG",
+            "fullSizeURL": "https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/1.PNG"
+          },
+          {
+            "accessibilityText": "Screenshot",
+            "url": "https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG",
+            "fullSizeURL": "https://repo.ikghd.me/depictions/me.ikghd.pmp/screenshots/2.PNG"
+          }
+        ],
+        "class": "DepictionScreenshotView"
+      },
+      "class": "DepictionScreenshotsView"
+    },
 
-            {
-                "title":"Features",
-                "class":"DepictionHeaderView"
-            },
-            {
-                "class": "DepictionMarkdownView",
-                "markdown": "\"PMP\" Protect My Photos",
-                "useSpacing": true
-            },
+    {
+      "class": "DepictionSeparatorView"
+    },
 
-            {
-                "useBottomMargin": false,
-                "markdown": "sometimes when someone take your phone\r\nmay by curiosity goes around and check everything\r\nPMP will punch him in his face :D\r\nPMP will hide all your photos with One click and bring it with 1One\r\nit even protected access to photos with Camera app also.\n\r- \n- NOTICE!!:\n- U need to have faceID/touchID or password to be enabled in order to use this tweak .\n- On ios 15/16.x u need to respring after adding the madule to controll center section .",
-                "useBoldText": true,
-                "title": "markdown-description",
-                "class": "DepictionMarkdownView"
-            },
+    {
+      "title": "Features",
+      "class": "DepictionHeaderView"
+    },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
+    {
+      "class": "DepictionMarkdownView",
+      "markdown": "**Protect My Photos (PMP)**",
+      "useSpacing": true
+    },
 
+    {
+      "useBottomMargin": false,
+      "markdown": "Sometimes someone gets hold of your phone and starts browsing through your private content out of curiosity.\n\nPMP helps protect your privacy with a single tap.\n\n### Main Features\n- Instantly hide all photos using a Control Center module.\n- Hide Hidden and Recently Deleted albums.\n- Restrict access to recently captured photos from the Camera app.\n- Quickly restore access whenever needed.\n\n### Notice\n- Face ID, Touch ID, or a passcode must be enabled to use this tweak.\n- On iOS 15/16.x, a respring is required after adding the module to Control Center.",
+      "useBoldText": true,
+      "title": "markdown-description",
+      "class": "DepictionMarkdownView"
+    },
 
-                            {
-                               "title":"What's New",
-                               "class":"DepictionHeaderView"
-                            },
+    {
+      "class": "DepictionSeparatorView"
+    },
 
-                            {
-                                "markdown":"- bump version align it with Bigboss\n- fixes deb was hidden for rootless version\n- ensures notification is posted after reading preferences\n- add support for Rootless JB dopamine\n- fixes kiling the app when enabling the hide option\n- rewritten from scratch",
-                                "useSpacing":true,
-                                "class":"DepictionMarkdownView"
-                            },
+    {
+      "title": "What's New",
+      "class": "DepictionHeaderView"
+    },
 
-                            {
-                               "class":"DepictionSeparatorView"
-                            },
+    {
+      "markdown": "- Bump version to align with BigBoss\n- Fix issue where the deb was hidden for the rootless version\n- Ensure notifications are posted after reading preferences\n- Add support for Dopamine rootless jailbreak\n- Rewritten from scratch",
+      "useSpacing": true,
+      "class": "DepictionMarkdownView"
+    },
 
+    {
+      "class": "DepictionSeparatorView"
+    },
 
-            {
-               "title":"Information",
-               "class":"DepictionHeaderView"
-            },
-            {
-               "title":"Version",
-               "text":"1.12",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"Updated",
-               "text":"Dec 14, 2025",
-               "class":"DepictionTableTextView"
-            },
+    {
+      "title": "Information",
+      "class": "DepictionHeaderView"
+    },
 
-            {
-               "title":"Price",
-               "text":"Free",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"Jailbreak",
-               "text":"Yes",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"Jailed Support",
-               "text":"No",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"Rootless Support",
-               "text":"Yes",
-               "class":"DepictionTableTextView"
-            },
-            {
-               "title":"Compatibility",
-               "text":"iOS 12.0 - 16.x",
-               "class":"DepictionTableTextView"
-            },
+    {
+      "title": "Version",
+      "text": "1.12",
+      "class": "DepictionTableTextView"
+    },
 
+    {
+      "title": "Updated",
+      "text": "Dec 14, 2025",
+      "class": "DepictionTableTextView"
+    },
 
-            {
-               "class":"DepictionSeparatorView"
-            },
+    {
+      "title": "Price",
+      "text": "Free",
+      "class": "DepictionTableTextView"
+    },
 
+    {
+      "title": "Jailbreak",
+      "text": "Yes",
+      "class": "DepictionTableTextView"
+    },
 
-            {
-               "title":"Support",
-               "class":"DepictionHeaderView"
-            },
-            {
-               "title":"Via PayPal",
-               "useBoldText": true,
-               "action":"https://www.paypal.com/paypalme/hiwajaf",
-               "class":"DepictionTableButtonView"
-            },
+    {
+      "title": "Jailed Support",
+      "text": "No",
+      "class": "DepictionTableTextView"
+    },
 
-            {
-               "title":"Follow @iKarwan",
-               "useBoldText": true,
-               "action":"https://twitter.com/ikg_hd",
-               "class":"DepictionTableButtonView"
-            },
+    {
+      "title": "Rootless Support",
+      "text": "Yes",
+      "class": "DepictionTableTextView"
+    },
 
-            {
-               "title":"YouTube Channel",
-               "useBoldText": true,
-               "action":"https://youtube.com/c/ikghd",
-               "class":"DepictionTableButtonView"
-            },
+    {
+      "title": "Compatibility",
+      "text": "iOS 12.0 – 16.x",
+      "class": "DepictionTableTextView"
+    },
 
-            {
-               "spacing":10,
-               "class":"DepictionSpacerView"
-            }
+    {
+      "class": "DepictionSeparatorView"
+    },
 
-         ],
-         "class":"DepictionStackView"
-      }
+    {
+      "title": "Support",
+      "class": "DepictionHeaderView"
+    },
+
+    {
+      "title": "Via PayPal",
+      "useBoldText": true,
+      "action": "https://www.paypal.com/paypalme/hiwajaf",
+      "class": "DepictionTableButtonView"
+    },
+
+    {
+      "title": "Follow @iKarwan",
+      "useBoldText": true,
+      "action": "https://twitter.com/ikg_hd",
+      "class": "DepictionTableButtonView"
+    },
+
+    {
+      "title": "YouTube Channel",
+      "useBoldText": true,
+      "action": "https://youtube.com/c/ikghd",
+      "class": "DepictionTableButtonView"
+    },
+
+    {
+      "spacing": 10,
+      "class": "DepictionSpacerView"
+    }
+  ],
+  "class": "DepictionStackView"
+}
