@@ -146,7 +146,7 @@
                     "date": "2026-05-24",
                     "localizedDescription": "• Added options to disable sensitive content and warnings on posts and images.\n• Added confirmations for follows, likes, and comment likes.\n• Added options to hide LIVE and recommended content while scrolling the feed.\n• Tapping the following status emoji now shows the current status.\n• Fixed an issue where the flag button was not tappable in the previous version.\n• Other improvements and enhancements.\n• Please update to version 1.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Updated base IPA to TikTok v45.2.0",
                     "downloadURL": "https://ikghd.site/ipa/TikTok_45.2_TTKillerPlus_1.4.2.ipa",
-                    "size": 394130995,
+                    "size": 393719270,
                     "minOSVersion": "15.1"
                 }
             ],
@@ -155,7 +155,7 @@
             "localizedDescription": "• To enter settings, long press on the Profile tab and click the ⚙️ Gear icon.\r\n• Download videos from FEED, stories, and Explore.\r\n• Save photos from FEED, Stories, and Profiles.\r\n• Merge photos and music From post together.\r\n• Save Profiles avatar or expand it.\r\n• Block all promo ads in Feed, Stories, and Explore.\r\n• Quick Seen / Unseen toggle for Stories and DMs.\r\n• Hide tabs such as Friends, Create, and Inbox.\r\n• Copy profiles bio.\r\n• Add toggle Auto Like for live streaming.\r\n• Stream Post from Specific country.\r\n• Add country Flags and post Date on FEED.\r\n• Add Follow status to Profile, following, not following, friends.\r\n• And many more customization options...\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png",
             "tintColor": "232621",
-            "size": 394130995,
+            "size": 393719270,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/2.PNG",
