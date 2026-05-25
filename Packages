@@ -5,11 +5,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm
 Filename: ./debs/me.ikghd.inkplus_4.4.5_iphoneos-arm.deb
-Size: 9365166
+Size: 9365318
 Installed-Size: 26280
-MD5sum: 5b4d256c8e5854d3f827da8e3fdf3af1
-SHA1: 307e50b608c836b17ecd8fa6d3de45bf48b8e7aa
-SHA256: 637876b6fc6baac1a796763d29441ebdb5faa69d11a4bb7ad50306f90d6edd77
+MD5sum: 79a945c2bcf672f5ce443f4ea2bc4ead
+SHA1: b3f5ae73cde63713376f7f7a808909f704d8b7a8
+SHA256: 7d35e5097225785bb18bc091738e9676ac987e1581e271c66cbbbd5bd2eac93b
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -24,11 +24,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64
 Filename: ./debs/me.ikghd.inkplus_4.4.5_iphoneos-arm64.deb
-Size: 9362322
+Size: 9368218
 Installed-Size: 26280
-MD5sum: 5f52f7d04e0c26ad7a2d7b6578ad142b
-SHA1: 4d380a989626394e2b6c276b3c8afc048271e842
-SHA256: 4834afac11aa5b7e80875e5b3e785a7768fda0f7ce943f68a03045480cb291e8
+MD5sum: 07ac83b4a18135365e83e42b1f3caa70
+SHA1: 155f08b5ec5fb0b77fc02db8f36a948ed38cc5c0
+SHA256: c6b24c3eaa065edb8ebee59a3f27e128a6433af8c48b20a483ef5e3a8b68ae89
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -85,11 +85,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64
 Filename: ./debs/me.ikghd.ttkplus_1.4.2_iphoneos-arm64.deb
-Size: 273692
+Size: 274644
 Installed-Size: 1072
-MD5sum: 91b8ac3137b44792c4692a4a3af74612
-SHA1: 6dc90ad599c247f1fabf7535b40d3adc17e6148e
-SHA256: 62ea9cc7d527fd23bc152cb62db9cf9b9a92010457b15197702f64b743dd0d30
+MD5sum: 88a5e0fa1b442293ad5ed89ff0a7eabb
+SHA1: 3b979a5db8acd44ead454e0476806309b49e4a18
+SHA256: c3c719351f2b9ec5853461bb6094c1b40d6143c04ad4433f08deefa932f3b7bc
 Description: a whole new TikTok Experience!
 Name: TTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -104,11 +104,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm
 Filename: ./debs/me.ikghd.ttkplus_1.4.2_iphoneos-arm.deb
-Size: 273622
+Size: 274910
 Installed-Size: 1072
-MD5sum: d6b1a9684b04416d74587842e5f57a80
-SHA1: a109c7f567197ec0c0190fcf24b0ea5c1f5968db
-SHA256: 2e6903477906b658dcefb268c4e39234d13019681f0aea7b3b112a42e6bd6c44
+MD5sum: 12021fa805ab73771aec871f6cd2d608
+SHA1: 7277c90ec5a09d8e0c968b50fd090c41dcc1e33d
+SHA256: 07c7a299eb11850c986f41d62bd6bb05fa61a5bac1472634d25e1b0f062c0ae8
 Description: a whole new TikTok Experience!
 Name: TTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
