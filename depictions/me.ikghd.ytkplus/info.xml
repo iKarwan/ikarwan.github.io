@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.5.2</version>
+    <version>5.5.3</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>5.5.2</version2>
+      <version2>5.5.3</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>May 24, 2026</date>
+      <date>May 26, 2026</date>
     </date>
 
     <price>
@@ -38,6 +38,10 @@
     </price>
 
     <changelog>
+      <change>· Added lyrics support in Queue mode for official tracks with available lyrics.</change>
+      <change>· Added 11 new tabs to the Tab Bar, available in the Tab Bar section.</change>
+      <change>· Improved Sleep Timer with smarter handling and custom timer options.</change>
+      <change>· General improvements, enhancements, and bug fixes.</change>
       <change>· Fixed a regression introduced in the previous version that could cause crashes for some users.</change>
       <change>·</change>
       <change>· Improved Feed ad blocking.</change>
