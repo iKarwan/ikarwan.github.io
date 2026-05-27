@@ -5,11 +5,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64
 Filename: ./debs/me.ikghd.inkplus_4.5_iphoneos-arm64.deb
-Size: 9371414
+Size: 9360354
 Installed-Size: 26280
-MD5sum: 6928eaa5464ddd30299b591607b8b2fe
-SHA1: 54d90eaecd08d2576e7cfa9823805eef697d0047
-SHA256: 37cfbd47fc31316220b2ff08c5ec436d7ba8a89746b67e9302b065c73a9655f8
+MD5sum: 04f7c7c3227d55ccfa71112861451147
+SHA1: 6570273cf207327f3ce73f2d454ac535c0b3b5e5
+SHA256: d9c860015d46cdb65efeb9875a7b803bfe7f44866b4c0e95d7049c0727a941ad
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -24,11 +24,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm
 Filename: ./debs/me.ikghd.inkplus_4.5_iphoneos-arm.deb
-Size: 9371922
+Size: 9367066
 Installed-Size: 26280
-MD5sum: e30b3e47d5a73e67d7bed8e538b9923b
-SHA1: 334280e7bd6a42b427b55c99630d30e79af25acd
-SHA256: 1f11484c3fb30c50e8117bf4602cabed4cf6c80ff406b9f5c0833a1da0ccc0b5
+MD5sum: 22a71a3427ed4fc325ac55505972cffa
+SHA1: 3f5a9944e9c986368fbb7acb9c2a359b8daa9b6d
+SHA256: 841ff7e4bf6df7b3df55f5a50014c778e7599ebccad770b2d39b3eb51742fa55
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
