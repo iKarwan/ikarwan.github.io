@@ -24,13 +24,13 @@
                     "version": "21.22.4",
                     "date": "2026-05-30",
                     "localizedDescription": "• Added open In YTKPlus safari extension (enable it in safari manage extension).\n• Fixes icon themes not showing on iOS v16.x > v18.x.\n• Fixed a regression introduced in the previous version that could cause crashes for some users.\n• Added lyrics support in Queue mode for supported tracks.\n• Added 11 new tabs in the Tab Bar section.\n• Improved Sleep Timer with smarter handling and custom timer options.\n• Improved Feed ad blocking.\n• Added playback recovery to restore original account state.\n• Fixed critical playback crashes and YouTube compatibility issues.\n• Added track titles, queue view, and swipe gestures in Mini Player.\n• Performance improvements and bug fixes.\n• Fixed ads occasionally reappearing in Feed.\n• Added missing localizations.\n• Update to v5.5 before 06/06/2026 — older versions will stop working.\n• Updated iPA to YouTube v21.21.",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.4.ipa",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.4_NP.ipa",
                     "size": 135217974,
                     "minOSVersion": "16.0"
                 }
             ],
             "versionDate": "2026-05-30",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.4.ipa",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.4_NP.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
