@@ -186,7 +186,7 @@
             },
 
             {
-                "markdown": "• Fixed a regression introduced in the previous version that could cause crashes for some users.\n• Added lyrics support in Queue mode for supported tracks.\n• Added 11 new tabs in the Tab Bar section.\n• Improved Sleep Timer with smarter handling and custom timer options.\n• Improved Feed ad blocking.\n• Added playback recovery to restore original account state.\n• Fixed critical playback crashes and YouTube compatibility issues.\n• Added track titles, queue view, and swipe gestures in Mini Player.\n• Performance improvements and bug fixes.\n• Fixed ads occasionally reappearing in Feed.\n• Added missing localizations.\n• Update to v5.5 before 06/06/2026 — older versions will stop working.\n• Updated iPA to YouTube v21.21.",
+                "markdown": "• Added open In YTKPlus safari extension (enable it in safari manage extension).\n• Fixes icon themes not showing on iOS v16.x > v18.x.\n• Fixed a regression introduced in the previous version that could cause crashes for some users.\n• Added lyrics support in Queue mode for supported tracks.\n• Added 11 new tabs in the Tab Bar section.\n• Improved Sleep Timer with smarter handling and custom timer options.\n• Improved Feed ad blocking.\n• Added playback recovery to restore original account state.\n• Fixed critical playback crashes and YouTube compatibility issues.\n• Added track titles, queue view, and swipe gestures in Mini Player.\n• Performance improvements and bug fixes.\n• Fixed ads occasionally reappearing in Feed.\n• Added missing localizations.\n• Update to v5.5 before 06/06/2026 — older versions will stop working.\n• Updated iPA to YouTube v21.21.",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -203,12 +203,12 @@
             },
             {
                 "title": "Version",
-                "text": "5.5.3",
+                "text": "5.5.4",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "May 26, 2026",
+                "text": "May 30, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -248,7 +248,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.21",
+                "text": " v20.20.2 - v21.22",
                 "class": "DepictionTableTextView"
             },
             {
