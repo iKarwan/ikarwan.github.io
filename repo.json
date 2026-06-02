@@ -84,7 +84,7 @@
                 {
                     "version": "431.0.0",
                     "date": "2026-06-01",
-                    "localizedDescription": "• Fixed sending files as audio.\n• Fixed the media picker appearing completely transparent on iOS 18.x and earlier.\n• Added full compatibility with IG v429 and later.\n• Please update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Added photo merging with music when audio is available.\n• Fully redesigned the photo picker with a smoother liquid-style UI and smarter photo/video selection.\n• Redesigned the download interface with a faster download engine.\n• Delivered major UI/UX improvements across the entire tweak.\n• Added full compatibility with IG v428 and later.\n• Updated base IPA to Instagram v431.0",
+                    "localizedDescription": "• Added open In iNKPlus safari extension (enable it in safari manage extension).\n• Fixed sending files as audio.\n• Fixed the media picker appearing completely transparent on iOS 18.x and earlier.\n• Added full compatibility with IG v429 and later.\n• Please update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Added photo merging with music when audio is available.\n• Fully redesigned the photo picker with a smoother liquid-style UI and smarter photo/video selection.\n• Redesigned the download interface with a faster download engine.\n• Delivered major UI/UX improvements across the entire tweak.\n• Added full compatibility with IG v428 and later.\n• Updated base IPA to Instagram v431.0",
                     "downloadURL": "https://ikghd.site/ipa/Instagram_431.0_iNKillerPlus_4.5_NP.ipa",
                     "size": 230131574,
                     "minOSVersion": "16.3"
@@ -144,7 +144,7 @@
                 {
                     "version": "45.3.0",
                     "date": "2026-06-01",
-                    "localizedDescription": "• Added options to disable sensitive content and warnings on posts and images.\n• Added confirmations for follows, likes, and comment likes.\n• Added options to hide LIVE and recommended content while scrolling the feed.\n• Tapping the following status emoji now shows the current status.\n• Fixed an issue where the flag button was not tappable in the previous version.\n• Other improvements and enhancements.\n• Please update to version 1.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Updated base IPA to TikTok v45.3.0",
+                    "localizedDescription": "• Added open In TTKPlus safari extension (enable it in safari manage extension).\n• Added options to disable sensitive content and warnings on posts and images.\n• Added confirmations for follows, likes, and comment likes.\n• Added options to hide LIVE and recommended content while scrolling the feed.\n• Tapping the following status emoji now shows the current status.\n• Fixed an issue where the flag button was not tappable in the previous version.\n• Other improvements and enhancements.\n• Please update to version 1.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Updated base IPA to TikTok v45.3.0",
                     "downloadURL": "https://ikghd.site/ipa/TikTok_45.3_TTKillerPlus_1.5_NP.ipa",
                     "size": 401271295,
                     "minOSVersion": "15.1"

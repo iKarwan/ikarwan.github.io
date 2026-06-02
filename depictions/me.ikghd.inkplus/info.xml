@@ -38,6 +38,7 @@
     </price>
 
     <changelog>
+      <change>· Added open In iNKPlus safari extension for iPA (enable it in safari manage extension).</change>
       <change>· Added full compatibility with IG v430 and later.</change>
       <change>· Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.</change>
       <change>· Fixed sending files as audio.</change>

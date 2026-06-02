@@ -38,7 +38,7 @@
     </price>
 
     <changelog>
-      <change>· Added open In YTKPlus safari extension (enable it in safari manage extension).</change>
+      <change>· Added open In YTKPlus safari extension for iPA (enable it in safari manage extension).</change>
       <change>· Fixes icon themes not showing on iOS v16.x > v18.x.</change>
       <change>·</change>
       <change>· Added 11 new tabs to the Tab Bar, available in the Tab Bar section.</change>

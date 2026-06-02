@@ -38,6 +38,7 @@
     </price>
 
     <changelog>
+      <change>· Added open In TTKPlus safari extension for iPA (enable it in safari manage extension).</change>
       <change>· Add option to pause the video when finishes no loop in FEED.</change>
       <change>· Fixes like button and double tap to like options.</change>
       <change>· Other improvements and enhancements.</change>
