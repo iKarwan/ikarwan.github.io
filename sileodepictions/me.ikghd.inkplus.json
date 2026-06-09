@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• Added open In iNKPlus safari extension for iPA (enable it in safari manage extension).\n• Added full compatibility with IG v430 and later.\n• Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.\n• Please update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Updated base IPA to Instagram v431.0",
+                "markdown": "• Added full compatibility with IG v432 and later.\n• Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.\n• Updated base IPA to Instagram v433.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"4.5",
+               "text":"4.5.5",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "May 26, 2026",
+                "text": "Jun 06, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -191,7 +191,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v431.0",
+                "text": " v409.1 - v433.0",
                 "class": "DepictionTableTextView"
             },
             {

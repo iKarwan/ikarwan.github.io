@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>4.5</version>
+    <version>4.5.5</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>4.5</version2>
+      <version2>4.5.5</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v431.0</appcomp>
+      <appcomp> v409.1 - v433.0</appcomp>
     </appcomp>
 
     <date>
-      <date>May 26, 2026</date>
+      <date>Jun 06, 2026</date>
     </date>
 
     <price>
@@ -38,12 +38,10 @@
     </price>
 
     <changelog>
-      <change>· Added open In iNKPlus safari extension for iPA (enable it in safari manage extension).</change>
-      <change>· Added full compatibility with IG v430 and later.</change>
+      <change>· Added full compatibility with IG v432 and later.</change>
       <change>· Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.</change>
       <change>· Fixed sending files as audio.</change>
       <change>· Fixed the media picker appearing completely transparent on iOS 18.x and earlier.</change>
-      <change>· Please update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.</change>
 
       <change>· Updated base IPA to Instagram v431.0</change>
     </changelog>

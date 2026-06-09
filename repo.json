@@ -22,19 +22,19 @@
             "versions": [
                 {
                     "version": "21.22.4",
-                    "date": "2026-06-02",
-                    "localizedDescription": "• Added open In YTKPlus safari extension (enable it in safari manage extension).\n• Fixes icon themes not showing on iOS v16.x > v18.x.\n• Fixed a regression introduced in the previous version that could cause crashes for some users.\n• Added lyrics support in Queue mode for supported tracks.\n• Added 11 new tabs in the Tab Bar section.\n• Improved Sleep Timer with smarter handling and custom timer options.\n• Improved Feed ad blocking.\n• Added playback recovery to restore original account state.\n• Fixed critical playback crashes and YouTube compatibility issues.\n• Added track titles, queue view, and swipe gestures in Mini Player.\n• Performance improvements and bug fixes.\n• Fixed ads occasionally reappearing in Feed.\n• Added missing localizations.\n• Update to v5.5 before 06/06/2026 — older versions will stop working.\n• Updated iPA to YouTube v21.21.",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.4_NP.ipa",
-                    "size": 135167375,
+                    "date": "2026-06-09",
+                    "localizedDescription": "• Introduced a completely redesigned queue system for a more modern playback experience.","Added an autoplay toggle in the More menu for both audio and video players.","Added “Zoom to Fill” option for enhanced video viewing control.","Fixed YouTube player speed menu to properly display fractional speeds (1.5×, 1.75×, etc.).","Updated IPA to YouTube v21.22",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.5.ipa",
+                    "size": 133188001,
                     "minOSVersion": "16.0"
                 }
             ],
-            "versionDate": "2026-06-02",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.4_NP.ipa",
+            "versionDate": "2026-06-09",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.5.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• Fake location.\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 135167375,
+            "size": 133188001,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
@@ -79,23 +79,23 @@
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "iKarwan",
             "subtitle": "A whole new Instagram experience!",
-            "version": "431.0.0",
+            "version": "433.0.0",
             "versions": [
                 {
-                    "version": "431.0.0",
-                    "date": "2026-06-02",
-                    "localizedDescription": "• Added open In iNKPlus safari extension (enable it in safari manage extension).\n• Fixed sending files as audio.\n• Fixed the media picker appearing completely transparent on iOS 18.x and earlier.\n• Added full compatibility with IG v429 and later.\n• Please update to version 4.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Added photo merging with music when audio is available.\n• Fully redesigned the photo picker with a smoother liquid-style UI and smarter photo/video selection.\n• Redesigned the download interface with a faster download engine.\n• Delivered major UI/UX improvements across the entire tweak.\n• Added full compatibility with IG v428 and later.\n• Updated base IPA to Instagram v431.0",
-                    "downloadURL": "https://ikghd.site/ipa/Instagram_431.0_iNKillerPlus_4.5_NP.ipa",
-                    "size": 229864977,
+                    "version": "433.0.0",
+                    "date": "2026-06-09",
+                    "localizedDescription": "• Added full compatibility with IG v432 and later.\n• Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.\n• Updated base IPA to Instagram v433.0",
+                    "downloadURL": "https://ikghd.site/ipa/Instagram_433.0_iNKillerPlus_4.5.5.ipa",
+                    "size": 230775026,
                     "minOSVersion": "16.3"
                 }
             ],
-            "versionDate": "2026-06-02",
-            "downloadURL": "https://ikghd.site/ipa/Instagram_431.0_iNKillerPlus_4.5_NP.ipa",
+            "versionDate": "2026-06-09",
+            "downloadURL": "https://ikghd.site/ipa/Instagram_433.0_iNKillerPlus_4.5.5.ipa",
             "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Save and merge photos with music as Slideshow.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages + storing it in logs.\r\n• Icon theme change iOS 18 and earlier.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png",
             "tintColor": "ff7c9f",
-            "size": 229864977,
+            "size": 230775026,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",
@@ -139,23 +139,23 @@
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "developerName": "iKarwan",
             "subtitle": "A whole new TikTok experience!",
-            "version": "45.3.0",
+            "version": "45.5.0",
             "versions": [
                 {
-                    "version": "45.3.0",
-                    "date": "2026-06-02",
-                    "localizedDescription": "• Added open In TTKPlus safari extension (enable it in safari manage extension).\n• Added options to disable sensitive content and warnings on posts and images.\n• Added confirmations for follows, likes, and comment likes.\n• Added options to hide LIVE and recommended content while scrolling the feed.\n• Tapping the following status emoji now shows the current status.\n• Fixed an issue where the flag button was not tappable in the previous version.\n• Other improvements and enhancements.\n• Please update to version 1.4 before 06/06/2026 — all earlier versions will stop working after that date.\n• Updated base IPA to TikTok v45.3.0",
-                    "downloadURL": "https://ikghd.site/ipa/TikTok_45.3_TTKillerPlus_1.5_NP.ipa",
-                    "size": 400721136,
+                    "version": "45.5.0",
+                    "date": "2026-06-09",
+                    "localizedDescription": "• Add option to pause the video when finishes no loop in FEED.\n• Fixes like button and double tap to like options.\n• Other improvements and enhancements.\n• Added options to disable sensitive content and warnings on posts and images.\n• Added confirmations for follows, likes, and comment likes.\n• Added options to hide LIVE and recommended content while scrolling the feed.\n• Tapping the following status emoji now shows the current status.\n• Fixed an issue where the flag button was not tappable in the previous version.\n• Updated base IPA to TikTok v45.5.0",
+                    "downloadURL": "https://ikghd.site/ipa/TikTok_45.5_TTKillerPlus_1.5.5.ipa",
+                    "size": 389055849,
                     "minOSVersion": "15.1"
                 }
             ],
-            "versionDate": "2026-06-02",
-            "downloadURL": "https://ikghd.site/ipa/TikTok_45.3_TTKillerPlus_1.5_NP.ipa",
+            "versionDate": "2026-06-09",
+            "downloadURL": "https://ikghd.site/ipa/TikTok_45.5_TTKillerPlus_1.5.5.ipa",
             "localizedDescription": "• To enter settings, long press on the Profile tab and click the ⚙️ Gear icon.\r\n• Download videos from FEED, stories, and Explore.\r\n• Save photos from FEED, Stories, and Profiles.\r\n• Merge photos and music From post together.\r\n• Save Profiles avatar or expand it.\r\n• Block all promo ads in Feed, Stories, and Explore.\r\n• Quick Seen / Unseen toggle for Stories and DMs.\r\n• Hide tabs such as Friends, Create, and Inbox.\r\n• Copy profiles bio.\r\n• Add toggle Auto Like for live streaming.\r\n• Stream Post from Specific country.\r\n• Add country Flags and post Date on FEED.\r\n• Add Follow status to Profile, following, not following, friends.\r\n• And many more customization options...\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png",
             "tintColor": "232621",
-            "size": 400721136,
+            "size": 389055849,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/2.PNG",

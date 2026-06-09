@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.5.4</version>
+    <version>5.5.5</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>5.5.4</version2>
+      <version2>5.5.5</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>May 30, 2026</date>
+      <date>Jun 06, 2026</date>
     </date>
 
     <price>
@@ -38,8 +38,11 @@
     </price>
 
     <changelog>
-      <change>· Added open In YTKPlus safari extension for iPA (enable it in safari manage extension).</change>
-      <change>· Fixes icon themes not showing on iOS v16.x > v18.x.</change>
+      <change>· Introduced a redesigned queue system for a smoother playback experience.</change>
+      <change>· Added an autoplay toggle in the More menu for both audio and video players.</change>
+      <change>· Implemented “Zoom to Fill” option for improved video viewing.</change>
+      <change>· Fixed YouTube player speed menu to correctly display fractional speeds (1.5×, 1.75×, etc.).</change>
+      <change>· General performance improvements and stability enhancements.</change>
       <change>·</change>
       <change>· Added 11 new tabs to the Tab Bar, available in the Tab Bar section.</change>
       <change>· Improved Sleep Timer with smarter handling and custom timer options.</change>
@@ -52,7 +55,6 @@
       <change>· Added track titles, queue view, and swipe gestures to Mini Player.</change>
       <change>· Performance improvements and bug fixes.</change>
       <change>· Fixed ads occasionally reappearing in Feed.</change>
-      <change>· Update to v5.5 before 06/06/2026 — older versions will stop working.</change>
 
       <change>· Updated iPA to newer YouTube v21.22</change>
     </changelog>
