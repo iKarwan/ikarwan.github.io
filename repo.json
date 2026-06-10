@@ -23,7 +23,7 @@
                 {
                     "version": "21.22.4",
                     "date": "2026-06-09",
-                    "localizedDescription": "• Introduced a completely redesigned queue system for a more modern playback experience.","Added an autoplay toggle in the More menu for both audio and video players.","Added “Zoom to Fill” option for enhanced video viewing control.","Fixed YouTube player speed menu to properly display fractional speeds (1.5×, 1.75×, etc.).","Updated IPA to YouTube v21.22",
+                    "localizedDescription": "• Introduced a completely redesigned queue system for a more modern playback experience. Added an autoplay toggle in the More menu for both audio and video players.\r\n• Added “Zoom to Fill” option for enhanced video viewing control.\r\n• Fixed YouTube player speed menu to properly display fractional speeds (1.5×, 1.75×, etc.).\r\n• Updated IPA to YouTube v21.22",
                     "downloadURL": "https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.5.ipa",
                     "size": 133188001,
                     "minOSVersion": "16.0"
