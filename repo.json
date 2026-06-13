@@ -25,7 +25,7 @@
                     "date": "2026-06-12",
                     "localizedDescription": "• Fixes YTKPlus settings OLED dark mode not switching correctly when system appearance changes automatically while OLED mode is enabled.\r\n• Introduced a completely redesigned queue system for a more modern playback experience. Added an autoplay toggle in the More menu for both audio and video players.\r\n• Added “Zoom to Fill” option for enhanced video viewing control.\r\n• Fixed YouTube player speed menu to properly display fractional speeds (1.5×, 1.75×, etc.).\r\n• Updated IPA to YouTube v21.22",
                     "downloadURL": "https://ikghd.site/ipa/YouTube_21.22_YTKillerPlus_5.5.6.ipa",
-                    "size": 135175325,
+                    "size": 135319968,
                     "minOSVersion": "16.0"
                 }
             ],
@@ -34,7 +34,7 @@
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 135175325,
+            "size": 135319968,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
@@ -86,7 +86,7 @@
                     "date": "2026-06-12",
                     "localizedDescription": "• Fixes a regression introduced in the previous version affecting manually marking DMs as read.\n• Added full compatibility with IG v432 and later.\n• Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.\n• Updated base IPA to Instagram v433.0",
                     "downloadURL": "https://ikghd.site/ipa/Instagram_433.0_iNKillerPlus_4.5.6.ipa",
-                    "size": 232212495,
+                    "size": 232212715,
                     "minOSVersion": "16.3"
                 }
             ],
@@ -95,7 +95,7 @@
             "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo.\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Save and merge photos with music as Slideshow.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages + storing it in logs.\r\n• Icon theme change iOS 18 and earlier.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png",
             "tintColor": "ff7c9f",
-            "size": 232212495,
+            "size": 232212715,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",
@@ -146,7 +146,7 @@
                     "date": "2026-06-12",
                     "localizedDescription": "• Add option to pause the video when finishes no loop in FEED.\n• Fixes like button and double tap to like options.\n• Other improvements and enhancements.\n• Added options to disable sensitive content and warnings on posts and images.\n• Added confirmations for follows, likes, and comment likes.\n• Added options to hide LIVE and recommended content while scrolling the feed.\n• Tapping the following status emoji now shows the current status.\n• Fixed an issue where the flag button was not tappable in the previous version.\n• Updated base IPA to TikTok v45.5.0",
                     "downloadURL": "https://ikghd.site/ipa/TikTok_45.5_TTKillerPlus_1.5.6.ipa",
-                    "size": 402798106,
+                    "size": 402799350,
                     "minOSVersion": "15.1"
                 }
             ],
@@ -155,7 +155,7 @@
             "localizedDescription": "• To enter settings, long press on the Profile tab and click the ⚙️ Gear icon.\r\n• Download videos from FEED, stories, and Explore.\r\n• Save photos from FEED, Stories, and Profiles.\r\n• Merge photos and music From post together.\r\n• Save Profiles avatar or expand it.\r\n• Block all promo ads in Feed, Stories, and Explore.\r\n• Quick Seen / Unseen toggle for Stories and DMs.\r\n• Hide tabs such as Friends, Create, and Inbox.\r\n• Copy profiles bio.\r\n• Add toggle Auto Like for live streaming.\r\n• Stream Post from Specific country.\r\n• Add country Flags and post Date on FEED.\r\n• Add Follow status to Profile, following, not following, friends.\r\n• And many more customization options...\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png",
             "tintColor": "232621",
-            "size": 402798106,
+            "size": 402799350,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/2.PNG",
