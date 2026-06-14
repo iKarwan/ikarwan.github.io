@@ -186,7 +186,7 @@
             },
 
             {
-                "markdown": "• Fixes YTKPlus settings OLED dark mode not switching correctly when system appearance changes automatically while OLED mode is enabled.\n• A whole new queue design.\n• Add autoplay toggle in more button for both audio and video player.\n• Add zoom to fill for videos.\n• Fixes cutout the speed option in YT Player that shows only 1: 2: 3: etc.. not shpowos parent number 1.5 1.75 etc...\n• Updated iPA to YouTube v21.22",
+                "markdown": "• Fixes YTKPlus settings OLED dark mode not switching correctly when system appearance changes automatically while OLED mode is enabled.\n• A whole new queue design.\n• Added autoplay toggle in More button for both audio and video player.\n• Added Zoom to Fill for videos.\n• Fixed YouTube Player speed menu showing only 1:, 2:, 3:, etc. instead of proper values such as 1.5× and 1.75×.\n• Updated iPA to YouTube v21.24",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -203,7 +203,7 @@
             },
             {
                 "title": "Version",
-                "text": "5.5.7",
+                "text": "5.6",
                 "class": "DepictionTableTextView"
             },
             {
@@ -248,12 +248,12 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v20.20.2 - v21.22",
+                "text": " v20.20.2 - v21.24",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Compatibility",
-                "text": "iOS & iPadOS 15.1 - 26.x",
+                "text": "iOS & iPadOS 15.1 - 27.x",
                 "class": "DepictionTableTextView"
             },
 
