@@ -22,14 +22,14 @@
             "versions": [
                 {
                     "version": "21.24.3",
-                    "date": "2026-06-15",
+                    "date": "2026-06-14",
                     "localizedDescription": "• Fixes YTKPlus settings OLED dark mode not switching correctly when system appearance changes automatically while OLED mode is enabled.\n• A whole new queue design.\n• Added autoplay toggle in More button for both audio and video player.\n• Added Zoom to Fill for videos.\n• Fixed YouTube Player speed menu showing only 1:, 2:, 3:, etc. instead of proper values such as 1.5× and 1.75×.\n• Updated iPA to YouTube v21.24",
                     "downloadURL": "https://ikghd.site/ipa/YouTube_21.24_YTKillerPlus_5.6.ipa",
                     "size": 132163505,
                     "minOSVersion": "16.0"
                 }
             ],
-            "versionDate": "2026-06-15",
+            "versionDate": "2026-06-14",
             "downloadURL": "https://ikghd.site/ipa/YouTube_21.24_YTKillerPlus_5.6.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
