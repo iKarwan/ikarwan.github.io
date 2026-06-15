@@ -186,7 +186,7 @@
             },
 
             {
-                "markdown": "• Fixes YTKPlus settings OLED dark mode not switching correctly when system appearance changes automatically while OLED mode is enabled.\n• A whole new queue design.\n• Added autoplay toggle in More button for both audio and video player.\n• Added Zoom to Fill for videos.\n• Fixed YouTube Player speed menu showing only 1:, 2:, 3:, etc. instead of proper values such as 1.5× and 1.75×.\n• Updated iPA to YouTube v21.24",
+                "markdown": "• Fixes a critical regration were introduced in previous version RECOMMENDED TO UPDATE TO THIS VERSION.\n• Fixes YTKPlus settings OLED dark mode not switching correctly when system appearance changes automatically while OLED mode is enabled.\n• A whole new queue design.\n• Added autoplay toggle in More button for both audio and video player.\n• Added Zoom to Fill for videos.\n• Fixed YouTube Player speed menu showing only 1:, 2:, 3:, etc. instead of proper values such as 1.5× and 1.75×.\n• Updated iPA to YouTube v21.24",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -203,12 +203,12 @@
             },
             {
                 "title": "Version",
-                "text": "5.6",
+                "text": "5.6.1",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jun 14, 2026",
+                "text": "Jun 16, 2026",
                 "class": "DepictionTableTextView"
             },
             {
