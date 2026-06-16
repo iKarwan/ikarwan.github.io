@@ -1,11 +1,11 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>4.5.6</version>
+    <version>4.6</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
-            <maxiOS>26.x</maxiOS>
+            <maxiOS>27.x</maxiOS>
         </firmware>
     </compatibility>
 
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>4.5.6</version2>
+      <version2>4.6</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v433.0</appcomp>
+      <appcomp> v409.1 - v434.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Jun 12, 2026</date>
+      <date>Jun 16, 2026</date>
     </date>
 
     <price>
@@ -38,13 +38,14 @@
     </price>
 
     <changelog>
+      <change>· PLEASE REFER TO THE FAQ PAGE IF YOU NEED ANYTHING EVERYTHING INCLUDED THERE.</change>
       <change>· Fixes a regression introduced in the previous version affecting manually marking DMs as read.</change>
       <change>· Added full compatibility with IG v432 and later.</change>
       <change>· Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.</change>
       <change>· Fixed sending files as audio.</change>
       <change>· Fixed the media picker appearing completely transparent on iOS 18.x and earlier.</change>
 
-      <change>· Updated base IPA to Instagram v433.0</change>
+      <change>· Updated base IPA to Instagram v434.0</change>
     </changelog>
 
 

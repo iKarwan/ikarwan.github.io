@@ -38,7 +38,8 @@
     </price>
 
     <changelog>
-      <change>·  Fixes a critical regration were introduced in previous version RECOMMENDED TO UPDATE TO THIS VERSION.</change>
+      <change>· PLEASE REFER TO THE FAQ PAGE IF YOU NEED ANYTHING EVERYTHING INCLUDED THERE.</change>
+      <change>· Fixes a critical regration were introduced in previous version RECOMMENDED TO UPDATE TO THIS VERSION.</change>
       <change>.</change>
       <change>· Fixes YTKPlus settings OLED dark mode not switching correctly when system appearance changes automatically while OLED mode is enabled.</change>
       <change>· Introduced a redesigned queue system for a smoother playback experience.</change>

@@ -1,11 +1,11 @@
 <package>
    <id>me.ikghd.ttkplus</id>
     <name>TTKillerPlus</name>
-    <version>1.5.6</version>
+    <version>1.6</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
-            <maxiOS>26.x</maxiOS>
+            <maxiOS>27.x</maxiOS>
         </firmware>
     </compatibility>
 
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>1.5.6</version2>
+      <version2>1.6</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v44.4.0 - v45.5.0</appcomp>
+      <appcomp> v44.4.0 - v45.6.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Jun 12, 2026</date>
+      <date>Jun 16, 2026</date>
     </date>
 
     <price>
@@ -38,6 +38,7 @@
     </price>
 
     <changelog>
+      <change>· PLEASE REFER TO THE FAQ PAGE IF YOU NEED ANYTHING EVERYTHING INCLUDED THERE.</change>
       <change>· Add option to pause the video when finishes no loop in FEED.</change>
       <change>· Fixes like button and double tap to like options.</change>
       <change>· Other improvements and enhancements.</change>
@@ -47,7 +48,7 @@
       <change>· Added options to hide LIVE and recommended content while scrolling the feed.</change>
       <change>· Tapping the following status emoji now shows the current status.</change>
       <change>· Fixed an issue where the flag button was not tappable in the previous version.</change>
-      <change>· Updated base IPA to TikTok v45.5.0</change>
+      <change>· Updated base IPA to TikTok v45.6.0</change>
     </changelog>
 
 

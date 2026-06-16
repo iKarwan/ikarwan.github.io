@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• Fixes a regression introduced in the previous version affecting manually marking DMs as read.\n• Added full compatibility with IG v432 and later.\n• Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.\n• Updated base IPA to Instagram v433.0",
+                "markdown": "• PLEASE REFER TO THE FAQ PAGE IF YOU NEED ANYTHING EVERYTHING INCLUDED THERE.\n• Fixes a regression introduced in the previous version affecting manually marking DMs as read.\n• Added full compatibility with IG v432 and later.\n• Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.\n• Updated base IPA to Instagram v433.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -151,7 +151,7 @@
             },
             {
                 "title": "Updated",
-                "text": "Jun 12, 2026",
+                "text": "Jun 16, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -191,12 +191,12 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v433.0",
+                "text": " v409.1 - v434.0",
                 "class": "DepictionTableTextView"
             },
             {
                "title":"Compatibility",
-               "text": "iOS & iPadOS 15.1 - 26.x",
+               "text": "iOS & iPadOS 15.1 - 27.x",
                "class":"DepictionTableTextView"
             },
 
