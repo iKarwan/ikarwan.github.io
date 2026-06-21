@@ -186,7 +186,7 @@
             },
 
             {
-                "markdown": "• Add new hook for future YouTube version playback support.\n• Added playback recovery to restore the original account state.\n• Added track titles, queue view, and swipe gestures to Mini Player.\n• Added new FHD-quality icons and refreshed existing icons.\n• Improved backup management by automatically cleaning saved backups and removing leftover backup files from document storage.\n• Improved lyrics API handling for the audio player.\n• Improved audio player queue switching for a smoother experience.\n• Improved gesture handling.\n• Fixed a crash on launch on iOS 27.x.\n• Fixed 'Open in YTKPlus' Safari extension to correctly use a single App ID instead of two.\n• Fixed tab reversing issue.\n• Fixed color issues when returning to YouTube after the app enters the background.\n• Fixed activation color turning completely black in Light Mode.\n• Fixed Shorts FS compatibility for newer YouTube versions.\n• Fixed YouTube Player speed menu showing only 1:, 2:, 3:, etc. instead of proper values such as 1.5× and 1.75×.\n• Performance improvements and bug fixes.\n• Updated iPA to YouTube v21.24",
+                "markdown": "• Fixes search may crashes in some cases.\n- Add new hook for future YouTube version playback support.\n• Added playback recovery to restore the original account state.\n• Added track titles, queue view, and swipe gestures to Mini Player.\n• Added new FHD-quality icons and refreshed existing icons.\n• Improved backup management by automatically cleaning saved backups and removing leftover backup files from document storage.\n• Improved lyrics API handling for the audio player.\n• Improved audio player queue switching for a smoother experience.\n• Improved gesture handling.\n• Fixed a crash on launch on iOS 27.x.\n• Fixed 'Open in YTKPlus' Safari extension to correctly use a single App ID instead of two.\n• Fixed tab reversing issue.\n• Fixed color issues when returning to YouTube after the app enters the background.\n• Fixed activation color turning completely black in Light Mode.\n• Fixed Shorts FS compatibility for newer YouTube versions.\n• Fixed YouTube Player speed menu showing only 1:, 2:, 3:, etc. instead of proper values such as 1.5× and 1.75×.\n• Performance improvements and bug fixes.\n• Updated iPA to YouTube v21.24",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -203,12 +203,12 @@
             },
             {
                 "title": "Version",
-                "text": "5.7",
+                "text": "5.7.1",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jun 20, 2026",
+                "text": "Jun 21, 2026",
                 "class": "DepictionTableTextView"
             },
             {
