@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.7.1</version>
+    <version>5.7.2</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>5.7.1</version2>
+      <version2>5.7.2</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v21.20.4 - v21.24</appcomp>
+      <appcomp> v21.21.4 - v21.25</appcomp>
     </appcomp>
 
     <date>
-      <date>Jun 21, 2026</date>
+      <date>Jun 22, 2026</date>
     </date>
 
     <price>
@@ -59,7 +59,7 @@
 
       <change>· Performance improvements and bug fixes</change>
 
-      <change>· Updated iPA to newer YouTube v21.24</change>
+      <change>· Updated iPA to newer YouTube v21.25</change>
     </changelog>
 
 
