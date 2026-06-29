@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.7.2</version>
+    <version>5.7.5</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>5.7.2</version2>
+      <version2>5.7.5</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v21.21.4 - v21.25</appcomp>
+      <appcomp> v21.22.4 - v21.26</appcomp>
     </appcomp>
 
     <date>
-      <date>Jun 22, 2026</date>
+      <date>Jun 30, 2026</date>
     </date>
 
     <price>
@@ -38,7 +38,10 @@
     </price>
 
     <changelog>
+      <change>· Fixes a critical old bug with account may sign out in some cases fixed forever</change>
+      <change>· Fixes sposnsor block segment s may appear on all videos when previous one have segment drawed in progress bar</change>
       <change>· Fixes search may crashes in some cases</change>
+      <change>· Updated iPA to newer YouTube v21.26</change>
       <change>·</change>
       <change>· Add new hook for future YouTube version playback support</change>
       <change>· Add playback recovery to restore the original account state</change>
