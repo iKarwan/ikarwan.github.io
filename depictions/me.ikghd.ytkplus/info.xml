@@ -38,8 +38,8 @@
     </price>
 
     <changelog>
-      <change>· Fix 4x and 5x not showing correctly on video and audio player</change>
-      <change>· Fixes Rootlessreinstall bricks</change>
+      <change>· Fix 4x and 5x speed not showing correctly on video and audio player</change>
+      <change>· Fixes Rootless reinstall bricks</change>
       <change>· Fix missing localization</change>
       <change>· Permanently fix an account sign-out bug</change>
       <change>· Fix SponsorBlock segments appearing on unrelated videos</change>
