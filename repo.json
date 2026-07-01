@@ -22,19 +22,19 @@
             "versions": [
                 {
                     "version": "21.26.4",
-                    "date": "2026-06-29",
-                    "localizedDescription": "• Fixes a critical old bug with account may sign out in some cases fixed forever.\n• Fixes sposnsor block segment s may appear on all videos when previous one have segment drawed in progress bar.\n• Updated iPA to newer YouTube v21.26.\n• Fixes search may crashes in some cases.\n- Add new hook for future YouTube version playback support.\n• Added playback recovery to restore the original account state.\n• Added track titles, queue view, and swipe gestures to Mini Player.\n• Added new FHD-quality icons and refreshed existing icons.\n• Improved backup management by automatically cleaning saved backups and removing leftover backup files from document storage.\n• Improved lyrics API handling for the audio player.\n• Improved audio player queue switching for a smoother experience.\n• Improved gesture handling.\n• Fixed a crash on launch on iOS 27.x.\n• Fixed 'Open in YTKPlus' Safari extension to correctly use a single App ID instead of two.\n• Fixed tab reversing issue.\n• Fixed color issues when returning to YouTube after the app enters the background.\n• Fixed activation color turning completely black in Light Mode.\n• Fixed Shorts FS compatibility for newer YouTube versions.\n• Fixed YouTube Player speed menu showing only 1:, 2:, 3:, etc. instead of proper values such as 1.5× and 1.75×.\n• Performance improvements and bug fixes.\n• Updated iPA to YouTube v21.24",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.26_YTKillerPlus_5.7.5.ipa",
-                    "size": 135179377,
+                    "date": "2026-07-01",
+                    "localizedDescription": "• Fix a localization missing issue.\n• Permanently fix an account sign-out bug.\n• Fix SponsorBlock segments appearing on unrelated videos.\n• Update iPA to YouTube v21.26.\n• Fix occasional search crashes.\n• Updated iPA to newer YouTube v21.26.\n• Fixes search may crashes in some cases.\n- Add new hook for future YouTube version playback support.\n• Added playback recovery to restore the original account state.\n• Added track titles, queue view, and swipe gestures to Mini Player.\n• Added new FHD-quality icons and refreshed existing icons.\n• Improved backup management by automatically cleaning saved backups and removing leftover backup files from document storage.\n• Improved lyrics API handling for the audio player.\n• Improved audio player queue switching for a smoother experience.\n• Improved gesture handling.\n• Fixed a crash on launch on iOS 27.x.\n• Fixed 'Open in YTKPlus' Safari extension to correctly use a single App ID instead of two.\n• Fixed tab reversing issue.\n• Fixed color issues when returning to YouTube after the app enters the background.\n• Fixed activation color turning completely black in Light Mode.\n• Fixed Shorts FS compatibility for newer YouTube versions.\n• Fixed YouTube Player speed menu showing only 1:, 2:, 3:, etc. instead of proper values such as 1.5× and 1.75×.\n• Performance improvements and bug fixes.\n• Updated iPA to YouTube v21.24",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.26_YTKillerPlus_5.7.6.ipa",
+                    "size": 135177626,
                     "minOSVersion": "16.0"
                 }
             ],
-            "versionDate": "2026-06-29",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.26_YTKillerPlus_5.7.5.ipa",
+            "versionDate": "2026-07-01",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.26_YTKillerPlus_5.7.6.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 135179377,
+            "size": 135177626,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
