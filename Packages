@@ -117,17 +117,17 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ttkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png
 
 Package: me.ikghd.ytkplus
-Version: 5.7.8
+Version: 5.8
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
-Architecture: iphoneos-arm64
-Filename: ./debs/me.ikghd.ytkplus_5.7.8_iphoneos-arm64.deb
-Size: 9782142
-Installed-Size: 27968
-MD5sum: 420becbefc0ce2f87fe07a411010e8fa
-SHA1: 3f270c72d016ea06139eb71245140bec864943b0
-SHA256: 4e73b60e376c579bac56a5657929224deec5827a62c32e075dbba0694856e54e
+Architecture: iphoneos-arm
+Filename: ./debs/me.ikghd.ytkplus_5.8_iphoneos-arm.deb
+Size: 9790310
+Installed-Size: 28016
+MD5sum: 6a96f982dd3ed9e49992abede7e929da
+SHA1: 9016c482969f520c363bc5f62204be170cf8e038
+SHA256: 288a424edffd307453c1f8ab040e6504c5a119c2383dea90aa93e84351851e65
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -136,17 +136,17 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
 
 Package: me.ikghd.ytkplus
-Version: 5.7.8
+Version: 5.8
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
-Architecture: iphoneos-arm
-Filename: ./debs/me.ikghd.ytkplus_5.7.8_iphoneos-arm.deb
-Size: 9775612
-Installed-Size: 27968
-MD5sum: 87912e62d82cc91d65ab19c04aa80dec
-SHA1: d19709b3c97c98dae3b745c5436a83ba073f55fd
-SHA256: def3b3e64718de8e167a83e2170243fdba2c1b33734629e8c73ce5b13ccb3719
+Architecture: iphoneos-arm64
+Filename: ./debs/me.ikghd.ytkplus_5.8_iphoneos-arm64.deb
+Size: 9789434
+Installed-Size: 28016
+MD5sum: 1900b7011539dbf2314fc3af30c4b33d
+SHA1: ba0b4223e65e6e39018e5d81ec7e6eebd70a6bef
+SHA256: 4c2fa8ce71e87b933bd4f35a9a4ae7faadb8318f2baebf330bd3da02e175a4ad
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
