@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• PLEASE REFER TO THE FAQ PAGE IF YOU NEED ANYTHING EVERYTHING INCLUDED THERE.\n• Fixes a regression introduced in the previous version affecting manually marking DMs as read.\n• Added full compatibility with IG v432 and later.\n• Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.\n• Updated base IPA to Instagram v433.0",
+                "markdown": "• Due to security reasons, we have disabled injection next to our tweak\n. Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only iNKPlus in Choicy in the meantime\n• Updated base IPA to Instagram v438.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"4.5.6",
+               "text":"4.7",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jun 16, 2026",
+                "text": "Jul 15, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -191,7 +191,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v434.0",
+                "text": " v409.1 - v438.0",
                 "class": "DepictionTableTextView"
             },
             {

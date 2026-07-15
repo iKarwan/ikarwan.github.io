@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>4.6</version>
+    <version>4.7</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>4.6</version2>
+      <version2>4.7</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v434.0</appcomp>
+      <appcomp> v409.1 - v438.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Jun 16, 2026</date>
+      <date>Jul 15, 2026</date>
     </date>
 
     <price>
@@ -38,14 +38,12 @@
     </price>
 
     <changelog>
-      <change>· PLEASE REFER TO THE FAQ PAGE IF YOU NEED ANYTHING EVERYTHING INCLUDED THERE.</change>
-      <change>· Fixes a regression introduced in the previous version affecting manually marking DMs as read.</change>
-      <change>· Added full compatibility with IG v432 and later.</change>
-      <change>· Add 7 new iG app icon that been add in v429 iOS 18.x and earlier only.</change>
-      <change>· Fixed sending files as audio.</change>
+      <change>· Due to security reasons, we have disabled injection next to our tweak.</change>
+      <change>· Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only iNKPlus in Choicy in the meantime.</change>
+      <change>· Added full compatibility with IG v434 and later.</change>
       <change>· Fixed the media picker appearing completely transparent on iOS 18.x and earlier.</change>
 
-      <change>· Updated base IPA to Instagram v434.0</change>
+      <change>· Updated base IPA to Instagram v438.0</change>
     </changelog>
 
 
