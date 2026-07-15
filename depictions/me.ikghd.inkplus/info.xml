@@ -38,10 +38,9 @@
     </price>
 
     <changelog>
-      <change>· Due to security reasons, we have disabled injection next to our tweak.</change>
-      <change>· Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only iNKPlus in Choicy in the meantime.</change>
       <change>· Added full compatibility with IG v434 and later.</change>
       <change>· Fixed the media picker appearing completely transparent on iOS 18.x and earlier.</change>
+      <change>· other fixes and improvements.</change>
 
       <change>· Updated base IPA to Instagram v438.0</change>
     </changelog>

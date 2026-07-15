@@ -38,9 +38,8 @@
     </price>
 
     <changelog>
-      <change>· Due to security reasons, we have disabled injection next to our tweak.</change>
-      <change>· Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only TTKPlus in Choicy in the meantime.</change>
-      <change>.</change>
+      <change>· add v45.6+ compatibility.</change>
+      <change>· other fixes and improvements.</change>
       <change>· Updated base IPA to TikTok v46.0.0</change>
     </changelog>
 
