@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.9.4</version>
+    <version>5.9.5</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>5.9.4</version2>
+      <version2>5.9.5</version2>
     </version2>
 
     <appcomp>
@@ -38,10 +38,8 @@
     </price>
 
     <changelog>
-      <change>· Due to security reasons, we have disabled injection next to our tweak.</change>
-      <change>· Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only YTKPlus in Choicy in the meantime.</change>
-      <change>·</change>
 
+      <change>· fix an issue may prevent loading the tweak</change>
       <change>· Performance improvements and bug fixes</change>
 
       <change>· Updated iPA to newer YouTube v21.24</change>

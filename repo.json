@@ -23,18 +23,18 @@
                 {
                     "version": "21.24.3",
                     "date": "2026-07-15",
-                    "localizedDescription": "• Due to security reasons, we have disabled injection next to our tweak\n. Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only YTKPlus in Choicy in the meantime\n. Performance improvements and bug fixes.\n• Updated iPA to YouTube v21.24",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.24_YTKillerPlus_5.9.4.ipa",
-                    "size": 135715750,
+                    "localizedDescription": "• Performance improvements and bug fixes.\n• Updated iPA to YouTube v21.24",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.24_YTKillerPlus_5.9.5.ipa",
+                    "size": 135619020,
                     "minOSVersion": "16.0"
                 }
             ],
             "versionDate": "2026-07-15",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.24_YTKillerPlus_5.9.4.ipa",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.24_YTKillerPlus_5.9.5.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 135715750,
+            "size": 135619020,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
@@ -84,7 +84,7 @@
                 {
                     "version": "438.0.0",
                     "date": "2026-07-15",
-                    "localizedDescription": "• Due to security reasons, we have disabled injection next to our tweak\n. Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only iNKPlus in Choicy in the meantime\n• Updated base IPA to Instagram v438.0",
+                    "localizedDescription": "• fixes and improvemnets\n• Updated base IPA to Instagram v438.0",
                     "downloadURL": "https://ikghd.site/ipa/Instagram_438.0_iNKillerPlus_4.7.ipa",
                     "size": 249714445,
                     "minOSVersion": "16.3"
@@ -144,7 +144,7 @@
                 {
                     "version": "46.0.0",
                     "date": "2026-07-15",
-                    "localizedDescription": "• Due to security reasons, we have disabled injection next to our tweak\n. Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only TTKPlus in Choicy in the meantime.\n• Fixed an issue where the flag button was not tappable in the previous version.\n• Updated base IPA to TikTok v46.0",
+                    "localizedDescription": "• Fixed an issue where the flag button was not tappable in the previous version.\n• Updated base IPA to TikTok v46.0",
                     "downloadURL": "https://ikghd.site/ipa/TikTok_46.0_TTKillerPlus_1.7.ipa",
                     "size": 426996673,
                     "minOSVersion": "15.1"

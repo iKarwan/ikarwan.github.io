@@ -186,7 +186,7 @@
             },
 
             {
-                "markdown": "• Due to security reasons, we have disabled injection next to our tweak\n. Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only YTKPlus in Choicy in the meantime\n. Performance improvements and bug fixes.\n• Updated iPA to YouTube v21.24",
+                "markdown": "• fix an issue may prevent loading the tweak\n. Performance improvements and bug fixes.\n• Updated iPA to YouTube v21.24",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -203,7 +203,7 @@
             },
             {
                 "title": "Version",
-                "text": "5.9.4",
+                "text": "5.9.5",
                 "class": "DepictionTableTextView"
             },
             {
