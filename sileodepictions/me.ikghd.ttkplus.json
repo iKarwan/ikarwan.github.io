@@ -119,7 +119,7 @@
             },
 
             {
-                "markdown": "• Due to security reasons, we have disabled injection next to our tweak\n. Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only TTKPlus in Choicy in the meantime.\n• Fixed an issue where the flag button was not tappable in the previous version.\n• Updated base IPA to TikTok v46.0",
+                "markdown": "• fixes and improvements.\n• Fixed an issue where the flag button was not tappable in the previous version.\n• Updated base IPA to TikTok v46.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -136,7 +136,7 @@
             },
             {
                "title":"Version",
-               "text":"1.7",
+               "text":"1.7.1",
                "class":"DepictionTableTextView"
             },
             {

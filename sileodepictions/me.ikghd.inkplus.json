@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• Due to security reasons, we have disabled injection next to our tweak\n. Please do not inject any other tweaks next to our tweak for now. If your device is jailbroken, please allow only iNKPlus in Choicy in the meantime\n• Updated base IPA to Instagram v438.0",
+                "markdown": "• add v434+ Compatibility\n• Updated base IPA to Instagram v438.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -146,7 +146,7 @@
             },
             {
                "title":"Version",
-               "text":"4.7",
+               "text":"4.7.1",
                "class":"DepictionTableTextView"
             },
             {
