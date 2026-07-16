@@ -203,12 +203,12 @@
             },
             {
                 "title": "Version",
-                "text": "5.9.6",
+                "text": "5.9.7",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Jul 15, 2026",
+                "text": "Jul 16, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -248,7 +248,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v21.22.2 - v21.24",
+                "text": " v21.10.2 - v21.24",
                 "class": "DepictionTableTextView"
             },
             {
