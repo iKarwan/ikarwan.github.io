@@ -24,17 +24,17 @@
                     "version": "21.28.3",
                     "date": "2026-07-22",
                     "localizedDescription": "•  Full compatibility with YouTube v21.24 and later.\n• New hook for future YT versions to improve playback issue speed recover using default server-side logic.\n• Enhanced ad blocking for Home feed — minimizes residual ads on refresh.\n• Native iPad alert support in multiple locations.\n• New preferences framework — please re-enable desired features after update.\n• Faster backup implementation.\n• Many performance enhancements and optimizations.\n• Updated iPA to YouTube v21.28.\n• Fixed download issues on v21.25+.\n• Fixed tweak loading on previous versions.\n• Addressed crash when opening sideloaded apps.\n• Fixed PiP crash when background playback was disabled.\n• Resolved infinite freeze when installing via LiveContainer.\n• Corrected error message display during rate-limit retries.\n• Recommended to use YTKillerPlus with your main account on RAW without additional dylibs to avoid compatibility issues.\n• Performance improvements and bug fixes.",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.28_YTKillerPlus_5.9.8.ipa",
-                    "size": 134722955,
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.28_YTKillerPlus_5.9.9.ipa",
+                    "size": 134737094,
                     "minOSVersion": "16.0"
                 }
             ],
             "versionDate": "2026-07-22",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.28_YTKillerPlus_5.9.8.ipa",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.28_YTKillerPlus_5.9.9.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 134722955,
+            "size": 134737094,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
