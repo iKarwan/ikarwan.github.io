@@ -40,7 +40,7 @@
     <changelog>
 
       <change>· Full compatibility with YouTube v21.24 and later</change>
-      <change>· New hook for future YT versions to improve playback speed using default server-side logic</change>
+      <change>· New hook for future YT versions to improve playback issue speed recover using default server-side logic</change>
       <change>· Enhanced ad blocking for Home feed — minimizes residual ads on refresh</change>
       <change>· Native iPad alert support in multiple locations</change>
       <change>· New preferences framework — please re-enable desired features after update</change>
