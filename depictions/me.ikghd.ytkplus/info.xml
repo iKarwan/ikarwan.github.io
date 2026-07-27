@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.16</version>
+    <version>5.17</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>5.16</version2>
+      <version2>5.17</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Jul 26, 2026</date>
+      <date>Jul 27, 2026</date>
     </date>
 
     <price>
@@ -39,9 +39,8 @@
 
     <changelog>
 
-      <change>· Fix Download icon not showing with new preferences</change>
+      <change>· Fix an issue with dopamine jailbreak not loading some fetures properly on ios 16+</change>
       <change>· Fix some features not loading properly in v21.29</change>
-      <change>· Other fixes and improvements</change>
       <change>· Updated iPA to newer YouTube v21.30</change>
       <change>·</change>
       <change>· New hook for future YT versions to improve playback issue speed recover using default server-side logic</change>
