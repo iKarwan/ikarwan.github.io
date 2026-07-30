@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>5.23</version>
+    <version>5.25</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>5.23</version2>
+      <version2>5.25</version2>
     </version2>
 
     <appcomp>
@@ -38,8 +38,9 @@
     </price>
 
     <changelog>
-      
-      <change>· add suport for roothide</change>
+
+      <change>· fixes oled keyboard issue on iOS27</change>
+      <change>· add support for roothide</change>
       <change>· Fix an issue with dopamine jailbreak not loading some fetures properly on ios 16+</change>
       <change>· Fix some features not loading properly in v21.29</change>
       <change>· Updated iPA to newer YouTube v21.30</change>
