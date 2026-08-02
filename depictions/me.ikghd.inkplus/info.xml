@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>4.7.3</version>
+    <version>4.8</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>4.7.3</version2>
+      <version2>4.8</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v438.0</appcomp>
+      <appcomp> v409.1 - v439.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Jul 16, 2026</date>
+      <date>Aug 02, 2026</date>
     </date>
 
     <price>
@@ -42,7 +42,7 @@
       <change>· Fixed the media picker appearing completely transparent on iOS 18.x and earlier.</change>
       <change>· other fixes and improvements.</change>
 
-      <change>· Updated base IPA to Instagram v438.0</change>
+      <change>· Updated base IPA to Instagram v439.0</change>
     </changelog>
 
 
