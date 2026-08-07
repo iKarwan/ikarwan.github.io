@@ -186,7 +186,7 @@
             },
 
             {
-                "markdown": "• Please update to version 6.0 before 08-08-2026 all earlier vevrsion will stop working after that date.\n• fixes oled keyboard issue on iOS27.\n• add support for roothide.\n• Fix an issue with dopamine jailbreak not loading some fetures properly on ios 16+.\n• Recommended to use YTKillerPlus with your main account on RAW without additional dylibs to avoid compatibility issues.\n• Performance improvements and bug fixes.\n• Updated iPA to YouTube v21.31",
+                "markdown": "• Make sure to follow me on x @ikg_hd and telegram @ikgipa for latest news updates and prizes.\n• Please update to version 6.0 before 08-08-2026 all earlier vevrsion will stop working after that date.\n• fixes oled keyboard issue on iOS27.\n• add support for roothide.\n• Fix an issue with dopamine jailbreak not loading some fetures properly on ios 16+.\n• Recommended to use YTKillerPlus with your main account on RAW without additional dylibs to avoid compatibility issues.\n• Performance improvements and bug fixes.\n• Updated iPA to YouTube v21.31",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
