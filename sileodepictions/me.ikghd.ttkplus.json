@@ -119,7 +119,7 @@
             },
 
             {
-                "markdown": "• fixes and improvements.\n• Fixed an issue where the flag button was not tappable in the previous version.\n• Updated base IPA to TikTok v46.2",
+                "markdown": "• Add roothide & relaxin JB support\n• Add v46.0+ compatibility.\n• Fix like confirmation bypass on double tap.\n• Fix post date display format.\n• Fix settings localization & toggles.\n• Fix flag button not tappable.\n• Other fixes & improvements.\n• Update base IPA to TikTok v46.3",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"1.8",
+               "text":"1.9",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Aug 02, 2026",
+                "text": "Aug 18, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -181,7 +181,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v45.0.0 - v46.2",
+                "text": " v45.0.0 - v46.4",
                 "class": "DepictionTableTextView"
             },
             {

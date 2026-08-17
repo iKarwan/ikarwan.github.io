@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>6.1</version>
+    <version>6.2</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>6.1</version2>
+      <version2>6.2</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Aug 10, 2026</date>
+      <date>Aug 18, 2026</date>
     </date>
 
     <price>
@@ -40,7 +40,10 @@
     <changelog>
 
       <change>· Follow me on X @ikg_hd and Telegram @ikgipa for latest news &amp; prizes</change>
-      <change>· Improve ad blocking on main Feed</change>
+      <change>· Add POST tab to tab bar</change>
+      <change>· Improve audio &amp; video mini player</change>
+      <change>· Improve localization &amp; add missing languages</change>
+      <change>·</change>
       <change>· Improve Lyrics API speed &amp; accuracy</change>
       <change>· Improve MP3 audio handling</change>
       <change>· Improve backup &amp; restore</change>
