@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• Add roothide & relaxin JB support\n• Add full compatibility with IG v440+\n• Add tab configuration for hide & launch\n• Fix swipe between tabs\n• Fix story mention button crashes on v440+\n• Fix story download button\n• Fix eye long-press user exception on v440+\n• Fix follow confirmation toggle\n• Fix long-press profile picture expand & download\n• Fix grid button in main navbar\n• Fix 2x2 grid handling in 3x3 position style\n• Fix photo picker with music on multiple posts for iOS 27 Liquid Glass\n• Other fixes & improvements\n• Updated base IPA to Instagram v442.0",
+                "markdown": "• Add roothide & relaxin JB support\n• Add full compatibility with IG v440+\n• Add tab configuration for hide & launch\n• Fix swipe between tabs\n• Fix story mention button crashes on v440+\n• Fix story download button\n• Fix eye long-press user exception on v440+\n• Fix follow confirmation toggle\n• Fix long-press profile picture expand & download\n• Fix grid button in main navbar\n• Fix 2x2 grid handling in 3x3 position style\n• Fix photo picker with music on multiple posts for iOS 27 Liquid Glass\n• Other fixes & improvements\n• Updated base IPA to Instagram v443.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"4.9",
+               "text":"5.0",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Aug 18, 2026",
+                "text": "Aug 21, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -191,7 +191,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v442.0",
+                "text": " v409.1 - v443.0",
                 "class": "DepictionTableTextView"
             },
             {

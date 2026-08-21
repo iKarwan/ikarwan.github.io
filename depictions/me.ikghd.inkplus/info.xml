@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>4.9</version>
+    <version>5.0</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,11 +22,11 @@
     </jailed>
 
     <version2>
-      <version2>4.9</version2>
+      <version2>5.0</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v442.0</appcomp>
+      <appcomp> v409.1 - v443.0</appcomp>
     </appcomp>
 
     <date>
@@ -52,7 +52,7 @@
       <change>· Fix photo picker with music on multiple posts for iOS 27 Liquid Glass</change>
       <change>· Other fixes &amp; improvements</change>
 
-      <change>· Updated base IPA to Instagram v442.0</change>
+      <change>· Updated base IPA to Instagram v443.0</change>
     </changelog>
 
 
