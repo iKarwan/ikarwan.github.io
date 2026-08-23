@@ -218,11 +218,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64
 Filename: ./debs/me.ikghd.ytkplus_6.4_iphoneos-arm64.deb
-Size: 9759728
+Size: 9759966
 Installed-Size: 27408
-MD5sum: 96419f72c72b6a62c3d4b9f2a05e79d5
-SHA1: d5648e9983958997cdfe3f4a311e4f28399539f7
-SHA256: 27ebd487b573727df89ef4743f19a292bdb9a3e6315a04d7e3d24fd36dac7226
+MD5sum: dcd29186f32a251e63ecab2510d202c5
+SHA1: f37f3b78aa7e08181c7570a5628d03c0ba5c5362
+SHA256: e4930608e9717cc6a0e3db846e148352c46790ac5a3ecfd3a279929a94fedd5a
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -389,11 +389,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm
 Filename: ./debs/me.ikghd.ytkplus_6.4_iphoneos-arm.deb
-Size: 9759082
+Size: 9760606
 Installed-Size: 27408
-MD5sum: 573664b72fbe9691b7a13de1e02b9388
-SHA1: fc68f66e25b5f93a018f5b4b83c510ec5ce3ce54
-SHA256: 115f87a4c26d29586632fd8ea01324edc6e552f84b187f5edf5dfd9713f7a63d
+MD5sum: cba63df549c681d4499f275c45f4e0cd
+SHA1: 3c8e773f8b0a26dabaf1b878c3498f64b646e08f
+SHA256: 863cb12853d2cc4cf6d6d589f4bec3113386f7a87d461faabe14dd090ab98a00
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -427,11 +427,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64e
 Filename: ./debs/me.ikghd.ytkplus_6.4_iphoneos-arm64e.deb
-Size: 9757530
+Size: 9748940
 Installed-Size: 27408
-MD5sum: fdc27b848de151bfe7542ccdc29944e7
-SHA1: a5d17b50238faf132abf0078543c67fe1daa681b
-SHA256: 6f4a44cdc6d78be05b23fe950b13c776175591865944c9514c13624c4ae9f1c7
+MD5sum: 8e953422d58742369081e017b12017df
+SHA1: df056a533f811ea29bf536c190776f48dfba7a3c
+SHA256: e4253f9acaa53bc4c17c4ac3d0dc88853032cb0cd03c3f33ccdd055bd537ef57
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
