@@ -23,10 +23,10 @@
                 {
                     "version": "21.34.3",
                     "date": "2026-08-26",
-                    "localizedDescription": "• Fix HLS CKU clear known url for audio mp3 and 2k-4k capable devices fails on v21.31 in some cases\n• Fix save posted gif image saving only first frame in some cases\n• Fix save posted image when multiple imge in a post first image not saved correctly\n• Fix tabs Icon.\n• Fix and improve audio languages select.\n• Updated iPA to newer YouTube v21.34.6.\n• Add POST tab to tab bar.\n• Improve localization &amp; add missing languages.\n• Improve ad blocking on main Feed.\n• Improve Lyrics API speed & accuracy.\n• Improve MP3 audio handling.\n• Improve backup & restore.\n• Improve media extension importing.\n• Improve Shorts auto-skip.\n• Improve Shorts multiple-post handling.\n• Fix OLED keyboard issue on iOS 27.\n• Other fixes & cleanup.\n• Updated iPA to YouTube v21.34",
+                    "localizedDescription": "• v21.34 requires iOS 17 and later now\n• Fix HLS CKU clear known url for audio mp3 and 2k-4k capable devices fails on v21.31 in some cases\n• Fix save posted gif image saving only first frame in some cases\n• Fix save posted image when multiple imge in a post first image not saved correctly\n• Fix tabs Icon.\n• Fix and improve audio languages select.\n• Updated iPA to newer YouTube v21.34.6.\n• Add POST tab to tab bar.\n• Improve localization &amp; add missing languages.\n• Improve ad blocking on main Feed.\n• Improve Lyrics API speed & accuracy.\n• Improve MP3 audio handling.\n• Improve backup & restore.\n• Improve media extension importing.\n• Improve Shorts auto-skip.\n• Improve Shorts multiple-post handling.\n• Fix OLED keyboard issue on iOS 27.\n• Other fixes & cleanup.\n• Updated iPA to YouTube v21.34",
                     "downloadURL": "https://ikghd.site/ipa/YouTube_21.34_YTKillerPlus_6.5.ipa",
                     "size": 140185704,
-                    "minOSVersion": "16.0"
+                    "minOSVersion": "17.0"
                 }
             ],
             "versionDate": "2026-08-26",
