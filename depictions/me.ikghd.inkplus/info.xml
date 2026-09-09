@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>5.2.1</version>
+    <version>5.2.2</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>5.2.1</version2>
+      <version2>5.2.2</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v445.0</appcomp>
+      <appcomp> v409.1 - v446.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Sep 01, 2026</date>
+      <date>Sep 09, 2026</date>
     </date>
 
     <price>
@@ -41,7 +41,7 @@
       <change>· Fix profile bio long press to copy detect email and links</change>
       <change>· Fix read DM icon</change>
       <change>· Fix user exception for direct message</change>
-      <change>· Updated base IPA to Instagram v445.0</change>
+      <change>· Updated base IPA to Instagram v446.0</change>
       <change>·</change>
       <change>·v5.2</change>
       <change>· Add full compatibility with IG v440+</change>

@@ -119,7 +119,7 @@
             },
 
             {
-                "markdown": "• Add roothide & relaxin JB support\n• Add v46.0+ compatibility.\n• Fix like confirmation bypass on double tap.\n• Fix post date display format.\n• Fix settings localization & toggles.\n• Fix flag button not tappable.\n• Other fixes & improvements.\n• Update base IPA to TikTok v46.7",
+                "markdown": "• Add roothide & relaxin JB support\n• Add v46.0+ compatibility.\n• Fix like confirmation bypass on double tap.\n• Fix post date display format.\n• Fix settings localization & toggles.\n• Fix flag button not tappable.\n• Other fixes & improvements.\n• Update base IPA to TikTok v46.8",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -136,12 +136,12 @@
             },
             {
                "title":"Version",
-               "text":"2.1.1",
+               "text":"2.1.2",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 01, 2026",
+                "text": "Sep 09, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -181,7 +181,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v45.0.0 - v46.7",
+                "text": " v45.0.0 - v46.8",
                 "class": "DepictionTableTextView"
             },
             {

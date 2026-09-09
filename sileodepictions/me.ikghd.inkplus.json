@@ -129,7 +129,7 @@
             },
 
             {
-                "markdown": "• Fix profile bio long press to copy detect email and links\n• Fix read DM icon\n• Fix user exception for direct message\n• Add roothide & relaxin JB support\n• Add full compatibility with IG v440+\n• Add tab configuration for hide & launch\n• Fix swipe between tabs\n• Fix story mention button crashes on v440+\n• Fix story download button\n• Fix eye long-press user exception on v440+\n• Fix follow confirmation toggle\n• Fix long-press profile picture expand & download\n• Fix grid button in main navbar\n• Fix 2x2 grid handling in 3x3 position style\n• Fix photo picker with music on multiple posts for iOS 27 Liquid Glass\n• Other fixes & improvements\n• Updated base IPA to Instagram v445.0",
+                "markdown": "• Fix profile bio long press to copy detect email and links\n• Fix read DM icon\n• Fix user exception for direct message\n• Add roothide & relaxin JB support\n• Add full compatibility with IG v440+\n• Add tab configuration for hide & launch\n• Fix swipe between tabs\n• Fix story mention button crashes on v440+\n• Fix story download button\n• Fix eye long-press user exception on v440+\n• Fix follow confirmation toggle\n• Fix long-press profile picture expand & download\n• Fix grid button in main navbar\n• Fix 2x2 grid handling in 3x3 position style\n• Fix photo picker with music on multiple posts for iOS 27 Liquid Glass\n• Other fixes & improvements\n• Updated base IPA to Instagram v446.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -146,12 +146,12 @@
             },
             {
                "title":"Version",
-               "text":"5.2.1",
+               "text":"5.2.2",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 01, 2026",
+                "text": "Sep 09, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -191,7 +191,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v445.0",
+                "text": " v409.1 - v446.0",
                 "class": "DepictionTableTextView"
             },
             {
