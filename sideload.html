@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Repository Source — iKarwan Tweaks</title>
+  <link rel="shortcut icon" type="image/ico" href="https://repo.ikghd.me/assets/favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #080808;
+      --surface: #101010;
+      --surface2: #161616;
+      --border: rgba(255,255,255,0.07);
+      --border-hover: rgba(255,255,255,0.18);
+      --text: #e8e8e8;
+      --muted: #555;
+      --muted2: #777;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* NAV */
+    nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 32px;
+      height: 56px;
+      position: sticky;
+      top: 0;
+      background: rgba(8,8,8,0.85);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--border);
+      z-index: 99;
+    }
+    .nav-logo {
+      font-family: 'DM Mono', monospace;
+      font-size: 13px;
+      color: var(--text);
+      text-decoration: none;
+      letter-spacing: 0.5px;
+    }
+    .nav-links { display: flex; gap: 24px; }
+    .nav-links a {
+      color: var(--muted2);
+      text-decoration: none;
+      font-size: 13px;
+      font-weight: 500;
+      transition: color 0.2s;
+    }
+    .nav-links a:hover { color: var(--text); }
+
+    /* CONTAINER */
+    .container {
+      max-width: 680px;
+      margin: 60px auto 80px;
+      padding: 0 24px;
+    }
+    .page-header {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+    .page-header img {
+      width: 72px;
+      height: 72px;
+      border-radius: 16px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+    }
+    .page-header h1 {
+      font-size: 28px;
+      font-weight: 600;
+      letter-spacing: -0.5px;
+      margin-bottom: 4px;
+    }
+    .page-header p {
+      font-size: 13px;
+      color: var(--muted2);
+      font-family: 'DM Mono', monospace;
+    }
+
+    .section-label {
+      font-family: 'DM Mono', monospace;
+      font-size: 11px;
+      color: var(--muted);
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+      margin-top: 32px;
+    }
+
+    /* SOURCE CARD */
+    .source-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 24px;
+    }
+    .source-desc {
+      font-size: 14px;
+      color: var(--muted2);
+      margin-bottom: 20px;
+      line-height: 1.6;
+    }
+    .copy-box {
+      display: flex;
+      align-items: center;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 6px;
+      margin-bottom: 16px;
+    }
+    .copy-box input {
+      flex: 1;
+      background: transparent;
+      border: none;
+      color: var(--text);
+      font-family: 'DM Mono', monospace;
+      font-size: 12px;
+      padding: 6px 10px;
+      outline: none;
+      width: 100%;
+    }
+    .btn-copy {
+      background: var(--border);
+      color: var(--text);
+      border: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 12px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background 0.2s;
+      font-family: 'DM Sans', sans-serif;
+    }
+    .btn-copy:hover {
+      background: var(--border-hover);
+    }
+    .source-actions {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+    }
+    @media (max-width: 500px) {
+      .source-actions { grid-template-columns: 1fr; }
+    }
+    .btn-action {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text);
+      text-decoration: none;
+      padding: 10px 16px;
+      border-radius: 8px;
+      font-size: 13px;
+      font-weight: 500;
+      transition: border-color 0.2s, background 0.2s;
+    }
+    .btn-action img {
+      width: 20px;
+      height: 20px;
+      border-radius: 4px;
+      object-fit: contain;
+    }
+    .btn-action:hover {
+      border-color: var(--border-hover);
+      background: var(--border);
+    }
+
+    /* FOOTER */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 32px 24px;
+      max-width: 680px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      font-size: 12px;
+      color: var(--muted);
+      font-family: 'DM Mono', monospace;
+    }
+    footer a { color: var(--muted2); text-decoration: none; }
+    footer a:hover { color: var(--text); }
+  </style>
+</head>
+<body>
+
+  <nav>
+    <a href="index.html" class="nav-logo">iKarwan</a>
+    <div class="nav-links">
+      <a href="https://repo.ikghd.me/">Repo</a>
+      <a href="https://ikghd.site/faq">FAQ</a>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="page-header">
+      <img src="https://repo.ikghd.me/assets/favicon.ico" alt="iKarwan">
+      <div>
+        <h1>Repository Source</h1>
+        <p>repo.ikghd.me/repo.json</p>
+      </div>
+    </div>
+
+    <div class="section-label">Sideloading Source</div>
+
+    <div class="source-card">
+      <p class="source-desc">
+        Easily add the iKarwan repository to your favorite package manager or sideloading tool to access all custom tweaks and get streamlined updates.
+      </p>
+
+      <!-- Copy Box -->
+      <div class="copy-box">
+        <input type="text" id="repoUrl" value="https://repo.ikghd.me/repo.json" readonly>
+        <button class="btn-copy" onclick="copyRepoUrl()">Copy</button>
+      </div>
+
+      <!-- Direct Actions -->
+      <div class="source-actions">
+        <a href="altstore://source?url=https://repo.ikghd.me/repo.json" class="btn-action">
+          <img src="https://avatars.githubusercontent.com/u/83258927?s=200&v=4" alt="AltStore"> Add to AltStore
+        </a>
+        <a href="sidestore://source?url=https://repo.ikghd.me/repo.json" class="btn-action">
+          <img src="https://avatars.githubusercontent.com/u/105070799?s=200&v=4" alt="SideStore"> Add to SideStore
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>© 2026 iKarwan</p>
+    <a href="index.html">← Back to Home</a>
+  </footer>
+
+  <script>
+    function copyRepoUrl() {
+      var copyText = document.getElementById("repoUrl");
+      copyText.select();
+      copyText.setSelectionRange(0, 99999);
+      navigator.clipboard.writeText(copyText.value);
+      
+      var btn = document.querySelector(".btn-copy");
+      var originalText = btn.textContent;
+      btn.textContent = "Copied!";
+      setTimeout(function() {
+        btn.textContent = originalText;
+      }, 2000);
+    }
+  </script>
+
+</body>
+</html>
