@@ -147,6 +147,8 @@
     .btn-copy:hover {
       background: var(--border-hover);
     }
+
+    /* ACTIONS GRID */
     .source-actions {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -230,13 +232,16 @@
         <button class="btn-copy" onclick="copyRepoUrl()">Copy</button>
       </div>
 
-      <!-- Direct Actions -->
+      <!-- Direct Actions (AltStore, SideStore, AltSource Viewer) -->
       <div class="source-actions">
         <a href="altstore://source?url=https://repo.ikghd.me/repo.json" class="btn-action">
           <img src="https://avatars.githubusercontent.com/u/83258927?s=200&v=4" alt="AltStore"> Add to AltStore
         </a>
         <a href="sidestore://source?url=https://repo.ikghd.me/repo.json" class="btn-action">
           <img src="https://avatars.githubusercontent.com/u/105070799?s=200&v=4" alt="SideStore"> Add to SideStore
+        </a>
+        <a href="https://therealfoxster.github.io/altsource-viewer/view/?source=https://repo.ikghd.me/repo.json" target="_blank" class="btn-action" style="grid-column: span 2;">
+          <img src="https://avatars.githubusercontent.com/u/83258927?s=200&v=4" alt="Viewer"> View Repository Online
         </a>
       </div>
     </div>
@@ -253,7 +258,7 @@
       copyText.select();
       copyText.setSelectionRange(0, 99999);
       navigator.clipboard.writeText(copyText.value);
-      
+
       var btn = document.querySelector(".btn-copy");
       var originalText = btn.textContent;
       btn.textContent = "Copied!";
