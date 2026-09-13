@@ -90,7 +90,12 @@
                "action":"https://repo.ikghd.me/TTKPlus",
                "class":"DepictionTableButtonView"
             },
-
+            {
+              "title":"Sideloading:",
+               "useBoldText": true,
+               "action":"https://therealfoxster.github.io/altsource-viewer/view/?source=https://repo.ikghd.me/repo.json",
+               "class":"DepictionTableButtonView"
+            },
             {
                "class":"DepictionSeparatorView"
             },
