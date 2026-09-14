@@ -191,7 +191,7 @@
             },
 
             {
-                "markdown": "• Fix HLS CKU clear known url for audio mp3 and 2k-4k capable devices fails on v21.31+ in some cases\n• Fix save posted gif image saving only first frame in some cases\n• Fix save posted image when multiple imge in a post first image not saved correctly\n• Fix and improve audio languages select.\n• Add POST tab to tab bar.\n• Improve localization &amp; add missing languages.\n• Improve ad blocking on main Feed.\n• Improve Lyrics API speed & accuracy.\n• Improve MP3 audio handling.\n• Improve backup & restore.\n• Improve media extension importing.\n• Improve Shorts auto-skip.\n• Improve Shorts multiple-post handling.\n• Fix OLED keyboard issue on iOS 27.\n• Other fixes & cleanup.\n• Updated iPA to YouTube v21.36",
+                "markdown": "• Fixes MDX cast Button to show origin YT one.\n• Fixes PiP ABR buffering in some cases.\n• Fixes auto skip for SPB that may not skip in some cases.\n• Improves Backup spacing.\n• Improves loading audio and video player.\n• Other improvements.\n• Updated iPA to YouTube v21.37",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -208,12 +208,12 @@
             },
             {
                 "title": "Version",
-                "text": "6.5.2",
+                "text": "6.5.3",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 09, 2026",
+                "text": "Sep 14, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -253,7 +253,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v21.10.2 - v21.36",
+                "text": " v21.10.2 - v21.37",
                 "class": "DepictionTableTextView"
             },
             {
