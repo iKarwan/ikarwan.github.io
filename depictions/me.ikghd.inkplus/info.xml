@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>5.2.2</version>
+    <version>5.2.3</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>5.2.2</version2>
+      <version2>5.2.3</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v446.0</appcomp>
+      <appcomp> v409.1 - v447.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Sep 09, 2026</date>
+      <date>Sep 15, 2026</date>
     </date>
 
     <price>
@@ -38,26 +38,13 @@
     </price>
 
     <changelog>
-      <change>· Fix profile bio long press to copy detect email and links</change>
-      <change>· Fix read DM icon</change>
-      <change>· Fix user exception for direct message</change>
-      <change>· Updated base IPA to Instagram v446.0</change>
-      <change>·</change>
-      <change>·v5.2</change>
-      <change>· Add full compatibility with IG v440+</change>
-      <change>· Add tab configuration for hide &amp; launch</change>
-      <change>· Fix swipe between tabs</change>
-      <change>· Fix story mention button crashes on v440+</change>
-      <change>· Fix story download button</change>
-      <change>· Fix eye long-press user exception on v440+</change>
-      <change>· Fix follow confirmation toggle</change>
-      <change>· Fix long-press profile picture expand &amp; download</change>
-      <change>· Fix grid button in main navbar</change>
-      <change>· Fix 2x2 grid handling in 3x3 position style</change>
-      <change>· Fix photo picker with music on multiple posts for iOS 27 Liquid Glass</change>
+      <change>· Fixes profile bio long press to copy detect email and links</change>
+      <change>· Fixes read DM icon</change>
+      <change>· Fixes user exception for direct message</change>
+      <change>· Add full compatibility with IG v445+</change>
       <change>· Other fixes &amp; improvements</change>
 
-      <change>· Updated base IPA to Instagram v443.0</change>
+      <change>· Updated base IPA to Instagram v447.0</change>
     </changelog>
 
 
