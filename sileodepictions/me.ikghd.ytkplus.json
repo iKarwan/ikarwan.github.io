@@ -149,7 +149,7 @@
                           "url":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/13.PNG",
                           "fullSizeURL":"https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/13.PNG"
                       }
-                      
+
                     ],
                     "class":"DepictionScreenshotView"
                 },
@@ -219,12 +219,12 @@
             },
             {
                 "title": "Version",
-                "text": "6.5.3",
+                "text": "6.5.4",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 14, 2026",
+                "text": "Sep 16, 2026",
                 "class": "DepictionTableTextView"
             },
             {
