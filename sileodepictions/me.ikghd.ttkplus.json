@@ -124,7 +124,7 @@
             },
 
             {
-                "markdown": "• Add follow status to new profile style user name\n• Add v46.7+ compatibility.\n• Fix like confirmation bypass on double tap.\n• Fix post date display format.\n• Fix flag button not tappable.\n• Other fixes & improvements.\n• Update base IPA to TikTok v46.9",
+                "markdown": "• Add country flag to the profile page to know the creator origin country\n• Add follow status to new profile style user name\n• Add v46.7+ compatibility.\n• Fix like confirmation bypass on double tap.\n• Fix post date display format.\n• Fix flag button not tappable.\n• Other fixes & improvements.\n• Update base IPA to TikTok v46.9",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -141,12 +141,12 @@
             },
             {
                "title":"Version",
-               "text":"2.2.1",
+               "text":"2.2.2",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 16, 2026",
+                "text": "Sep 20, 2026",
                 "class": "DepictionTableTextView"
             },
             {
