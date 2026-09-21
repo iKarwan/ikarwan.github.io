@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>5.2.7</version>
+    <version>5.2.8</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>5.2.7</version2>
+      <version2>5.2.8</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Sep 20, 2026</date>
+      <date>Sep 21, 2026</date>
     </date>
 
     <price>
@@ -38,6 +38,8 @@
     </price>
 
     <changelog>
+      <change>· Fixes a possible crash on rootless JB</change>
+
       <change>· Add alternative icon to jailbreak since iG include the icon inside the app now</change>
       <change>· Fixes show app icon in settings for ios 26 - 27 as was disabled in previous versions</change>
       <change>· Fixes show email open in profiles or copied text to detect emails automaticlly</change>

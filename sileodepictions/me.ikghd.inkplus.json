@@ -135,7 +135,7 @@
             },
 
             {
-                "markdown": "- Add alternative icon to jailbreak since iG include the icon inside the app now\n- Fixes show app icon in settings for ios 26 - 27 as was disabled in previous versions\n- Fixes show email open in profiles or copied text to detect emails automaticlly\n- Fixes profile bio long press to copy detect email and links\n- Fixes read DM icon\n- Fixes user exception for direct message\n- Add full compatibility with IG v445+\n- Updated base IPA to Instagram v447.0",
+                "markdown": "- Fixes a possible crash on rootless JB\n- Add alternative icon to jailbreak since iG include the icon inside the app now\n- Fixes show app icon in settings for ios 26 - 27 as was disabled in previous versions\n- Fixes show email open in profiles or copied text to detect emails automaticlly\n- Fixes profile bio long press to copy detect email and links\n- Fixes read DM icon\n- Fixes user exception for direct message\n- Add full compatibility with IG v445+\n- Updated base IPA to Instagram v447.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -152,12 +152,12 @@
             },
             {
                "title":"Version",
-               "text":"5.2.7",
+               "text":"5.2.8",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 20, 2026",
+                "text": "Sep 21, 2026",
                 "class": "DepictionTableTextView"
             },
             {
