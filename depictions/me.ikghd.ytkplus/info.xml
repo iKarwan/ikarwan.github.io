@@ -5,7 +5,7 @@
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
-            <maxiOS>27.2</maxiOS>
+            <maxiOS>27.x</maxiOS>
         </firmware>
     </compatibility>
 

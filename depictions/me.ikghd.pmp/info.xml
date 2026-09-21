@@ -29,15 +29,17 @@
     <descriptionlist>
         <description>Protect My Photos (PMP)</description>
         <longdescription><![CDATA[
-            <br>Main Features:
-            <br>· Control Center module to instantly hide all photos
-            <br>· Control Center module to hide Hidden and Recently Deleted albums
-            <br>· Control Center module to restrict access to recently captured camera photos
-            <br>
-            <br>Notice:
-            <br>· Face ID, Touch ID, or a passcode must be enabled to use this tweak.
-            <br>· On iOS 15/16.x, a respring is required after adding the module to Control Center.
-            <br>
+            <p>Main Features:</p>
+            <ul>
+                <li>Control Center module to instantly hide all photos</li>
+                <li>Control Center module to hide Hidden and Recently Deleted albums</li>
+                <li>Control Center module to restrict access to recently captured camera photos</li>
+            </ul>
+            <p>Notice:</p>
+            <ul>
+                <li>Face ID, Touch ID, or a passcode must be enabled to use this tweak.</li>
+                <li>On iOS 15/16.x, a respring is required after adding the module to Control Center.</li>
+            </ul>
         ]]></longdescription>
     </descriptionlist>
 
