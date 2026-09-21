@@ -199,11 +199,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64
 Filename: ./debs/me.ikghd.ytkplus_6.5.7_iphoneos-arm64.deb
-Size: 9786324
+Size: 9787016
 Installed-Size: 27504
-MD5sum: 115232f2f41463abacb1603e94978e91
-SHA1: ad575f917c9d211c3410fe2597ffb9b0117a16fe
-SHA256: d3e6969243d7ce50abe185ea1b8997e85a362f12d1122a5daeed5f52c8b81736
+MD5sum: c26af9d84a658a9d3b63defe81bc93d3
+SHA1: 99c554e91eca81e0f05eae9d38b008ca5888e7a2
+SHA256: 155301043b5b04a93210989a87b8f8c68fd34a49ac82c334844e81b308bfe6d7
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
