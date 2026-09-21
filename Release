@@ -1,8 +1,16 @@
-Origin: iKarwan
-Label: iKarwan Repo
+Origin: iKarwan's Repo
+Label: iKarwan
 Suite: stable
-Version: 1.2
+Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: Official iKGHD Repo's
+Description: iKarwan's Cydia/Sileo/Zebra Repository
+MD5Sum:
+ 4fb39398ee828d5e379143388f077be3 8172 Packages
+ 0708b7fcb1f659a22acc8374e79a969f 1953 Packages.bz2
+ 96381745aa1e11ac12f8da43e71e61ea 1732 Packages.gz
+SHA256:
+ 83db3ea45046a7c8b77658b47060110ea3333e29541a12390dfb6da4634e018d 8172 Packages
+ 72d5b183ae991ef3f14fe3012508db8122a029a7037b858a58ec9de45c4357d5 1953 Packages.bz2
+ decbf1845920bf582edb26abc089532baa5e096b0f0044e03603c846a98351df 1732 Packages.gz
