@@ -1,6 +1,6 @@
 {
    "minVersion":"0.1",
-   "headerImage":"https://repo.ikghd.me/assets/banners/TTKBanner.jpg",
+   "headerImage":"https://repo.ikghd.me/assets/banners/TTKBanner.PNG",
    "tintColor":"#232621",
      "views":[
             {
@@ -105,7 +105,7 @@
                 "class": "DepictionHeaderView"
             },
             {
-                "markdown": "• To enter settings, long press on the Profile tab and click the ⚙️ Gear icon.\r\n• Download videos from FEED, stories, and Explore..\r\n• Save photos from FEED, Stories, and Profiles.\r\n• Merge photos and music From post together.\r\n• Save Profiles avatar or expand it.\r\n• Block all promo ads in Feed, Stories, and Explore.\r\n• Quick Seen / Unseen toggle for Stories and DMs.\r\n• Hide tabs such as Friends, Create, and Inbox.\r\n• View profiles annymously.\r\n• Copy profiles bio.\r\n• Add toggle Auto Like for live streaming.\r\n• Stream Post from Specific country.\r\n• Add country Flags and post Date on FEED.\r\n• Add Follow status to Profile, following, not following, friends.\r\n• And many more customization options...\r\n• Supports iPadOS.",
+                "markdown": "- To enter settings, long press on the Profile tab and click the ⚙️ Gear icon.\r\n- Download videos from FEED, stories, and Explore..\r\n- Save photos from FEED, Stories, and Profiles.\r\n- Merge photos and music From post together.\r\n- Save Profiles avatar or expand it.\r\n- Block all promo ads in Feed, Stories, and Explore.\r\n- Quick Seen / Unseen toggle for Stories and DMs.\r\n- Hide tabs such as Friends, Create, and Inbox.\r\n- View profiles annymously.\r\n- Copy profiles bio.\r\n- Add toggle Auto Like for live streaming.\r\n- Stream Post from Specific country.\r\n- Add country Flags and post Date on FEED.\r\n- Add Follow status to Profile, following, not following, friends.\r\n- And many more customization options...\r\n- Supports iPadOS.",
                 "title": "markdown-description",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -124,7 +124,7 @@
             },
 
             {
-                "markdown": "• Add country flag to the profile page to know the creator origin country\n• Add follow status to new profile style user name\n• Add v46.7+ compatibility.\n• Fix like confirmation bypass on double tap.\n• Fix post date display format.\n• Fix flag button not tappable.\n• Other fixes & improvements.\n• Update base IPA to TikTok v46.9",
+                "markdown": "- Add country flag to the profile page to know the creator origin country\n- Add follow status to new profile style user name\n- Add v46.7+ compatibility.\n- Fix like confirmation bypass on double tap.\n- Fix post date display format.\n- Fix flag button not tappable.\n- Other fixes & improvements.\n- Update base IPA to TikTok v46.9",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
