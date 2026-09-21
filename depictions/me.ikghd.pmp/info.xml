@@ -6,13 +6,14 @@
     <compatibility>
         <firmware>
             <miniOS>12.0</miniOS>
-            <maxiOS>16.x</maxiOS>
+            <maxiOS>16.5</maxiOS>
         </firmware>
     </compatibility>
 
     <rootless>Yes</rootless>
     <jailbreak>Yes</jailbreak>
     <jailed>No</jailed>
+    <appcomp>YouTube</appcomp>
 
     <version2>1.12</version2>
     <date>Dec 14, 2025</date>
@@ -28,17 +29,16 @@
 
     <descriptionlist>
         <description>Protect My Photos (PMP)</description>
-        <longdescription><![CDATA[
-            <br>Main Features:
-            <br>· Control Center module to instantly hide all photos
-            <br>· Control Center module to hide Hidden and Recently Deleted albums
-            <br>· Control Center module to restrict access to recently captured camera photos
-            <br>
-            <br>Notice:
-            <br>· Face ID, Touch ID, or a passcode must be enabled to use this tweak.
-            <br>· On iOS 15/16.x, a respring is required after adding the module to Control Center.
-            <br>
-        ]]></longdescription>
+        <longdescription>
+            Main Features:
+            · Control Center module to instantly hide all photos
+            · Control Center module to hide Hidden and Recently Deleted albums
+            · Control Center module to restrict access to recently captured camera photos
+
+            Notice:
+            · Face ID, Touch ID, or a passcode must be enabled to use this tweak.
+            · On iOS 15/16.x, a respring is required after adding the module to Control Center.
+        </longdescription>
     </descriptionlist>
 
     <screenshots>
