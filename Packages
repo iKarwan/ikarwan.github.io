@@ -13,7 +13,7 @@ SHA256: 5bb6a11a4a302cd5a94afa430ffed88b30c57397e4b91d65c88a5abbe103842c
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.inkplus/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
@@ -24,15 +24,15 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64
 Filename: ./debs/me.ikghd.inkplus_5.2.8_iphoneos-arm64.deb
-Size: 9400522
+Size: 9385286
 Installed-Size: 26436
-MD5sum: 83dfd381cebcf5b02dda1d5adb31e00f
-SHA1: f67849ab93d4ad4e6545ca066a4b0c1a68a59b41
-SHA256: a51c7223104f45ba6feeb18993d5fb3c25baf275ea8dd3d3d0e77636d189d12e
+MD5sum: afedb7d785a1f1d2705cf6a8f3ff4afb
+SHA1: 1b42c6a11f647ff4f738d7b8c5c9113ed94f6263
+SHA256: 8775688990a1cdbd35d742313cc9da9d5a8c8fad7c60f60d0ef9d5d4c13c2c66
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.inkplus/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
@@ -51,7 +51,7 @@ SHA256: 4ad43f452ec06beacbc7603f0578ab32ce2e277198390d10628a6acd2eb19ecd
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.inkplus/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
 
@@ -72,7 +72,7 @@ SHA256: 8bae35dc37883e54a7d59b92b9caa1fa39dda1862944c566aa3e9afa3b8d4aee
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.pmp/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.pmp
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
 
@@ -93,7 +93,7 @@ SHA256: dbdfb84e8303da32548e1b3b1c67aa0a2b2435c2ab717e23f716e17ace78c8e9
 Description: PMP Protect My Photos!
 Name: PMP
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.pmp/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.pmp
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.pmp.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.pmp.png
 
@@ -112,7 +112,7 @@ SHA256: 69b33cabe15f494b7f214139a628527fcd933fe0272560127151c6cdaec89f2c
 Description: a whole new TikTok Experience!
 Name: TTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.ttkplus/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ttkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ttkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png
 
@@ -131,7 +131,7 @@ SHA256: 073ebe9c9a143da786e6e9e419a4652ccc0862533e2965d0167551c836f1057a
 Description: a whole new TikTok Experience!
 Name: TTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.ttkplus/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ttkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ttkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png
 
@@ -150,7 +150,7 @@ SHA256: b01c1d075c2770b4b68c85ba6d830df8b7509b753b173b91a6c2be0c850be9ef
 Description: a whole new TikTok Experience!
 Name: TTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.ttkplus/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ttkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ttkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png
 
@@ -169,7 +169,7 @@ SHA256: 0b7e02b0b2610550ea2665015d14f7c3c43da7fe3d899cbe82f75caf2bfed9de
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.ytkplus/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
 
@@ -188,7 +188,7 @@ SHA256: 0e0ce72487146776b3319a94ebfe514a773b5b66c470ff861122ef4a4b9160cd
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.ytkplus/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
 
@@ -207,7 +207,7 @@ SHA256: aeff4edf1c24ffec660f9ba7e59d22da0dfea55cb575305a74c78383a2d9ba76
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
-Depiction: https://repo.ikghd.me/depictions/me.ikghd.ytkplus/index.html
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
 
