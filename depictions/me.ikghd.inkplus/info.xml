@@ -40,7 +40,7 @@
     <changelog>
       <change>· Fixes a possible crash on rootless JB</change>
 
-      <change>· Add alternative icon to jailbreak since iG include the icon inside the app now</change>
+      <change>· Add alternative icon to jailbreak since iG include the icon inside the app</change>
       <change>· Fixes show app icon in settings for ios 26 - 27 as was disabled in previous versions</change>
       <change>· Fixes show email open in profiles or copied text to detect emails automaticlly</change>
       <change>· Fixes profile bio long press to copy detect email and links</change>
@@ -72,7 +72,7 @@
             <br>• Disable screenshot prevention in DMs.
             <br>• Hide tabs such as Explore, Reels, and Create.
             <br>• Keep unsent messages + storing it in logs.
-            <br>• Icon theme change iOS 18 and earlier.
+            <br>• Alternative Icon theme change iOS.
             <br>• Profile analyzer (analyze fully your profile following status).
             <br>• Feed Grid & list View.
             <br>• Fake location.
