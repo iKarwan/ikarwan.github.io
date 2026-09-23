@@ -202,7 +202,7 @@
             },
 
             {
-                "markdown": "- Add missing localization and Japanese language.\n- Fixes short FS option.\n- Fixes MDX cast Button to show origin YT one.\n- Fixes PiP ABR buffering in some cases.\n- Fixes auto skip for SPB that may not skip in some cases.\n- Improves Backup spacing.\n- Improves loading audio and video player.\n- Other improvements.\n- Updated iPA to YouTube v21.37",
+                "markdown": "- Add missing localization and Japanese language.\n- Fixes short FS option.\n- Fixes MDX cast Button to show origin YT one.\n- Fixes PiP ABR buffering in some cases.\n- Fixes auto skip for SPB that may not skip in some cases.\n- Improves Backup spacing.\n- Improves loading audio and video player.\n- Other improvements.\n- Updated iPA to YouTube v21.38",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -219,12 +219,12 @@
             },
             {
                 "title": "Version",
-                "text": "6.5.7",
+                "text": "6.5.8",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Sep 21, 2026",
+                "text": "Sep 23, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -264,7 +264,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v21.10.2 - v21.37",
+                "text": " v21.10.2 - v21.38",
                 "class": "DepictionTableTextView"
             },
             {
