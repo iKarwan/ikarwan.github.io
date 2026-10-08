@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>6.6.5</version>
+    <version>6.7</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>6.6.5</version2>
+      <version2>6.7</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Oct 05, 2026</date>
+      <date>Oct 08, 2026</date>
     </date>
 
     <price>
@@ -40,6 +40,7 @@
     <changelog>
 
       <change>· Add missing localization and Japanese language</change>
+      <change>· Improved some section for init lequid glass of YT support</change>
       <change>· Fixes short FS option</change>
       <change>· Fixes MDX cast Button to show origin YT one</change>
       <change>· Fixes PiP ABR buffering in some cases</change>
