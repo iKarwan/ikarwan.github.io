@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Checkout — iNKillerPlus</title>
+  <link rel="shortcut icon" type="image/ico" href="https://repo.ikghd.me/assets/favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #080808;
+      --card-bg: #ffffff;
+      --border: rgba(255,255,255,0.07);
+      --text: #111111;
+      --subtext: #666666;
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      padding: 20px 16px;
+    }
+    .checkout-card {
+      background: var(--card-bg);
+      width: 100%;
+      max-width: 440px;
+      border-radius: 24px;
+      padding: 32px 24px;
+      position: relative;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    }
+    .back-btn {
+      width: 38px;
+      height: 38px;
+      background: #eef0f2;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #111;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+    .back-btn:hover { background: #e0e3e7; }
+    h1 {
+      font-size: 26px;
+      font-weight: 700;
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 12px;
+      letter-spacing: -0.5px;
+    }
+    .checkout-desc {
+      text-align: center;
+      color: var(--subtext);
+      font-size: 14px;
+      line-height: 1.5;
+      margin-bottom: 24px;
+      padding: 0 8px;
+    }
+    .email-notice {
+      background: #f8f9fa;
+      border: 1px solid #ebedef;
+      border-radius: 12px;
+      padding: 12px 16px;
+      font-size: 13px;
+      color: #444;
+      line-height: 1.5;
+      margin-bottom: 24px;
+    }
+    .btn-payment {
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      height: 52px;
+      border-radius: 12px;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      border: none;
+      cursor: pointer;
+      margin-bottom: 12px;
+      transition: opacity 0.2s, transform 0.1s;
+    }
+    .btn-payment img {
+      width: 20px;
+      height: 20px;
+      object-fit: contain;
+    }
+    .btn-payment:active { transform: scale(0.99); }
+    .btn-paypal {
+      background: #ffc439;
+      color: #003087;
+    }
+    .btn-stripe {
+      background: #635bff;
+      color: #ffffff;
+      margin-bottom: 8px;
+    }
+    .btn-sub {
+      background: #635bff;
+      color: #ffffff;
+    }
+    .btn-crypto {
+      background: #4a4d4e;
+      color: #ffffff;
+      margin-top: 16px;
+      margin-bottom: 12px;
+    }
+    .divider {
+      display: flex;
+      align-items: center;
+      text-align: center;
+      color: #999;
+      font-size: 12px;
+      font-weight: 600;
+      margin: 20px 0 10px;
+    }
+    .divider::before, .divider::after {
+      content: '';
+      flex: 1;
+      border-bottom: 1px solid #e1e4e8;
+    }
+    .divider span { padding: 0 12px; }
+    .crypto-discount {
+      text-align: center;
+      font-size: 12px;
+      color: #666;
+      margin-bottom: 20px;
+    }
+    .info-box {
+      background: #f0f6ff;
+      border-radius: 16px;
+      padding: 16px;
+      font-size: 12px;
+      color: #334155;
+      line-height: 1.6;
+    }
+    .info-box p { margin-bottom: 10px; }
+    .info-box p:last-child { margin-bottom: 0; }
+  </style>
+</head>
+<body>
+
+  <div class="checkout-card">
+    <a href="index.html" class="back-btn">‹</a>
+
+    <h1>Checkout</h1>
+    <p class="checkout-desc">
+      You are about to purchase <b>iNKillerPlus</b> for <b>$3.99</b> for 99 days. Choose a payment method below to complete your order.
+    </p>
+
+    <div class="email-notice">
+      🔑 After payment, your license key will be <b>emailed to you instantly</b>. Check your inbox and spam folder.
+    </div>
+
+    <a href="https://www.paypal.com/ncp/payment/AV4ERFMW92GZL" class="btn-payment btn-paypal">
+      <img src="https://ikghd.site/img/PayPals.svg" alt="PayPal"> Pay with PayPal
+    </a>
+
+    <a href="https://buy.stripe.com/5kQ5kCbsN1B73JyedJ6c01e" class="btn-payment btn-stripe">
+      <img src="https://ikghd.site/img/stripe2.svg" alt="Stripe"> Pay with Card
+    </a>
+
+    <a href="https://buy.stripe.com/aFa3cu8gBfrX0xm8Tp6c01d" class="btn-payment btn-sub">
+      <img src="https://ikghd.site/img/stripe2.svg" alt="Subscription"> Buy Subscription
+    </a>
+
+    <div class="divider"><span>OR</span></div>
+
+    <a href="https://ikghd.site/btc" class="btn-payment btn-crypto">
+      <img src="https://ikghd.site/img/Bitcoin.svg" alt="Bitcoin"> Buy Code in Crypto
+    </a>
+    <div class="crypto-discount">Get <b>5% discount</b> when paying with crypto!</div>
+
+    <div class="info-box">
+      <p>ℹ️ <b>One-time purchase</b> — this key lasts <b>99 days</b>. After it expires you will need to purchase again.</p>
+      <p>💡 Want to avoid that? <b>Subscribe instead</b> — $3.99 every 99 days and a fresh key is sent to your email automatically. No manual repurchase needed.</p>
+    </div>
+  </div>
+
+</body>
+</html>

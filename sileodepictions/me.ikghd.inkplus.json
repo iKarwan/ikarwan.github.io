@@ -108,7 +108,12 @@
             {
                "class":"DepictionSeparatorView"
             },
-
+            {
+              "title":"Buy a License",
+               "useBoldText": true,
+               "action":"https://repo.ikghd.me/iNK_BUY",
+               "class":"DepictionTableButtonView"
+            },
             {
               "title":"IPA & TrollStore Version:",
                "useBoldText": true,
