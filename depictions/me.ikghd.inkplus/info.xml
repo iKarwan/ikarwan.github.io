@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>5.3.3</version>
+    <version>5.3.4</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>5.3.3</version2>
+      <version2>5.3.4</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Oct 20, 2026</date>
+      <date>Oct 22, 2026</date>
     </date>
 
     <price>
@@ -43,7 +43,7 @@
       <change>· Add full compatibility with IG v450+</change>
       <change>· Other fixes &amp; improvements</change>
 
-      <change>· Updated base IPA to Instagram v451.0</change>
+      <change>· Updated base IPA to Instagram v452.0</change>
     </changelog>
 
 
