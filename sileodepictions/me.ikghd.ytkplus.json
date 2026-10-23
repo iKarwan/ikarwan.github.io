@@ -225,12 +225,12 @@
             },
             {
                 "title": "Version",
-                "text": "6.7.4",
+                "text": "6.7.5",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 22, 2026",
+                "text": "Oct 23, 2026",
                 "class": "DepictionTableTextView"
             },
             {
