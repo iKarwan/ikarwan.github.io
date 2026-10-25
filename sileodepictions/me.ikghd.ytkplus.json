@@ -208,7 +208,7 @@
             },
 
             {
-                "markdown": "- You can now reorder delete YTKPlus tab\n- Fixes lequid glass style tabs reordering and hiding\n- Fixes all tabs glass reordering hiding for iPhone Due\n- Add Force lequid glass tabs\n- Fixes YTKPlus icon may not showing correctly or hidden with new tab style\n- Add YTKPlus settings to default YT settings section\n- Add missing localization and Japanese language.\n- Fixes short FS option.\n- Fixes MDX cast Button to show origin YT one.\n- Fixes PiP ABR buffering in some cases.\n- Fixes auto skip for SPB that may not skip in some cases.\n- Improves Backup spacing.\n- Improves loading audio and video player.\n- Other improvements.\n- Updated iPA to YouTube v21.42",
+                "markdown": "- Fully optimized for new YT lequid glass tab bar\n- You can now reorder delete YTKPlus tab\n- Fixes lequid glass style tabs reordering and hiding\n- Fixes all tabs glass reordering hiding for iPhone Due\n- Add Force lequid glass tabs\n- Fixes YTKPlus icon may not showing correctly or hidden with new tab style\n- Add YTKPlus settings to default YT settings section\n- Add missing localization and Japanese language.\n- Fixes short FS option.\n- Fixes MDX cast Button to show origin YT one.\n- Fixes PiP ABR buffering in some cases.\n- Fixes auto skip for SPB that may not skip in some cases.\n- Improves Backup spacing.\n- Improves loading audio and video player.\n- Other improvements.\n- Updated iPA to YouTube v21.42",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",

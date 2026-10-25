@@ -39,6 +39,7 @@
 
     <changelog>
 
+      <change>· Fully optimized for new YT lequid glass tab bar</change>
       <change>· You can now reorder delete YTKPlus tab</change>
       <change>· Fixes lequid glass style tabs reordering and hiding</change>
       <change>· Fixes all tabs glass reordering hiding for iPhone Due</change>
