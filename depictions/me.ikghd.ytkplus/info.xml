@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>6.7.7</version>
+    <version>6.7.8</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>6.7.7</version2>
+      <version2>6.7.8</version2>
     </version2>
 
     <appcomp>
@@ -39,6 +39,10 @@
 
     <changelog>
 
+      <change>· You can now reorder delete YTKPlus tab</change>
+      <change>· Fixes lequid glass style tabs reordering and hiding</change>
+      <change>· Fixes all tabs glass reordering hiding for iPhone Due</change>
+      <change>·</change>
       <change>· Add Force lequid glass tabs</change>
       <change>· Fixes YTKPlus icon may not showing correctly or hidden with new tab style</change>
       <change>· Add YTKPlus settings to default YT settings section</change>
