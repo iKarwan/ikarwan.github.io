@@ -18,23 +18,23 @@
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "iKarwan",
             "subtitle": "A whole new YouTube experience!",
-            "version": "21.42.4",
+            "version": "21.43.5",
             "versions": [
                 {
-                    "version": "21.42.4",
-                    "date": "2026-10-25",
-                    "localizedDescription": "• Fully optimized for new YT lequid glass tab bar\n- You can now reorder delete YTKPlus tab\n- Fixes lequid glass style tabs reordering and hiding\n- Fixes all tabs glass reordering hiding for iPhone Due\n- Add Force lequid glass tabs\n- Fixes YTKPlus icon may not showing correctly or hidden with new tab style\n- Add YTKPlus settings to default YT settings section\n- Add missing localization and Japanese language.\n- Fixes short FS option.\n- Fixes MDX cast Button to show origin YT one.\n- Fixes PiP ABR buffering in some cases.\n- Fixes auto skip for SPB that may not skip in some cases.\n- Improves Backup spacing.\n- Improves loading audio and video player.\n- Other improvements.\n- Updated iPA to YouTube v21.42",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.42_YTKillerPlus_6.7.ipa",
-                    "size": 143624115,
+                    "version": "21.43.5",
+                    "date": "2026-10-28",
+                    "localizedDescription": "• Fully optimized for iPhone Due and YT Liquid Glass tab bar\n- Add YT default Shorts Clear Screen mode\n- Fix auto-advance to next Short\n- Enable YTKPlus tab reordering and deletion\n- Fix Liquid Glass tab reordering and hiding\n- Fix all tab reordering and hiding on iPhone Due\n- Add Force Liquid Glass Tabs\n- Fix YTKPlus icon visibility in new tab style\n- Add YTKPlus settings to default YT Settings\n- Add missing localizations and Japanese language\n- Fix Shorts fullscreen mode\n- Fix MDX cast button to show original YT button\n- Fix PiP ABR buffering issues\n- Fix SponsorBlock auto-skip issues\n- Improve backup spacing\n- Improve audio and video player loading\n- Other improvements\n- Update IPA to YouTube v21.43",
+                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.43_YTKillerPlus_6.7.ipa",
+                    "size": 144075300,
                     "minOSVersion": "17.0"
                 }
             ],
-            "versionDate": "2026-10-25",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.42_YTKillerPlus_6.7.ipa",
+            "versionDate": "2026-10-28",
+            "downloadURL": "https://ikghd.site/ipa/YouTube_21.43_YTKillerPlus_6.7.ipa",
             "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• 🎯 Fixes Playback 'Something went wrong' Exclusive.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• And many more settings…\r\n• Supports iPadOS.",
             "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
             "tintColor": "fa2942",
-            "size": 143624115,
+            "size": 144075300,
             "screenshotURLs": [
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
                 "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
