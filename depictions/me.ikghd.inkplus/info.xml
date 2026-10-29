@@ -38,6 +38,7 @@
     </price>
 
     <changelog>
+      <change>· Fixes story icons oniG 450+</change>
       <change>· Fixes Grid view icon</change>
       <change>· Fixes Grid mode may crashes in v450+</change>
       <change>· Add full compatibility with IG v450+</change>

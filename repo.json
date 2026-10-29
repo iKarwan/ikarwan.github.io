@@ -85,7 +85,7 @@
                 {
                     "version": "453.0.0",
                     "date": "2026-10-29",
-                    "localizedDescription": "• Fixes Grid mode may crashes in v450+\n- Add full compatibility with IG v445+\n- Updated base IPA to Instagram v451",
+                    "localizedDescription": "• Fixes story icons oniG 450+\n- Grid mode may crashes in v450+\n- Add full compatibility with IG v450+\n- Updated base IPA to Instagram v453.0",
                     "downloadURL": "https://ikghd.site/ipa/Instagram_453.0_iNKillerPlus_5.3.ipa",
                     "size": 277904094,
                     "minOSVersion": "16.3"
