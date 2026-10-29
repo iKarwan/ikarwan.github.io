@@ -155,7 +155,7 @@
             },
 
             {
-                "markdown": "- Fixes Grid mode may crashes in v450+\n- Add full compatibility with IG v445+\n- Updated base IPA to Instagram v452.0",
+                "markdown": "- Fixes Grid mode may crashes in v450+\n- Add full compatibility with IG v445+\n- Updated base IPA to Instagram v453.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -172,12 +172,12 @@
             },
             {
                "title":"Version",
-               "text":"5.3.4",
+               "text":"5.3.5",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 22, 2026",
+                "text": "Oct 29, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -217,7 +217,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v452.0",
+                "text": " v409.1 - v453.0",
                 "class": "DepictionTableTextView"
             },
             {
