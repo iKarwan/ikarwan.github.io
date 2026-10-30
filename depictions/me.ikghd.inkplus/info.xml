@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>5.3.5</version>
+    <version>5.3.6</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,7 +22,7 @@
     </jailed>
 
     <version2>
-      <version2>5.3.5</version2>
+      <version2>5.3.6</version2>
     </version2>
 
     <appcomp>
@@ -30,7 +30,7 @@
     </appcomp>
 
     <date>
-      <date>Oct 29, 2026</date>
+      <date>Oct 30, 2026</date>
     </date>
 
     <price>
@@ -38,7 +38,7 @@
     </price>
 
     <changelog>
-      <change>· Fixes story icons oniG 450+</change>
+      <change>· Fixes story icons on v450+</change>
       <change>· Fixes Grid view icon</change>
       <change>· Fixes Grid mode may crashes in v450+</change>
       <change>· Add full compatibility with IG v450+</change>

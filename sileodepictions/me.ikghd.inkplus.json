@@ -155,7 +155,7 @@
             },
 
             {
-                "markdown": "- Fixes story icons oniG 450+\n- Grid mode may crashes in v450+\n- Add full compatibility with IG v450+\n- Updated base IPA to Instagram v453.0",
+                "markdown": "- Fixes story icons on v450+\n- Grid mode may crashes in v450+\n- Add full compatibility with IG v450+\n- Updated base IPA to Instagram v453.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -172,12 +172,12 @@
             },
             {
                "title":"Version",
-               "text":"5.3.5",
+               "text":"5.3.6",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Oct 29, 2026",
+                "text": "Oct 30, 2026",
                 "class": "DepictionTableTextView"
             },
             {
