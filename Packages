@@ -269,6 +269,25 @@ SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ttkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png
 
 Package: me.ikghd.ytkplus
+Version: 6.7.11
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
+Architecture: iphoneos-arm
+Filename: ./debs/me.ikghd.ytkplus_6.7.11_iphoneos-arm.deb
+Size: 9830148
+Installed-Size: 27712
+MD5sum: a512639c2496338be2bfeccaf6ef2810
+SHA1: 4ab1a9677315609c79af81a8e26953a43c58c774
+SHA256: b00237d648827373dbf143645063d74b2552337fbf5c964da5f2fa3e2d0fa1c4
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
+Package: me.ikghd.ytkplus
 Version: 6.7.9
 Section: Tweaks
 Maintainer: iKarwan <ikghd3@gmail.com>
@@ -280,6 +299,25 @@ Installed-Size: 27672
 MD5sum: 3ccf81da76ed9d81304985f47612d33b
 SHA1: 1796c686a3a90d3c3a95094a8b54f85de6904917
 SHA256: c7c0d2046a87307c9f48b04dcae6b5257a82d74fd3524365687b58dc97e26456
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
+Package: me.ikghd.ytkplus
+Version: 6.7.11
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
+Architecture: iphoneos-arm64
+Filename: ./debs/me.ikghd.ytkplus_6.7.11_iphoneos-arm64.deb
+Size: 9827010
+Installed-Size: 27712
+MD5sum: 710a8c63cc44637fad2f462104e3dffb
+SHA1: 2b997646173e549e800035260d07d4a09eaa21fd
+SHA256: 59c69f17d1866d16adcf8143b07e467a9caefb6a9f670044cc176e34aeda61f0
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -375,6 +413,25 @@ Installed-Size: 27672
 MD5sum: e30b3bdaa637aa22eacaa06cdbec1226
 SHA1: d8f190ea69b1380dbf3cb1e97fcb61a65060f29d
 SHA256: 5e2b9104d8dd055b0e1d8d90c18d9a6bd4a237ca59542822f61554c56f72e78e
+Description: a whole new YouTube Experience!
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
+
+Package: me.ikghd.ytkplus
+Version: 6.7.11
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
+Architecture: iphoneos-arm64e
+Filename: ./debs/me.ikghd.ytkplus_6.7.11_iphoneos-arm64e.deb
+Size: 9818556
+Installed-Size: 27712
+MD5sum: c78d3934e20518341917f3047ea78c66
+SHA1: 068d3bf3d911e14eb9447ebf8aa46372f9b6a905
+SHA256: 15464d1ce32efe5ec3882f21f7fc5aadfd169a714e916ad3b29ae9b4bf698533
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
