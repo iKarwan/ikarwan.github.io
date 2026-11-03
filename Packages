@@ -161,11 +161,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm
 Filename: ./debs/me.ikghd.ytkplus_6.8_iphoneos-arm.deb
-Size: 9818900
-Installed-Size: 27728
-MD5sum: 6d2024d3417c73ece8d02b7964dd9745
-SHA1: 7df8ff08bfd9c00b6d8020ba00ff5244796ce569
-SHA256: bf369cec9bc0e4b1f28a9621f90b77c9d7555ae9384f3741491e9de12523900a
+Size: 9824404
+Installed-Size: 27712
+MD5sum: 4d7e24cec9030fb6b69ae6508275c143
+SHA1: 2728483168d5a7ea9e0f3a97208cd411c3713924
+SHA256: d23e7019320833b14d2d6553e4294015c9bdf39f9ec2db4b9fa02c79fc5fcab2
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -180,11 +180,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64e
 Filename: ./debs/me.ikghd.ytkplus_6.8_iphoneos-arm64e.deb
-Size: 9827424
+Size: 9818188
 Installed-Size: 27712
-MD5sum: 6bfc9f5927d60fbd7ce1957f79d7b0b6
-SHA1: 14384749d575c58fcaadcd9ea90f512ea5f0cd1d
-SHA256: 6f00deb35e27e49b47bea00b2615a37b5e28f2093e4565759a413d119dd1c8df
+MD5sum: 2cdd43846c0cb1db43ce82b806a64154
+SHA1: c19ff04b10d298e7494ae8e1a7a1b0ad2eed5bdb
+SHA256: 6da1e4e4215d7479a2bbb993495f99e242b2f72160abf82f6d1124c81ea4dece
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -199,11 +199,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64
 Filename: ./debs/me.ikghd.ytkplus_6.8_iphoneos-arm64.deb
-Size: 9825240
-Installed-Size: 27728
-MD5sum: 12b4f088fb2005ed86668e5cfc620354
-SHA1: 010daceba089a9dffbb1cbefb0199c1cfea6a679
-SHA256: 5e1cfa985de104911f8d4fd64ca634120b34b6b6115043b3453b5093944eea3d
+Size: 9824508
+Installed-Size: 27712
+MD5sum: d5f8dbbdade88425597bda40bb32ad99
+SHA1: dc1e73cedf2da4adba663c129a6afa4c2484447a
+SHA256: ff0ec9e9afda36c0c1ccc18e36eceafc964d80781cadefbd3440e6aa5eb81b45
 Description: a whole new YouTube Experience!
 Name: YTKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
