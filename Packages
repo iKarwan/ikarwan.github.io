@@ -5,11 +5,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm
 Filename: ./debs/me.ikghd.inkplus_5.4.1_iphoneos-arm.deb
-Size: 9398948
+Size: 9401386
 Installed-Size: 26436
-MD5sum: 646ba3e8fdce736d3423fb24c7543dfb
-SHA1: aa26f750225ff0ca97c5709adf80485871fc71da
-SHA256: c0139019a6b3e9a856e51dd8890a9a98cc89dab75a81a04e9f0c137610f822cb
+MD5sum: 2579b6516dd6ae5080e2389fcb176fbc
+SHA1: 6f296ca7c234e927f039e02fcb07280e88fb47cb
+SHA256: b83dc48d264e94e12eb5fa231fde09e0623b43871227e400df3f56a94e6addef
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -24,11 +24,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64
 Filename: ./debs/me.ikghd.inkplus_5.4.1_iphoneos-arm64.deb
-Size: 9397416
+Size: 9403614
 Installed-Size: 26436
-MD5sum: 104516f4d1de85639be49558f8cf58d0
-SHA1: 7d1058bdded51d6307bee13ccb3b2b4a22a59965
-SHA256: 9458db948cfcc61b5d8b57dc1c5d7180c330eac539ad9e5cb5f0eb8ec110caf2
+MD5sum: f4ad9841c71f48a48153aa38c417cfa8
+SHA1: 1e05413e5b01d863dba5dffde89769f1a8350f0e
+SHA256: f6a52afbdbac78b817f12073a9a4b97d33296267b9d5b5815ac1ed10fc2f134b
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
@@ -43,11 +43,11 @@ Maintainer: iKarwan <ikghd3@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
 Architecture: iphoneos-arm64e
 Filename: ./debs/me.ikghd.inkplus_5.4.1_iphoneos-arm64e.deb
-Size: 9402280
+Size: 9394350
 Installed-Size: 26436
-MD5sum: e11c027ec45a0b3ddab87dda4ceb92ff
-SHA1: d4165ef4e33bac92205ffd26d2c2a4cd8f4f8cfa
-SHA256: ccef92eda0b6b7dbbeaec5786b700fdab59777ae772e1e24c4fb1d264ad7b9d8
+MD5sum: 2b69893ecd96e6280ed4c23a0a75e210
+SHA1: 282e22c47282d49d9cb6af13ee515f283e8a6321
+SHA256: 731ee2400a3bf5a8d00965b3816e0105ef9aa03359f1b657c95f9ce84c10a12a
 Description: a whole new Instagram Experience!
 Name: iNKillerPlus
 Author: iKarwan <ikghd3@gmail.com>
