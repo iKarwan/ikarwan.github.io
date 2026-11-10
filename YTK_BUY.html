@@ -78,44 +78,44 @@
     .btn-payment {
       width: 100%;
       display: flex;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
-      gap: 10px;
-      height: 52px;
+      padding: 14px 20px;
       border-radius: 12px;
-      font-size: 15px;
-      font-weight: 600;
       text-decoration: none;
       border: none;
       cursor: pointer;
       margin-bottom: 12px;
       transition: opacity 0.2s, transform 0.1s;
-    }
-    .btn-payment img {
-      width: 20px;
-      height: 20px;
-      object-fit: contain;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
     }
     .btn-payment:active { transform: scale(0.99); }
-    .btn-paypal {
-      background: #ffc439;
-      color: #003087;
+    .btn-content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      position: relative;
+      font-size: 15px;
+      font-weight: 600;
     }
-    .btn-stripe {
-      background: #635bff;
-      color: #ffffff;
-      margin-bottom: 8px;
+    .btn-content img {
+      width: 20px;
+      height: 20px;
+      position: absolute;
+      left: 10px;
+      object-fit: contain;
     }
-    .btn-sub {
-      background: #635bff;
-      color: #ffffff;
+    .btn-subtext {
+      font-size: 11px;
+      font-weight: 500;
+      opacity: 0.85;
+      margin-top: 2px;
     }
-    .btn-crypto {
-      background: #4a4d4e;
-      color: #ffffff;
-      margin-top: 16px;
-      margin-bottom: 12px;
-    }
+    .btn-paypal { background: #ffc439; color: #003087; }
+    .btn-stripe, .btn-sub { background: #635bff; color: #ffffff; }
+    .btn-crypto { background: #4a4d4e; color: #ffffff; margin-top: 16px; margin-bottom: 12px; }
     .divider {
       display: flex;
       align-items: center;
@@ -131,12 +131,7 @@
       border-bottom: 1px solid #e1e4e8;
     }
     .divider span { padding: 0 12px; }
-    .crypto-discount {
-      text-align: center;
-      font-size: 12px;
-      color: #666;
-      margin-bottom: 20px;
-    }
+    .crypto-discount { text-align: center; font-size: 12px; color: #666; margin-bottom: 20px; }
     .info-box {
       background: #f0f6ff;
       border-radius: 16px;
@@ -144,17 +139,10 @@
       font-size: 12px;
       color: #334155;
       line-height: 1.6;
+      text-align: left;
     }
     .info-box p { margin-bottom: 10px; }
     .info-box p:last-child { margin-bottom: 0; }
-    .info-box a {
-      color: #2563eb;
-      text-decoration: underline;
-      font-weight: 500;
-    }
-    .info-box a:hover {
-      color: #1d4ed8;
-    }
   </style>
 </head>
 <body>
@@ -172,28 +160,44 @@
     </div>
 
     <a href="https://www.paypal.com/ncp/payment/7VYN5DWLGK7HA" class="btn-payment btn-paypal">
-      <img src="https://ikghd.site/img/PayPals.svg" alt="PayPal"> Pay with PayPal
+      <div class="btn-content">
+        <img src="https://ikghd.site/img/PayPals.svg" alt="PayPal">
+        <span style="color: #000000;"><b>Pay with</b> <span style="color: #003087; font-style: italic;"><b>Pay</b></span><span style="color: #0070BA; font-style: italic;"><b>Pal</b></span></span>
+      </div>
+      <div class="btn-subtext">One-time purchase (99 days)</div>
     </a>
 
     <a href="https://buy.stripe.com/4gM28qgN77Zv1Bq7Pl6c01c" class="btn-payment btn-stripe">
-      <img src="https://ikghd.site/img/stripe2.svg" alt="Stripe"> Pay with Card
+      <div class="btn-content">
+        <img src="https://ikghd.site/img/stripe2.svg" alt="Stripe">
+        <span>Pay with Card</span>
+      </div>
+      <div class="btn-subtext">One-time purchase (99 days)</div>
     </a>
 
     <a href="https://buy.stripe.com/00weVcfJ3djP6VKedJ6c01b" class="btn-payment btn-sub">
-      <img src="https://ikghd.site/img/stripe2.svg" alt="Subscription"> Buy Subscription
+      <div class="btn-content">
+        <img src="https://ikghd.site/img/stripe2.svg" alt="Subscription">
+        <span>Buy Subscription</span>
+      </div>
+      <div class="btn-subtext">Auto-renewing every 99 days</div>
     </a>
 
     <div class="divider"><span>OR</span></div>
 
-    <a href="https://ikghd.site/btc" class="btn-payment btn-crypto">
-      <img src="https://ikghd.site/img/Bitcoin.svg" alt="Bitcoin"> Buy Code in Crypto
+    <a href="https://ikghd.site/btc.html" class="btn-payment btn-crypto">
+      <div class="btn-content">
+        <img src="https://ikghd.site/img/Bitcoin.svg" alt="Bitcoin">
+        <span>Buy Code in Crypto</span>
+      </div>
+      <div class="btn-subtext">One-time purchase (99 days)</div>
     </a>
     <div class="crypto-discount">Get <b>5% discount</b> when paying with crypto!</div>
 
     <div class="info-box">
       <p>ℹ️ <b>One-time purchase</b> — this key lasts <b>99 days</b>. After it expires you will need to purchase again.</p>
       <p>💡 Want to avoid that? <b>Subscribe instead</b> — $3.99 every 99 days and a fresh key is sent to your email automatically. No manual repurchase needed.</p>
-      <p>🔄 <b>Subscription Renewals</b> — Subscriptions renew automatically. You can manage or cancel your subscription anytime via the <a href="https://billing.stripe.com/p/login/dRm8wO68tenTa7W7Pl6c000" target="_blank" rel="noopener noreferrer">Stripe billing portal</a> before renewal.</p>
+      <p>🔄 <b>Subscription Renewals</b> — Subscriptions renew automatically. You can manage or cancel your subscription anytime via the <a href="https://billing.stripe.com/p/login/dRm8wO68tenTa7W7Pl6c000" style="color: #0070c9;">Stripe billing portal</a> before renewal.</p>
     </div>
   </div>
 
