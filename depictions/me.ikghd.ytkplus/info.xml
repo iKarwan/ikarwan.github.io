@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.ytkplus</id>
     <name>YTKillerPlus</name>
-    <version>6.8.1</version>
+    <version>6.8.2</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>6.8.1</version2>
+      <version2>6.8.2</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v21.10.2 - v21.44</appcomp>
+      <appcomp> v21.10.2 - v21.45</appcomp>
     </appcomp>
 
     <date>
-      <date>Nov 07, 2026</date>
+      <date>Nov 10, 2026</date>
     </date>
 
     <price>
@@ -59,7 +59,7 @@
       <change>· Improve audio and video player loading</change>
       <change>· Other improvements</change>
 
-      <change>· Updated iPA to newer YouTube v21.44</change>
+      <change>· Updated iPA to newer YouTube v21.45</change>
     </changelog>
 
 
