@@ -208,7 +208,7 @@
             },
 
             {
-                "markdown": "- Add enable default YT premium queue play next in queue and play last in queue\n- Improve tabbar lequid glass\n- Improve shorts auto advance and default FS\n- Fully optimized for iPhone Due and YT Liquid Glass tab bar\n- Add YT default Shorts Clear Screen mode\n- Fix auto-advance to next Short\n- Enable YTKPlus tab reordering and deletion\n- Fix Liquid Glass tab reordering and hiding\n- Fix all tab reordering and hiding on iPhone Due\n- Add Force Liquid Glass Tabs\n- Fix YTKPlus icon visibility in new tab style\n- Add YTKPlus settings to default YT Settings\n- Add missing localizations and Japanese language\n- Fix Shorts fullscreen mode\n- Fix MDX cast button to show original YT button\n- Fix PiP ABR buffering issues\n- Fix SponsorBlock auto-skip issues\n- Improve backup spacing\n- Improve audio and video player loading\n- Other improvements\n- Update IPA to YouTube v21.45",
+                "markdown": "- Add enable default YT premium queue, play next in queue & play last in queue\n- Improve tabbar lequid glass\n- Improve shorts auto advance and default FS\n- Fully optimized for iPhone Due and YT Liquid Glass tab bar\n- Add YT default Shorts Clear Screen mode\n- Fix auto-advance to next Short\n- Enable YTKPlus tab reordering and deletion\n- Fix Liquid Glass tab reordering and hiding\n- Fix all tab reordering and hiding on iPhone Due\n- Add Force Liquid Glass Tabs\n- Fix YTKPlus icon visibility in new tab style\n- Add YTKPlus settings to default YT Settings\n- Add missing localizations and Japanese language\n- Fix Shorts fullscreen mode\n- Fix MDX cast button to show original YT button\n- Fix PiP ABR buffering issues\n- Fix SponsorBlock auto-skip issues\n- Improve backup spacing\n- Improve audio and video player loading\n- Other improvements\n- Update IPA to YouTube v21.45",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -225,12 +225,12 @@
             },
             {
                 "title": "Version",
-                "text": "6.8.2",
+                "text": "6.8.3",
                 "class": "DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 10, 2026",
+                "text": "Nov 11, 2026",
                 "class": "DepictionTableTextView"
             },
             {

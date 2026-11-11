@@ -23,7 +23,7 @@
                 {
                     "version": "21.45.4",
                     "date": "2026-11-10",
-                    "localizedDescription": "• Add enable default YT premium queue play next in queue and play last in queue\n- Improve tabbar lequid glass\n- Improve shorts auto advance and default FS\n- Fully optimized for iPhone Due and YT Liquid Glass tab bar\n- Add YT default Shorts Clear Screen mode\n- Fix auto-advance to next Short\n- Enable YTKPlus tab reordering and deletion\n- Fix Liquid Glass tab reordering and hiding\n- Fix all tab reordering and hiding on iPhone Due\n- Add Force Liquid Glass Tabs\n- Fix YTKPlus icon visibility in new tab style\n- Add YTKPlus settings to default YT Settings\n- Add missing localizations and Japanese language\n- Fix Shorts fullscreen mode\n- Fix MDX cast button to show original YT button\n- Fix PiP ABR buffering issues\n- Fix SponsorBlock auto-skip issues\n- Improve backup spacing\n- Improve audio and video player loading\n- Other improvements\n- Update IPA to YouTube v21.45",
+                    "localizedDescription": "• Add enable default YT premium queue, play next in queue & play last in queue\n- Improve tabbar lequid glass\n- Improve shorts auto advance and default FS\n- Fully optimized for iPhone Due and YT Liquid Glass tab bar\n- Add YT default Shorts Clear Screen mode\n- Fix auto-advance to next Short\n- Enable YTKPlus tab reordering and deletion\n- Fix Liquid Glass tab reordering and hiding\n- Fix all tab reordering and hiding on iPhone Due\n- Add Force Liquid Glass Tabs\n- Fix YTKPlus icon visibility in new tab style\n- Add YTKPlus settings to default YT Settings\n- Add missing localizations and Japanese language\n- Fix Shorts fullscreen mode\n- Fix MDX cast button to show original YT button\n- Fix PiP ABR buffering issues\n- Fix SponsorBlock auto-skip issues\n- Improve backup spacing\n- Improve audio and video player loading\n- Other improvements\n- Update IPA to YouTube v21.45",
                     "downloadURL": "https://ikghd.site/ipa/YouTube_21.45_YTKillerPlus_6.8.ipa",
                     "size": 145699642,
                     "minOSVersion": "17.0"
@@ -146,7 +146,7 @@
                 {
                     "version": "47.7.0",
                     "date": "2026-11-10",
-                    "localizedDescription": "• Fixes injection for jailbreaks may not be injected due to bundle iD missing\n- Add country flag to the profile page to know the creator origin country\n- Add follow status to new profile style user name\n- Add v46.7+ compatibility.\n- Fix like confirmation bypass on double tap.\n- Fix post date display format.\n- Fix flag button not tappable.\n- Other fixes & improvements.\n- Update base IPA to TikTok v47.7",
+                    "localizedDescription": "• Add country flag to the profile page to know the creator origin country\n- Add follow status to new profile style user name\n- Add v46.7+ compatibility.\n- Fix like confirmation bypass on double tap.\n- Fix post date display format.\n- Fix flag button not tappable.\n- Other fixes & improvements.\n- Update base IPA to TikTok v47.7",
                     "downloadURL": "https://ikghd.site/ipa/TikTok_47.7_TTKillerPlus_2.4.ipa",
                     "size": 505810857,
                     "minOSVersion": "15.1"
