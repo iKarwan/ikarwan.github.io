@@ -11,12 +11,10 @@
         {
             "title": "YTKillerPlus 6.8 Released!",
             "identifier": "ytkplus-6-8",
-            "caption": "YouTube 21.45 is here! Enjoy new features, improved Liquid Glass tabs, playback improvements, and many fixes.",
+            "caption": "YouTube 21.45 is here! Enjoy new features, improved Liquid Glass tabs, and many fixes.",
             "date": "2026-11-10",
             "tintColor": "FA2942",
-            "imageURL": "https://ikghd.site/assets/ytkplus.png",
             "notify": true,
-            "url": "https://repo.ikghd.me",
             "appID": "com.google.ios.youtube"
         }
     ],
