@@ -42,11 +42,10 @@
       <change>· Local story seen, View stories without notifying the recipient or sending view activity to Instagram servers</change>
       <change>· make sure seen manually is enabled when u want to use local seen</change>
 
-      <change>· Add compatibility for iG v454+</change>
+      <change>· Add compatibility for iG v455+</change>
       <change>· Fixes story icons on v450+</change>
       <change>· Fixes Grid view icon</change>
       <change>· Fixes Grid mode may crashes in v450+</change>
-      <change>· Add full compatibility with IG v450+</change>
       <change>· Other fixes &amp; improvements</change>
 
       <change>· Updated base IPA to Instagram v455.0</change>

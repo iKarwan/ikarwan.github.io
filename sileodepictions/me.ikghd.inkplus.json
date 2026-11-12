@@ -155,7 +155,7 @@
             },
 
             {
-                "markdown": "- Local story seen out of expermint now fully stable\n- Local story seen, View stories without notifying the recipient or sending view activity to Instagram servers\n- make sure seen manually is enabled when u want to use local seen\n- Add compatibility for iG v454+\n- Fixes story icons on v450+\n- Grid mode may crashes in v450+\n- Add full compatibility with IG v450+\n- Updated base IPA to Instagram v454.0",
+                "markdown": "- Local story seen out of expermint now fully stable\n- Local story seen, View stories without notifying the recipient or sending view activity to Instagram servers\n- make sure seen manually is enabled when u want to use local seen\n- Add compatibility for iG v454+\n- Fixes story icons on v450+\n- Grid mode may crashes in v450+\n- Updated base IPA to Instagram v455.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
