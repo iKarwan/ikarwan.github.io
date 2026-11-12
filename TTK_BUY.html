@@ -49,11 +49,22 @@
       transition: background 0.2s;
     }
     .back-btn:hover { background: #e0e3e7; }
+    .logo-container {
+      text-align: center;
+      margin-top: 10px;
+      margin-bottom: 8px;
+    }
+    .logo-container img {
+      width: 48px;
+      height: 48px;
+      border-radius: 12px;
+      object-fit: contain;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
     h1 {
       font-size: 26px;
       font-weight: 700;
       text-align: center;
-      margin-top: 10px;
       margin-bottom: 12px;
       letter-spacing: -0.5px;
     }
@@ -161,7 +172,10 @@
   <div class="checkout-card">
     <a href="index.html" class="back-btn">‹</a>
 
-    <h1>Checkout</h1>
+    <div class="logo-container">
+      <img src="https://ikghd.site/assets/ttkplus.png" alt="TTKillerPlus Logo">
+    </div>
+    <h1>TTK Checkout</h1>
     <p class="checkout-desc">
       You are about to purchase <b>TTKillerPlus</b> for <b>$3.99</b> for 99 days. Choose a payment method below to complete your order.
     </p>
