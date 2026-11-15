@@ -26,7 +26,7 @@
     ],
     "apps": [
         {
-            "name": "YouTube",
+            "name": "YTKillerPlus",
             "bundleIdentifier": "com.google.ios.youtube",
             "developerName": "iKarwan",
             "subtitle": "A whole new YouTube experience!",
@@ -88,7 +88,7 @@
             }
         },
         {
-            "name": "Instagram",
+            "name": "iNKillerPlus",
             "bundleIdentifier": "com.burbn.instagram",
             "developerName": "iKarwan",
             "subtitle": "A whole new Instagram experience!",
@@ -149,7 +149,7 @@
             }
         },
         {
-            "name": "TikTok",
+            "name": "TTKillerPlus",
             "bundleIdentifier": "com.zhiliaoapp.musically",
             "developerName": "iKarwan",
             "subtitle": "A whole new TikTok experience!",
