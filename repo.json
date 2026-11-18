@@ -1,207 +1,207 @@
 {
-    "name": "iKG Workspace",
-    "identifier": "me.ikghd.repo",
-    "subtitle": "Official iKarwan iPA Repo's",
-    "description": "Welcome to iKarwan's source! Here you'll find all of my tweked apps.",
-    "iconURL": "https://ikghd.site/assets/repo.png",
-    "website": "https://repo.ikghd.me",
-    "sourceURL": "https://ikghd.site/repo.json",
-    "tintColor": "FC9530",
-    "news": [
+  "name": "iKG Workspace",
+  "identifier": "me.ikghd.repo",
+  "subtitle": "Official iKarwan iPA Repo's",
+  "description": "Welcome to iKarwan's source! Here you'll find all of my tweked apps.",
+  "iconURL": "https://ikghd.site/assets/repo.png",
+  "website": "https://repo.ikghd.me",
+  "sourceURL": "https://ikghd.site/repo.json",
+  "tintColor": "FC9530",
+  "news": [
+    {
+      "title": "YTKillerPlus 6.8 Released!",
+      "identifier": "ytkplus-6-8",
+      "caption": "YouTube 21.45 is here! Enjoy new features, Liquid Glass tabs, Queue, and many more.",
+      "date": "2026-11-12",
+      "tintColor": "FA2942",
+      "imageURL": "https://ikghd.site/assets/ytkplus.png",
+      "notify": true,
+      "appID": "com.google.ios.youtube"
+    }
+  ],
+  "featuredApps": [
+    "com.google.ios.youtube",
+    "com.burbn.instagram",
+    "com.zhiliaoapp.musically"
+  ],
+  "apps": [
+    {
+      "name": "YTKillerPlus",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "iKarwan",
+      "subtitle": "A whole new YouTube experience!",
+      "version": "21.45.4",
+      "versions": [
         {
-            "title": "YTKillerPlus 6.8 Released!",
-            "identifier": "ytkplus-6-8",
-            "caption": "YouTube 21.45 is here! Enjoy new features, Liquid Glass tabs, Queue, and many more.",
-            "date": "2026-11-12",
-            "tintColor": "FA2942",
-            "imageURL": "https://ikghd.site/assets/ytkplus.png",
-            "notify": true,
-            "appID": "com.google.ios.youtube"
+          "version": "21.45.4",
+          "date": "2026-11-10",
+          "localizedDescription": "• Add enable default YT premium queue, play next in queue & play last in queue\n- Improve tabbar lequid glass\n- Improve shorts auto advance and default FS\n- Fully optimized for iPhone Due and YT Liquid Glass tab bar\n- Add YT default Shorts Clear Screen mode\n- Fix auto-advance to next Short\n- Enable YTKPlus tab reordering and deletion\n- Fix Liquid Glass tab reordering and hiding\n- Fix all tab reordering and hiding on iPhone Due\n- Add Force Liquid Glass Tabs\n- Fix YTKPlus icon visibility in new tab style\n- Add YTKPlus settings to default YT Settings\n- Add missing localizations and Japanese language\n- Fix Shorts fullscreen mode\n- Fix MDX cast button to show original YT button\n- Fix PiP ABR buffering issues\n- Fix SponsorBlock auto-skip issues\n- Improve backup spacing\n- Improve audio and video player loading\n- Other improvements\n- Update IPA to YouTube v21.45",
+          "downloadURL": "https://ikghd.site/ipa/YouTube_21.45_YTKillerPlus_6.8.ipa",
+          "size": 145699642,
+          "minOSVersion": "17.0"
         }
-    ],
-    "featuredApps": [
-        "com.google.ios.youtube",
-        "com.burbn.instagram",
-        "com.zhiliaoapp.musically"
-    ],
-    "apps": [
-        {
-            "name": "YTKillerPlus",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "developerName": "iKarwan",
-            "subtitle": "A whole new YouTube experience!",
-            "version": "21.45.4",
-            "versions": [
-                {
-                    "version": "21.45.4",
-                    "date": "2026-11-10",
-                    "localizedDescription": "• Add enable default YT premium queue, play next in queue & play last in queue\n- Improve tabbar lequid glass\n- Improve shorts auto advance and default FS\n- Fully optimized for iPhone Due and YT Liquid Glass tab bar\n- Add YT default Shorts Clear Screen mode\n- Fix auto-advance to next Short\n- Enable YTKPlus tab reordering and deletion\n- Fix Liquid Glass tab reordering and hiding\n- Fix all tab reordering and hiding on iPhone Due\n- Add Force Liquid Glass Tabs\n- Fix YTKPlus icon visibility in new tab style\n- Add YTKPlus settings to default YT Settings\n- Add missing localizations and Japanese language\n- Fix Shorts fullscreen mode\n- Fix MDX cast button to show original YT button\n- Fix PiP ABR buffering issues\n- Fix SponsorBlock auto-skip issues\n- Improve backup spacing\n- Improve audio and video player loading\n- Other improvements\n- Update IPA to YouTube v21.45",
-                    "downloadURL": "https://ikghd.site/ipa/YouTube_21.45_YTKillerPlus_6.8.ipa",
-                    "size": 145699642,
-                    "minOSVersion": "17.0"
-                }
-            ],
-            "versionDate": "2026-11-10",
-            "downloadURL": "https://ikghd.site/ipa/YouTube_21.45_YTKillerPlus_6.8.ipa",
-            "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• 🎯 Fixes Playback 'Something went wrong' Exclusive.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• And many more settings…\r\n• Supports iPadOS.",
-            "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
-            "tintColor": "fa2942",
-            "size": 145699642,
-            "screenshotURLs": [
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/3.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/4.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/5.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/12.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/13.PNG"
-            ],
-            "appPermissions": {
-                "entitlements": [
-                "application-identifier",
-                "aps-environment",
-                "com.apple.developer.associated-domains",
-                "com.apple.security.application-groups",
-                "com.apple.developer.usernotifications.communication",
-                "com.apple.developer.usernotifications.time-sensitive",
-                "keychain-access-groups",
-                "com.apple.developer.team-identifier"
-                ],
-                "privacy": {
-                    "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
-                    "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
-                    "NSCameraUsageDescription": "This lets you create videos using the app.",
-                    "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
-                    "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
-                    "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
-                    "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
-                    "NSPhotoLibraryAddUsageDescription": "This lets you save downloaded media to the Photos app.",
-                    "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
-                    "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
-                }
-            }
-        },
-        {
-            "name": "iNKillerPlus",
-            "bundleIdentifier": "com.burbn.instagram",
-            "developerName": "iKarwan",
-            "subtitle": "A whole new Instagram experience!",
-            "version": "455.0.0",
-            "versions": [
-                {
-                    "version": "455.0.0",
-                    "date": "2026-11-10",
-                    "localizedDescription": "• Local story seen out of expermint now fully stable\n- Local story seen, View stories without notifying the recipient or sending view activity to Instagram servers\n- make sure seen manually is enabled when u want to use local seen\n- Add compatibility for iG v454+\n- Fixes story icons on v450+\n- Grid mode may crashes in v450+\n- Updated base IPA to Instagram v455.0",
-                    "downloadURL": "https://ikghd.site/ipa/Instagram_455.0_iNKillerPlus_5.4.ipa",
-                    "size": 299813125,
-                    "minOSVersion": "16.3"
-                }
-            ],
-            "versionDate": "2026-11-10",
-            "downloadURL": "https://ikghd.site/ipa/Instagram_455.0_iNKillerPlus_5.4.ipa",
-            "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Save and merge photos with music as Slideshow.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages + storing it in logs.\r\n• Alternative Icon theme change.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
-            "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png",
-            "tintColor": "ff7c9f",
-            "size": 299813125,
-            "screenshotURLs": [
-                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/3.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/4.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/8.PNG"
-            ],
-            "appPermissions": {
-                "entitlements": [
-                "application-identifier",
-                "aps-environment",
-                "com.apple.developer.associated-domains",
-                "com.apple.security.application-groups",
-                "com.apple.developer.usernotifications.communication",
-                "com.apple.developer.usernotifications.time-sensitive",
-                "keychain-access-groups",
-                "com.apple.developer.team-identifier"
-                ],
-                "privacy": {
-                    "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
-                    "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
-                    "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar.",
-                    "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
-                    "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram's servers.",
-                    "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
-                    "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you've been missing notifications from friends. You can always change this later in settings.",
-                    "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-                    "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-                    "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
-                    "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
-                    "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
-                    "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
-                    "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
-                }
-            }
-        },
-        {
-            "name": "TTKillerPlus",
-            "bundleIdentifier": "com.zhiliaoapp.musically",
-            "developerName": "iKarwan",
-            "subtitle": "A whole new TikTok experience!",
-            "version": "47.7.0",
-            "versions": [
-                {
-                    "version": "47.7.0",
-                    "date": "2026-11-10",
-                    "localizedDescription": "• Add country flag to the profile page to know the creator origin country\n- Add follow status to new profile style user name\n- Add v46.7+ compatibility.\n- Fix like confirmation bypass on double tap.\n- Fix post date display format.\n- Fix flag button not tappable.\n- Other fixes & improvements.\n- Update base IPA to TikTok v47.7",
-                    "downloadURL": "https://ikghd.site/ipa/TikTok_47.7_TTKillerPlus_2.4.ipa",
-                    "size": 505810857,
-                    "minOSVersion": "15.1"
-                }
-            ],
-            "versionDate": "2026-11-10",
-            "downloadURL": "https://ikghd.site/ipa/TikTok_47.7_TTKillerPlus_2.4.ipa",
-            "localizedDescription": "• To enter settings, long press on the Profile tab and click the ⚙️ Gear icon\r\n• Download videos from FEED, stories, and Explore.\r\n• Save photos from FEED, Stories, and Profiles.\r\n• Merge photos and music From post together.\r\n• Save Profiles avatar or expand it.\r\n• Block all promo ads in Feed, Stories, and Explore.\r\n• Quick Seen / Unseen toggle for Stories and DMs.\r\n• Hide tabs such as Friends, Create, and Inbox.\r\n• Copy profiles bio.\r\n• Add toggle Auto Like for live streaming.\r\n• Stream Post from Specific country.\r\n• Add country Flags and post Date on FEED.\r\n• Add Follow status to Profile, following, not following, friends.\r\n• And many more customization options...\r\n• Supports iPadOS.",
-            "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png",
-            "tintColor": "232621",
-            "size": 505810857,
-            "screenshotURLs": [
-                "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/1.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/2.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/3.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/4.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/5.PNG",
-                "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/6.PNG"
-            ],
-            "appPermissions": {
-                "entitlements": [
-                "application-identifier",
-                "aps-environment",
-                "com.apple.developer.associated-domains",
-                "com.apple.security.application-groups",
-                "com.apple.developer.usernotifications.communication",
-                "com.apple.developer.usernotifications.time-sensitive",
-                "keychain-access-groups",
-                "com.apple.developer.team-identifier"
-                ],
-                "privacy": {
-                    "NSBluetoothAlwaysUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
-                    "NSCalendarsUsageDescription": "Add events to your device calendar to get reminders when events start.",
-                    "NSCameraUsageDescription": "You'll be able to record video.",
-                    "NSContactsUsageDescription": "Sync your contacts to easily find people you know on TikTok. Your contacts will only be used to help you connect with friends.",
-                    "NSFaceIDUsageDescription": "We'll use this to unlock features that require added security.",
-                    "NSLocationWhenInUseUsageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience.",
-                    "NSMicrophoneUsageDescription": "To record audio, allow us to access your Microphone.",
-                    "NSPhotoLibraryAddUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
-                    "NSPhotoLibraryUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
-                    "NSUserTrackingUsageDescription": "This allows TikTok to provide you with a better ads experience."
-                }
-            }
+      ],
+      "versionDate": "2026-11-10",
+      "downloadURL": "https://ikghd.site/ipa/YouTube_21.45_YTKillerPlus_6.8.ipa",
+      "localizedDescription": "• Download videos, audio, Shorts, and post images.\r\n• Enjoy full-speed 🚀 downloads with a built-in Download Manager.\r\n• Built in a modern Video and Audio player.\r\n• Built in custom Sleeptimer.\r\n• Import videos to Photos or directly into the YTKPlus library.\r\n• Block all advertisements for a clean experience.\r\n• 🎯 Fixes Playback 'Something went wrong' Exclusive.\r\n• Play media in the background.\r\n• Stream HD videos over Wi-Fi, 3G, 4G, or 5G.\r\n• Streaming and downloading 2k-4k videos on Supported Device ip15 and later.\r\n• Set default playback quality for Wi-Fi and Cellular.\r\n• Customize or hide tab bar icons and layouts.\r\n• Includes built-in SponsorBlock integration.\r\n• Picture in Picture (PiP).\r\n• And many more settings…\r\n• Supports iPadOS.",
+      "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png",
+      "tintColor": "fa2942",
+      "size": 145699642,
+      "screenshotURLs": [
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/1.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/2.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/3.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/4.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/5.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/6.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/7.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/8.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/9.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/10.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/11.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/12.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ytkplus/screenshots/13.PNG"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier"
+        ],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save downloaded media to the Photos app.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
         }
-    ]
+      }
+    },
+    {
+      "name": "iNKillerPlus",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "iKarwan",
+      "subtitle": "A whole new Instagram experience!",
+      "version": "455.0.0",
+      "versions": [
+        {
+          "version": "455.0.0",
+          "date": "2026-11-10",
+          "localizedDescription": "• Local story seen out of expermint now fully stable\n- Local story seen, View stories without notifying the recipient or sending view activity to Instagram servers\n- make sure seen manually is enabled when u want to use local seen\n- Add compatibility for iG v454+\n- Fixes story icons on v450+\n- Grid mode may crashes in v450+\n- Updated base IPA to Instagram v455.0",
+          "downloadURL": "https://ikghd.site/ipa/Instagram_455.0_iNKillerPlus_5.4.ipa",
+          "size": 299813125,
+          "minOSVersion": "16.3"
+        }
+      ],
+      "versionDate": "2026-11-10",
+      "downloadURL": "https://ikghd.site/ipa/Instagram_455.0_iNKillerPlus_5.4.ipa",
+      "localizedDescription": "• To enter the settings, go to Profile tab and click the ⚙️ Gear icon next to your Instagram name, or long-press on the Home button / Instagram logo\r\n• Download videos from Posts, IGTV, Reels, and DMs (HD / SD).\r\n• Save images from Posts, Stories, private DMs, and Profiles.\r\n• Save and merge photos with music as Slideshow.\r\n• Block all promo ads in Feed, Stories, and Reels.\r\n• Quick Seen/Unseen toggle for Stories and DMs.\r\n• Ghost Typing mode.\r\n• Hide tabs like Explore, Reels, and Create.\r\n• Keep unsent messages + storing it in logs.\r\n• Alternative Icon theme change.\r\n• Profile analyzer (analyze fully your profile following status).\r\n• Feed Grid & list View.\r\n• Fake location.\r\n• Copy text such as Comments, Descriptions, or Bio.\r\n• Confirmation prompts before liking, commenting, calling, or reposting.\r\n• And many more settings...\r\n• Supports iPadOS.",
+      "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png",
+      "tintColor": "ff7c9f",
+      "size": 299813125,
+      "screenshotURLs": [
+        "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/1.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/2.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/3.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/4.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/5.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/6.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/7.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.inkplus/screenshots/8.PNG"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram's servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you've been missing notifications from friends. You can always change this later in settings.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This helps Instagram personalize ads we show you."
+        }
+      }
+    },
+    {
+      "name": "TTKillerPlus",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "iKarwan",
+      "subtitle": "A whole new TikTok experience!",
+      "version": "47.7.0",
+      "versions": [
+        {
+          "version": "47.7.0",
+          "date": "2026-11-10",
+          "localizedDescription": "• Add country flag to the profile page to know the creator origin country\n- Add follow status to new profile style user name\n- Add v46.7+ compatibility.\n- Fix like confirmation bypass on double tap.\n- Fix post date display format.\n- Fix flag button not tappable.\n- Other fixes & improvements.\n- Update base IPA to TikTok v47.7",
+          "downloadURL": "https://ikghd.site/ipa/TikTok_47.7_TTKillerPlus_2.4.ipa",
+          "size": 505810857,
+          "minOSVersion": "15.1"
+        }
+      ],
+      "versionDate": "2026-11-10",
+      "downloadURL": "https://ikghd.site/ipa/TikTok_47.7_TTKillerPlus_2.4.ipa",
+      "localizedDescription": "• To enter settings, long press on the Profile tab and click the ⚙️ Gear icon\r\n• Download videos from FEED, stories, and Explore.\r\n• Save photos from FEED, Stories, and Profiles.\r\n• Merge photos and music From post together.\r\n• Save Profiles avatar or expand it.\r\n• Block all promo ads in Feed, Stories, and Explore.\r\n• Quick Seen / Unseen toggle for Stories and DMs.\r\n• Hide tabs such as Friends, Create, and Inbox.\r\n• Copy profiles bio.\r\n• Add toggle Auto Like for live streaming.\r\n• Stream Post from Specific country.\r\n• Add country Flags and post Date on FEED.\r\n• Add Follow status to Profile, following, not following, friends.\r\n• And many more customization options...\r\n• Supports iPadOS.",
+      "iconURL": "https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png",
+      "tintColor": "232621",
+      "size": 505810857,
+      "screenshotURLs": [
+        "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/1.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/2.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/3.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/4.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/5.PNG",
+        "https://repo.ikghd.me/depictions/me.ikghd.ttkplus/screenshots/6.PNG"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier"
+        ],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSCalendarsUsageDescription": "Add events to your device calendar to get reminders when events start.",
+          "NSCameraUsageDescription": "You'll be able to record video.",
+          "NSContactsUsageDescription": "Sync your contacts to easily find people you know on TikTok. Your contacts will only be used to help you connect with friends.",
+          "NSFaceIDUsageDescription": "We'll use this to unlock features that require added security.",
+          "NSLocationWhenInUseUsageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience.",
+          "NSMicrophoneUsageDescription": "To record audio, allow us to access your Microphone.",
+          "NSPhotoLibraryAddUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSPhotoLibraryUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSUserTrackingUsageDescription": "This allows TikTok to provide you with a better ads experience."
+        }
+      }
+    }
+  ]
 }
