@@ -134,7 +134,7 @@
             },
 
             {
-                "markdown": "- Fixes and improvemnets\n- Fixes injection for jailbreaks may not be injected due to bundle iD missing\n- Add country flag to the profile page to know the creator origin country\n- Add follow status to new profile style user name\n- Add v46.7+ compatibility.\n- Fix like confirmation bypass on double tap.\n- Fix post date display format.\n- Fix flag button not tappable.\n- Other fixes & improvements.\n- Update base IPA to TikTok v47.7",
+                "markdown": "- Fixes and improvemnets\n- Fixes injection for jailbreaks may not be injected due to bundle iD missing\n- Add country flag to the profile page to know the creator origin country\n- Add follow status to new profile style user name\n- Add v46.7+ compatibility.\n- Fix like confirmation bypass on double tap.\n- Fix post date display format.\n- Fix flag button not tappable.\n- Other fixes & improvements.\n- Update base IPA to TikTok v47.8",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -151,12 +151,12 @@
             },
             {
                "title":"Version",
-               "text":"2.4.2",
+               "text":"2.4.4",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 10, 2026",
+                "text": "Nov 19, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -196,7 +196,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v45.0.0 - v47.7",
+                "text": " v45.0.0 - v47.8",
                 "class": "DepictionTableTextView"
             },
             {

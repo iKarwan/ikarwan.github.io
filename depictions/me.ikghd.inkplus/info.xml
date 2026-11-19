@@ -1,7 +1,7 @@
 <package>
    <id>me.ikghd.inkplus</id>
     <name>iNKillerPlus</name>
-    <version>5.4.3</version>
+    <version>5.4.4</version>
     <compatibility>
         <firmware>
             <miniOS>15.1</miniOS>
@@ -22,15 +22,15 @@
     </jailed>
 
     <version2>
-      <version2>5.4.3</version2>
+      <version2>5.4.4</version2>
     </version2>
 
     <appcomp>
-      <appcomp> v409.1 - v455.0</appcomp>
+      <appcomp> v409.1 - v456.0</appcomp>
     </appcomp>
 
     <date>
-      <date>Nov 15, 2026</date>
+      <date>Nov 19, 2026</date>
     </date>
 
     <price>
@@ -38,17 +38,19 @@
     </price>
 
     <changelog>
+      <change>· Fixes join live anonymously</change>
+      <change>· Add long press on lives comments to show-hide comments</change>
       <change>· Local story seen out of expermint now fully stable</change>
       <change>· Local story seen, View stories without notifying the recipient or sending view activity to Instagram servers</change>
       <change>· make sure seen manually is enabled when u want to use local seen</change>
 
-      <change>· Add compatibility for iG v455+</change>
+      <change>· Add compatibility for iG v454+</change>
       <change>· Fixes story icons on v450+</change>
       <change>· Fixes Grid view icon</change>
       <change>· Fixes Grid mode may crashes in v450+</change>
       <change>· Other fixes &amp; improvements</change>
 
-      <change>· Updated base IPA to Instagram v455.0</change>
+      <change>· Updated base IPA to Instagram v456.0</change>
     </changelog>
 
 

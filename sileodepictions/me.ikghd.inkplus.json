@@ -155,7 +155,7 @@
             },
 
             {
-                "markdown": "- Local story seen out of expermint now fully stable\n- Local story seen, View stories without notifying the recipient or sending view activity to Instagram servers\n- make sure seen manually is enabled when u want to use local seen\n- Add compatibility for iG v454+\n- Fixes story icons on v450+\n- Grid mode may crashes in v450+\n- Updated base IPA to Instagram v455.0",
+                "markdown": "- Fixes join live anonymously\n- Add long press on lives comments to show-hide comments\n- Local story seen out of expermint now fully stable\n- Local story seen, View stories without notifying the recipient or sending view activity to Instagram servers\n- make sure seen manually is enabled when u want to use local seen\n- Add compatibility for iG v454+\n- Fixes story icons on v450+\n- Grid mode may crashes in v450+\n- Updated base IPA to Instagram v456.0",
                 "title": "changelog",
                 "useBoldText": true,
                 "class": "DepictionMarkdownView",
@@ -172,12 +172,12 @@
             },
             {
                "title":"Version",
-               "text":"5.4.3",
+               "text":"5.4.4",
                "class":"DepictionTableTextView"
             },
             {
                 "title": "Updated",
-                "text": "Nov 15, 2026",
+                "text": "Nov 19, 2026",
                 "class": "DepictionTableTextView"
             },
             {
@@ -217,7 +217,7 @@
             },
             {
                 "title": "app Compatibility",
-                "text": " v409.1 - v455.0",
+                "text": " v409.1 - v456.0",
                 "class": "DepictionTableTextView"
             },
             {
